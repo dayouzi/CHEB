@@ -1,0 +1,275 @@
+3.4.1 Differences between Speed and Velocity
+
+The differences between speed and velocity can be summarised as:
+
+Speed Velocity
+
+1. depends on the path taken 1. independent of path taken
+
+2. always positive 2. can be positive or negative
+
+3. is a scalar 3. is a vector
+
+4. no dependence on direction and 4. direction can be guessed from
+
+so is only positive the sign (i.e. positive or negative)
+
+Additionally, an object that makes a round trip, i.e. travels away from its starting point and then
+
+returns to the same point has zero velocity but travels a non-zero speed.
+
+35
+
+3.4 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+Exercise: Displacement and related quantities
+
+1. Theresa has to walk to the shop to buy some milk. After walking 100 m, she
+
+realises that she does not have enough money, and goes back home. If it took
+
+her two minutes to leave and come back, calculate the following:
+
+(a) How long was she out of the house (the time interval ∆t in seconds)?
+
+(b) How far did she walk (distance (d))?
+
+(c) What was her displacement (∆x)?
+
+(d) What was her average velocity (in m·s−1)?
+
+(e) What was her average speed (in m·s−1)?
+
+b
+
+2 minute there and back
+
+100 m
+
+shop home
+
+100 m
+
+2. Desmond is watching a straight stretch of road from his classroom window.
+
+He can see two poles which he earlier measured to be 50 m apart. Using his
+
+stopwatch, Desmond notices that it takes 3 s for most cars to travel from the
+
+one pole to the other.
+
+(a) Using the equation for velocity (v = ∆x∆t ), show all the working needed to
+
+calculate the velocity of a car travelling from the left to the right.
+
+(b) If Desmond measures the velocity of a red Golf to be -16,67 m·s−1, in
+
+which direction was the Gold travelling?
+
+Desmond leaves his stopwatch running, and notices that at t = 5,0 s, a
+
+taxi passes the left pole at the same time as a bus passes the right pole.
+
+At time t = 7,5 s the taxi passes the right pole. At time t = 9,0 s, the
+
+bus passes the left pole.
+
+(c) How long did it take the taxi and the bus to travel the distance between
+
+the poles? (Calculate the time interval (∆t) for both the taxi and the bus).
+
+(d) What was the velocity of the taxi and the bus?
+
+(e) What was the speed of the taxi and the bus?
+
+(f) What was the speed of taxi and the bus in km·h−1?
+
+50 m
+
+3 s
+
+t = 9 s t = 5 s
+
+t = 5 s t = 7,5 s
+
+3. After a long day, a tired man decides not to use the pedestrian bridge to cross
+
+over a freeway, and decides instead to run across. He sees a car 100 m away
+
+travelling towards him, and is confident that he can cross in time.
+
+36
+3.4 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+Exercise: Displacement and related quantities
+1. Theresa has to walk to the shop to buy some milk. After walking 100 m, she
+realises that she does not have enough money, and goes back home. If it took
+her two minutes to leave and come back, calculate the following:
+(a) How long was she out of the house (the time interval ∆t in seconds)?
+(b) How far did she walk (distance (d))?
+(c) What was her displacement (∆x)?
+(d) What was her average velocity (in m·s−1)?
+(e) What was her average speed (in m·s−1)?
+b
+2 minute there and back
+100 m
+shop home
+100 m
+2. Desmond is watching a straight stretch of road from his classroom window.
+He can see two poles which he earlier measured to be 50 m apart. Using his
+stopwatch, Desmond notices that it takes 3 s for most cars to travel from the
+one pole to the other.
+(a) Using the equation for velocity (v = ∆x∆t ), show all the working needed to
+calculate the velocity of a car travelling from the left to the right.
+(b) If Desmond measures the velocity of a red Golf to be -16,67 m·s−1, in
+which direction was the Gold travelling?
+Desmond leaves his stopwatch running, and notices that at t = 5,0 s, a
+taxi passes the left pole at the same time as a bus passes the right pole.
+At time t = 7,5 s the taxi passes the right pole. At time t = 9,0 s, the
+bus passes the left pole.
+(c) How long did it take the taxi and the bus to travel the distance between
+the poles? (Calculate the time interval (∆t) for both the taxi and the bus).
+(d) What was the velocity of the taxi and the bus?
+(e) What was the speed of the taxi and the bus?
+(f) What was the speed of taxi and the bus in km·h−1?
+50 m
+3 s
+t = 9 s t = 5 s
+t = 5 s t = 7,5 s
+3. After a long day, a tired man decides not to use the pedestrian bridge to cross
+over a freeway, and decides instead to run across. He sees a car 100 m away
+travelling towards him, and is confident that he can cross in time.
+36
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.4
+(a) If the car is travelling at 120 km·h−1, what is the car's speed in m·s−1.
+(b) How long will it take the a car to travel 100 m?
+(c) If the man is running at 10 km·h−1, what is his speed in m·s−1?
+(d) If the freeway has 3 lanes, and each lane is 3 m wide, how long will it take
+for the man to cross all three lanes?
+(e) If the car is travelling in the furthermost lane from the man, will he be able
+to cross all 3 lanes of the freeway safely?
+3 m car
+3 m
+3 m
+100 m
+Activity :: Investigation : An Exercise in Safety
+Divide into groups of 4 and perform the following investigation. Each group will
+be performing the same investigation, but the aim for each group will be different.
+1. Choose an aim for your investigation from the following list and formulate a
+hypothesis:
+• Do cars travel at the correct speed limit?
+• Is is safe to cross the road outside of a pedestrian crossing?
+• Does the colour of your car determine the speed you are travelling at?
+• Any other relevant question that you would like to investigate.
+2. On a road that you often cross, measure out 50 m along a straight section, far
+away from traffic lights or intersections.
+3. Use a stopwatch to record the time each of 20 cars take to travel the 50 m
+section you measured.
+4. Design a table to represent your results. Use the results to answer the ques-
+tion posed in the aim of the investigation. You might need to do some more
+measurements for your investigation. Plan in your group what else needs to be
+done.
+5. Complete any additional measurements and write up your investigation under
+the following headings:
+• Aim and Hypothesis
+• Apparatus
+• Method
+• Results
+• Discussion
+• Conclusion
+6. Answer the following questions:
+(a) How many cars took less than 3 seconds to travel 50 m?
+(b) What was the shortest time a car took to travel 50 m?
+(c) What was the average time taken by the 20 cars?
+(d) What was the average speed of the 20 cars?
+(e) Convert the average speed to km·h−1.
+37
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.4
+
+(a) If the car is travelling at 120 km·h−1, what is the car's speed in m·s−1.
+
+(b) How long will it take the a car to travel 100 m?
+
+(c) If the man is running at 10 km·h−1, what is his speed in m·s−1?
+
+(d) If the freeway has 3 lanes, and each lane is 3 m wide, how long will it take
+
+for the man to cross all three lanes?
+
+(e) If the car is travelling in the furthermost lane from the man, will he be able
+
+to cross all 3 lanes of the freeway safely?
+
+3 m car
+
+3 m
+
+3 m
+
+100 m
+
+Activity :: Investigation : An Exercise in Safety
+
+Divide into groups of 4 and perform the following investigation. Each group will
+
+be performing the same investigation, but the aim for each group will be different.
+
+1. Choose an aim for your investigation from the following list and formulate a
+
+hypothesis:
+
+• Do cars travel at the correct speed limit?
+
+• Is is safe to cross the road outside of a pedestrian crossing?
+
+• Does the colour of your car determine the speed you are travelling at?
+
+• Any other relevant question that you would like to investigate.
+
+2. On a road that you often cross, measure out 50 m along a straight section, far
+
+away from traffic lights or intersections.
+
+3. Use a stopwatch to record the time each of 20 cars take to travel the 50 m
+
+section you measured.
+
+4. Design a table to represent your results. Use the results to answer the ques-
+
+tion posed in the aim of the investigation. You might need to do some more
+
+measurements for your investigation. Plan in your group what else needs to be
+
+done.
+
+5. Complete any additional measurements and write up your investigation under
+
+the following headings:
+
+• Aim and Hypothesis
+
+• Apparatus
+
+• Method
+
+• Results
+
+• Discussion
+
+• Conclusion
+
+6. Answer the following questions:
+
+(a) How many cars took less than 3 seconds to travel 50 m?
+
+(b) What was the shortest time a car took to travel 50 m?
+
+(c) What was the average time taken by the 20 cars?
+
+(d) What was the average speed of the 20 cars?
+
+(e) Convert the average speed to km·h−1.
+
+37
+
+3.5 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+

@@ -1,0 +1,32 @@
+7.1 Introduction
+
+You are indoors on a sunny day. A beam of sunlight through a window lights up a section of
+
+the floor. How would you draw this sunbeam? You might draw a series of parallel lines showing
+
+the path of the sunlight from the window to the floor. This is not exactly accurate - no matter
+
+how hard you look, you will not find unique lines of light in the sunbeam! However, this is a
+
+good way to draw light. It is also a good way to model light geometrically, as we will see in this
+
+chapter.
+
+We will call these narrow, imaginary lines of light light rays. Since light is an electromagnetic
+
+wave, you could think of a light ray as the path of a point on the crest of a wave. Or, you could
+
+think of a light ray as the path taken by a miniscule particle that carries light. We will always
+
+draw them the same way: as straight lines between objects, images, and optical devices.
+
+We can use light rays to model mirrors, lenses, telescopes, microscopes, and prisms. The study
+
+of how light interacts with materials is optics. When dealing with light rays, we are usually
+
+interested in the shape of a material and the angles at which light rays hit it. From these angles,
+
+we can work out, for example, the distance between an object and its reflection. We therefore
+
+refer to this kind of optics as geometrical optics.
+

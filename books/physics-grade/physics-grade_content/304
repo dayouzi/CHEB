@@ -1,0 +1,293 @@
+18.2 Magnetic field associated with a current
+
+If you hold a compass near a wire through which current is flowing, the needle on the compass
+
+will be deflected.
+
+conductor conductor
+
+N N
+
+compass compass
+
+no current current is
+
+is flowing flowing
+
+There is no deflection on The compass needle de-
+
+the compass when there is flects when there is current
+
+no current flowing in the flowing in the conductor.
+
+conductor.
+
+Activity :: Case Study : Magnetic field near a current carrying conductor
+
+413
+
+18.2 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+
+conductor conductor
+
+N N
+
+compass compass
+
+direction direction
+
+of current of current
+
+When the battery is connected as What do you think will happen if the
+
+shown, the compass needle is de- direction of the current is reversed as
+
+flected to the left. shown?
+
+Itneterreessttinigng The discovery of the relationship between magnetism and electricity was, like
+
+FFacctt so many other scientific discoveries, stumbled upon almost by accident. The
+
+Danish physicist Hans Christian Oersted was lecturing one day in 1820 on the
+
+possibility of electricity and magnetism being related to one another, and in the
+
+process demonstrated it conclusively by experiment in front of his whole class.
+
+By passing an electric current through a metal wire suspended above a
+
+magnetic compass, Oersted was able to produce a definite motion of the
+
+compass needle in response to the current. What began as a guess at the start
+
+of the class session was confirmed as fact at the end. Needless to say, Oersted
+
+had to revise his lecture notes for future classes. His discovery paved the way
+
+for a whole new branch of science - electromagnetism.
+
+The magnetic field produced by an electric current is always oriented perpendicular to the
+
+direction of the current flow. When we are drawing directions of magnetic fields and currents,
+
+we use the symbol ⊙ and ⊗. The symbol
+
+⊙
+
+for an arrow that is coming out of the page and the symbol
+
+⊗
+
+for an arrow that is going into the page.
+
+It is easy to remember the meanings of the symbols if you think of an arrow with a head and a
+
+tail.
+
+When the arrow is coming out of the page, you see the head of the arrow (⊙). When the arrow
+
+is going into the page, you see the tail of the arrow (⊗).
+
+The direction of the magnetic field around the current carrying conductor is shown in
+
+Figure 18.1.
+
+414
+18.2 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+conductor conductor
+N N
+compass compass
+direction direction
+of current of current
+When the battery is connected as What do you think will happen if the
+shown, the compass needle is de- direction of the current is reversed as
+flected to the left. shown?
+Itneterreessttinigng The discovery of the relationship between magnetism and electricity was, like
+FFacctt so many other scientific discoveries, stumbled upon almost by accident. The
+Danish physicist Hans Christian Oersted was lecturing one day in 1820 on the
+possibility of electricity and magnetism being related to one another, and in the
+process demonstrated it conclusively by experiment in front of his whole class.
+By passing an electric current through a metal wire suspended above a
+magnetic compass, Oersted was able to produce a definite motion of the
+compass needle in response to the current. What began as a guess at the start
+of the class session was confirmed as fact at the end. Needless to say, Oersted
+had to revise his lecture notes for future classes. His discovery paved the way
+for a whole new branch of science - electromagnetism.
+The magnetic field produced by an electric current is always oriented perpendicular to the
+direction of the current flow. When we are drawing directions of magnetic fields and currents,
+we use the symbol ⊙ and ⊗. The symbol
+⊙
+for an arrow that is coming out of the page and the symbol
+⊗
+for an arrow that is going into the page.
+It is easy to remember the meanings of the symbols if you think of an arrow with a head and a
+tail.
+When the arrow is coming out of the page, you see the head of the arrow (⊙). When the arrow
+is going into the page, you see the tail of the arrow (⊗).
+The direction of the magnetic field around the current carrying conductor is shown in
+Figure 18.1.
+414
+CHAPTER 18. ELECTROMAGNETISM - GRADE 11 18.2
+⊙ ⊗
+(a) (b)
+Figure 18.1: Magnetic field around a conductor when you look at the conductor from one end.
+(a) Current flows into the page and the magnetic field is counter clockwise. (b) Current flows
+out of the page and the magnetic field is clockwise.
+⊙ ⊙ ⊙ ⊗ ⊗ ⊗
+⊗ ⊗ ⊗ ⊙ ⊙ ⊙
+Figure 18.2: Magnetic fields around a conductor looking down on the conductor, for current in
+a conductor that is flowing to the right and to the left.
+Activity :: Case Study : Direction of a magnetic field
+Using the directions given in Figure 18.1 and Figure 18.2 and try to find a rule
+that easily tells you the direction of the magnetic field.
+Hint: Use your fingers. Hold the wire in your hands and try to find a link
+between the direction of your thumb and the direction in which your fingers curl.
+The magnetic field around a
+current carrying conductor.
+There is a simple method of showing the relationship between the direction of the current
+flowing in a conductor and the direction of the magnetic field around the same conductor. The
+method is called the Right Hand Rule. Simply stated, the right hand rule says that the
+magnetic flux lines produced by a current-carrying wire will be oriented the same direction as
+the curled fingers of a person's right hand (in the "hitchhiking" position), with the thumb
+pointing in the direction of the current flow.
+415
+current flow
+current flow
+18.2 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+Figure 18.3: The Right Hand Rule.
+Activity :: Case Study : The Right Hand Rule
+Use the Right Hand Rule and draw in the directions of the magnetic field for
+the following conductors with the currents flowing in the directions shown by the
+arrow. The first problem has been completed for you.
+⊗ ⊗ ⊗
+⊙ ⊙ ⊙
+1. 2. 3. 4.
+5. 6. 7. 8.
+9. 10. 11. 12.
+Activity :: Experiment : Magnetic field around a current carrying
+conductor
+Apparatus:
+1. 1 9V battery with holder
+2. 2 hookup wires with alligator clips
+3. compass
+4. stop watch
+Method:
+1. Connect your wires to the battery leaving one end unconnected so that the
+circuit is not closed.
+2. One student should be in charge of limiting the current flow to 10 seconds.
+This is to preserve battery life as well as to prevent overheating of wires and
+battery contacts.
+3. Place the compass close to the wire.
+4. Close the circuit and observe what happens to the compass.
+416
+direction of magnetic field
+direction
+of current
+CHAPTER 18. ELECTROMAGNETISM - GRADE 11 18.2
+5. Reverse the polarity of the battery and close the circuit. Observe what
+happens to the compass.
+Conclusions:
+Use your observations to answer the following questions:
+1. Does a current flowing in a wire generate a magnetic field?
+2. Is the magnetic field present when the current is not flowing?
+3. Does the direction of the magnetic field produced by a current in a wire
+depend on the direction of the current flow?
+4. How does the direction of the current affect the magnetic field?
+Activity :: Case Study : Magnetic field around a loop of conductor
+Consider two loops of current carrying conductor that are placed in the plane of
+the page. Draw what you think the magnetic field would look like, by using the
+Right Hand Rule at different points of the two loops shown. Loop 1 has the
+current flowing in a counter-clockwise direction, while loop 2 has the current
+flowing in a clockwise direction.
+direction of current direction of current
+loop 1 loop 2
+direction of current direction of current
+If you make a loop of current carrying conductor, then the direction of the magnetic field is
+obtained by applying the Right Hand Rule to different points in the loop.
+⊗
+⊗ ⊙ ⊗
+⊙ ⊙ ⊙⊗ The directions of the magnetic⊗ ⊙ field around a loop of current car-
+⊙ ⊗ rying conductor with the current
+⊗ ⊙ flowing in a counter-clockwise di-
+⊙ ⊙⊗ rection is shown.
+⊗ ⊙ ⊙
+⊗ ⊗
+If we know add another loop then the magnetic field around each loop joins to create a stronger
+field. As more loops are added, the magnetic field gets a definite magnetic (north and south)
+polarity. Such a coil is more commonly known as a solenoid. The magnetic field pattern of a
+solenoid is similar to the magnetic field pattern of a bar magnet that you studied in Grade 10.
+417
+CHAPTER 18. ELECTROMAGNETISM - GRADE 11 18.2
+
+5. Reverse the polarity of the battery and close the circuit. Observe what
+
+happens to the compass.
+
+Conclusions:
+
+Use your observations to answer the following questions:
+
+1. Does a current flowing in a wire generate a magnetic field?
+
+2. Is the magnetic field present when the current is not flowing?
+
+3. Does the direction of the magnetic field produced by a current in a wire
+
+depend on the direction of the current flow?
+
+4. How does the direction of the current affect the magnetic field?
+
+Activity :: Case Study : Magnetic field around a loop of conductor
+
+Consider two loops of current carrying conductor that are placed in the plane of
+
+the page. Draw what you think the magnetic field would look like, by using the
+
+Right Hand Rule at different points of the two loops shown. Loop 1 has the
+
+current flowing in a counter-clockwise direction, while loop 2 has the current
+
+flowing in a clockwise direction.
+
+direction of current direction of current
+
+loop 1 loop 2
+
+direction of current direction of current
+
+If you make a loop of current carrying conductor, then the direction of the magnetic field is
+
+obtained by applying the Right Hand Rule to different points in the loop.
+
+⊗
+
+⊗ ⊙ ⊗
+
+⊙ ⊙ ⊙⊗ The directions of the magnetic⊗ ⊙ field around a loop of current car-
+
+⊙ ⊗ rying conductor with the current
+
+⊗ ⊙ flowing in a counter-clockwise di-
+
+⊙ ⊙⊗ rection is shown.
+
+⊗ ⊙ ⊙
+
+⊗ ⊗
+
+If we know add another loop then the magnetic field around each loop joins to create a stronger
+
+field. As more loops are added, the magnetic field gets a definite magnetic (north and south)
+
+polarity. Such a coil is more commonly known as a solenoid. The magnetic field pattern of a
+
+solenoid is similar to the magnetic field pattern of a bar magnet that you studied in Grade 10.
+
+417
+
+18.2 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+
+current flow
+
+Figure 18.4: Magnetic field around a solenoid.
+

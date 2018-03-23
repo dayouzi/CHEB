@@ -1,0 +1,191 @@
+5.6. Comparing Angles and Sides in Triangles www.ck12.org
+
+5.6 Comparing Angles and Sides in Triangles
+
+Here you'll learn how to order the angles of a triangle from largest to smallest based on the length of their opposite
+
+sides. You'll also learn the SAS and SSS Inequality Theorems.
+
+What if you were told that a triangle has sides that measure 3, 4, and 5? How could you determine which of the
+
+triangle's angles is largest? Smallest? After completing this Concept, you'll be able to use triangle theorems to solve
+
+problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136673
+
+CK-12 Comparing Angles & Sides in Triangles
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1292
+
+James Sousa: Proof that the Angle of a Triangle Opposite The Longest Side is the Largest Angle
+
+Guidance
+
+Look at the triangle below. The sides of the triangle are given. Can you determine which angle is the largest? The
+
+largest angle will be opposite 18 because that is the longest side. Similarly, the smallest angle will be opposite 7,
+
+which is the shortest side.
+
+This idea is actually a theorem: If one side of a triangle is longer than another side, then the angle opposite the longer
+
+side will be larger than the angle opposite the shorter side.
+
+268
+
+www.ck12.org Chapter 5. Triangle Relationships
+
+The converse is also true: If one angle in a triangle is larger than another angle in that triangle, then the side opposite
+
+the larger angle will be longer than the side opposite the smaller angle.
+
+We can extend this idea into two theorems that help us compare sides and angles in two triangles If we have two
+
+congruent triangles4ABC and4DEF , marked below:
+
+Therefore, if AB = DE, BC = EF , and m 6 B = m 6 E, then AC = DF .
+
+Now, let's make m 6 B > m6 E. Would that make AC > DF? Yes. This idea is called the SAS Inequality Theorem.
+
+The SAS Inequality Theorem: If two sides of a triangle are congruent to two sides of another triangle, but the
+
+included angle of one triangle has greater measure than the included angle of the other triangle, then the third side
+
+of the first triangle is longer than the third side of the second triangle.
+
+If AB∼= DE,BC ∼= EF and m6 B > m6 E, then AC > DF .
+
+If we know the third sides as opposed to the angles, the opposite idea is also true and is called the SSS Inequality
+
+Theorem.
+
+SSS Inequality Theorem: If two sides of a triangle are congruent to two sides of another triangle, but the third side
+
+of the first triangle is longer than the third side of the second triangle, then the included angle of the first triangle's
+
+two congruent sides is greater in measure than the included angle of the second triangle's two congruent sides.
+
+If AB∼= DE, BC ∼= EF and AC > DF , then m 6 B > m6 E.
+
+269
+www.ck12.org Chapter 5. Triangle Relationships
+The converse is also true: If one angle in a triangle is larger than another angle in that triangle, then the side opposite
+the larger angle will be longer than the side opposite the smaller angle.
+We can extend this idea into two theorems that help us compare sides and angles in two triangles If we have two
+congruent triangles4ABC and4DEF , marked below:
+Therefore, if AB = DE, BC = EF , and m 6 B = m 6 E, then AC = DF .
+Now, let's make m 6 B > m6 E. Would that make AC > DF? Yes. This idea is called the SAS Inequality Theorem.
+The SAS Inequality Theorem: If two sides of a triangle are congruent to two sides of another triangle, but the
+included angle of one triangle has greater measure than the included angle of the other triangle, then the third side
+of the first triangle is longer than the third side of the second triangle.
+If AB∼= DE,BC ∼= EF and m6 B > m6 E, then AC > DF .
+If we know the third sides as opposed to the angles, the opposite idea is also true and is called the SSS Inequality
+Theorem.
+SSS Inequality Theorem: If two sides of a triangle are congruent to two sides of another triangle, but the third side
+of the first triangle is longer than the third side of the second triangle, then the included angle of the first triangle's
+two congruent sides is greater in measure than the included angle of the second triangle's two congruent sides.
+If AB∼= DE, BC ∼= EF and AC > DF , then m 6 B > m6 E.
+269
+5.6. Comparing Angles and Sides in Triangles www.ck12.org
+Example A
+List the sides in order, from shortest to longest.
+First, find m6 A. From the Triangle Sum Theorem:
+m 6 A+86◦+27◦ = 180◦
+m6 A = 67◦
+86◦ is the largest angle, so AC is the longest side. The next angle is 67◦, so BC would be the next longest side. 27◦
+is the smallest angle, so AB is the shortest side. In order, the answer is: AB, BC, AC.
+Example B
+List the angles in order, from largest to smallest.
+Just like with the sides, the largest angle is opposite the longest side. The longest side is BC, so the largest angle is
+6 A. Next would be 6 B and then 6 C.
+Example C
+List the sides in order, from least to greatest.
+To solve, let's start with 4DCE. The missing angle is 55◦. By the theorem presented in this Concept, the sides, in
+order from least to greatest are CE, CD, and DE.
+270
+www.ck12.org Chapter 5. Triangle Relationships
+For 4BCD, the missing angle is 43◦. Again, by the theorem presented in this Concept, the order of the sides from
+least to greatest is BD, CD, and BC.
+By the SAS Inequality Theorem, we know that BC >DE, so the order of all the sides would be: BD, CE, CD, DE, BC.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136674
+CK-12 Comparing Angles & Sides in Triangles
+->
+Guided Practice
+1. If XM is a median of4XY Z and XY > XZ, what can we say about m6 1 and m6 2?
+2. List the sides of the two triangles in order, from shortest to longest.
+3. Below is isosceles triangle4ABC. List everything you can about the sides and angles of the triangle and why.
+Answers:
+1. M is the midpoint of Y Z, so Y M = MZ. MX = MX by the Reflexive Property and we know XY > XZ.
+271
+5.6. Comparing Angles and Sides in Triangles www.ck12.org
+We can use the SSS Inequality Theorem Converse to say m6 1 > m6 2.
+2. There are no congruent sides or angles. Look at each triangle separately.
+4XY Z: The missing angle is 42◦. By the theorem presented in this lesson, the order of the sides from shortest to
+longest is Y Z, XY , and XZ.
+4WXZ: The missing angle is 55◦. The order of the sides from shortest to longest is XZ, WZ, and WX .
+Because the longest side in 4XY Z is the shortest side in 4WXZ, we can put all the sides together in one list:
+Y Z, XY, XZ, WZ, WX .
+3. AB = BC because it is given.
+m6 A = m 6 C because if sides are equal than their opposite angles must be equal..
+AD < DC because m6 ABD < m6 CBD and because of the SAS Triangle Inequality Theorem.
+Explore More
+For questions 1-3, list the sides in order from shortest to longest.
+1.
+2.
+3.
+For questions 4-6, list the angles from largest to smallest.
+4.
+5.
+272
+www.ck12.org Chapter 5. Triangle Relationships
+6.
+7. Draw a triangle with sides 3 cm, 4 cm, and 5 cm. The angle measures are 90◦, 53◦, and 37◦. Place the angle
+measures in the appropriate spots.
+8. Draw a triangle with angle measures 56◦, 54◦ and the included side is 8 cm. What is the longest side of this
+triangle?
+9. Draw a triangle with sides 6 cm, 7 cm, and 8 cm. The angle measures are 75.5◦, 58◦, and 46.5◦. Place the
+angle measures in the appropriate spots.
+10. What conclusions can you draw about x?
+11. Compare m 6 1 and m 6 2.
+12. List the sides from shortest to longest.
+13. Compare m 6 1 and m 6 2. What can you say about m6 3 and m6 4?
+273
+www.ck12.org Chapter 5. Triangle Relationships
+
+6.
+
+7. Draw a triangle with sides 3 cm, 4 cm, and 5 cm. The angle measures are 90◦, 53◦, and 37◦. Place the angle
+
+measures in the appropriate spots.
+
+8. Draw a triangle with angle measures 56◦, 54◦ and the included side is 8 cm. What is the longest side of this
+
+triangle?
+
+9. Draw a triangle with sides 6 cm, 7 cm, and 8 cm. The angle measures are 75.5◦, 58◦, and 46.5◦. Place the
+
+angle measures in the appropriate spots.
+
+10. What conclusions can you draw about x?
+
+11. Compare m 6 1 and m 6 2.
+
+12. List the sides from shortest to longest.
+
+13. Compare m 6 1 and m 6 2. What can you say about m6 3 and m6 4?
+
+273
+

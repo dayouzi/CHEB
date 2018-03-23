@@ -1,0 +1,214 @@
+9.9. Segments from Chords www.ck12.org
+
+9.9 Segments from Chords
+
+Here you'll learn the relationship that exists between two chords when they intersect to solve for unknown circle
+
+values.
+
+What if you were given a circle with two chords that intersect each other? How could you use the length of some of
+
+the segments formed by their intersection to determine the lengths of the unknown segments? After completing this
+
+Concept, you'll be able to use the Intersecting Chords Theorem to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136565
+
+Segments from Chords CK-12
+
+Guidance
+
+When we have two chords that intersect inside a circle, as shown below, the two triangles that result are similar.
+
+This makes the corresponding sides in each triangle proportional and leads to a relationship between the segments
+
+of the chords, as stated in the Intersecting Chords Theorem.
+
+Intersecting Chords Theorem: If two chords intersect inside a circle so that one is divided into segments of length
+
+a and b and the other into segments of length c and d then ab = cd.
+
+518
+
+www.ck12.org Chapter 9. Circles
+
+Example A
+
+Find x in each diagram below.
+
+a)
+
+b)
+
+Use the formula from the Intersecting Chords Theorem.
+
+a)
+
+12 ·8 = 10 · x
+
+96 = 10x
+
+9.6 = x
+
+b)
+
+x ·15 = 5 ·9
+
+15x = 45
+
+x = 3
+
+Example B
+
+Solve for x.
+
+a)
+
+519
+www.ck12.org Chapter 9. Circles
+Example A
+Find x in each diagram below.
+a)
+b)
+Use the formula from the Intersecting Chords Theorem.
+a)
+12 ·8 = 10 · x
+96 = 10x
+9.6 = x
+b)
+x ·15 = 5 ·9
+15x = 45
+x = 3
+Example B
+Solve for x.
+a)
+519
+9.9. Segments from Chords www.ck12.org
+b)
+Use the Intersecting Chords Theorem.
+a)
+8 ·24 = (3x+1) ·12
+192 = 36x+12
+180 = 36x
+5 = x
+b)
+(x−5)21 = (x−9)24
+21x−105 = 24x−216
+111 = 3x
+37 = x
+Example C
+Ishmael found a broken piece of a CD in his car. He places a ruler across two points on the rim, and the length of
+the chord is 9.5 cm. The distance from the midpoint of this chord to the nearest point on the rim is 1.75 cm. Find
+the diameter of the CD.
+Think of this as two chords intersecting each other. If we were to extend the 1.75 cm segment, it would be a diameter.
+So, if we find x in the diagram below and add it to 1.75 cm, we would find the diameter.
+4.25 ·4.25 = 1.75 · x
+18.0625 = 1.75x
+x≈ 10.3 cm, making the diameter10.3+1.75≈ 12 cm, which is the
+actual diameter of a CD.
+520
+www.ck12.org Chapter 9. Circles
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136566
+Segments from Chords CK-12
+->
+Guided Practice
+Find x in each diagram below. Simplify any radicals.
+1.
+2.
+3.
+521
+9.9. Segments from Chords www.ck12.org
+Answers
+For all problems, use the Intersecting Chords Theorem.
+1.
+15 ·4 = 5 · x
+60 = 5x
+x = 12
+2.
+18 · x = 9 ·3
+18x = 27
+x = 1.5
+3.
+12 · x = 9 ·16
+12x = 144
+x = 12
+Explore More
+Fill in the blanks for each problem below and then solve for the missing segment.
+1.
+20x =
+522
+www.ck12.org Chapter 9. Circles
+2.
+·4 = · x
+Find x in each diagram below. Simplify any radicals.
+3.
+4.
+5.
+Find the value of x.
+6.
+7.
+523
+9.9. Segments from Chords www.ck12.org
+8.
+9. Suzie found a piece of a broken plate. She places a ruler across two points on the rim, and the length of the
+chord is 6 inches. The distance from the midpoint of this chord to the nearest point on the rim is 1 inch. Find
+the diameter of the plate.
+10. Fill in the blanks of the proof of the Intersecting Chords Theorem.
+Given: Intersecting chords AC and BE.
+Prove: ab = cd
+TABLE 9.5:
+Statement Reason
+1. Intersecting chords AC and BE with segments 1.
+a, b, c, and d.
+2. 2. Congruent Inscribed Angles Theorem
+3. 4ADE ∼4BDC 3.
+4. 4. Corresponding parts of similar triangles are propor-
+tional
+5. ab = cd 5.
+524
+9.9. Segments from Chords www.ck12.org
+
+8.
+
+9. Suzie found a piece of a broken plate. She places a ruler across two points on the rim, and the length of the
+
+chord is 6 inches. The distance from the midpoint of this chord to the nearest point on the rim is 1 inch. Find
+
+the diameter of the plate.
+
+10. Fill in the blanks of the proof of the Intersecting Chords Theorem.
+
+Given: Intersecting chords AC and BE.
+
+Prove: ab = cd
+
+TABLE 9.5:
+
+Statement Reason
+
+1. Intersecting chords AC and BE with segments 1.
+
+a, b, c, and d.
+
+2. 2. Congruent Inscribed Angles Theorem
+
+3. 4ADE ∼4BDC 3.
+
+4. 4. Corresponding parts of similar triangles are propor-
+
+tional
+
+5. ab = cd 5.
+
+524
+
+www.ck12.org Chapter 9. Circles
+

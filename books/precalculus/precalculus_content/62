@@ -1,0 +1,32 @@
+9.2 THE DOT PRODUCT
+The Dot Product of Vectors ! The Component of u Along v ! The Projection
+of u Onto v ! Work
+In this section we define an operation on vectors called the dot product. This concept is es-
+pecially useful in calculus and in applications of vectors to physics and engineering.
+! The Dot Product of Vectors
+We begin by defining the dot product of two vectors.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+590 C H A P T E R  9 | Vectors in Two and Three Dimensions
+DEFINITION OF THE DOT PRODUCT
+If u $ !a1, b1" and v $ !a2, b2" are vectors, then their dot product, denoted by 
+u (v, is defined by
+u # v $ a1a2 ! b1b2
+Thus to find the dot product of u and v, we multiply corresponding components and add.
+The dot product is not a vector; it is a real number, or scalar.
+E X A M P L E  1 Calculating Dot Products
+(a) If u $ !3, %2" and v $ !4, 5" then
+u # v $ 13 2 14 2 ! 1%2 2 15 2 $ 2
+(b) If u $ 2 i ! j and v $ 5 i % 6 j, then
+u # v $ 12 2 15 2 ! 11 2 1%6 2 $ 4
+590 C H A P T E R  9 | Vectors in Two and Three Dimensions
+DEFINITION OF THE DOT PRODUCT
+If u $ !a1, b1" and v $ !a2, b2" are vectors, then their dot product, denoted by 
+u (v, is defined by
+u # v $ a1a2 ! b1b2
+Thus to find the dot product of u and v, we multiply corresponding components and add.
+The dot product is not a vector; it is a real number, or scalar.
+E X A M P L E  1 Calculating Dot Products
+(a) If u $ !3, %2" and v $ !4, 5" then
+u # v $ 13 2 14 2 ! 1%2 2 15 2 $ 2
+(b) If u $ 2 i ! j and v $ 5 i % 6 j, then
+u # v $ 12 2 15 2 ! 11 2 1%6 2 $ 4

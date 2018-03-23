@@ -1,0 +1,227 @@
+5.2 Perpendicular Bisectors
+
+Here you'll learn what a perpendicular bisector is and the Perpendicular Bisector Theorem, which states that if a
+
+point is on the perpendicular bisector of a segment, then it is equidistant from the endpoints of the segment.
+
+←→
+
+What if you were given 4FGH and told that GJ was the perpendicular bisector of FH? How could you find the
+
+length of FG given the length of GH? After completing this Concept, you'll be able to use the Perpendicular Bisector
+
+Theorem to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136671
+
+CK-12 Perpendicular Bisectors
+
+First watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1298
+
+James Sousa: Constructing Perpendicular Bisectors
+
+Next watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1299
+
+James Sousa: Proof of the Perpendicular Bisector Theorem
+
+Then watch this video.
+
+243
+
+5.2. Perpendicular Bisectors www.ck12.org
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1300
+
+James Sousa: Proof of the Perpendicular Bisector Theorem Converse
+
+Finally, watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1301
+
+James Sousa: Determining Values Using Perpendicular Bisectors
+
+Guidance
+
+A perpendicular bisector is a line that intersects a line segment at its midpoint and is perpendicular to that line
+
+segment, as shown in the construction below.
+
+One important property related to perpendicular bisectors is that if a point is on the perpendicular bisector of a
+
+segment, then it is equidistant from the endpoints of the segment. This is called the Perpendicular Bisector
+
+Theorem.
+
+←→
+
+If CD⊥ AB and AD = DB, then AC =CB.
+
+In addition to the Perpendicular Bisector Theorem, the converse is also true.
+
+244
+5.2. Perpendicular Bisectors www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1300
+James Sousa: Proof of the Perpendicular Bisector Theorem Converse
+Finally, watch this video.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1301
+James Sousa: Determining Values Using Perpendicular Bisectors
+Guidance
+A perpendicular bisector is a line that intersects a line segment at its midpoint and is perpendicular to that line
+segment, as shown in the construction below.
+One important property related to perpendicular bisectors is that if a point is on the perpendicular bisector of a
+segment, then it is equidistant from the endpoints of the segment. This is called the Perpendicular Bisector
+Theorem.
+←→
+If CD⊥ AB and AD = DB, then AC =CB.
+In addition to the Perpendicular Bisector Theorem, the converse is also true.
+244
+www.ck12.org Chapter 5. Triangle Relationships
+Perpendicular Bisector Theorem Converse: If a point is equidistant from the endpoints of a segment, then the
+point is on the perpendicular bisector of the segment.
+←→
+Using the picture above: If AC =CB, then CD⊥ AB and AD = DB.
+When we construct perpendicular bisectors for the sides of a triangle, they meet in one point. This point is called the
+circumcenter of the triangle.
+Example A
+←→
+If MO is the perpendicular bisector of LN and LO = 8, what is ON?
+By the Perpendicular Bisector Theorem, LO = ON. So, ON = 8.
+Example B
+Find x and the length of each segment.
+←→
+WX is the perpendicular bisector of XZ and from the Perpendicular Bisector Theorem WZ =WY .
+2x+11 = 4x−5
+16 = 2x
+8 = x
+245
+5.2. Perpendicular Bisectors www.ck12.org
+WZ =WY = 2(8)+11 = 16+11 = 27.
+Example C
+Find the value of x. m is the perpendicular bisector of AB.
+By the Perpendicular Bisector Theorem, both segments are equal. Set up and solve an equation.
+3x−8 = 2x
+x = 8
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136672
+CK-12 Perpendicular Bisectors
+->
+Guided Practice
+←→
+1. OQ is the perpendicular bisector of MP.
+246
+www.ck12.org Chapter 5. Triangle Relationships
+a) Which line segments are equal?
+b) Find x.
+←→
+c) Is L on OQ? How do you know?
+2. Find the value of x. m is the perpendicular bisector of AB.
+←→
+3. Determine if ST is the perpendicular bisector of XY . Explain why or why not.
+Answers:
+1. a) ML = LP, MO = OP, and MQ = QP.
+b)
+4x+3 = 11
+4x = 8
+x = 2
+←→
+c) Yes, L is on OQ because ML = LP (the Perpendicular Bisector Theorem Converse).
+2. By the Perpendicular Bisector Theorem, both segments are equal. Set up and solve an equation.
+x+6 = 22
+x = 16
+←→
+3. ST is not necessarily the perpendicular bis←e→ctor of XY because not enough information is given in the diagram.
+There is no way to know from the diagram if ST will extend to make a right angle with XY .
+Explore More
+For questions 1-4, find the value of x. m is the perpendicular bisector of AB.
+247
+5.2. Perpendicular Bisectors www.ck12.org
+1.
+2.
+3.
+4.
+m is the perpendicular bisector of AB.
+5. List all the congruent segments.
+6. Is C on m? Why or why not?
+7. Is D on m? Why or why not?
+←→
+For Question 8, determine if ST is the perpendicular bisector of XY . Explain why or why not.
+8.
+9. In what type of triangle will all perpendicular bisectors pass through vertices of the triangle?
+10. Fill in the blanks of the proof of the Perpendicular Bisector Theorem.
+248
+www.ck12.org Chapter 5. Triangle Relationships
+←→
+Given: CD is the perpendicular bisector of AB
+Prove: AC ∼=CB
+TABLE 5.1:
+Statement Reason
+1. 1.
+2. D is the midpoint of AB 2.
+3. 3. Definition of a midpoint
+4. 6 CDA and 6 CDB are right angles 4.
+5. 6 CDA∼= 6 CDB 5.
+6. 6. Reflexive PoC
+7. 4CDA∼=4CDB 7.
+8. AC ∼=CB 8.
+249
+www.ck12.org Chapter 5. Triangle Relationships
+
+←→
+
+Given: CD is the perpendicular bisector of AB
+
+Prove: AC ∼=CB
+
+TABLE 5.1:
+
+Statement Reason
+
+1. 1.
+
+2. D is the midpoint of AB 2.
+
+3. 3. Definition of a midpoint
+
+4. 6 CDA and 6 CDB are right angles 4.
+
+5. 6 CDA∼= 6 CDB 5.
+
+6. 6. Reflexive PoC
+
+7. 4CDA∼=4CDB 7.
+
+8. AC ∼=CB 8.
+
+249
+

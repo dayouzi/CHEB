@@ -1,0 +1,121 @@
+17.5 Capacitance and the parallel plate capacitor
+
+17.5.1 Capacitors and capacitance
+
+A parallel plate capacitor is a device that consists of two oppositely charged conducting plates
+
+separated by a small distance, which stores charge. When voltage is applied to the capacitor,
+
+electric charge of equal magnitude, but opposite polarity, build up on each plate.
+
+R
+
+E
+
+C
+
+Figure 17.1: A capacitor (C) connected in series with a resistor (R) and an energy source (E).
+
+Definition: Capacitance
+
+Capacitance is the charge stored per volt and is measured in farad (F)
+
+Mathematically, capacitance is the ratio of the charge on a single plate to the voltage across
+
+the plates of the capacitor:
+
+Q
+
+C = .
+
+V
+
+403
+
+17.5 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+Capacitance is measured in farads (F). Since capacitance is defined as C = QV , the units are in
+
+terms of charge over potential difference. The unit of charge is the coulomb and the unit of the
+
+potential difference is the volt. One farad is therefore the capacitance if one coulomb of charge
+
+was stored on a capacitor for every volt applied.
+
+1 C of charge is a very large amount of charge. So, for a small amount of voltage applied, a
+
+1 F capacitor can store a enormous amount of charge. Therefore, capacitors are often denoted
+
+in terms of microfarads (1 × 10−6), nanofarads (1× 10−9), or picofarads (1× 10−12).
+
+Important: Q is the magnitude of the charge stored on either plate, not on both plates
+
+added together. Since one plate stores positive charge and the other stores negative charge,
+
+the total charge on the two plates is zero.
+
+Worked Example 118: Capacitance
+
+Question: Suppose that a 5 V battery is connected in a circuit to a 5 pF
+
+capacitor. After the battery has been connected for a long time, what is the charge
+
+stored on each of the plates?
+
+Answer
+
+To begin remember that after a voltage has been applied for a long time the
+
+capacitor is fully charged. The relation between voltage and the maximum charge
+
+of a capacitor is found in equation ??.
+
+CV = Q
+
+Inserting the given values of C = 5F and V = 5V, we find that:
+
+Q = CV
+
+= (5× 10−12F )(5V )
+
+= 2,5× 10−11C
+
+17.5.2 Dielectrics
+
+The electric field between the plates of a capacitor is affected by the substance between them.
+
+The substance between the plates is called a dielectric. Common substances used as dielectrics
+
+are mica, perspex, air, paper and glass.
+
+When a dielectric is inserted between the plates of a parallel plate capacitor the dielectric
+
+becomes polarised so an electric field is induced in the dielectric that opposes the field between
+
+the plates. When the two electric fields are superposed, the new field between the plates
+
+becomes smaller. Thus the voltage between the plates decreases so the capacitance increases.
+
+In every capacitor, the dielectric keeps the charge on one plate from travelling to the other
+
+plate. However, each capacitor is different in how much charge it allows to build up on the
+
+electrodes per voltage applied. When scientists started studying capacitors they discovered the
+
+property that the voltage applied to the capacitor was proportional to the maximum charge
+
+that would accumulate on the electrodes. The constant that made this relation into an
+
+equation was called the capacitance, C. The capacitance was different for different capacitors.
+
+But, it stayed constant no matter how much voltage was applied. So, it predicts how much
+
+charge will be stored on a capacitor when different voltages are applied.
+
+17.5.3 Physical properties of the capacitor and capacitance
+
+The capacitance of a capacitor is proportional to the surface area of the conducting plate and
+
+inversely proportional to the distance between the plates. It is also proportional to the
+
+404

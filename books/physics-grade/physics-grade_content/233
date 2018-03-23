@@ -1,0 +1,220 @@
+13.2.2 Diverging Lenses
+
+We will only discuss double concave diverging lenses as shown in Figure 13.11. Concave lenses
+
+are thicker on the outside and thinner on the inside.
+
+Figure 13.11: A double concave lens is a diverging lens.
+
+Figure 13.12 shows a concave lens with light rays travelling through it. You can see that concave
+
+lenses have the opposite curvature to convex lenses. This causes light rays passing through a
+
+concave lens to diverge or be spread out away from the principal axis. For this reason, concave
+
+lenses are called diverging lenses. Images formed by concave lenses are always virtual.
+
+Unlike converging lenses, the type of images created by a concave lens is not dependent on the
+
+position of the object. The image is always upright, smaller than the object, and located closer
+
+to the lens than the object.
+
+We examine the properties of the image by drawing ray diagrams. We can find the image by
+
+tracing the path of three light rays through the lens. Any two of these rays will show us the
+
+340
+
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+
+F1 O F2
+
+Figure 13.12: Light rays bend away from each other or diverge when they travel through a
+
+concave lens. F1 and F2 are the foci of the lens.
+
+location of the image. You can use the third ray to check the location, but it is not necessary
+
+to show it on your diagram.
+
+341
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+F1 O F2
+Figure 13.12: Light rays bend away from each other or diverge when they travel through a
+concave lens. F1 and F2 are the foci of the lens.
+location of the image. You can use the third ray to check the location, but it is not necessary
+to show it on your diagram.
+341
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+Drawing Ray Diagrams for Diverging Lenses
+Draw the three rays starting at the top of the object.
+1. Ray R1 travels parallel to the principal axis. The ray bends and lines up with a focal
+point. However, the concave lens is a diverging lens, so the ray must line up with the focal
+point on the same side of the lens where light rays enter it. This means that we must
+project an imaginary line backwards through that focal point (F1) (shown by the dashed
+line extending from R1).
+2. Ray R2 points towards the focal point F2 on the opposite side of the lens. When it hits
+the lens, it is bent parallel to the principal axis.
+3. Ray R3 passes through the optical center of the lens. Like for the convex lens, this ray
+passes through with its direction unchanged.
+4. We find the image by locating the point where the rays meet. Since the rays diverge,
+they will only meet if projected backward to a point on the same side of the lens as the
+object. This is why concave lenses always have virtual images. (Since the light rays do
+not actually meet at the image, the image cannot be real.)
+Figure 13.13 shows an object placed at an arbitrary distance from the diverging lens.
+We can locate the position of the image by drawing our three rays for a diverging lens.
+Figure 13.13 shows that the image of an object is upright. The image is called a virtual image
+because it is on the same side of the lens as the object.
+The image is smaller than the object and is closer to the lens than the object.
+R1
+R2
+R3
+F1
+Object Image O F2
+f f f f
+Figure 13.13: Three rays are drawn to locate the image, which is virtual, smaller than the object
+and upright.
+Worked Example 100: Locating the image position for a diverging lens: I
+Question: An object is placed 4 cm to the left of a diverging lens which has a focal
+length of 6 cm.
+1. What is the position of the image?
+2. Is the image real or virtual?
+Answer
+Step 1 : Set up the problem
+Draw the lens, object, principal axis and focal points.
+342
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+
+Drawing Ray Diagrams for Diverging Lenses
+
+Draw the three rays starting at the top of the object.
+
+1. Ray R1 travels parallel to the principal axis. The ray bends and lines up with a focal
+
+point. However, the concave lens is a diverging lens, so the ray must line up with the focal
+
+point on the same side of the lens where light rays enter it. This means that we must
+
+project an imaginary line backwards through that focal point (F1) (shown by the dashed
+
+line extending from R1).
+
+2. Ray R2 points towards the focal point F2 on the opposite side of the lens. When it hits
+
+the lens, it is bent parallel to the principal axis.
+
+3. Ray R3 passes through the optical center of the lens. Like for the convex lens, this ray
+
+passes through with its direction unchanged.
+
+4. We find the image by locating the point where the rays meet. Since the rays diverge,
+
+they will only meet if projected backward to a point on the same side of the lens as the
+
+object. This is why concave lenses always have virtual images. (Since the light rays do
+
+not actually meet at the image, the image cannot be real.)
+
+Figure 13.13 shows an object placed at an arbitrary distance from the diverging lens.
+
+We can locate the position of the image by drawing our three rays for a diverging lens.
+
+Figure 13.13 shows that the image of an object is upright. The image is called a virtual image
+
+because it is on the same side of the lens as the object.
+
+The image is smaller than the object and is closer to the lens than the object.
+
+R1
+
+R2
+
+R3
+
+F1
+
+Object Image O F2
+
+f f f f
+
+Figure 13.13: Three rays are drawn to locate the image, which is virtual, smaller than the object
+
+and upright.
+
+Worked Example 100: Locating the image position for a diverging lens: I
+
+Question: An object is placed 4 cm to the left of a diverging lens which has a focal
+
+length of 6 cm.
+
+1. What is the position of the image?
+
+2. Is the image real or virtual?
+
+Answer
+
+Step 1 : Set up the problem
+
+Draw the lens, object, principal axis and focal points.
+
+342
+
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+
+F1 Object O F2
+
+Step 2 : Draw the three light rays to locate the image
+
+• R1 goes from the top of the object parallel to the principal axis. To determine
+
+the angle it has when it leaves the lens on the other side, we draw the dashed
+
+line from the focus F1 through the point where R1 hits the lens. (Remember:
+
+for a diverging lens, the light ray on the opposite side of the lens to the object
+
+has to bend away from the principal axis.)
+
+• R2 goes from the top of the object in the direction of the other focal point F2.
+
+After it passes through the lens, it travels parallel to the principal axis.
+
+• R3 goes from the top of the lens, straight through the optical centre with its
+
+direction unchanged.
+
+• Just like for converging lenses, the image is found at the position where all the
+
+light rays intersect.
+
+R1
+
+R2
+
+R3
+
+F1 Object O F2
+
+Step 3 : Draw the image
+
+Draw the image at the point where all three rays intersect.
+
+R1
+
+R2
+
+R3
+
+F1 Object Image O F2
+
+Step 4 : Measure the distance to the object
+
+The distance to the object is 2,4 cm.
+
+Step 5 : Determine type of object
+
+The image is on the same side of the lens as the object, and is upright. Therefore it
+
+is virtual. (Remember: The image from a diverging lens is always virtual.)
+

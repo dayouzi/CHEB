@@ -1,0 +1,166 @@
+28.3 Alternating Current
+
+Most students of electricity begin their study with what is known as direct current (DC), which
+
+is electricity flowing in a constant direction. DC is the kind of electricity made by a battery,
+
+with definite positive and negative terminals).
+
+However, we have seen that the electricity produced by a generator alternates and is therefore
+
+known as alternating current(AC). The main advantage to AC is that the voltage can be
+
+changed using transformers. That means that the voltage can be stepped up at power stations
+
+to a very high voltage so that electrical energy can be transmitted along power lines at low
+
+current and therefore experience low energy loss due to heating. The voltage can then be
+
+stepped down for use in buildings and street lights.
+
+Itneterreessttinigng In South Africa alternating current is generated at a frequency of 50 Hz.
+
+FFacctt
+
+The circuit symbol for alternating current is:
+
+∼
+
+Graphs of voltage against time and current against time for an AC circuit are shown in
+
+Figure 28.9
+
+current
+
+1
+
+0 θ or time
+
+180 360 540 720
+
+−1
+
+Figure 28.9: Graph of current or voltage in an AC circuit.
+
+In a DC circuit the current and voltage are constant. In an AC circuit the current and voltage
+
+vary with time. The value of the current or voltage at any specific moment in time is called the
+
+instantaneous current or voltage and is calculated as follows:
+
+i = Imaxsin(2πft)
+
+v = Vmaxsin(2πft)
+
+i is the instantaneous current. Imax is the maximum current. v is the instantaneous voltage.
+
+Vmax is the maximum voltage. f is the frequency of the AC and t is the time at which the
+
+instantaneous current or voltage is being calculated.
+
+This average value we use for AC is known as the root mean square (rms) average. This is
+
+defined as:
+
+I
+
+Irms √max=
+
+2
+
+V√maxVrms =
+
+2
+
+585
+
+28.4 CHAPTER 28. ELECTRODYNAMICS - GRADE 12
+
+Since AC varies sinusoidally, with as much positive as negative, doing a straight average would
+
+get you zero for the average voltage. The rms value by-passes this problem.
+
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.3
+
+28.3 Alternating Current
+
+Most students of electricity begin their study with what is known as direct current (DC), which
+
+is electricity flowing in a constant direction. DC is the kind of electricity made by a battery,
+
+with definite positive and negative terminals).
+
+However, we have seen that the electricity produced by a generator alternates and is therefore
+
+known as alternating current(AC). The main advantage to AC is that the voltage can be
+
+changed using transformers. That means that the voltage can be stepped up at power stations
+
+to a very high voltage so that electrical energy can be transmitted along power lines at low
+
+current and therefore experience low energy loss due to heating. The voltage can then be
+
+stepped down for use in buildings and street lights.
+
+Itneterreessttinigng In South Africa alternating current is generated at a frequency of 50 Hz.
+
+FFacctt
+
+The circuit symbol for alternating current is:
+
+∼
+
+Graphs of voltage against time and current against time for an AC circuit are shown in
+
+Figure 28.9
+
+current
+
+1
+
+0 θ or time
+
+180 360 540 720
+
+−1
+
+Figure 28.9: Graph of current or voltage in an AC circuit.
+
+In a DC circuit the current and voltage are constant. In an AC circuit the current and voltage
+
+vary with time. The value of the current or voltage at any specific moment in time is called the
+
+instantaneous current or voltage and is calculated as follows:
+
+i = Imaxsin(2πft)
+
+v = Vmaxsin(2πft)
+
+i is the instantaneous current. Imax is the maximum current. v is the instantaneous voltage.
+
+Vmax is the maximum voltage. f is the frequency of the AC and t is the time at which the
+
+instantaneous current or voltage is being calculated.
+
+This average value we use for AC is known as the root mean square (rms) average. This is
+
+defined as:
+
+I
+
+Irms √max=
+
+2
+
+V√maxVrms =
+
+2
+
+585
+
+28.4 CHAPTER 28. ELECTRODYNAMICS - GRADE 12
+
+Since AC varies sinusoidally, with as much positive as negative, doing a straight average would
+
+get you zero for the average voltage. The rms value by-passes this problem.
+

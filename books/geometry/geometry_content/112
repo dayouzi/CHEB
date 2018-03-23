@@ -1,0 +1,243 @@
+10.11 Area of Sectors and Segments
+
+Here you'll learn how to find the area of a circle portion that is bounded by either two radii or a chord.
+
+What if you were given a circle with two radii in which the region between those two radii was shaded? How could
+
+you find the area of that shaded region of the circle? After completing this Concept, you'll be able to use the formula
+
+for the area of a circle's sector to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136638
+
+Area of Sectors and Segments CK-12
+
+Guidance
+
+A sector of a circle is the area bounded by two radii and the arc between the endpoints of the radii. If r is the radius
+
+and ÂB is the arc bounding a sector, then the area of the sector is A = mÂB360◦ ·pir2.
+
+A segment of a circle is the area of a circle that is bounded by a chord and the arc with the same endpoints as the
+
+chord. The area of a segment is Asegment = Asector−A4ABC
+
+Example A
+
+Find the area of the blue sector. Leave your answer in terms of pi.
+
+597
+
+10.11. Area of Sectors and Segments www.ck12.org
+
+In the picture, the central angle that corresponds with the sector is 60◦. 60◦ is 16 of 360
+
+◦, so this sector is 16 of the
+
+total area. area o f blue sector = 16 ·pi82 = 323 pi
+
+Example B
+
+The area of a sector is 8pi and the radius of the circle is 12. What is the central angle?
+
+Plug in what you know to the sector area formula and then solve for the central angle, which we will call x.
+
+x
+
+8pi=
+
+360◦
+
+·pi122
+
+x
+
+8pi= ·144pi
+
+360◦
+
+2x
+
+8 =
+
+5◦
+
+x = 8 · 5
+
+◦
+
+= 20◦
+
+2
+
+Example C
+
+Find the area of the blue segment below.
+
+598
+10.11. Area of Sectors and Segments www.ck12.org
+In the picture, the central angle that corresponds with the sector is 60◦. 60◦ is 16 of 360
+◦, so this sector is 16 of the
+total area. area o f blue sector = 16 ·pi82 = 323 pi
+Example B
+The area of a sector is 8pi and the radius of the circle is 12. What is the central angle?
+Plug in what you know to the sector area formula and then solve for the central angle, which we will call x.
+x
+8pi=
+360◦
+·pi122
+x
+8pi= ·144pi
+360◦
+2x
+8 =
+5◦
+x = 8 · 5
+◦
+= 20◦
+2
+Example C
+Find the area of the blue segment below.
+598
+www.ck12.org Chapter 10. Perimeter and Area
+The area of the segment is th(e area of the sector minus the area of the isosceles triangle made by the radii. If wesplit the isosceles triangle in half, e√ach)half is√a 30-60-90 triangle, where the radius is the hypotenuse. The height of
+4ABC is 12 and the base is 2 12 3 = 24 3.
+120 √ )
+Asector = pi ·242 1
+(
+A = 24 3 (
+360 4
+12)
+2 √
+= 192pi = 144 3
+√
+The area of the segment is A = 192pi−144 3≈ 353.8 units.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136639
+Area of Sectors and Segments CK-12
+->
+Guided Practice
+1. The area of a sector is 135pi and the arc measure is 216◦. What is the radius of the circle?
+2. Find the area of the shaded region. The quadrilateral is a square.
+⊙
+3. Find the area of the blue sector of A.
+599
+10.11. Area of Sectors and Segments www.ck12.org
+Answers:
+1. Plug in what you know to the sector area formula and solve for r.
+216◦
+135pi=
+360◦
+·pir2
+3
+135 = · r2
+5
+5 ·135 = r2
+3 √
+225 = r2→ r = 225 = 15
+2. The radius of√the circle
+√ √
+is 16, which is also half of the diagonal of the square. So, the diagonal is 32 and the sides
+would be 32 · √2 = 16 2 because each half of a square is a 45-45-90 triangle.
+2 2
+Acircle = 1(62pi=√ )256pi2
+Asquare = 16 2 = 256 ·2 = 512
+The area of the shaded region is 256pi−512≈ 292.25
+3. The right angle tells us that this sector represents 14 of the circle. The area of the whole circle is A = pi8
+2 = 64pi.
+So, the area of the sector is 14 64pi= 16pi.
+Explore More
+⊙
+Find the area of the blue sector or segment in A. Leave your answers in terms of pi. Round any decimal answers
+to the nearest hundredth.
+1.
+600
+www.ck12.org Chapter 10. Perimeter and Area
+2.
+3.
+4.
+5.
+Find the radius of the circle. Leave your answer in terms of pi.
+6.
+7.
+601
+10.11. Area of Sectors and Segments www.ck12.org
+8.
+Find the central angle of each blue sector. Round any decimal answers to the nearest tenth.
+9.
+10.
+11.
+⊙
+12. Find the area of the sector in A. Leave your answer in terms of pi.
+13. Find the area of the equilateral triangle.
+14. Find the area of the segment.⊙Round your answer to the nearest hundredth.
+15. Find the area of the sector in A. Leave your answer in terms of pi.
+16. Find the area of the right triangle.
+602
+www.ck12.org Chapter 10. Perimeter and Area
+17. Find the area of the segment. Round your answer to the nearest hundredth.
+Summary
+This chapter covers perimeter and area of all the basic geometric figures. Perimeter and area are compared and
+calculated for rectangles, parallelograms, triangles, and then for composite shapes of those figures. The chapter then
+branches into perimeter and area for other special geometric figures, namely trapezoids, rhombuses, and kites, as
+well as similar polygons. The chapter continues with the circumference of circles and arc length followed by the area
+of a circle and the area of sectors and segments. The chapter wraps up with area and perimeter of regular polygons.
+603
+www.ck12.org Chapter 10. Perimeter and Area
+
+17. Find the area of the segment. Round your answer to the nearest hundredth.
+
+Summary
+
+This chapter covers perimeter and area of all the basic geometric figures. Perimeter and area are compared and
+
+calculated for rectangles, parallelograms, triangles, and then for composite shapes of those figures. The chapter then
+
+branches into perimeter and area for other special geometric figures, namely trapezoids, rhombuses, and kites, as
+
+well as similar polygons. The chapter continues with the circumference of circles and arc length followed by the area
+
+of a circle and the area of sectors and segments. The chapter wraps up with area and perimeter of regular polygons.
+
+603
+
+www.ck12.org
+
+CHAPTER 11 Surface Area and Volume
+
+Chapter Outline
+
+11.1 POLYHEDRONS
+
+11.2 CROSS-SECTIONS AND NETS
+
+11.3 PRISMS
+
+11.4 CYLINDERS
+
+11.5 PYRAMIDS
+
+11.6 CONES
+
+11.7 SPHERES
+
+11.8 COMPOSITE SOLIDS
+
+11.9 AREA AND VOLUME OF SIMILAR SOLIDS
+
+Introduction
+
+In this chapter we extend what we know about two-dimensional figures to three-dimensional shapes. First, we will
+
+define the different types of 3D shapes and their parts. Then, we will find the surface area and volume of prisms,
+
+cylinders, pyramids, cones, and spheres.
+
+604

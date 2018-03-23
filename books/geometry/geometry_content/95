@@ -1,0 +1,237 @@
+9.7 Angles On and Inside a Circle
+
+Here you'll learn how to use the Chord/Tangent Angle Theorem and the Intersecting Chords Angle Theorem to solve
+
+problems containing angles that are on or inside a circle.
+
+What if you were given a circle with either a chord and a tangent or two chords that meet at a common point? How
+
+could you use the measure of the arc(s) formed by those circle parts to find the measure of the angles they make on
+
+or inside the circle? After completing this Concept, you'll be able to apply the Chord/Tangent Angle Theorem and
+
+the Intersecting Chords Angle Theorem to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136555
+
+Angles On and Inside a Circle CK-12
+
+Guidance
+
+When we say an angle is on a circle, we mean the vertex is on the edge of the circle. One type of angle on a circle is
+
+the inscribed angle (see Inscribed Angles in Circles ). Another type of angle on a circle is one formed by a tangent
+
+and a chord.
+
+Chord/Tangent Angle Theorem: The measure of an angle formed by a chord and a tangent that intersect on a circle
+
+is half the measure of the intercepted arc.
+
+m6 DBA = 12 mÂB
+
+If two angles, with their vertices on the circle, intercept the same arc then the angles are congruent.
+
+An angle is inside a circle when the vertex lies anywhere inside the circle.
+
+Intersecting Chords Angle Theorem: The measure of the angle formed by two chords that intersect inside a circle
+
+is the average of the measures of the intercepted arcs.
+
+507
+
+9.7. Angles On and Inside a Circle www.ck12.org
+
+m6
+
+1 ( ) mŜR+mT̂ Q
+
+SV R = mŜR+mT̂ Q = = m6 TV Q
+
+2 2
+
+m 6
+
+1 ( ) mŜT +mR̂Q
+
+SV T = mŜT +mR̂Q = = m6 RV Q
+
+2 2
+
+Example A
+
+Find m 6 BAD.
+
+Use the Chord/Tangent Angle Theorem. m6 BAD = 12 mÂB =
+
+1
+
+2 ·124◦ = 62◦.
+
+Example B
+
+Find a, b, and c.
+
+50◦+45◦+m6 a = 180◦ straight angle
+
+m6 a = 85◦
+
+508
+9.7. Angles On and Inside a Circle www.ck12.org
+m6
+1 ( ) mŜR+mT̂ Q
+SV R = mŜR+mT̂ Q = = m6 TV Q
+2 2
+m 6
+1 ( ) mŜT +mR̂Q
+SV T = mŜT +mR̂Q = = m6 RV Q
+2 2
+Example A
+Find m 6 BAD.
+Use the Chord/Tangent Angle Theorem. m6 BAD = 12 mÂB =
+1
+2 ·124◦ = 62◦.
+Example B
+Find a, b, and c.
+50◦+45◦+m6 a = 180◦ straight angle
+m6 a = 85◦
+508
+www.ck12.org Chapter 9. Circles
+m6
+1
+b = ·mÂC
+2
+mÂC = 2 ·m6 EAC = 2 ·45◦ = 90◦
+m6
+1
+b = ·90◦ = 45◦
+2
+85◦+45◦+m6 c = 180◦ Triangle Sum Theorem
+m6 c = 50◦
+Example C
+Find mÂEB.
+Use the Chord/Tangent Angle Theorem. mÂEB = 2 ·m6 DAB = 2 ·133◦ = 266◦.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136556
+Angles On and Inside a Circle CK-12
+->
+Guided Practice
+Find x.
+1.
+509
+9.7. Angles On and Inside a Circle www.ck12.org
+2.
+3.
+Answers:
+Use the Intersecting Chords Angle Theorem to write an equation.
+1. x = 129
+◦+71◦
+2 =
+200◦
+2 = 100
+◦
+2.
+52◦+ x
+40◦ =
+2
+80◦ = 52◦+ x
+28◦ = x
+3. x is supplementary to the angle that is the average of the given intercepted arcs. We call this supplementary angle
+y.
+19◦+107◦ 126◦
+y = = = 63◦ x+63◦ = 180◦; x = 117◦
+2 2
+Explore More
+Find the value of the missing variable(s).
+1.
+510
+www.ck12.org Chapter 9. Circles
+2.
+3.
+4.
+5.
+6.
+7. y 6= 60◦
+Solve for x.
+511
+9.7. Angles On and Inside a Circle www.ck12.org
+8. Fill in the blanks of the proof for the Intersecting Chords Angle Theorem
+Given: Intersecti(ng chords AC )and BD.
+Prove: m6 a = 12 mD̂C+mÂB
+TABLE 9.3:
+Statement Reason
+1. Intersecting chords AC and BD. 1.
+2. Draw BC 2. Construction
+m6
+1
+DBC = mD̂C
+3. 2 3.
+1
+m 6 ACB = mÂB
+2
+4. m6 a = m6 DBC+m6 ACB 4.
+5. m6 a = 12 mD̂C+
+1
+2 mÂB 5.
+Fill in the blanks.
+9. If the vertex of an angle is _______________ a circle, then its measure is the average of the _____________-
+_____ arcs.
+10. If the vertex of an angle is ________ a circle, then its measure is ______________ the intercepted arc.
+512
+9.7. Angles On and Inside a Circle www.ck12.org
+
+8. Fill in the blanks of the proof for the Intersecting Chords Angle Theorem
+
+Given: Intersecti(ng chords AC )and BD.
+
+Prove: m6 a = 12 mD̂C+mÂB
+
+TABLE 9.3:
+
+Statement Reason
+
+1. Intersecting chords AC and BD. 1.
+
+2. Draw BC 2. Construction
+
+m6
+
+1
+
+DBC = mD̂C
+
+3. 2 3.
+
+1
+
+m 6 ACB = mÂB
+
+2
+
+4. m6 a = m6 DBC+m6 ACB 4.
+
+5. m6 a = 12 mD̂C+
+
+1
+
+2 mÂB 5.
+
+Fill in the blanks.
+
+9. If the vertex of an angle is _______________ a circle, then its measure is the average of the _____________-
+
+_____ arcs.
+
+10. If the vertex of an angle is ________ a circle, then its measure is ______________ the intercepted arc.
+
+512
+
+www.ck12.org Chapter 9. Circles
+

@@ -1,0 +1,119 @@
+5.6 MODELING HARMONIC MOTION
+Simple Harmonic Motion ! Damped Harmonic Motion
+Periodic behavior-behavior that repeats over and over again-is common in nature.
+Perhaps the most familiar example is the daily rising and setting of the sun, which re-
+sults in the repetitive pattern of day, night, day, night, . . . . Another example is the
+daily variation of tide levels at the beach, which results in the repetitive pattern of high
+tide, low tide, high tide, low tide, . . . . Certain animal populations increase and de-
+crease in a predictable periodic pattern: A large population exhausts the food supply,
+which causes the population to dwindle; this in turn results in a more plentiful food
+supply, which makes it possible for the population to increase; and the pattern then re-
+peats over and over (see the Discovery Project Predator/Prey Models referenced on
+page 398).
+Other common examples of periodic behavior involve motion that is caused by vibra-
+tion or oscillation. A mass suspended from a spring that has been compressed and then al-
+lowed to vibrate vertically is a simple example. This "back and forth" motion also occurs
+in such diverse phenomena as sound waves, light waves, alternating electrical current, and
+pulsating stars, to name a few. In this section we consider the problem of modeling peri-
+odic behavior.
+! Simple Harmonic Motion
+The trigonometric functions are ideally suited for modeling periodic behavior. A glance
+at the graphs of the sine and cosine functions, for instance, tells us that these functions
+themselves exhibit periodic behavior. Figure 1 shows the graph of y! sin t. If we think of
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  5 . 6 | Modeling Harmonic Motion 413
+t as time, we see that as time goes on, y " sin t increases and decreases over and over
+again. Figure 2 shows that the motion of a vibrating mass on a spring is modeled very ac-
+curately by y " sin t.
+y
+1 y=ß t
+0 t
+_1
+O P t(time)
+F I G U R E  1 y " sin t F I G U R E  2 Motion of a vibrating spring is 
+modeled by y " sin t.
+Notice that the mass returns to its original position over and over again. A cycle is one
+complete vibration of an object, so the mass in Figure 2 completes one cycle of its mo-
+tion between O and P. Our observations about how the sine and cosine functions model
+periodic behavior are summarized in the following box.
+The main difference between the two
+equations describing simple harmonic SIMPLE HARMONIC MOTION
+motion is the starting point. At t " 0
+we get If the equation describing the displacement y of an object at time t is
+y " a sin v # 0 " 0 y " a sin vt  or  y " a cos vt
+y " a cos v # 0 " a then the object is in simple harmonic motion. In this case,
+In the first case the motion "starts"
+with zero displacement, whereas in the amplitude " 0 a 0 Maximum displacement of the object
+second case the motion "starts" with 2p
+the displacement at maximum (at the period " Time required to complete one cyclev
+amplitude a).
+v
+frequency " Number of cycles per unit of time
+2p
+The symbol v is the lowercase Greek
+letter "omega," and n is the letter "nu."
+Notice that the functions
+y " a sin 2pn2t  and  y " a cos 2pnthave frequency n, because 2pn/ 12p " n. Since we can immediately read the frequency
+from these equations, we often write equations of simple harmonic motion in this form.
+E X A M P L E  1 A Vibrating Spring
+The displacement of a mass suspended by a spring is modeled by the function
+y>0 y " 10 sin 4pt
+Rest y<0 where y is measured in inches and t in seconds (see Figure 3).
+position (a) Find the amplitude, period, and frequency of the motion of the mass.
+F I G U R E  3 (b) Sketch a graph of the displacement of the mass.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  5 . 6 | Modeling Harmonic Motion 413
+t as time, we see that as time goes on, y " sin t increases and decreases over and over
+again. Figure 2 shows that the motion of a vibrating mass on a spring is modeled very ac-
+curately by y " sin t.
+y
+1 y=ß t
+0 t
+_1
+O P t(time)
+F I G U R E  1 y " sin t F I G U R E  2 Motion of a vibrating spring is 
+modeled by y " sin t.
+Notice that the mass returns to its original position over and over again. A cycle is one
+complete vibration of an object, so the mass in Figure 2 completes one cycle of its mo-
+tion between O and P. Our observations about how the sine and cosine functions model
+periodic behavior are summarized in the following box.
+The main difference between the two
+equations describing simple harmonic SIMPLE HARMONIC MOTION
+motion is the starting point. At t " 0
+we get If the equation describing the displacement y of an object at time t is
+y " a sin v # 0 " 0 y " a sin vt  or  y " a cos vt
+y " a cos v # 0 " a then the object is in simple harmonic motion. In this case,
+In the first case the motion "starts"
+with zero displacement, whereas in the amplitude " 0 a 0 Maximum displacement of the object
+second case the motion "starts" with 2p
+the displacement at maximum (at the period " Time required to complete one cyclev
+amplitude a).
+v
+frequency " Number of cycles per unit of time
+2p
+The symbol v is the lowercase Greek
+letter "omega," and n is the letter "nu."
+Notice that the functions
+y " a sin 2pn2t  and  y " a cos 2pnthave frequency n, because 2pn/ 12p " n. Since we can immediately read the frequency
+from these equations, we often write equations of simple harmonic motion in this form.
+E X A M P L E  1 A Vibrating Spring
+The displacement of a mass suspended by a spring is modeled by the function
+y>0 y " 10 sin 4pt
+Rest y<0 where y is measured in inches and t in seconds (see Figure 3).
+position (a) Find the amplitude, period, and frequency of the motion of the mass.
+F I G U R E  3 (b) Sketch a graph of the displacement of the mass.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+414 C H A P T E R  5 | Trigonometric Functions: Unit Circle Approach
+y
+10 y=10 ß 4pit
+S O L U T I O N
+(a) From the formulas for amplitude, period, and frequency we get
+amplitude " 0 a 0 " 10 in.
+2p 2p 1
+period " " "   s
+0 1 1 3 2 t
+v 4p 2
+2 2 v 4p
+frequency " " " 2 cycles per second 1Hz 2
+2p 2p
+_10 (b) The graph of the displacement of the mass at time t is shown in Figure 4.

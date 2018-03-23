@@ -1,0 +1,253 @@
+29.2 Capacitive and Inductive Circuits
+
+Earlier in Grade 12, you were shown alternating currents (a.c.) and you saw that the voltage
+
+and the current varied with time. If the a.c. supply is connected to a resistor, then the current
+
+and voltage will be proportional to each other. This means that the current and voltage will
+
+‘peak' at the same time. We say that the current and voltage are in phase. This is shown in
+
+Figure 29.1.
+
+When a capacitor is connected to an alternating voltage, the maximum voltage is proportional
+
+to the maximum current, but the maximum voltage does not occur at the same time as the
+
+maximum current. The current has its maximum (it peaks) one quarter of a cycle before the
+
+voltage peaks. Engineers say that the ‘current leads the voltage by 90◦'. This is shown in
+
+Figure 29.2.
+
+For a circuit with a capacitor, the instantaneous value of V is not constant. However the value
+
+I
+
+of VmaxI is useful, and is called the capacitive reactance (XC) of the component. Because itmax
+
+is still a voltage divided by a current (like resistance), its unit is the ohm. The value of XC (C
+
+591
+
+29.2 CHAPTER 29. ELECTRONICS - GRADE 12
+
+Current
+
+Voltage
+
+Time
+
+Figure 29.1: The voltage and current are in phase when a resistor is connected to an alternating
+
+voltage.
+
+Current
+
+Voltage
+
+Time
+
+Figure 29.2: The current peaks (has its maximum) one quarter of a wave before the voltage
+
+when a capacitor is connected to an alternating voltage.
+
+592
+29.2 CHAPTER 29. ELECTRONICS - GRADE 12
+Current
+Voltage
+Time
+Figure 29.1: The voltage and current are in phase when a resistor is connected to an alternating
+voltage.
+Current
+Voltage
+Time
+Figure 29.2: The current peaks (has its maximum) one quarter of a wave before the voltage
+when a capacitor is connected to an alternating voltage.
+592
+CHAPTER 29. ELECTRONICS - GRADE 12 29.2
+standing for capacitor) depends on its capacitance (C) and the frequency (f) of the alternating
+current (in South Africa 50 Hz).
+Vmax 1
+XC = = (29.1)
+Imax 2πfC
+Inductors are very similar, but the current peaks 90◦ after the voltage. This is shown in
+Figure 29.3. Engineers say that the ‘current lags the voltage'. Again, the ratio of maximum
+voltage to maximum current is called the reactance - this time inductive reactance (XL).
+The value of the reactance depends on its inductance (L).
+Vmax
+XL = = 2πfL (29.2)
+Imax
+Current
+Voltage
+Time
+Figure 29.3: The current peaks (has its maximum) one quarter of a wave after the voltage when
+an inductor is connected to an alternating voltage.
+Definition: Reactance
+The ratio of the maximum voltage to the maximum current when a capacitor or inductor is
+connected to an alternating voltage. The unit of reactance is the ohm.
+While inductive and capacitive reactances are similar, in one sense they are opposites. For an
+inductor, the current peaks 90◦ after the voltage. For a capacitor the current peaks 90◦ ahead
+of the voltage. When we work out the total reactance for an inductor and a capacitor in series,
+we use the formula
+Xtotal = XL −XC (29.3)
+to take this into account. This formula can also be used when there is more than one inductor
+or more than one capacitor in the circuit. The total reactance is the sum of all of the inductive
+reactances minus the sum of all the capacitive reactances. The magnitude (number) in the
+final result gives the ratio of maximum voltage to maximum current in the circuit as a whole.
+The sign of the final result tells you its phase. If it is positive, the current peaks 90◦ after the
+voltage, if it is negative, the current peaks 90◦ before the voltage.
+593
+29.2 CHAPTER 29. ELECTRONICS - GRADE 12
+If a series circuit contains resistors as well, then the situation is more complicated. The
+maximum current is still proportional to the maximum voltage, but the phase difference
+between them won't be 90◦. The ratio between the maximum voltage and maximum current is
+called the impedance (Z), and its unit is als√o the ohm. Impedances are calculated using thisformula:
+Z = X2 +R2 (29.4)
+where X is the total reactance of the inductors and capacitors in the circuit, and R is the total
+resistance of the resistors in the circuit.
+It is easier to understand this formula by thinking of a right angled triangle. Resistances are
+drawn horizontally, reactances are drawn vertically. The hypotenuse of the triangle gives the
+impedance. This is shown in Figure 29.4.
+Impedance Z
+Reactance X
+Resistance R
+Figure 29.4: Visualizing the relationship between reactance, resistance and impedance.
+Definition: Impedance
+The maximum voltage divided by the maximum current for any circuit. The unit of
+impedance is the ohm.
+It is important to remember that when resistors and inductances (or capacitors) are in a circuit,
+the current will not be in phase with the voltage, so the impedance is not a resistance.
+Similarly the current won't be exactly 90◦ out of phase with the voltage so the impedance isn't
+a reactance either.
+Worked Example 179: The impedance of a coil
+Question: Calculate the maximum current in a coil in a South African motor which
+has a resistance of 5 Ω and an inductance of 3 mH. The maximum voltage across
+the coil is 6 V. You can assume that the resistance and inductance are in series.
+Answer
+1. Calculate the reactance of the coil XL = 2πfL = 2π × 50× 0,003 = 0,942 Ω
+2. Calcu√late the imped√ance of the coil
+Z = X2 +R2 = 0,9422 + 52 = 5,09 Ω
+594
+CHAPTER 29. ELECTRONICS - GRADE 12 29.2
+3. Calculate the maximum current Imax = Vmax/Z = 6/5,09 = 1,18 A.
+Worked Example 180: An RC circuit
+Question: Part of a radio contains a 30 Ω resistor in series with a 3 µF capacitor.
+What is its impedance at a frequency of 1 kHz?
+Answer
+1. Calculate the reactance of the capacitor
+1 1
+XC = = = 3 0 Ω
+2πfC 2π × 103 × 3√×
+5 , 5
+10−6
+√
+2. Calculate the impedance Z = X2 +R2 = 53,052 + 302 = 60,9 Ω
+Exercise: Capacitive and Inductive Circuits
+1. Why is the instantaneous value of V of little use in an a.c. circuit containing
+I
+an inductor or capacitor?
+2. How is the reactance of an inductor different to the reactance of a capacitor?
+3. Why can the ratio of the maximum voltage to the maximum current in a
+circuit with a resistor and an inductor not be called a reactance?
+4. An engineer can describe a motor as equivalent to a 30 Ω resistor in series
+with a 30 mH inductor. If the maximum value of the supply voltage is 350 V,
+what is the maximum current? Assume that the frequency is 50 Hz.
+5. A timer circuit in a factory contains a 200 µF capacitor in series with a 10 kΩ
+resistor. What is its impedance? Assume that the frequency is 50 Hz.
+6. A 3 mH inductor is connected in series with a 100 µF capacitor. The
+reactance of the combination is zero. What is the frequency of the alternating
+current?
+Itneterreessttinigng Most factories containing heavy duty electrical equipment (e.g. large motors)
+FFacctt have to pay extra money to their electricity supply company because the
+inductance of the motor coils causes the current and voltage to get out of
+phase. As this makes the electricity distribution network less efficient, a
+financial penalty is incurred. The factory engineer can prevent this by
+connecting capacitors into the circuit to reduce the reactance to zero, as in the
+last question above. The current and voltage are then in phase again. We can't
+calculate the capacitance needed in this chapter, because the capacitors are
+usually connected in parallel, and we have only covered the reactances and
+impedances of series circuits.
+595
+CHAPTER 29. ELECTRONICS - GRADE 12 29.2
+
+3. Calculate the maximum current Imax = Vmax/Z = 6/5,09 = 1,18 A.
+
+Worked Example 180: An RC circuit
+
+Question: Part of a radio contains a 30 Ω resistor in series with a 3 µF capacitor.
+
+What is its impedance at a frequency of 1 kHz?
+
+Answer
+
+1. Calculate the reactance of the capacitor
+
+1 1
+
+XC = = = 3 0 Ω
+
+2πfC 2π × 103 × 3√×
+
+5 , 5
+
+10−6
+
+√
+
+2. Calculate the impedance Z = X2 +R2 = 53,052 + 302 = 60,9 Ω
+
+Exercise: Capacitive and Inductive Circuits
+
+1. Why is the instantaneous value of V of little use in an a.c. circuit containing
+
+I
+
+an inductor or capacitor?
+
+2. How is the reactance of an inductor different to the reactance of a capacitor?
+
+3. Why can the ratio of the maximum voltage to the maximum current in a
+
+circuit with a resistor and an inductor not be called a reactance?
+
+4. An engineer can describe a motor as equivalent to a 30 Ω resistor in series
+
+with a 30 mH inductor. If the maximum value of the supply voltage is 350 V,
+
+what is the maximum current? Assume that the frequency is 50 Hz.
+
+5. A timer circuit in a factory contains a 200 µF capacitor in series with a 10 kΩ
+
+resistor. What is its impedance? Assume that the frequency is 50 Hz.
+
+6. A 3 mH inductor is connected in series with a 100 µF capacitor. The
+
+reactance of the combination is zero. What is the frequency of the alternating
+
+current?
+
+Itneterreessttinigng Most factories containing heavy duty electrical equipment (e.g. large motors)
+
+FFacctt have to pay extra money to their electricity supply company because the
+
+inductance of the motor coils causes the current and voltage to get out of
+
+phase. As this makes the electricity distribution network less efficient, a
+
+financial penalty is incurred. The factory engineer can prevent this by
+
+connecting capacitors into the circuit to reduce the reactance to zero, as in the
+
+last question above. The current and voltage are then in phase again. We can't
+
+calculate the capacitance needed in this chapter, because the capacitors are
+
+usually connected in parallel, and we have only covered the reactances and
+
+impedances of series circuits.
+
+595
+
+29.3 CHAPTER 29. ELECTRONICS - GRADE 12
+

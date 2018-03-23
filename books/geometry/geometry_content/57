@@ -1,0 +1,257 @@
+6.3 Parallelograms
+
+Here you'll learn what a parallelogram is and how apply theorems about its sides, angles, and diagonals to solve for
+
+unknown values.
+
+What if you were told that FGHI is a parallelogram and you are given the length of FG and the measure of 6 F? What
+
+can you determine about HI, 6 H, 6 G, and 6 I? After completing this Concept, you'll be able to apply parallelogram
+
+theorems to answer such questions.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136703
+
+CK-12 Parallelograms
+
+Guidance
+
+A parallelogram is a quadrilateral with two pairs of parallel sides.
+
+Notice that each pair of sides is marked parallel (for the last two shapes, remember that when two lines are
+
+perpendicular to the same line then they are parallel). Parallelograms have a lot of interesting properties. (You
+
+can explore the properties of a parallelogram at: http://www.mathwarehouse.com/geometry/quadrilaterals/paralle
+
+lograms/interactive-parallelogram.php )
+
+Facts about Parallelograms
+
+1) Opposite Sides Theorem: If a quadrilateral is a parallelogram, then both pairs of opposite sides are congruent.
+
+If
+
+291
+
+6.3. Parallelograms www.ck12.org
+
+then
+
+2) Opposite Angles Theorem: If a quadrilateral is a parallelogram, then both pairs of opposite angles are congruent.
+
+If
+
+then
+
+3) Consecutive Angles Theorem: If a quadrilateral is a parallelogram, then all pairs of consecutive angles are
+
+supplementary.
+
+If
+
+then
+
+m6 A+m6 D = 180◦
+
+m 6 A+m6 B = 180◦
+
+m6 B+m 6 C = 180◦
+
+m 6 C+m6 D = 180◦
+
+4) Parallelogram Diagonals Theorem: If a quadrilateral is a parallelogram, then the diagonals bisect each other.
+
+If
+
+292
+6.3. Parallelograms www.ck12.org
+then
+2) Opposite Angles Theorem: If a quadrilateral is a parallelogram, then both pairs of opposite angles are congruent.
+If
+then
+3) Consecutive Angles Theorem: If a quadrilateral is a parallelogram, then all pairs of consecutive angles are
+supplementary.
+If
+then
+m6 A+m6 D = 180◦
+m 6 A+m6 B = 180◦
+m6 B+m 6 C = 180◦
+m 6 C+m6 D = 180◦
+4) Parallelogram Diagonals Theorem: If a quadrilateral is a parallelogram, then the diagonals bisect each other.
+If
+292
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+then
+Example A
+ABCD is a parallelogram. If m 6 A = 56◦, find the measure of the other angles.
+First draw a picture. When labeling the vertices, the letters are listed, in order.
+If m6 A = 56◦, then m 6 C = 56◦ by the Opposite Angles Theorem.
+m6 A+m6 B = 180◦ by the Consecutive Angles Theorem.
+56◦+m6 B = 180◦
+m6 B = 124◦ m 6 D = 124◦ because it is an opposite angle to 6 B.
+Example B
+Find the values of x and y.
+Remember that opposite sides of a parallelogram are congruent. Set up equations and solve.
+6x−7 = 2x+9 y+3 = 12
+4x = 16 y = 9
+x = 4
+293
+6.3. Parallelograms www.ck12.org
+Example C
+Prove the Opposite Sides Theorem.
+Given: ABCD is a parallelogram with diagonal BD
+Prove: AB∼= DC,AD∼= BC
+TABLE 6.2:
+Statement Reason
+1. ABCD is a parallelogram with diagonal BD 1. Given
+2. AB‖DC,AD‖BC 2. Definition of a parallelogram
+3. 6 ABD∼= 6 BDC, 6 ADB∼= 6 DBC 3. Alternate Interior Angles Theorem
+4. DB∼= DB 4. Reflexive PoC
+5. 4ABD∼=4CDB 5. ASA
+6. AB∼= DC,AD∼= BC 6. CPCTC
+The proof of the Opposite Angles Theorem is almost identical. You will try this proof in the problem set.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136704
+CK-12 Parallelograms
+->
+Guided Practice
+1. Show that the diagonals of FGHJ bisect each other.
+294
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+2. SAND is a parallelogram, SY = 4x−11 and Y N = x+10. Solve for x.
+3. Find the measures of a and b in the parallelogram below:
+Answers:
+1. Find the midpoint of each diagonal.
+(− )4+6 5−4
+Midpoint of FH : ( , = (1,0.5)2 2
+3−1 3− )2
+Midpoint of GJ : , = (1,0.5)
+2 2
+Because they are the same point, the diagonals intersect at each other's midpoint. This means they bisect each other.
+2. Because this is a parallelogram, the diagonals bisect each other and SY ∼= Y N.
+SY = Y N
+4x−11 = x+10
+3x = 21
+x = 7
+3. Consecutive angles are supplementary so 127◦+m6 b = 180◦ which means that m6 b = 53◦. a and b are alternate
+interior angles and since the lines are parallel (since its a parallelogram), that means that m6 a = m6 b = 53◦.
+295
+6.3. Parallelograms www.ck12.org
+Explore More
+ABCD is a parallelogram. Fill in the blanks below.
+1. If AB = 6, then CD = ______.
+2. If AE = 4, then AC = ______.
+3. If m 6 ADC = 80◦,m6 DAB = ______.
+4. If m 6 BAC = 45◦,m6 ACD = ______.
+5. If m 6 CBD = 62◦,m6 ADB = ______.
+6. If DB = 16, then DE = ______.
+7. If m 6 B = 72◦ in parallelogram ABCD, find the other three angles.
+8. If m 6 S = 143◦ in parallelogram PQRS, find the other three angles.
+9. If AB⊥ BC in parallelogram ABCD, find the measure of all four angles.
+10. If m 6 F = x◦ in parallelogram EFGH, find the other three angles.
+For questions 11-18, find the values of the variable(s). All the figures below are parallelograms.
+11.
+12.
+13.
+14.
+15.
+296
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+16.
+17.
+18.
+Use the parallelogram WAV E to find:
+19. m6 AWE
+20. m6 ESV
+21. m6 WEA
+22. m6 AVW
+Find the point of intersection of the diagonals to see if EFGH is a parallelogram.
+23. E(−1,3),F(3,4),G(5,−1),H(1,−2)
+24. E(3,−2),F(7,0),G(9,−4),H(5,−4)
+25. E(−6,3),F(2,5),G(6,−3),H(−4,−5)
+26. E(−2,−2),F(−4,−6),G(−6,−4),H(−4,0)
+Fill in the blanks in the proofs below.
+27. Opposite Angles Theorem
+297
+6.3. Parallelograms www.ck12.org
+Given: ABCD is a parallelogram with diagonal BD
+Prove: 6 A∼= 6 C
+TABLE 6.3:
+Statement Reason
+1. 1. Given
+2. AB‖DC,AD‖BC 2.
+3. 3. Alternate Interior Angles Theorem
+4. 4. Reflexive PoC
+5. 4ABD∼=4CDB 5.
+6. 6 A∼= 6 C 6.
+28. Parallelogram Diagonals Theorem
+Given: ABCD is a parallelogram with diagonals BD and AC
+Prove: AE ∼= EC,DE ∼= EB
+TABLE 6.4:
+Statement Reason
+1. 1.
+2. 2. Definition of a parallelogram
+3. 3. Alternate Interior Angles Theorem
+4. AB∼= DC 4.
+5. 5.
+6. AE ∼= EC,DE ∼= EB 6.
+29. Find x,y◦, and z◦. (The two quadrilaterals with the same side are parallelograms.)
+298
+6.3. Parallelograms www.ck12.org
+
+Given: ABCD is a parallelogram with diagonal BD
+
+Prove: 6 A∼= 6 C
+
+TABLE 6.3:
+
+Statement Reason
+
+1. 1. Given
+
+2. AB‖DC,AD‖BC 2.
+
+3. 3. Alternate Interior Angles Theorem
+
+4. 4. Reflexive PoC
+
+5. 4ABD∼=4CDB 5.
+
+6. 6 A∼= 6 C 6.
+
+28. Parallelogram Diagonals Theorem
+
+Given: ABCD is a parallelogram with diagonals BD and AC
+
+Prove: AE ∼= EC,DE ∼= EB
+
+TABLE 6.4:
+
+Statement Reason
+
+1. 1.
+
+2. 2. Definition of a parallelogram
+
+3. 3. Alternate Interior Angles Theorem
+
+4. AB∼= DC 4.
+
+5. 5.
+
+6. AE ∼= EC,DE ∼= EB 6.
+
+29. Find x,y◦, and z◦. (The two quadrilaterals with the same side are parallelograms.)
+
+298
+
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+

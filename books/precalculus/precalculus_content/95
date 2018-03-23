@@ -1,0 +1,176 @@
+13.4 LIMITS AT INFINIT Y; LIMITS OF SEQUENCES
+Limits at Infinity ! Limits of Sequences
+In this section we st
+f 1udx 2y a special kind of limit called a limit at infinity. We examine thelimit of a function as x becomes large. We also examine the limit of a sequence an as
+n becomes large. Limits of sequences will be used in Section 13.5 to help us find the area
+under the graph of a function.
+x f1x2 ! Limits at InfinityLet's investigate the behavior of the fu
+0 "1.000000 f 1ncx 2tion f defined byx2 " 1$
+x2&1 0.000000 # 1
+&2 0.600000
+&3 0 as x becomes large. The table in the margin gives values of this function rounded to six.800000
+&4 0.882353 decimal places, and the graph of f has been drawn by a computer in Figure 1.
+&5 0.923077
+&10 0.980198 y y=1
+&50 0.999200
+&100 0.999800
+&1000 0.999998
+0 1
+y=≈-1
+x
+≈+1
+F I G U R E  1
+As x grows larger and larger, you can see that the v
+f 1alues of fx 2 1x 2 get closer and closerto 1. In fact, it seems that we can make the values of as close as we like to 1 by tak-
+ing x sufficiently large. This situation is expressed symbolically by writing
+x2 " 1
+lim  $ 1
+xSq x2 # 1
+In general, we use the notation
+f 1 lx 2 im  f 1x 2 $ LxSqto indicate that the values of become closer and closer to L as x becomes larger and
+larger.
+LIMIT AT INFINIT Y
+Let f be a function defined on some interval 1a,  q 2 . Then
+f 1x 2 lim  f 1x 2 $ LxSqmeans that the values of can be made arbitrarily close to L by taking x
+sufficiently large.
+Another notation for lim  f 1x 2 $ L is
+xSq
+Limits at infinity are also discussed in
+Section 3.7. f 1x 2 ! L  as  x!q
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+866 C H A P T E R  1 3 | Limits: A Preview of Calculus
+The sy
+lim  f 1 mx 2bol q does not represent a number. Nevertheless, we often read the expression$ L as
+xSq
+"the limit of f
+f 11x
+f 1xx 22
+2 , as x approaches infinity, is L"
+or "the limit of , as x becomes infinite, is L"
+or "the limit of , as x increases without bound, is L"
+Geometric illustrations are shown in Figure 2. Notice that there are many ways for the
+graph of f to approach the line y $ L (which is called a horizontal asymptote) as we look
+to the far right.
+y y y
+y=L y=Ï y=L
+y=Ï
+y=L y=Ï
+0 x 0 x 0 x
+F I G U R E  2 Examples illustrating lim  f 1x 2 $ L
+xSq
+Referrin
+f 1g x 2back to Figure 1, we see that for numerically large negative values of x, thevalues of are close to 1. By letting x decrease through negative values without bound,
+we can make f 1x 2 as close as we like to 1. This is expressed by writing
+x2 " 1
+lim  2 $ 1
+xS"q x # 1
+The general definition is as follows.
+LIMIT AT NEGATIVE INFINIT Y
+y Let f be a function defined on some interval q  2
+y=Ï
+f 1x 2 lim  f 1x 2
+1" , a . Then
+$ L
+xS"q
+means that the values of can be made arbitrarily close to L by taking x
+y=L sufficiently large negative.
+0 x
+y Again, the symbol "q does not represent a number, but the expression lim  f 1x 2 $ L
+is often read xS"qas
+y=Ï "the limit of f 1x 2 , as x approaches negative infinity, is L"
+y=L The definition is illustrated in Figure 3. Notice that the graph approaches the line y $ L
+as we look to the far left.
+0 x
+F I G U R1E  23 Examples illustrating HORIZONTAL ASYMPTOTElim  f x $ L
+xS"q The line y $ L is called a horizontal asymptote of the curve y $ f 1x 2 if 
+either
+lim  f 1x 2 $ L  or  lim  f 1x 2 $ L
+xSq xS"q
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+866 C H A P T E R  1 3 | Limits: A Preview of Calculus
+The sy
+lim  f 1 mx 2bol q does not represent a number. Nevertheless, we often read the expression$ L as
+xSq
+"the limit of f
+f 11x
+f 1xx 22
+2 , as x approaches infinity, is L"
+or "the limit of , as x becomes infinite, is L"
+or "the limit of , as x increases without bound, is L"
+Geometric illustrations are shown in Figure 2. Notice that there are many ways for the
+graph of f to approach the line y $ L (which is called a horizontal asymptote) as we look
+to the far right.
+y y y
+y=L y=Ï y=L
+y=Ï
+y=L y=Ï
+0 x 0 x 0 x
+F I G U R E  2 Examples illustrating lim  f 1x 2 $ L
+xSq
+Referrin
+f 1g x 2back to Figure 1, we see that for numerically large negative values of x, thevalues of are close to 1. By letting x decrease through negative values without bound,
+we can make f 1x 2 as close as we like to 1. This is expressed by writing
+x2 " 1
+lim  2 $ 1
+xS"q x # 1
+The general definition is as follows.
+LIMIT AT NEGATIVE INFINIT Y
+y Let f be a function defined on some interval q  2
+y=Ï
+f 1x 2 lim  f 1x 2
+1" , a . Then
+$ L
+xS"q
+means that the values of can be made arbitrarily close to L by taking x
+y=L sufficiently large negative.
+0 x
+y Again, the symbol "q does not represent a number, but the expression lim  f 1x 2 $ L
+is often read xS"qas
+y=Ï "the limit of f 1x 2 , as x approaches negative infinity, is L"
+y=L The definition is illustrated in Figure 3. Notice that the graph approaches the line y $ L
+as we look to the far left.
+0 x
+F I G U R1E  23 Examples illustrating HORIZONTAL ASYMPTOTElim  f x $ L
+xS"q The line y $ L is called a horizontal asymptote of the curve y $ f 1x 2 if 
+either
+lim  f 1x 2 $ L  or  lim  f 1x 2 $ L
+xSq xS"q
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 4 | Limits at Infinity; Limits of Sequences 867
+y For instance, the curve illustrated in Figure 1 has the line y $ 1 as a horizontal as-
+pi ymptote because
+2
+x2 " 1
+lim  
+0 x
+2 $ 1
+xSq # 1
+x As we discovered in Section 5.5, an example of a curve with two horizontal asymp-
+totes is y $ tan"1x (see Figure 4). In fact,
+_pi2 plim  tan"1 x $ " n"1
+p
+  and  lim  ta  x $
+xS"q 2 xSq 2
+F I G U R E  4 y $ tan"1 x so both of the lines y $ "p/2 and y $ p/2 are horizontal asymptotes. (This follows from
+the fact that the lines x $ &p/2 are vertical asymptotes of the graph of tan.)
+E X A M P L E  1 Limits at Infinity
+1 1
+Find lim   and lim  .
+xSq x xS"q x
+We first investigated horizontal S O L U T I O N Observe that when x is large, 1/x is small. For instance,
+asymptotes and limits at infinity for 
+rational functions in Section 3.7. 1 1 1$ 0.01   $ 0.0001   $ 0.000001
+100 10,000 1,000,000
+In fact, by taking x large enough, we can make 1/x as close to 0 as we please. Therefore
+y 1
+lim  $ 0
+y=1 xSq
+x
+x
+Similar reasoning shows that when x is large negative, 1/x is small negative, so we also
+have
+0 x 1lim  $ 0
+xS"q x
+It follows that the line y $ 0 (the x-axis) is a horizontal asymptote of the curve y $ 1/x.
+(This is a hyperbola; see Figure 5.)
+1 1

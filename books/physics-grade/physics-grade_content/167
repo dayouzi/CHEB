@@ -1,0 +1,72 @@
+11.3 Notation
+
+Vectors are different to scalars and therefore has its own notation.
+
+211
+
+11.4 CHAPTER 11. VECTORS
+
+Chapter 11
+
+Vectors
+
+11.1 Introduction
+
+This chapter focuses on vectors. We will learn what is a vector, how it differs from everyday
+
+numbers, how to add, subtract and multiply them and where they appear in Physics.
+
+Are vectors Physics? No, vectors themselves are not Physics. Physics is just a description of
+
+the world around us. To describe something we need to use a language. The most common
+
+language used to describe Physics is Mathematics. Vectors form a very important part of the
+
+mathematical description of Physics, so much so that it is absolutely essential to master the use
+
+of vectors.
+
+11.2 Scalars and Vectors
+
+In Mathematics, you learned that a number is something that represents a quantity. For example
+
+if you have 5 books, 6 apples and 1 bicycle, the 5, 6, and 1 represent how many of each item
+
+you have.
+
+These kinds of numbers are known as scalars.
+
+Definition: Scalar
+
+A scalar is a quantity that has only magnitude (size).
+
+An extension to a scalar is a vector, which is a scalar with a direction. For example, if you travel
+
+1 km down Main Road to school, the quantity 1 km down Main Road is a vector. The 1 km
+
+is the quantity (or scalar) and the down Main Road gives a direction.
+
+In Physics we use the word magnitude to refer to the scalar part of the vector.
+
+Definition: Vectors
+
+A vector is a quantity that has both magnitude and direction.
+
+A vector should tell you how much and which way.
+
+For example, a man is driving his car east along a freeway at 100 km·hr−1. What we have given
+
+here is a vector - the velocity. The car is moving at 100 km·hr−1(this is the magnitude) and we
+
+know where it is going - east (this is the direction). Thus, we know the speed and direction of
+
+the car. These two quantities, a magnitude and a direction, form a vector we call velocity.
+
+11.3 Notation
+
+Vectors are different to scalars and therefore has its own notation.
+
+211
+
+11.4 CHAPTER 11. VECTORS
+

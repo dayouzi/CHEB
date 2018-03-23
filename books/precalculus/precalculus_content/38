@@ -1,0 +1,159 @@
+5.3 TRIGONOMETRIC GRAPHS
+Graphs of Sine and Cosine ! Graphs of Transformations of Sine and Cosine
+! Using Graphing Devices to Graph Trigonometric Functions
+The graph of a function gives us a better idea of its behavior. So, in this section we graph
+the sine and cosine functions and certain transformations of these functions. The other
+trigonometric functions are graphed in the next section.
+! Graphs of Sine and Cosine
+To help us graph the sine and cosine functions, we first observe that these functions repeat
+their values in a regular fashion. To see exactly how this happens, recall that the circumfer-
+ence of the unit circle is 2p. It follows that the terminal point P1x, y 2 determined by the real
+number t is the same as that determined by t ! 2p. Since the sine and cosine functions are
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  5 . 3 | Trigonometric Graphs 387
+defined in terms of the coordinates of P1x, y 2 , it follows that their values are unchanged by
+the addition of any integer multipl
+ sin1t ! 2np 2e of 2p. In other words," sin t    for any integer n
+ cos1t ! 2np 2 " cos t   for any integer n
+Thus, the sine and cosine functions are periodic according to the following definition: A
+function f is periodic if there is a positive number p such that f 1t ! p 2 " f 1t 2 for every t.
+The least such positive number (if it exists) is the period of f. If f has period p, then the
+graph of f on any interval of length p is called one complete period of f.
+PERIODIC PROPERTIES OF SINE AND COSINE
+The functions sine and cosine have period 2p:
+sin1t ! 2p 2 " sin t          c os1t ! 2p 2 " cos t
+T A B L E  1
+So the sine and cosine functions repeat their values in any interval of length 2p. To sketch
+t sin t cos t their graphs, we first graph one period. To sketch the graphs on the interval 0 - t - 2p, we
+p could try to make a table of values and use those points to draw the graph. Since no such table
+0! 0 ! 1 1 ! 0
+2 can be complete, let's look more closely at the definitions of these functions.
+p Recall that sin t is the y-coordinate of the terminal point 
+!p 1 ! 0 0 ! #1
+2
+3p
+p! 0 ! #1 #1 ! 0
+2 P1x, y 2 P1x, y 2
+P1x, y 2 on the unit circle de-
+termined by the real number t. How does the y-coordinate of this point vary as t increases?
+It's easy to see that the y-coordinate of increases to 1, then decreases to #1 re-
+peatedly as the point travels around the unit circle. (See Figure 1.) In fact, as t in-
+3p creases from 0 to p/2, y " sin t increases from 0 to 1. As t increases from p/2 to p, the
+! 2p #1 ! 0 0 ! 1
+2 value of y " sin t decreases from 1 to 0. Table 1 shows the variation of the sine and co-
+sine functions for t between 0 and 2p.
+y y
+(ç t‚, ß t‚) y=ß t
+t‚
+2pi
+0 1 x 0 t‚ t
+F I G U R E  1 To draw the graphs more accurately, we find a few other values of sin t and cos t in
+Table 2. We could find still other values with the aid of a calculator.
+T A B L E  2
+p
+1 1p p 1 1 13 12p 5p 7p 4p 3p 5p 1pt 0 p 2p6 3 2 3 6 6 3 2 3 63 1 1 3 3 1
+sin t 0 1 1 1 0 # # #1 # # 02 2 2 2 2 2 2 23 1 1 3 13 1 1 13
+cos t 1 0 # # #1 # # 0 1
+2 2 2 2 2 2 2 2
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  5 . 3 | Trigonometric Graphs 387
+defined in terms of the coordinates of P1x, y 2 , it follows that their values are unchanged by
+the addition of any integer multipl
+ sin1t ! 2np 2e of 2p. In other words," sin t    for any integer n
+ cos1t ! 2np 2 " cos t   for any integer n
+Thus, the sine and cosine functions are periodic according to the following definition: A
+function f is periodic if there is a positive number p such that f 1t ! p 2 " f 1t 2 for every t.
+The least such positive number (if it exists) is the period of f. If f has period p, then the
+graph of f on any interval of length p is called one complete period of f.
+PERIODIC PROPERTIES OF SINE AND COSINE
+The functions sine and cosine have period 2p:
+sin1t ! 2p 2 " sin t          c os1t ! 2p 2 " cos t
+T A B L E  1
+So the sine and cosine functions repeat their values in any interval of length 2p. To sketch
+t sin t cos t their graphs, we first graph one period. To sketch the graphs on the interval 0 - t - 2p, we
+p could try to make a table of values and use those points to draw the graph. Since no such table
+0! 0 ! 1 1 ! 0
+2 can be complete, let's look more closely at the definitions of these functions.
+p Recall that sin t is the y-coordinate of the terminal point 
+!p 1 ! 0 0 ! #1
+2
+3p
+p! 0 ! #1 #1 ! 0
+2 P1x, y 2 P1x, y 2
+P1x, y 2 on the unit circle de-
+termined by the real number t. How does the y-coordinate of this point vary as t increases?
+It's easy to see that the y-coordinate of increases to 1, then decreases to #1 re-
+peatedly as the point travels around the unit circle. (See Figure 1.) In fact, as t in-
+3p creases from 0 to p/2, y " sin t increases from 0 to 1. As t increases from p/2 to p, the
+! 2p #1 ! 0 0 ! 1
+2 value of y " sin t decreases from 1 to 0. Table 1 shows the variation of the sine and co-
+sine functions for t between 0 and 2p.
+y y
+(ç t‚, ß t‚) y=ß t
+t‚
+2pi
+0 1 x 0 t‚ t
+F I G U R E  1 To draw the graphs more accurately, we find a few other values of sin t and cos t in
+Table 2. We could find still other values with the aid of a calculator.
+T A B L E  2
+p
+1 1p p 1 1 13 12p 5p 7p 4p 3p 5p 1pt 0 p 2p6 3 2 3 6 6 3 2 3 63 1 1 3 3 1
+sin t 0 1 1 1 0 # # #1 # # 02 2 2 2 2 2 2 23 1 1 3 13 1 1 13
+cos t 1 0 # # #1 # # 0 1
+2 2 2 2 2 2 2 2
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+388 C H A P T E R  5 | Trigonometric Functions: Unit Circle Approach
+Now we use this information to graph the functions sin t and cos t for t between
+0 and 2p in Figures 2 and 3. These are the graphs of one period. Using the fact that these
+functions are periodic with period 2p, we get their complete graphs by continuing the same
+pattern to the left and to the right in every successive interval of length 2p.
+The graph of the sine function is symmetric with respect to the origin. This is as ex-
+pected, since sine is an odd function. Since the cosine function is an even function, its
+graph is symmetric with respect to the y-axis.
+y y
+4pi 5pi
+3 3
+1 7pi 3pi 11pi 1 y=ß t
+6 2 6
+0 pi pi 5pipi 2pi t _pi 0 pi 2pi 3pi 4pi t
+_1 6 2 6pi 2pi _1
+3 3
+One period of y=ß t Period 2pi
+0≤t≤2pi
+F I G U R E  2 Graph of sin t
+y y
+2pi 4pi
+3 3
+1 1 y=ç t5pi 7pi 3pi
+6 6 2
+0 pi pi pi 5pi 2pi t _pi 0 pi 2pi 3pi 4pi t
+_1 6 2 3pi 11pi _1
+3 6
+One period of y=ç t Period 2pi
+0≤t≤2pi
+F I G U R E  3 Graph of cos t
+! Graphs of Transformations of Sine and Cosine
+We now consider graphs of functions that are transformations of the sine and cosine func-
+tions. Thus, the graphing techniques of Section 2.5 are very useful here. The graphs we
+obtain are important for understanding applications to physical situations such as har-
+monic motion (see Section 5.6), but some of them are beautiful graphs that are interest-
+ing in their own right.
+It's traditional to use the letter x to denote the variable in the domain of a function. So
+from here on we use the letter x and write y " sin x, y " cos x, y " tan x, and so on to
+denote these functions.
+E X A M P L E  1 Cosine Curves
+Sketch the graph of each function.
+(a) f 1x 2 " 2 ! cos x (b) g1x 2 " #cos x
+S O L U T I O N
+(a) The graph of y " 2 ! cos x is the same as the graph of y " cos x, but shifted up 2
+units (see Figure 4(a)).
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  5 . 3 | Trigonometric Graphs 389
+(b) The graph of y " #cos x in Figure 4(b) is the reflection of the graph of y " cos x
+in the x-axis.
+Ï ˝
+Ï=2+ç x
+1 1 ˝=_ç x
+0 pi 2pi x 0 pi 2pi x
+_1 y=ç x _1 y=ç x
+F I G U R E  4 (a) (b)

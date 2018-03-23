@@ -1,0 +1,71 @@
+12.4 MATHEMATICS OF FINANCE
+The Amount of an Annuity ! The Present Value of an Annuity
+! Installment Buying
+Many financial transactions involve payments that are made at regular intervals. For ex-
+ample, if you deposit $100 each month in an interest-bearing account, what will the value
+of your account be at the end of 5 years? If you borrow $100,000 to buy a house, how
+much must your monthly payments be in order to pay off the loan in 30 years? Each of
+these questions involves the sum of a sequence of numbers; we use the results of the pre-
+ceding section to answer them here.
+! The Amount of an Annuity
+An annuity is a sum of money that is paid in regular equal payments. Although the word
+annuity suggests annual (or yearly) payments, they can be made semiannually, quarterly,
+monthly, or at some other regular interval. Payments are usually made at the end of the
+payment interval. The amount of an annuity is the sum of all the individual payments
+from the time of the first payment until the last payment is made, together with all the in-
+terest. We denote this sum by Af (the subscript f here is used to denote final amount).
+E X A M P L E  1 | Calculating the Amount of an Annuity
+An investor deposits $400 every December 15 and June 15 for 10 years in an account that
+earns interest at the rate of 8% per year, compounded semiannually. How much will be in
+the account immediately after the last payment?
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 2 . 4 | Mathematics of Finance 809
+S O L U T I O N We need to find the amount of an annuity consisting of 20 semiannual pay-
+When using interest rates in calcu- ments of $400 each. Since the interest rate is 8% per year, compounded semiannually, the
+lators, remember to convert percentages interest rate per time period is i ! 0.08/2 ! 0.04. The first payment is in the account for
+to decimals. For example, 8% is 0.08. 19 time periods, the second for 18 time periods, and so on.
+The last payment receives no interest. The situation can be illustrated by the time line
+in Figure 1.
+Time NOW 1 2 3 9 10
+(years) …
+Payment 400 400 400 400 400 400 400 400 400 400
+(dollars) 400(1.04)
+400(1.04)2
+400(1.04)3
+400(1.04)14
+400(1.04)15
+400(1.04)16
+400(1.04)17
+400(1.04)18
+F I G U R E  1 400(1.04)19
+The amount Af of the annuity is the sum of these 20 amounts. Thus
+Af ! 400 # 40011.04 2 # 40011.04 2 2 # . . . # 40011.04 2 19
+But this is a geometric series with a ! 400, r ! 1.04, and n ! 20, so
+1 " 11.04 2 20
+Af ! 400  ! 11,911.231 " 1.04
+Thus the amount in the account after the last payment is $11,911.23.
+S E C T I O N  1 2 . 4 | Mathematics of Finance 809
+S O L U T I O N We need to find the amount of an annuity consisting of 20 semiannual pay-
+When using interest rates in calcu- ments of $400 each. Since the interest rate is 8% per year, compounded semiannually, the
+lators, remember to convert percentages interest rate per time period is i ! 0.08/2 ! 0.04. The first payment is in the account for
+to decimals. For example, 8% is 0.08. 19 time periods, the second for 18 time periods, and so on.
+The last payment receives no interest. The situation can be illustrated by the time line
+in Figure 1.
+Time NOW 1 2 3 9 10
+(years) …
+Payment 400 400 400 400 400 400 400 400 400 400
+(dollars) 400(1.04)
+400(1.04)2
+400(1.04)3
+400(1.04)14
+400(1.04)15
+400(1.04)16
+400(1.04)17
+400(1.04)18
+F I G U R E  1 400(1.04)19
+The amount Af of the annuity is the sum of these 20 amounts. Thus
+Af ! 400 # 40011.04 2 # 40011.04 2 2 # . . . # 40011.04 2 19
+But this is a geometric series with a ! 400, r ! 1.04, and n ! 20, so
+1 " 11.04 2 20
+Af ! 400  ! 11,911.231 " 1.04
+Thus the amount in the account after the last payment is $11,911.23.

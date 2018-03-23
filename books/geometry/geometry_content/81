@@ -1,0 +1,231 @@
+8.4 Inscribed Similar Triangles
+
+Here you'll learn the Inscribed Similar Triangles Theorem that states that a line drawn from the right angle of a right
+
+triangle perpendicular to the opposite side of the triangle creates similar triangles. You'll then use this fact to find
+
+missing lengths in right triangles.
+
+What if you drew a line from the right angle of a right triangle perpendicular to the side that is opposite that angle?
+
+How could you determine the length of that line? After completing this Concept, you'll be able to solve problems
+
+like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136646
+
+CK-12 Foundation: Inscribed Similar Triangles
+
+Guidance
+
+Remember that if two objects are similar, their corresponding angles are congruent and their sides are proportional
+
+in length. The altitude of a right triangle creates similar triangles.
+
+Inscribed Similar Triangles Theorem: If an altitude is drawn from the right angle of any right triangle, then the
+
+two triangles formed are similar to the original triangle and all three triangles are similar to each other.
+
+In4ADB,m6 A = 90◦ and AC⊥DB:
+
+So,4ADB∼4CDA∼4CAB:
+
+This means that all of the corresponding sides are proportional. You can use this fact to find missing lengths in right
+
+triangles.
+
+425
+
+8.4. Inscribed Similar Triangles www.ck12.org
+
+Example A
+
+Find the value of x.
+
+Separate the triangles to find the corresponding sides.
+
+Set up a proportion.
+
+shorter leg in4EDG hypotenuse in4EDG
+
+=
+
+shorter leg in4DFG hypotenuse in4DFG
+
+6 10
+
+=
+
+x 8
+
+48 = 10x
+
+4.8 = x
+
+Example B
+
+Find the value of x.
+
+Set up a proportion.
+
+426
+8.4. Inscribed Similar Triangles www.ck12.org
+Example A
+Find the value of x.
+Separate the triangles to find the corresponding sides.
+Set up a proportion.
+shorter leg in4EDG hypotenuse in4EDG
+=
+shorter leg in4DFG hypotenuse in4DFG
+6 10
+=
+x 8
+48 = 10x
+4.8 = x
+Example B
+Find the value of x.
+Set up a proportion.
+426
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+shorter leg o f smallest 4 longer leg o f smallest 4
+shorter leg o f middle4 = longer leg o f middle4
+9 x
+=
+x 27
+x2 = 2√43 √
+x = 243 = 9 3
+Example C
+Find the values of x and y.
+Separate the triangles. Write a proportion for x.
+20 x
+=
+x 35
+x2 = 2√0 ·35
+x = 2√0 ·35
+x = 10 7
+Set up a proportion for y. Or, now that you know the value of x you can use the Pythagorean Theorem to solve for y.
+Use the method you feel most comfortable with.
+15 y √
+= (10 7)2 + y2 = 352
+y 35
+y2 = 1√5 ·35 700+ y
+2 = 1√225 √
+y = √15 ·35 y = 525 = 5 21
+y = 5 21
+427
+8.4. Inscribed Similar Triangles www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136647
+CK-12 Foundation: Inscribed Similar Triangles
+->
+Guided Practice
+1. Find the value of x.
+2. Now find the value of y in4RST above.
+3. Write the similarity statement for the right triangles in the diagram.
+Answers:
+1. Set up a proportion.
+shorter leg in4SV T hypotenuse in4SV T
+=
+shorter leg in4RST hypotenuse in4RST
+4 x
+=
+x 20
+x2 = 8√0 √
+x = 80 = 4 5
+2. Use the Pythagorean Theorem.
+428
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+( √ )2
+y2 + 4 5 = 202
+y2 +80 = 400
+y2 = 3√20 √
+y = 320 = 8 5
+3. 4ACD∼4DCB∼4ADB
+Explore More
+Fill in the blanks.
+1. 4BAD∼4 ∼4
+2. BC? =
+?
+CD
+3. BCAB =
+AB
+?
+4. ?AD =
+AD
+BD
+Write the similarity statement for the right triangles in each diagram.
+5.
+6.
+Use the diagram to answer questions 7-10.
+429
+8.4. Inscribed Similar Triangles www.ck12.org
+7. Write the similarity statement for the three triangles in the diagram.
+8. If JM = 12 and ML = 9, find KM.
+9. Find JK.
+10. Find KL.
+Find the length of the missing variable(s). Simplify all radicals.
+11.
+12.
+13.
+14.
+15.
+430
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23. Fill in the blanks of the proof for the Inscribed Similar Triangles Theorem.
+Given: 4ABD with AC ⊥ DB and 6 DAB is a right angle.
+431
+8.4. Inscribed Similar Triangles www.ck12.org
+Prove: 4ABD∼4CBA∼4CAD
+TABLE 8.1:
+Statement Reason
+1. 1. Given
+2. 6 DCA and 6 ACB are right angles 2.
+3. 6 DAB∼= 6 DCA∼= 6 ACB 3.
+4. 4. Reflexive PoC
+5. 5. AA Similarity Postulate
+6. B∼= 6 B 6.
+7. 4CBA∼=4ABD 7.
+8. 4CAD∼=4CBA 8.
+432
+8.4. Inscribed Similar Triangles www.ck12.org
+
+Prove: 4ABD∼4CBA∼4CAD
+
+TABLE 8.1:
+
+Statement Reason
+
+1. 1. Given
+
+2. 6 DCA and 6 ACB are right angles 2.
+
+3. 6 DAB∼= 6 DCA∼= 6 ACB 3.
+
+4. 4. Reflexive PoC
+
+5. 5. AA Similarity Postulate
+
+6. B∼= 6 B 6.
+
+7. 4CBA∼=4ABD 7.
+
+8. 4CAD∼=4CBA 8.
+
+432
+
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+

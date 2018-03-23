@@ -1,0 +1,362 @@
+12.4.2 Comparative Problems
+
+Comparative problems involve calculation of something in terms of something else that we know.
+
+For example, if you weigh 490 N on Earth and the gravitational acceleration on Venus is 0,903
+
+that of the gravitational acceleration on the Earth, then you would weigh 0,903 x 490 N = 442,5 N
+
+on Venus.
+
+Principles for answering comparative problems
+
+• Write out equations and calculate all quantities for the given situation
+
+• Write out all relationships between variable from first and second case
+
+• Write out second case
+
+• Substitute all first case variables into second case
+
+• Write second case in terms of first case
+
+Worked Example 83: Comparative Problem 1
+
+Question: On Earth a man has a mass of 70 kg. The planet Zirgon is the same
+
+size as the Earth but has twice the mass of the Earth. What would the man weigh
+
+on Zirgon, if the gravitational acceleration on Earth is 9,8 m·s−2?
+
+Answer
+
+Step 1 : Determine what information has been given
+
+The following has been provided:
+
+• the mass of the man on Earth, m
+
+• the mass of the planet Zirgon (mZ) in terms of the mass of the Earth (mE),
+
+mZ = 2mE
+
+• the radius of the planet Zirgon (rZ) in terms of the radius of the Earth (rE),
+
+rZ = rE
+
+Step 2 : Determine how to approach the problem
+
+We are required to determine the man's weight on Zirgon (wZ). We can do this by
+
+using:
+
+m1 ·m2
+
+w = mg = G
+
+r2
+
+to calculate the weight of the man on Earth and then use this value to determine
+
+the weight of the man on Zirgon.
+
+Step 3 : Situation on Earth
+
+mE ·m
+
+wE = mgE = G
+
+r2E
+
+= (70 kg)(9,8m · s−2)
+
+= 686N
+
+Step 4 : Situation on Zirgon in terms of situation on Earth
+
+Write the equation for the gravitational force on Zirgon and then substitute the
+
+284
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.4
+
+values for mZ and rZ , in terms of the values for the Earth.
+
+mZ ·m
+
+wZ = mgZ = G
+
+r2Z
+
+2mE ·m
+
+= G
+
+r2E
+
+mE ·m
+
+= 2(G )
+
+r2E
+
+= 2wE
+
+= 2(686N)
+
+= 1 372N
+
+Step 5 : Quote the final answer
+
+The man weighs 1 372 N on Zirgon.
+
+Worked Example 84: Comparative Problem 2
+
+Question: On Earth a man weighs 70 kg. On the planet Beeble how much will he
+
+weigh if Beeble has mass half of that of the Earth and a radius one quarter that of
+
+the Earth. Gravitational acceleration on Earth is 9,8 m·s−2.
+
+Answer
+
+Step 1 : Determine what information has been given
+
+The following has been provided:
+
+• the mass of the man on Earth, m
+
+• the mass of the planet Beeble (mB) in terms of the mass of the Earth (mE),
+
+mB =
+
+1
+
+2mE
+
+• the radius of the planet Beeble (rB) in terms of the radius of the Earth (rE),
+
+rB =
+
+1
+
+4rE
+
+Step 2 : Determine how to approach the problem
+
+We are required to determine the man's weight on Beeble (wB). We can do this by
+
+using:
+
+m1 ·m2
+
+w = mg = G (12.7)
+
+r2
+
+to calculate the weight of the man on Earth and then use this value to determine
+
+the weight of the man on Beeble.
+
+Step 3 : Situation on Earth
+
+mE ·m
+
+wE = mgE = G
+
+r2E
+
+= (70 kg)(9,8m · s−2)
+
+= 686N
+
+Step 4 : Situation on Beeble in terms of situation on Earth
+
+Write the equation for the gravitational force on Beeble and then substitute the
+
+285
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.4
+values for mZ and rZ , in terms of the values for the Earth.
+mZ ·m
+wZ = mgZ = G
+r2Z
+2mE ·m
+= G
+r2E
+mE ·m
+= 2(G )
+r2E
+= 2wE
+= 2(686N)
+= 1 372N
+Step 5 : Quote the final answer
+The man weighs 1 372 N on Zirgon.
+Worked Example 84: Comparative Problem 2
+Question: On Earth a man weighs 70 kg. On the planet Beeble how much will he
+weigh if Beeble has mass half of that of the Earth and a radius one quarter that of
+the Earth. Gravitational acceleration on Earth is 9,8 m·s−2.
+Answer
+Step 1 : Determine what information has been given
+The following has been provided:
+• the mass of the man on Earth, m
+• the mass of the planet Beeble (mB) in terms of the mass of the Earth (mE),
+mB =
+1
+2mE
+• the radius of the planet Beeble (rB) in terms of the radius of the Earth (rE),
+rB =
+1
+4rE
+Step 2 : Determine how to approach the problem
+We are required to determine the man's weight on Beeble (wB). We can do this by
+using:
+m1 ·m2
+w = mg = G (12.7)
+r2
+to calculate the weight of the man on Earth and then use this value to determine
+the weight of the man on Beeble.
+Step 3 : Situation on Earth
+mE ·m
+wE = mgE = G
+r2E
+= (70 kg)(9,8m · s−2)
+= 686N
+Step 4 : Situation on Beeble in terms of situation on Earth
+Write the equation for the gravitational force on Beeble and then substitute the
+285
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.4
+
+values for mZ and rZ , in terms of the values for the Earth.
+
+mZ ·m
+
+wZ = mgZ = G
+
+r2Z
+
+2mE ·m
+
+= G
+
+r2E
+
+mE ·m
+
+= 2(G )
+
+r2E
+
+= 2wE
+
+= 2(686N)
+
+= 1 372N
+
+Step 5 : Quote the final answer
+
+The man weighs 1 372 N on Zirgon.
+
+Worked Example 84: Comparative Problem 2
+
+Question: On Earth a man weighs 70 kg. On the planet Beeble how much will he
+
+weigh if Beeble has mass half of that of the Earth and a radius one quarter that of
+
+the Earth. Gravitational acceleration on Earth is 9,8 m·s−2.
+
+Answer
+
+Step 1 : Determine what information has been given
+
+The following has been provided:
+
+• the mass of the man on Earth, m
+
+• the mass of the planet Beeble (mB) in terms of the mass of the Earth (mE),
+
+mB =
+
+1
+
+2mE
+
+• the radius of the planet Beeble (rB) in terms of the radius of the Earth (rE),
+
+rB =
+
+1
+
+4rE
+
+Step 2 : Determine how to approach the problem
+
+We are required to determine the man's weight on Beeble (wB). We can do this by
+
+using:
+
+m1 ·m2
+
+w = mg = G (12.7)
+
+r2
+
+to calculate the weight of the man on Earth and then use this value to determine
+
+the weight of the man on Beeble.
+
+Step 3 : Situation on Earth
+
+mE ·m
+
+wE = mgE = G
+
+r2E
+
+= (70 kg)(9,8m · s−2)
+
+= 686N
+
+Step 4 : Situation on Beeble in terms of situation on Earth
+
+Write the equation for the gravitational force on Beeble and then substitute the
+
+285
+
+12.4 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+values for mB and rB , in terms of the values for the Earth.
+
+mB ·m
+
+wB = mgB = G
+
+r2B
+
+1mE ·m
+
+= G 2
+
+(14rE)
+
+2
+
+mE ·m
+
+= 8(G
+
+r2
+
+)
+
+E
+
+= 8wE
+
+= 8(686N)
+
+= 5 488N
+
+Step 5 : Quote the final answer
+
+The man weighs 5 488 N on Beeble.
+

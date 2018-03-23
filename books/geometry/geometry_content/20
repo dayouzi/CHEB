@@ -1,0 +1,403 @@
+2.7. Two-Column Proofs www.ck12.org
+
+2.7 Two-Column Proofs
+
+Here you'll learn how to create two-column proofs with statements and reasons for each step you take in proving a
+
+geometric statement.
+
+−
+
+Suppose you are told that 6
+
+→
+
+XY Z is a right angle and that YW bisects 6 XY Z. You are then asked to prove 6 XYW ∼=
+
+6 WY Z. After completing this Concept, you'll be able to create a two-column proof to prove this congruency.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136613
+
+CK-12 Two Column Proofs
+
+Guidance
+
+A two column proof is one common way to organize a proof in geometry. Two column proofs always have two
+
+columns- statements and reasons. The best way to understand two column proofs is to read through examples.
+
+When writing your own two column proof, these keep things in mind:
+
+• Number each step.
+
+• Start with the given information.
+
+• Statements with the same reason can be combined into one step. It is up to you.
+
+• Draw a picture and mark it with the given information.
+
+• You must have a reason for EVERY statement.
+
+• The order of the statements in the proof is not always fixed, but make sure the order makes logical
+
+sense.
+
+• Reasons will be definitions, postulates, properties and previously proven theorems. "Given" is only used
+
+as a reason if the information in the statement column was told in the problem.
+
+• Use symbols and abbreviations for words within proofs. For example, ∼= can be used in place of the word
+
+congruent. You could also use 6 for the word angle.
+
+Example A
+
+Write a two-column proof for the following:
+
+If A,B,C, and D are points on a line, in the given order, and AB =CD, then AC = BD.
+
+When the statement is given in this way, the "if" part is the given and the "then" part is what we are trying to prove.
+
+Always start with drawing a picture of what you are given.
+
+Plot the points in the order A,B,C,D on a line.
+
+88
+
+www.ck12.org Chapter 2. Reasoning and Proof
+
+Add the given, AB =CD.
+
+Draw the 2-column proof and start with the given information.
+
+TABLE 2.2:
+
+Statement Reason
+
+1. A,B,C, and D are collinear, in that order. 1. Given
+
+2. AB =CD 2. Given
+
+3. BC = BC 3. Reflexive PoE
+
+4. AB+BC = BC+CD 4. Addition PoE
+
+5. AB+BC = AC 5. Segment Addition Postulate
+
+BC+CD = BD
+
+6. AC = BD 6. Substitution or Transitive PoE
+
+Example B
+
+Write a two-column proof.
+
+−→
+
+Given: BF bisects 6 ABC; 6 ABD∼= 6 CBE
+
+Prove: 6 DBF ∼= 6 EBF
+
+First, put the appropriate markings on the picture. Recall, that bisect means "to cut in half." Therefore, m6 ABF =
+
+m6 FBC.
+
+89
+www.ck12.org Chapter 2. Reasoning and Proof
+Add the given, AB =CD.
+Draw the 2-column proof and start with the given information.
+TABLE 2.2:
+Statement Reason
+1. A,B,C, and D are collinear, in that order. 1. Given
+2. AB =CD 2. Given
+3. BC = BC 3. Reflexive PoE
+4. AB+BC = BC+CD 4. Addition PoE
+5. AB+BC = AC 5. Segment Addition Postulate
+BC+CD = BD
+6. AC = BD 6. Substitution or Transitive PoE
+Example B
+Write a two-column proof.
+−→
+Given: BF bisects 6 ABC; 6 ABD∼= 6 CBE
+Prove: 6 DBF ∼= 6 EBF
+First, put the appropriate markings on the picture. Recall, that bisect means "to cut in half." Therefore, m6 ABF =
+m6 FBC.
+89
+2.7. Two-Column Proofs www.ck12.org
+TABLE 2.3:
+Sta−t→ement Reason
+1. BF bisects 6 ABC, 6 ABD∼= 6 CBE 1. Given
+2. m6 ABF = m6 FBC 2. Definition of an Angle Bisector
+3. m6 ABD = m 6 CBE 3. If angles are ∼=, then their measures are equal.
+4. m6 ABF = m6 ABD+m6 DBF 4. Angle Addition Postulate
+m6 FBC = m 6 EBF +m6 CBE
+5. m6 ABD+m6 DBF = m 6 EBF +m 6 CBE 5. Substitution PoE
+6. m6 ABD+m6 DBF = m 6 EBF +m 6 ABD 6. Substitution PoE
+7. m6 DBF = m6 EBF 7. Subtraction PoE
+8. 6 DBF ∼= 6 EBF 8. If measures are equal, the angles are ∼=.
+Example C
+The Right Angle Theorem states that if two angles are right angles, then the angles are congruent. Prove this
+theorem.
+To prove this theorem, set up your own drawing and name some angles so that you have specific angles to talk about.
+Given: 6 A and 6 B are right angles
+Prove: 6 A∼= 6 B
+TABLE 2.4:
+Statement Reason
+1. 6 A and 6 B are right angles 1. Given
+2. m6 A = 90◦ and m6 B = 90◦ 2. Definition of right angles
+3. m6 A = m 6 B 3. Transitive PoE
+4. 6 A∼= 6 B 4. ∼= angles have = measures
+Any time right angles are mentioned in a proof, you will need to use this theorem to say the angles are congruent.
+Example D
+The Same Angle Supplements Theorem states that if two angles are supplementary to the same angle then the two
+angles are congruent. Prove this theorem.
+Given: 6 A and 6 B are supplementary angles. 6 B and 6 C are supplementary angles.
+Prove: 6 A∼= 6 C
+90
+www.ck12.org Chapter 2. Reasoning and Proof
+TABLE 2.5:
+Statement Reason
+1. 6 A and 6 B are supplementary 1. Given
+6 B and 6 C are supplementary
+2. m6 A+m 6 B = 180◦ 2. Definition of supplementary angles
+m6 B+m6 C = 180◦
+3. m6 A+m 6 B = m6 B+m6 C 3. Substitution PoE
+4. m6 A = m 6 C 4. Subtraction PoE
+5. 6 A∼= 6 C 5. ∼= angles have = measures
+Example E
+The Vertical Angles Theorem states that vertical angles are congruent. Prove this theorem.
+Given: Lines k and m intersect.
+Prove: 6 1∼= 6 3
+TABLE 2.6:
+Statement Reason
+1. Lines k and m intersect 1. Given
+2. 6 1 and 6 2 are a linear pair 2. Definition of a Linear Pair
+6 2 and 6 3 are a linear pair
+3. 6 1 and 6 2 are supplementary 3. Linear Pair Postulate
+6 2 and 6 3 are supplementary
+4. m6 1+m 6 2 = 180◦ 4. Definition of Supplementary Angles
+m6 2+m6 3 = 180◦
+5. m6 1+m 6 2 = m6 2+m6 3 5. Substitution PoE
+6. m6 1 = m6 3 6. Subtraction PoE
+7. 6 1∼= 6 3 7. ∼= angles have = measures
+->
+Guided Practice
+1. 6 1∼= 6 4 and 6 C and 6 F are right angles.
+Which angles are congruent and why?
+91
+2.7. Two-Column Proofs www.ck12.org
+2. In the figure 6 2∼= 6 3 and k⊥p.
+Each pair below is congruent. State why.
+a) 6 1 and 6 5
+b) 6 1 and 6 4
+c) 6 2 and 6 6
+d) 6 6 and 6 7
+3. Write a two-column proof.
+Given: 6 1∼= 6 2 and 6 3∼= 6 4
+Prove: 6 1∼= 6 4
+Answers:
+1. By the Right Angle Theorem, 6 C ∼= 6 F . Also, 6 2 ∼= 6 3 by the Same Angles Supplements Theorem because
+6 1∼= 6 4 and they are linear pairs with these congruent angles.
+2. a) Vertical Angles Theorem
+b) Same Angles Complements Theorem
+c) Vertical Angles Theorem
+d) Vertical Angles Theorem followed by the Transitive Property
+92
+www.ck12.org Chapter 2. Reasoning and Proof
+3. Follow the format from the examples.
+93
+2.7. Two-Column Proofs www.ck12.org
+TABLE 2.7:
+Statement Reason
+1. 6 1∼= 6 2 and 6 3∼= 6 4 1. Given
+2. 6 2∼= 6 3 2. Vertical Angles Theorem
+3. 6 1∼= 6 4 3. Transitive PoC
+Explore More
+Fill in the blanks in the proofs below.
+1. Given: 6 ABC ∼= 6 DEF and 6 GHI ∼= 6 JKL
+Prove: m6 ABC+m 6 GHI = m 6 DEF +m6 JKL
+TABLE 2.8:
+Statement Reason
+1. 1. Given
+2. m6 ABC = m6 DEF 2.
+m6 GHI = m6 JKL
+3. 3. Addition PoE
+4. m 6 ABC+m6 GHI = m6 DEF +m6 JKL 4.
+2. Given: M is the midpoint of AN. N is the midpoint MB
+Prove: AM = NB
+TABLE 2.9:
+Statement Reason
+1. Given
+2. Definition of a midpoint
+3. AM = NB
+3. Given: AC⊥BD and 6 1∼= 6 4
+Prove: 6 2∼= 6 3
+TABLE 2.10:
+Statement Reason
+1. AC⊥BD, 6 1∼= 6 4 1.
+2. m6 1 = m6 4 2.
+3. 3. ⊥ lines create right angles
+4. m6 ACB = 90◦ 4.
+m6 ACD = 90◦
+94
+www.ck12.org Chapter 2. Reasoning and Proof
+TABLE 2.10: (continued)
+Statement Reason
+5. m6 1+m 6 2 = m6 ACB 5.
+m6 3+m6 4 = m 6 ACD
+6. 6. Substitution
+7. m6 1+m 6 2 = m6 3+m6 4 7.
+8. 8. Substitution
+9. 9.Subtraction PoE
+10. 6 2∼= 6 3 10.
+4. Given: 6 MLN ∼= 6 OLP
+Prove: 6 MLO∼= 6 NLP
+TABLE 2.11:
+Statement Reason
+1. 1.
+2. 2. ∼= angles have = measures
+3. 3. Angle Addition Postulate
+4. 4. Substitution
+5. m6 MLO = m6 NLP 5.
+6. 6. ∼= angles have = measures
+5. Given: AE⊥EC and BE⊥ED
+Prove: 6 1∼= 6 3
+TABLE 2.12:
+Statement Reason
+1. 1.
+95
+2.7. Two-Column Proofs www.ck12.org
+TABLE 2.12: (continued)
+Statement Reason
+2. 2. ⊥ lines create right angles
+3. m6 BED = 90◦ 3.
+m6 AEC = 90◦
+4. 4. Angle Addition Postulate
+5. 5. Substitution
+6. m6 2+m 6 3 = m6 1+m6 3 6.
+7. 7. Subtraction PoE
+8. 8. ∼= angles have = measures
+6. Given: 6 L is supplementary to 6 M and 6 P is supplementary to 6 O and 6 L∼= 6 O
+Prove: 6 P∼= 6 M
+TABLE 2.13:
+Statement Reason
+1. 1.
+2. m6 L = m6 O 2.
+3. 3. Definition of supplementary angles
+4. 4. Substitution
+5. 5. Substitution
+6. 6. Subtraction PoE
+7. 6 M ∼= 6 P 7.
+7. Given: 6 1∼= 6 4
+Prove: 6 2∼= 6 3
+96
+www.ck12.org Chapter 2. Reasoning and Proof
+TABLE 2.14:
+Statement Reason
+1. 1.
+2. m6 1 = m6 4 2.
+3. 3. Definition of a Linear Pair
+4. 6 1 and 6 2 are supplementary 4.
+6 3 and 6 4 are supplementary
+5. 5. Definition of supplementary angles
+6. m6 1+m 6 2 = m6 3+m6 4 6.
+7. m6 1+m 6 2 = m6 3+m6 1 7.
+8. m6 2 = m6 3 8.
+9. 6 2∼= 6 3 9.
+8. Given: 6 C and 6 F are right angles
+Prove: m6 C+m6 F = 180◦
+TABLE 2.15:
+Statement Reason
+1. 1.
+2. m6 C = 90◦,m6 F = 90◦ 2.
+3. 90◦+90◦ = 180◦ 3.
+4. m 6 C+m6 F = 180◦ 4.
+9. Given: l⊥m
+Prove: 6 1∼= 6 2
+97
+2.7. Two-Column Proofs www.ck12.org
+TABLE 2.16:
+Statement Reason
+1. l⊥m 1.
+2. 6 1 and 6 2 are right angles 2.
+3. 3.
+10. Given: m6 1 = 90◦
+Prove: m6 2 = 90◦
+TABLE 2.17:
+Statement Reason
+1. 1.
+2. 6 1 and 6 2 are a linear pair 2.
+3. 3. Linear Pair Postulate
+4. 4. Definition of supplementary angles
+5. 5. Substitution
+6. m6 2 = 90◦ 6.
+11. Given: l⊥m
+Prove: 6 1 and 6 2 are complements
+TABLE 2.18:
+Statement Reason
+1. 1.
+2. 2. ⊥ lines create right angles
+3. m6 1+m 6 2 = 90◦ 3.
+4. 6 1 and 6 2 are complementary 4.
+12. Given: l⊥m and 6 2∼= 6 6
+Prove: 6 6∼= 6 5
+98
+www.ck12.org Chapter 2. Reasoning and Proof
+TABLE 2.19:
+Statement Reason
+1. 1.
+2. m6 2 = m6 6 2.
+3. 6 5∼= 6 2 3.
+4. m6 5 = m6 2 4.
+5. m6 5 = m6 6 5.
+Summary
+This chapter introduces the two types of reasoning, inductive and deductive. From this foundation, rewriting
+statements in if-then form is discussed and then the associated forms of converse, inverse, and contrapositive are
+presented. Biconditional statements are explored. How to offer a conjecture and how to provide a counterexample
+offer beginning steps to the necessary skills needed to complete two-column proofs. The properties of equality and
+congruence are reviewed and practice for completing two-column proofs is provided.
+99
+www.ck12.org Chapter 2. Reasoning and Proof
+
+TABLE 2.19:
+
+Statement Reason
+
+1. 1.
+
+2. m6 2 = m6 6 2.
+
+3. 6 5∼= 6 2 3.
+
+4. m6 5 = m6 2 4.
+
+5. m6 5 = m6 6 5.
+
+Summary
+
+This chapter introduces the two types of reasoning, inductive and deductive. From this foundation, rewriting
+
+statements in if-then form is discussed and then the associated forms of converse, inverse, and contrapositive are
+
+presented. Biconditional statements are explored. How to offer a conjecture and how to provide a counterexample
+
+offer beginning steps to the necessary skills needed to complete two-column proofs. The properties of equality and
+
+congruence are reviewed and practice for completing two-column proofs is provided.
+
+99
+
+www.ck12.org
+
+CHAPTER 3 Parallel and Perpendicular
+
+Lines
+
+Chapter Outline
+

@@ -1,0 +1,106 @@
+3.6 COMPLEX ZEROS AND THE FUNDAMENTAL THEOREM OF ALGEBRA
+The Fundamental Theorem of Algebra and Complete Factorization ! Zeros
+and Their Multiplicities ! Complex Zeros Come in Conjugate Pairs ! Linear
+and Quadratic Factors
+We have already seen that an nth-degree polynomial can have at most n real zeros. In the
+complex number system an nth-degree polynomial has exactly n zeros and so can be fac-
+tored into exactly n linear factors. This fact is a consequence of the Fundamental Theorem
+of Algebra, which was proved by the German mathematician C. F. Gauss in 1799 (see
+page 272).
+" The Fundamental Theorem of Algebra 
+and Complete Factorization
+The following theorem is the basis for much of our work in factoring polynomials and
+solving polynomial equations.
+FUNDAMENTAL THEOREM OF ALGEBRA
+Every polynomial
+P1x 2 ! an xn # a xn"1 # . . .  n"1 # a1x # a0  1n ) 1, an ' 0 2
+with complex coefficients has at least one complex zero.
+Because any real number is also a complex number, the theorem applies to polynomi-
+als with real coefficients as well.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+270 C H A P T E R  3 | Polynomial and Rational Functions
+The Fundamental Theorem of Algebra and the Factor Theorem together show that a
+polynomial can be factored completely into linear factors, as we now prove.
+COMPLETE FACTORIZ ATION THEOREM
+If P1x 2 is a polynomial of degree n ) 1, then there exist complex numbers 
+a, c1, c2, . . . , cn (with a ' 0) such that
+P1x 2 ! a1x " c1 2 1x " c2 2 p 1x " cn 2
+P R O O F By the Fundamental Theorem of Algebra, P has at least one zero. Let's call it
+c1. By the Factor Theorem (see pa P1x 2
+" c1 2 # Q11x 2
+Q11x 2 P1
+ge
+x 2 250! 1), can be factored asx
+where is of degree n" 1. Applying the Fundamental Theorem to the quotient Q11x 2
+gives us the factorization
+P1
+Q21x 2 x 2 ! 1x " c1 2 # 1x " c2 2 #
+Qn1x 2 Q11
+Q
+x 221x 2where is of degree n " 2 and c2 is a zero of . Continuing this process for n
+steps, we get a final quotient of degree 0, a nonzero constant that we will call a.
+This means that P has been factored as
+P1x 2 ! a1x " c1 2 1x " c2 2 p 1x " cn 2 !
+To actually find the complex zeros of an nth-degree polynomial, we usually first factor
+as much as possible, then use the quadratic formula on parts that we can't factor further.
+E X A M P L E  1 | Factoring a Polynomial Completely
+Let P1x 2 ! x3 " 3x2 # x " 3.
+(a) Find all the zeros of P.
+(b) Find the complete factorization of P.
+S O L U T I O N
+(a) We first factor P as follows.
+! x3 P1x 2 " 3x2 # x " 3
+ ! x21x " 3 2 # 1 Givenx " 3 2
+ ! 1x " 3 2 1x2 # 1 2 Group termsFactor x " 3
+We find the zeros of P by setting each factor equal to 0:
+P1x 2 ! 1x " 3 2 1x2 # 1 2
+This factor is 0 when x ! 3 This factor is 0 when x ! i or "i
+Setting x " 3 ! 0, we see that x ! 3 is a zero. Setting x2 # 1 ! 0, we get 
+x2 ! "1, so x ! $i. So the zeros of P are 3, i, and "i.
+(b) Since the zeros are 3, i, and "i, by the Complete Factorization Theorem P factors
+as
+ P1x 2 ! 1x " 3 2 1x " i 2 3x " 1
+ ! 1x " 3 2 1x " i 2 1x # i 2"i 2 4
+270 C H A P T E R  3 | Polynomial and Rational Functions
+The Fundamental Theorem of Algebra and the Factor Theorem together show that a
+polynomial can be factored completely into linear factors, as we now prove.
+COMPLETE FACTORIZ ATION THEOREM
+If P1x 2 is a polynomial of degree n ) 1, then there exist complex numbers 
+a, c1, c2, . . . , cn (with a ' 0) such that
+P1x 2 ! a1x " c1 2 1x " c2 2 p 1x " cn 2
+P R O O F By the Fundamental Theorem of Algebra, P has at least one zero. Let's call it
+c1. By the Factor Theorem (see pa P1x 2
+" c1 2 # Q11x 2
+Q11x 2 P1
+ge
+x 2 250! 1), can be factored asx
+where is of degree n" 1. Applying the Fundamental Theorem to the quotient Q11x 2
+gives us the factorization
+P1
+Q21x 2 x 2 ! 1x " c1 2 # 1x " c2 2 #
+Qn1x 2 Q11
+Q
+x 221x 2where is of degree n " 2 and c2 is a zero of . Continuing this process for n
+steps, we get a final quotient of degree 0, a nonzero constant that we will call a.
+This means that P has been factored as
+P1x 2 ! a1x " c1 2 1x " c2 2 p 1x " cn 2 !
+To actually find the complex zeros of an nth-degree polynomial, we usually first factor
+as much as possible, then use the quadratic formula on parts that we can't factor further.
+E X A M P L E  1 | Factoring a Polynomial Completely
+Let P1x 2 ! x3 " 3x2 # x " 3.
+(a) Find all the zeros of P.
+(b) Find the complete factorization of P.
+S O L U T I O N
+(a) We first factor P as follows.
+! x3 P1x 2 " 3x2 # x " 3
+ ! x21x " 3 2 # 1 Givenx " 3 2
+ ! 1x " 3 2 1x2 # 1 2 Group termsFactor x " 3
+We find the zeros of P by setting each factor equal to 0:
+P1x 2 ! 1x " 3 2 1x2 # 1 2
+This factor is 0 when x ! 3 This factor is 0 when x ! i or "i
+Setting x " 3 ! 0, we see that x ! 3 is a zero. Setting x2 # 1 ! 0, we get 
+x2 ! "1, so x ! $i. So the zeros of P are 3, i, and "i.
+(b) Since the zeros are 3, i, and "i, by the Complete Factorization Theorem P factors
+as
+ P1x 2 ! 1x " 3 2 1x " i 2 3x " 1
+ ! 1x " 3 2 1x " i 2 1x # i 2"i 2 4

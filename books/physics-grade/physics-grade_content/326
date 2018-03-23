@@ -1,0 +1,44 @@
+19.6 Summary
+
+1. Ohm's Law states that the amount of current through a conductor, at constant
+
+temperature, is proportional to the voltage across the resistor. Mathematically we write
+
+V = R/cdotI
+
+2. Conductors that obey Ohm's Law are called ohmic conductors; those who do not are
+
+called non-ohmic conductors.
+
+3. We use Ohm's Law to calculate the resistance of a resistor. (R = V
+
+I
+
+4. The equivalent resistance of resistors in series (Rs) can be calculated as follows:
+
+Rs = R1 +R2 +R3 + ...+Rn
+
+5. The equivalent resistance of resistors in parallel (Rp) can be calculated as follows:
+
+1
+
+R =
+
+1 1
+
+R +1 R +
+
+1 + .. + 1
+
+p 2 R
+
+.
+
+3 Rn
+
+6. Real batteries have an internal resistance.
+
+7. Wheatstone bridges can be used to accurately determine the resistance of an unknown
+
+resistor.
+

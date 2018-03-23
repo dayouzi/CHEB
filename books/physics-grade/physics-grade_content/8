@@ -1,0 +1,155 @@
+2.5 Rounding, Scientific Notation and Significant Figures
+
+2.5.1 Rounding Off
+
+Certain numbers may take an infinite amount of paper and ink to write out. Not only is
+
+that impossible, but writing numbers out to a high accuracy (many decimal places) is very
+
+inconvenient and rarely gives better answers. For this reason we often estimate the number to a
+
+certain number of decimal places. Rounding off or approximating a decimal number to a given
+
+number of decimal places is the quickest way to approximate a number. For example, if you
+
+wanted to round-off 2,6525272 to three decimal places then you would first count three places
+
+after the decimal.
+
+2,652|5272
+
+All numbers to the right of | are ignored after you determine whether the number in the third
+
+decimal place must be rounded up or rounded down. You round up the final digit (make the
+
+digit one more) if the first digit after the | was greater or equal to 5 and round down (leave the
+
+digit alone) otherwise. So, since the first digit after the | is a 5, we must round up the digit in
+
+the third decimal place to a 3 and the final answer of 2,6525272 rounded to three decimal places
+
+is 2,653.
+
+Worked Example 1: Rounding-off
+
+Question: Round-off π = 3,141592654 . . . to 4 decimal places.
+
+Answer
+
+Step 1 : Determine the last digit that is kept and mark the cut-off with |.
+
+π = 3,1415|92654 . . .
+
+Step 2 : Determine whether the last digit is rounded up or down.
+
+The last digit of π = 3,1415|92654 . . .must be rounded up because there is a 9 after
+
+the |.
+
+Step 3 : Write the final answer.
+
+π = 3,1416 rounded to 4 decimal places.
+
+12
+
+CHAPTER 2. UNITS 2.5
+
+Worked Example 2: Rounding-off
+
+Question: Round-off 9,191919 . . . to 2 decimal places
+
+Answer
+
+Step 1 : Determine the last digit that is kept and mark the cut-off with |.
+
+9,19|1919 . . .
+
+Step 2 : Determine whether the last digit is rounded up or down.
+
+The last digit of 9,19|1919 . . . must be rounded down because there is a 1 after
+
+the |.
+
+Step 3 : Write the final answer.
+
+Answer = 9,19 rounded to 2 decimal places.
+
+2.5.2 Error Margins
+
+In a calculation that has many steps, it is best to leave the rounding off right until the end. For
+
+example, Jack and Jill walks to school. They walk 0,9 kilometers to get to school and it takes
+
+them 17 minutes. We can calculate their speed in the following two ways.
+
+Method 1 Method 2
+
+Change 17 minutes to hours: Change 17 minutes to hours:
+
+time = 1760 time =
+
+17
+
+60
+
+= 0,283333333 km = 0,28 km
+
+Speed =Distance Speed =Distance
+
+Time Time
+
+= 0,90,28333333 =
+
+0,9
+
+0,28
+
+= 3,176470588 = 3,214285714
+
+3,18 km·hr−1 3,21 km·hr−1
+
+Table 2.3: Rounding numbers
+
+You will see that we get two different answers. In Method 1 no rounding was done, but in Method
+
+2, the time was rounded to 2 decimal places. This made a big difference to the answer. The
+
+answer in Method 1 is more accurate because rounded numbers were not used in the calculation.
+
+Always only round off your final answer.
+
+2.5.3 Scientific Notation
+
+In Science one often needs to work with very large or very small numbers. These can be written
+
+more easily in scientific notation, in the general form
+
+d× 10e
+
+where d is a decimal number between 0 and 10 that is rounded off to a few decimal places. e is
+
+known as the exponent and is an integer. If e > 0 it represents how many times the decimal
+
+place in d should be moved to the right. If e < 0, then it represents how many times the decimal
+
+place in d should be moved to the left. For example 3,24 × 103 represents 3240 (the decimal
+
+moved three places to the right) and 3,24× 10−3 represents 0,00324 (the decimal moved three
+
+places to the left).
+
+If a number must be converted into scientific notation, we need to work out how many times
+
+the number must be multiplied or divided by 10 to make it into a number between 1 and 10
+
+(i.e. the value of e) and what this number between 1 and 10 is (the value of d). We do this by
+
+counting the number of decimal places the decimal comma must move.
+
+For example, write the speed of light in scientific notation, to two decimal places. The speed of
+
+light is 299 792 458 m·s−1. First, find where the decimal comma must go for two decimal places
+
+(to find d) and then count how many places there are after the decimal comma to determine e.
+
+13

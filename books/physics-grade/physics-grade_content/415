@@ -1,0 +1,392 @@
+26.5.1 Diffraction through a Slit
+
+When a wave strikes a barrier with a hole only part of the wave can move through the hole. If
+
+the hole is similar in size to the wavelength of the wave diffractions occurs. The waves that
+
+comes through the hole no longer looks like a straight wave front. It bends around the edges of
+
+the hole. If the hole is small enough it acts like a point source of circular waves.
+
+Now if allow the wavefront to impinge on a barrier with a hole in it, then only the points on
+
+the wavefront that move into the hole can continue emitting forward moving waves - but
+
+because a lot of the wavefront have been removed the points on the edges of the hole emit
+
+waves that bend round the edges.
+
+558
+
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.5
+
+If you employ Huygens' principle you can see the effect is that the wavefronts are no longer
+
+straight lines.
+
+Each point of the slit acts like a point source. If we think about the two point sources on the
+
+edges of the slit and call them A and B then we can go back to the diagram we had earlier but
+
+with some parts block by the wall.
+
+l
+
+ld
+
+l
+
+l
+
+ld
+
+l
+
+l
+
+ld
+
+ld
+
+l
+
+l
+
+ld
+
+ld
+
+ld
+
+bA B b l l
+
+If this diagram were showing sound waves then the sound would be louder (constructive
+
+interference) in some places and quieter (destructive interference) in others. You can start to
+
+see that there will be a pattern (interference pattern) to the louder and quieter places. If we
+
+were studying light waves then the light would be brighter in some places than others
+
+depending on the interferences.
+
+The intensity (how bright or loud) of the interference pattern for a single narrow slit looks like
+
+this:
+
+559
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.5
+If you employ Huygens' principle you can see the effect is that the wavefronts are no longer
+straight lines.
+Each point of the slit acts like a point source. If we think about the two point sources on the
+edges of the slit and call them A and B then we can go back to the diagram we had earlier but
+with some parts block by the wall.
+l
+ld
+l
+l
+ld
+l
+l
+ld
+ld
+l
+l
+ld
+ld
+ld
+bA B b l l
+If this diagram were showing sound waves then the sound would be louder (constructive
+interference) in some places and quieter (destructive interference) in others. You can start to
+see that there will be a pattern (interference pattern) to the louder and quieter places. If we
+were studying light waves then the light would be brighter in some places than others
+depending on the interferences.
+The intensity (how bright or loud) of the interference pattern for a single narrow slit looks like
+this:
+559
+26.5 CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12
+l
+ld
+l
+l
+ld
+l
+l
+ld
+ld
+l
+l
+ld
+ld
+ld
+bA B b l l
+The picture above shows how the waves add together to form the interference pattern. The
+peaks correspond to places where the waves are adding most intensely and the zeroes are
+places where destructive interference is taking place. When looking at interference patterns
+from light the spectrum looks like:
+There is a formula we can use to determine where the peaks and minimums are in the
+interference spectrum. There will be more than one minimum. There are the same number of
+minima on either side of the central peak and the distances from the first one on each side are
+the same to the peak. The distances to the peak from the second minimum on each side is
+also the same, in fact the two sides are mirror images of each other. We label the first
+minimum that corresponds to a positive angle from the centre as m = 1 and the first on the
+other side (a negative angle from the centre as m = −1, the second set of minima are labelled
+m = 2 and m = −2 etc.
+λ θ
+The equation for the angle at which the minima occur is
+Definition: Interference Minima
+The angle at which the minima in the interference spectrum occur is:
+mλ
+sin θ =
+a
+where
+θ is the angle to the minimum
+λ is the wavelength of the impinging wavefronts
+m is the order of the mimimum, m = ±1,±2,±3, ...
+560
+a
+yn
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.5
+Worked Example 170: Diffraction Minimum I
+Question: A slit has a width of 2511 nm has red light of wavelength 650 nm
+impinge on it. The diffracted light interferers on a surface, at what angle will the
+first minimum be?
+Answer
+Step 1 : Check what you are given
+We know that we are dealing with interference patterns from the diffraction of light
+passing through a slit. The slit has a width of 2511 nm which is 2511× 10−9 m
+and we know that the wavelength of the light is 650 nm which is 650× 10−9 m.
+We are looking to determine the angle to first minimum so we know that m = 1.
+Step 2 : Applicable principles
+We know that there is a relationship between the slit width, wavelength and
+interference minimum angles:
+mλ
+sin θ =
+a
+We can use this relationship to find the angle to the minimum by substituting what
+we know and solving for the angle.
+Step 3 : Substitution
+650× 10−9
+sin θ =
+2511× 10−9
+650
+sin θ =
+2511
+sin θ = 0.258861012
+θ = sin−1 0.258861012
+θ = 15o
+The first minimum is at 15 degrees from the centre peak.
+Worked Example 171: Diffraction Minimum II
+Question: A slit has a width of 2511 nm has green light of wavelength 532 nm
+impinge on it. The diffracted light interferers on a surface, at what angle will the
+first minimum be?
+Answer
+Step 1 : Check what you are given
+We know that we are dealing with interference patterns from the diffraction of light
+passing through a slit. The slit has a width of 2511 nm which is 2511× 10−9 m
+and we know that the wavelength of the light is 532 nm which is 532× 10−9 m.
+We are looking to determine the angle to first minimum so we know that m = 1.
+Step 2 : Applicable principles
+We know that there is a relationship between the slit width, wavelength and
+interference minimum angles:
+mλ
+sin θ =
+a
+We can use this relationship to find the angle to the minimum by substituting what
+we know and solving for the angle.
+Step 3 : Substitution
+561
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.5
+
+Worked Example 170: Diffraction Minimum I
+
+Question: A slit has a width of 2511 nm has red light of wavelength 650 nm
+
+impinge on it. The diffracted light interferers on a surface, at what angle will the
+
+first minimum be?
+
+Answer
+
+Step 1 : Check what you are given
+
+We know that we are dealing with interference patterns from the diffraction of light
+
+passing through a slit. The slit has a width of 2511 nm which is 2511× 10−9 m
+
+and we know that the wavelength of the light is 650 nm which is 650× 10−9 m.
+
+We are looking to determine the angle to first minimum so we know that m = 1.
+
+Step 2 : Applicable principles
+
+We know that there is a relationship between the slit width, wavelength and
+
+interference minimum angles:
+
+mλ
+
+sin θ =
+
+a
+
+We can use this relationship to find the angle to the minimum by substituting what
+
+we know and solving for the angle.
+
+Step 3 : Substitution
+
+650× 10−9
+
+sin θ =
+
+2511× 10−9
+
+650
+
+sin θ =
+
+2511
+
+sin θ = 0.258861012
+
+θ = sin−1 0.258861012
+
+θ = 15o
+
+The first minimum is at 15 degrees from the centre peak.
+
+Worked Example 171: Diffraction Minimum II
+
+Question: A slit has a width of 2511 nm has green light of wavelength 532 nm
+
+impinge on it. The diffracted light interferers on a surface, at what angle will the
+
+first minimum be?
+
+Answer
+
+Step 1 : Check what you are given
+
+We know that we are dealing with interference patterns from the diffraction of light
+
+passing through a slit. The slit has a width of 2511 nm which is 2511× 10−9 m
+
+and we know that the wavelength of the light is 532 nm which is 532× 10−9 m.
+
+We are looking to determine the angle to first minimum so we know that m = 1.
+
+Step 2 : Applicable principles
+
+We know that there is a relationship between the slit width, wavelength and
+
+interference minimum angles:
+
+mλ
+
+sin θ =
+
+a
+
+We can use this relationship to find the angle to the minimum by substituting what
+
+we know and solving for the angle.
+
+Step 3 : Substitution
+
+561
+
+26.6 CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12
+
+532× 10−9
+
+sin θ =
+
+2511× 10−9
+
+532
+
+sin θ =
+
+2511
+
+sin θ = 0.211867782
+
+θ = sin−1 0.211867782
+
+θ = 12.2o
+
+The first minimum is at 12.2 degrees from the centre peak.
+
+From the formula you can see that a smaller wavelength for the same slit results in a smaller
+
+angle to the interference minimum. This is something you just saw in the two worked
+
+examples. Do a sanity check, go back and see if the answer makes sense. Ask yourself which
+
+light had the longer wavelength, which light had the larger angle and what do you expect for
+
+longer wavelengths from the formula.
+
+Worked Example 172: Diffraction Minimum III
+
+Question: A slit has a width which is unknown and has green light of wavelength
+
+532 nm impinge on it. The diffracted light interferers on a surface, and the first
+
+minimum is measure at an angle of 20.77 degrees?
+
+Answer
+
+Step 1 : Check what you are given
+
+We know that we are dealing with interference patterns from the diffraction of light
+
+passing through a slit. We know that the wavelength of the light is 532 nm which
+
+is 532× 10−9 m. We know the angle to first minimum so we know that m = 1 and
+
+θ = 20.77o.
+
+Step 2 : Applicable principles
+
+We know that there is a relationship between the slit width, wavelength and
+
+interference minimum angles:
+
+mλ
+
+sin θ =
+
+a
+
+We can use this relationship to find the width by substituting what we know and
+
+solving for the width.
+
+Step 3 : Substitution
+
+532× 10−9
+
+sin θ =
+
+a
+
+532× 10−9
+
+sin 20.77 =
+
+a
+
+532× 10−9
+
+a =
+
+0.354666667
+
+a = 1500× 10−9
+
+a = 1500 nm
+
+The slit width is 1500 nm.
+

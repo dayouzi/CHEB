@@ -1,0 +1,273 @@
+19.4 Series and parallel networks of resistors
+
+Now that you know how to handle simple series and parallel circuits, you are ready to tackle
+
+problems like this:
+
+It is relatively easy to work out these kind of circuits because you use everything you have
+
+already learnt about series and parallel circuits. The only difference is that you do it in stages.
+
+442
+
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.4
+
+R1
+
+R2
+
+R3
+
+Parallel Circuit 2
+
+R4
+
+Parallel Circuit 1
+
+R5
+
+R6
+
+R7
+
+Figure 19.1: An example of a series-parallel network. The dashed boxes indicate parallel sections
+
+of the circuit.
+
+In Figure 19.1, the circuit consists of 2 parallel portions that are then in series with 1 resistor.
+
+So, in order to work out the equivalent resistance, you start by reducing the parallel portions to
+
+a single resistor and then add up all the resistances in series. If all the resistors in Figure 19.1
+
+had resistances of 10 Ω, we can calculate the equivalent resistance of the entire circuit.
+
+We start by reducing Parallel Circuit 1 to a single resistor.
+
+Rp1
+
+R4
+
+R5
+
+R6
+
+R7
+
+The value of Rp1 is:
+
+1 1 1 1
+
+= + +
+
+Rp1 (R1 R2 R3 )−1
+
+1 1 1
+
+Rp1 = + +(10 10 )10−1
+
+1 + 1 + 1
+
+=
+
+( )10−1
+
+3
+
+=
+
+10
+
+10
+
+= Ω
+
+3
+
+443
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.4
+R1
+R2
+R3
+Parallel Circuit 2
+R4
+Parallel Circuit 1
+R5
+R6
+R7
+Figure 19.1: An example of a series-parallel network. The dashed boxes indicate parallel sections
+of the circuit.
+In Figure 19.1, the circuit consists of 2 parallel portions that are then in series with 1 resistor.
+So, in order to work out the equivalent resistance, you start by reducing the parallel portions to
+a single resistor and then add up all the resistances in series. If all the resistors in Figure 19.1
+had resistances of 10 Ω, we can calculate the equivalent resistance of the entire circuit.
+We start by reducing Parallel Circuit 1 to a single resistor.
+Rp1
+R4
+R5
+R6
+R7
+The value of Rp1 is:
+1 1 1 1
+= + +
+Rp1 (R1 R2 R3 )−1
+1 1 1
+Rp1 = + +(10 10 )10−1
+1 + 1 + 1
+=
+( )10−1
+3
+=
+10
+10
+= Ω
+3
+443
+19.4 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+We can similarly replace Parallel Circuit 2 with Rp2 which has a value given by:
+1 1 1 1
+= + +
+Rp2 (R5 R6 R7 )−1
+1 1 1
+Rp2 = + +(10 10 )10−1
+1 + 1 + 1
+=
+( )10−1
+3
+=
+10
+10
+= Ω
+3
+Rp1 =
+10
+3 Ω
+R4 = 10Ω
+Rp2 =
+10
+3 Ω
+This is now a simple series circuit and the equivalent resistance is:
+R = Rp1 +R4 +Rp2
+10 10
+= + 10 +
+3 3
+100 + 30 + 100
+=
+30
+230
+=
+30
+2
+= 7 Ω
+3
+The equivalent resistance of the circuit in Figure 19.1 is 7 23 Ω.
+Exercise: Series and parallel networks
+Determine the equivalent resistance of the following circuits:
+4 Ω
+2 Ω
+1. Hello 2 Ω
+444
+19.4 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+
+We can similarly replace Parallel Circuit 2 with Rp2 which has a value given by:
+
+1 1 1 1
+
+= + +
+
+Rp2 (R5 R6 R7 )−1
+
+1 1 1
+
+Rp2 = + +(10 10 )10−1
+
+1 + 1 + 1
+
+=
+
+( )10−1
+
+3
+
+=
+
+10
+
+10
+
+= Ω
+
+3
+
+Rp1 =
+
+10
+
+3 Ω
+
+R4 = 10Ω
+
+Rp2 =
+
+10
+
+3 Ω
+
+This is now a simple series circuit and the equivalent resistance is:
+
+R = Rp1 +R4 +Rp2
+
+10 10
+
+= + 10 +
+
+3 3
+
+100 + 30 + 100
+
+=
+
+30
+
+230
+
+=
+
+30
+
+2
+
+= 7 Ω
+
+3
+
+The equivalent resistance of the circuit in Figure 19.1 is 7 23 Ω.
+
+Exercise: Series and parallel networks
+
+Determine the equivalent resistance of the following circuits:
+
+4 Ω
+
+2 Ω
+
+1. Hello 2 Ω
+
+444
+
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.5
+
+1 Ω 6 Ω
+
+2 Ω
+
+2. 4 Ω
+
+2 Ω 4 Ω
+
+2 Ω 2 Ω
+
+2 Ω
+
+3. 4 Ω
+

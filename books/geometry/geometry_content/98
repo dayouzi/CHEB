@@ -1,0 +1,185 @@
+9.10 Segments from Secants
+
+Here you'll learn the relationship between the segments that are created when two secants intersect outside a circle.
+
+You'll then use this relationship to solve for unknown circle values.
+
+What if you were given a circle with two secants that intersect outside the circle? How could you use the length
+
+of some of the segments formed by their intersection to determine the lengths of the unknown segments? After
+
+completing this Concept, you'll be able to use the Two Secants Segments Theorem to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136569
+
+Segments from Secants CK-12
+
+Guidance
+
+When two secants intersect outside a circle, the circle divides the secants into segments that are proportional with
+
+each other.
+
+Two Secants Segments Theorem: If two secants are drawn from a common point outside a circle and the segments
+
+are labeled as below, then a(a+b) = c(c+d).
+
+Example A
+
+Find the value of x.
+
+525
+
+9.10. Segments from Secants www.ck12.org
+
+Use the Two Secants Segments Theorem to set up an equation.
+
+18 · (18+ x) = 16 · (16+24)
+
+324+18x = 256+384
+
+18x = 316
+
+5
+
+x = 17
+
+9
+
+Example B
+
+Find the value of x.
+
+Use the Two Secants Segments Theorem to set up an equation.
+
+x · (x+ x) = 9 ·32
+
+2x2 = 288
+
+x2 = 144
+
+x = 12, x 6=−12 (length is not negative)
+
+Example C
+
+True or False: Two secants will always intersect outside of a circle.
+
+This is false. If the two secants are parallel, they will never intersect. It's also possible for two secants to intersect
+
+inside a circle.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136570
+
+526
+9.10. Segments from Secants www.ck12.org
+Use the Two Secants Segments Theorem to set up an equation.
+18 · (18+ x) = 16 · (16+24)
+324+18x = 256+384
+18x = 316
+5
+x = 17
+9
+Example B
+Find the value of x.
+Use the Two Secants Segments Theorem to set up an equation.
+x · (x+ x) = 9 ·32
+2x2 = 288
+x2 = 144
+x = 12, x 6=−12 (length is not negative)
+Example C
+True or False: Two secants will always intersect outside of a circle.
+This is false. If the two secants are parallel, they will never intersect. It's also possible for two secants to intersect
+inside a circle.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136570
+526
+www.ck12.org Chapter 9. Circles
+Segments from Secants CK-12
+->
+Guided Practice
+Find x in each diagram below. Simplify any radicals.
+1.
+2.
+3.
+Answers:
+Use the Two Secants Segments Theorem.
+1.
+8(8+ x) = 6(6+18)
+64+8x = 144
+8x = 80
+x = 10
+527
+9.10. Segments from Secants www.ck12.org
+2.
+4(4+ x) = 3(3+13)
+16+4x = 48
+4x = 32
+x = 8
+3.
+15(15+27) = x ·45
+630 = 45x
+x = 14
+Explore More
+Fill in the blanks for each problem below. Then, solve for the missing segment.
+1.
+3( + ) = 2(2+7)
+2.
+x · = 8( + )
+Find x in each diagram below. Simplify any radicals.
+3.
+528
+www.ck12.org Chapter 9. Circles
+4.
+5.
+6. Fill in the blanks of the proof of the Two Secants Segments Theorem.
+Given: Secants PR and RT
+Prove: a(a+b) = c(c+d)
+TABLE 9.6:
+Statement Reason
+1. Secants PR and RT with segments a, b, c, and d. 1. Given
+2. 6 R∼= 6 R 2. Reflexive PoC
+3. 6 QPS∼= 6 ST Q 3. Congruent Inscribed Angles Theorem
+4. 4RPS∼4RT Q 4. AA Similarity Postulate
+5. ac+d =
+c
+a+b 5. Corresponding parts of similar triangles are propor-
+tional
+6. a(a+b) = c(c+d) 6. Cross multiplication
+Solve for the unknown variable.
+529
+9.10. Segments from Secants www.ck12.org
+7.
+8.
+9.
+530
+www.ck12.org Chapter 9. Circles
+10.
+11.
+12.
+13.
+531
+9.10. Segments from Secants www.ck12.org
+14.
+15.
+532
+9.10. Segments from Secants www.ck12.org
+
+14.
+
+15.
+
+532
+
+www.ck12.org Chapter 9. Circles
+

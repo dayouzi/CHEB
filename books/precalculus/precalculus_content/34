@@ -1,0 +1,89 @@
+4.6 MODELING WITH EXPONENTIAL AND LOGARITHMIC FUNCTIONS
+Exponential Growth (Doubling Time) ! Exponential Growth (Relative 
+Growth Rate) ! Radioactive Decay ! Newton's Law of Cooling !
+Logarithmic Scales
+Many processes that occur in nature, such as population growth, radioactive decay, heat
+diffusion, and numerous others, can be modeled by using exponential functions. Loga-
+rithmic functions are used in models for the loudness of sounds, the intensity of earth-
+quakes, and many other phenomena. In this section we study exponential and logarithmic
+models.
+! Exponential Growth (Doubling Time)
+Suppose we start with a single bacterium, which divides every hour. After one hour we
+have 2 bacteria, 2 3
+f 1 at 2fter two hours we have 2 or 4 bacteria, after three hours we have 2 or8 bacteria, and so on (see Figure 1). We see that we can model the bacteria population af-ter t hours by ! 2t.
+F I G U R E  1 Bacteria population 0 1 2 3 4 5 6
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  4 . 6 | Modeling with Exponential and Logarithmic Functions 341
+If we start with 10 of these bacteria, then the population is modeled by f 1t 2 ! 10 # 2t.
+A slower-growing strain of bacteria doubles every 3 hours; in this case the population is
+modeled by f 1t 2 ! 10 # 2t/3. In general, we have the following.
+EXPONENTIAL GROW TH (DOUBLING TIME)
+If the intial size of a population is n 0 and the doubling time is a, then the size of
+the population at time t is 
+n1t 2 ! n 02t/a
+where a and t are measured in the same time units (minutes, hours, days, years,
+and so on).
+E X A M P L E  1 Bacteria Population 
+Under ideal conditions a certain bacteria population doubles every three hours. Initially
+there are 1000 bacteria in a colony.
+(a) Find a model for the bacteria population after t hours.
+(b) How many bacteria are in the colony after 15 hours?
+(c) When will the bacteria count reach 100,000?
+S O L U T I O N   
+(a) The population at time t is mode
+n1let 2d by ! 1000 # 2t/3
+where t is measured in hours.
+(b) After 15 hours the number of
+1000 # 215/3 ! 32,000
+n1t 2 n115 2
+ bacteria is 
+!
+(c) We set ! 100,000 in the model that we found in part (a) and solve the result-
+ing exponential equation for t.
+n1t 2 ! 1000 # 2t/3 100,000 ! 1000 # 2t/3
+ 100 ! 2t/3 Divide by 1000
+ log 100 ! log 2t/3 Take log of each side
+t
+ 2 !   log 2 Properties of log
+3
+6
+For g  t ! ! 19.93uid Solve for telines on working with signifi- log 2
+cant figures, see the Appendix, Calcu-
+lations and Significant Figures. The bacteria level reaches 100,000 in about 20 hours.
+S E C T I O N  4 . 6 | Modeling with Exponential and Logarithmic Functions 341
+If we start with 10 of these bacteria, then the population is modeled by f 1t 2 ! 10 # 2t.
+A slower-growing strain of bacteria doubles every 3 hours; in this case the population is
+modeled by f 1t 2 ! 10 # 2t/3. In general, we have the following.
+EXPONENTIAL GROW TH (DOUBLING TIME)
+If the intial size of a population is n 0 and the doubling time is a, then the size of
+the population at time t is 
+n1t 2 ! n 02t/a
+where a and t are measured in the same time units (minutes, hours, days, years,
+and so on).
+E X A M P L E  1 Bacteria Population 
+Under ideal conditions a certain bacteria population doubles every three hours. Initially
+there are 1000 bacteria in a colony.
+(a) Find a model for the bacteria population after t hours.
+(b) How many bacteria are in the colony after 15 hours?
+(c) When will the bacteria count reach 100,000?
+S O L U T I O N   
+(a) The population at time t is mode
+n1let 2d by ! 1000 # 2t/3
+where t is measured in hours.
+(b) After 15 hours the number of
+1000 # 215/3 ! 32,000
+n1t 2 n115 2
+ bacteria is 
+!
+(c) We set ! 100,000 in the model that we found in part (a) and solve the result-
+ing exponential equation for t.
+n1t 2 ! 1000 # 2t/3 100,000 ! 1000 # 2t/3
+ 100 ! 2t/3 Divide by 1000
+ log 100 ! log 2t/3 Take log of each side
+t
+ 2 !   log 2 Properties of log
+3
+6
+For g  t ! ! 19.93uid Solve for telines on working with signifi- log 2
+cant figures, see the Appendix, Calcu-
+lations and Significant Figures. The bacteria level reaches 100,000 in about 20 hours.

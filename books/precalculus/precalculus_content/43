@@ -1,0 +1,86 @@
+6.1 ANGLE MEASURE
+Angle Measure ! Angles in Standard Position ! Length of a Circular Arc
+! Area of a Circular Sector ! Circular Motion
+An angle AOB consists of two rays R1 and R2 with a common vertex O (see Figure 1). We
+often interpret an angle as a rotation of the ray R1 onto R2. In this case, R1 is called the 
+initial side, and R2 is called the terminal side of the angle. If the rotation is counter-
+clockwise, the angle is considered positive, and if the rotation is clockwise, the angle is
+considered negative.
+R¤ O initial side R⁄
+A
+terminal B
+side terminal side
+B
+initial side A
+O R⁄ R¤
+Positive angle Negative angle
+F I G U R E  1
+! Angle Measure
+The measure of an angle is the amount of rotation about the vertex required to move R1
+onto R2. Intuitively, this is how much the angle "opens." One unit of measurement for an-
+gles is the degree. An angle of measure 1 degree is formed by rotating the initial side 1360
+of a complete revolution. In calculus and other branches of mathematics, a more natural
+method of measuring angles is used-radian measure. The amount an angle opens is
+measured along the arc of a circle of radius 1 with its center at the vertex of the angle.
+Radian DEFINITION OF RADIAN MEASURE
+¨ measure If a circle of radius 1 is drawn with the vertex of an angle at its center, then the
+of ¨
+1 measure of this angle in radians (abbreviated rad) is the length of the arc that
+subtends the angle (see Figure 2).
+F I G U R E  2
+The circumference of the circle of radius 1 is 2p and so a complete revolution has mea-
+sure 2p rad, a straight angle has measure p rad, and a right angle has measure p/2 rad.
+An angle that is subtended by an arc of length 2 along the unit circle has radian measure
+2 (see Figure 3).
+pi pi rad 2 rad 1 2 rad
+1 rad 1
+O 1 O 1 O 1 O 1
+F I G U R E  3 Radian measure
+Since a complete revolution measured in degrees is 360! and measured in radians is 
+2p rad, we get the following simple relationship between these two methods of angle
+measurement.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  6 . 1 | Angle Measure 435
+REL ATIONSHIP BET WEEN DEGREES AND RADIANS
+180
+180° " p rad  1 rad " a b ° p  1° "   rad
+p 180
+p
+1. To convert degrees to radians, multiply by .
+180
+180
+2. To convert radians to degrees, multiply by .
+p
+¨ 1
+1 To get some idea of the size of a radian, notice that
+1 rad ! 57.296°  and  1° ! 0.01745 rad
+Measure of ¨=1 rad
+Measure of ¨Å57.296* An angle u of measure 1 rad is shown in Figure 4.
+F I G U R E  4 E X A M P L E  1 Converting Between Radians and Degrees
+(a) pExpress 60! in radians. (b) Express rad in degrees.
+6
+S O L U T I O N The relationship between degrees and radians gives
+(a) p p0 a p b p rad "   rad   rad " a b a 18060° " 6 (b) b " 30°
+180 3 6 6 p
+S E C T I O N  6 . 1 | Angle Measure 435
+REL ATIONSHIP BET WEEN DEGREES AND RADIANS
+180
+180° " p rad  1 rad " a b ° p  1° "   rad
+p 180
+p
+1. To convert degrees to radians, multiply by .
+180
+180
+2. To convert radians to degrees, multiply by .
+p
+¨ 1
+1 To get some idea of the size of a radian, notice that
+1 rad ! 57.296°  and  1° ! 0.01745 rad
+Measure of ¨=1 rad
+Measure of ¨Å57.296* An angle u of measure 1 rad is shown in Figure 4.
+F I G U R E  4 E X A M P L E  1 Converting Between Radians and Degrees
+(a) pExpress 60! in radians. (b) Express rad in degrees.
+6
+S O L U T I O N The relationship between degrees and radians gives
+(a) p p0 a p b p rad "   rad   rad " a b a 18060° " 6 (b) b " 30°
+180 3 6 6 p

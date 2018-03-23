@@ -1,0 +1,97 @@
+12.1 SEQUENCES AND SUMMATION NOTATION
+Sequences ! Recursively Defined Sequences ! The Partial Sums 
+of a Sequence ! Sigma Notation
+Roughly speaking, a sequence is an infinite list of numbers. The numbers in the sequence
+are often written as a1, a2, a3, . . . . The dots mean that the list continues forever. A simple
+example is the sequence
+5,  10,  15,  20,  25, . . .
+! ! ! ! !
+a1 a2 a3 a4 a5 . . .
+We can describe the pattern of the sequence displayed above by the following formula:
+an ! 5n
+You may have already thought of a different way to describe the pattern-namely, "you
+go from one number to the next by adding 5." This natural way of describing the sequence
+is expressed by the recursive formula:
+an ! an"1 # 5
+starting with a1 ! 5. Try substituting n ! 1, 2, 3, . . . in each of these formulas to see how
+they produce the numbers in the sequence. In this section we see how these different ways
+are used to describe specific sequences.
+! Sequences
+Any ordered list of numbers can be viewed as a function whose input values are 1, 2,
+3, . . . and whose output values are the numbers in the list. So we define a sequence as 
+follows:
+DEFINITION OF A SEQUENCE
+A sequence is a function f whose domain is the set of natural numbers. The
+terms of the sequence are the function values 
+f 11 2 , f 12 2 , f 13 2 , . . . , f 1n 2 , . . .
+We usually write an instead of the function notation f 1n 2 . So the terms of the se-
+quence are written as
+a1, a2, a3, . . . , an, . . . 
+The number a1 is called the first term, a2 is called the second term, and in gen-
+eral, an is called the nth term.
+Here is a simple example of a sequence:
+2, 4, 6, 8, 10, . . .
+We can write a sequence in this way when it's clear what the subsequent terms of the se-
+Another way to write this sequence is quence are. This sequence consists of even numbers. To be more accurate, however, we
+to use function notation: need to specify a procedure for finding all the terms of the sequence. This can be done by
+a giving a formula for the nth term an of the sequence. In this case,
+so a11 2 ! 2, a11n2 22 ! 2n! 4, a13 2 ! 6, . . . an ! 2n
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 2 . 1 | Sequences and Summation Notation 785
+and the sequence can be written as
+2,     4,     6,     8,  . . . ,  2n,  . . .
+1st 2nd 3rd 4th nth
+term term term term term
+Notice how the formula an ! 2n gives all the terms of the sequence. For instance, substi-
+tuting 1, 2, 3, and 4 for n gives the first four terms:
+a1 ! 2 # 1 ! 2  a2 ! 2 # 2 ! 4
+a3 ! 2 # 3 ! 6  a4 ! 2 # 4 ! 8
+To find the 103rd term of this sequence, we use n ! 103 to get
+a103 ! 2 # 103 ! 206
+E X A M P L E  1 | Finding the Terms of a Sequence
+Find the first five terms and the 100th term of the sequence defined by each formula.
+(a) a (b) c 1 2n ! 2n " 1 n ! n " 1"1 2 n(c) ntn ! (d) rn !
+n # 1 2n
+S O L U T I O N To find the first five terms, we substitute n ! 1, 2, 3, 4, and 5 in the formula
+for the nth term. To find the 100th term, we substitute n ! 100. This gives the following.
+nth term First five terms 100th term
+(a) 2n " 1 1, 3, 5, 7, 9 199
+(b) n2 " 1 0, 3, 8, 15, 24 9999
+(c)
+(d) 1
+n 1 2 3 4 5 100
+, , , 
+n # 5, 1 2 3 4 6 101
+"1 2 n 1 1 1 1 1 1
+" , , " , , " 
+2n 2 4 8 16 32 2100
+an
+S E C T I O N  1 2 . 1 | Sequences and Summation Notation 785
+and the sequence can be written as
+2,     4,     6,     8,  . . . ,  2n,  . . .
+1st 2nd 3rd 4th nth
+term term term term term
+Notice how the formula an ! 2n gives all the terms of the sequence. For instance, substi-
+tuting 1, 2, 3, and 4 for n gives the first four terms:
+a1 ! 2 # 1 ! 2  a2 ! 2 # 2 ! 4
+a3 ! 2 # 3 ! 6  a4 ! 2 # 4 ! 8
+To find the 103rd term of this sequence, we use n ! 103 to get
+a103 ! 2 # 103 ! 206
+E X A M P L E  1 | Finding the Terms of a Sequence
+Find the first five terms and the 100th term of the sequence defined by each formula.
+(a) a (b) c 1 2n ! 2n " 1 n ! n " 1"1 2 n(c) ntn ! (d) rn !
+n # 1 2n
+S O L U T I O N To find the first five terms, we substitute n ! 1, 2, 3, 4, and 5 in the formula
+for the nth term. To find the 100th term, we substitute n ! 100. This gives the following.
+nth term First five terms 100th term
+(a) 2n " 1 1, 3, 5, 7, 9 199
+(b) n2 " 1 0, 3, 8, 15, 24 9999
+(c)
+(d) 1
+n 1 2 3 4 5 100
+, , , 
+n # 5, 1 2 3 4 6 101
+"1 2 n 1 1 1 1 1 1
+" , , " , , " 
+2n 2 4 8 16 32 2100
+an

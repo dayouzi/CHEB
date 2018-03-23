@@ -1,0 +1,24 @@
+9VECTORS IN TWO AND THREE DIMENSIONS
+9.1 Vectors in Two Dimensions Many real-world quantities are described mathematically by just one number:
+their "size" or magnitude. For example, quantities such as mass, volume,
+9.2 The Dot Product distance, and temperature are described by their magnitude. But many other
+9.3 Three-Dimensional Coordinate real-world quantities involve both magnitude and direction. Such quantities are
+Geometry described mathematically by vectors. For example, if you push a car with a
+certain force, the direction in which you push on the car is important; you get
+9.4 Vectors in Three Dimensions different results if you push the car forward, backward, or perhaps sideways.
+9.5 The Cross Product So force is a vector. The result of several forces acting on an object can be
+evaluated by using vectors. For example, we'll see how we can combine the
+9.6 Equations of Lines and Planes
+vector forces of wind and water on the sails and hull of a sailboat to find the
+FOCUS ON MODELING direction in which the boat will sail. Analyzing these vector forces helps
+Vector Fields sailors to sail against the wind by tacking. (See the Discovery Project Sailing
+Against the Wind referenced on page 597.)
+N sail
+wind
+Vector forces Tacking against the wind
+579
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+© James L. Amos/SuperStock
+C H A P T E R
+580 C H A P T E R  9 | Vectors in Two and Three Dimensions
+9VECTORS IN TWO AND THREE DIMENSIONS

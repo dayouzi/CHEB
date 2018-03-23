@@ -1,0 +1,109 @@
+1.5 EQUATIONS
+Solving Linear Equations " Solving Quadratic Equations " Other Types 
+of Equations
+An equation is a statement that two mathematical expressions are equal. For example,
+3 % 5 ! 8
+is an equation. Most equations that we study in algebra contain variables, which are sym-
+bols (usually letters) that stand for numbers. In the equation
+x ! 3 is a solution of the equation 
+4x % 7 ! 19, because substituting 4x % 7 ! 19
+x ! 3 makes the equation true: the letter x is the variable. We think of x as the "unknown" in the equation, and our goal
+x
+41! is to find the value of x that makes the equation true. The values of the unknown that makethe equation true are called the solutions or roots of the equation, and the process of find-3 23% 7 ! 19 # ing the solutions is called solving the equation.
+Two equations with exactly the same solutions are called equivalent equations. To
+solve an equation, we try to find a simpler, equivalent equation in which the variable
+stands alone on one side of the "equal" sign. Here are the properties that we use to solve
+an equation. (In these properties, A, B, and C stand for any algebraic expressions, and the
+symbol 3 means "is equivalent to.")
+PROPERTIES OF EQUALIT Y
+Property Description
+1. A ! B 3 A % C ! B % C Adding the same quantity to both sides of
+an equation gives an equivalent equation.
+2. A! B 3 CA! CB (C# 0) Multiplying both sides of an equation by
+the same nonzero quantity gives an equiv-
+alent equation.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 . 5 | Equations 45
+These properties require that you perform the same operation on both sides of an equa-
+tion when solving it. Thus, if we say "add $7" when solving an equation, that is just a
+short way of saying "add $7 to each side of the equation."
+! Solving Linear Equations
+The simplest type of equation is a linear equation, or first-degree equation, which is an
+equation in which each term is either a constant or a nonzero multiple of the variable.
+LINEAR EQUATIONS
+A linear equation in one variable is an equation equivalent to one of the form
+ax % b ! 0
+where a and b are real numbers and x is the variable.
+Here are some examples that illustrate the difference between linear and nonlinear equa-
+tions.
+Linear equations Nonlinear equations
+Not linear; contains the
+4x $ 5 ! 3 x2 % 2x ! 8 square of the variable
+2x ! 1 Not linear; contains the2 x $ 7 1x $ 6x ! 0
+square root of the variable
+x 3
+x $ 6 ! $ 2x ! 1
+3 Not linear; contains thex
+reciprocal of the variable
+E X A M P L E  1 Solving a Linear Equation
+Solve the equation 7x $ 4 ! 3x % 8.
+S O L U T I O N We solve this by changing it to an equivalent equation with all terms that
+have the variable x on one side and all constant terms on the other.
+7 x $ 4 ! 3x % 8
+ 17x $ 4 2 % 4 ! 13x % 8 2 Given equation% 4 Add 4
+7 x ! 3x % 12 Simplify
+7 x $ 3x ! 13x % 12 2 $ 3x Subtract 3x
+4 x ! 12 Simplify
+1 1
+4 # 4x ! 14 # 12 Multiply by 4
+x ! 3 Simplify
+x ! 3 x ! 3
+C H E C K  Y O U R  A N S W E R
+Because it is important to CHECK
+YOUR ANSWER, we do x ! 3:  LHS ! 713 2 $ 4  RHS ! 313 2 % 8 this in many
+of our examples. In these checks, LHS
+ ! 17  ! 17
+stands for "left-hand side" and RHS LHS ! RHS #
+stands for "right-hand side" of the 
+S E C T I O N  1 . 5 | Equations 45
+These properties require that you perform the same operation on both sides of an equa-
+tion when solving it. Thus, if we say "add $7" when solving an equation, that is just a
+short way of saying "add $7 to each side of the equation."
+! Solving Linear Equations
+The simplest type of equation is a linear equation, or first-degree equation, which is an
+equation in which each term is either a constant or a nonzero multiple of the variable.
+LINEAR EQUATIONS
+A linear equation in one variable is an equation equivalent to one of the form
+ax % b ! 0
+where a and b are real numbers and x is the variable.
+Here are some examples that illustrate the difference between linear and nonlinear equa-
+tions.
+Linear equations Nonlinear equations
+Not linear; contains the
+4x $ 5 ! 3 x2 % 2x ! 8 square of the variable
+2x ! 1 Not linear; contains the2 x $ 7 1x $ 6x ! 0
+square root of the variable
+x 3
+x $ 6 ! $ 2x ! 1
+3 Not linear; contains thex
+reciprocal of the variable
+E X A M P L E  1 Solving a Linear Equation
+Solve the equation 7x $ 4 ! 3x % 8.
+S O L U T I O N We solve this by changing it to an equivalent equation with all terms that
+have the variable x on one side and all constant terms on the other.
+7 x $ 4 ! 3x % 8
+ 17x $ 4 2 % 4 ! 13x % 8 2 Given equation% 4 Add 4
+7 x ! 3x % 12 Simplify
+7 x $ 3x ! 13x % 12 2 $ 3x Subtract 3x
+4 x ! 12 Simplify
+1 1
+4 # 4x ! 14 # 12 Multiply by 4
+x ! 3 Simplify
+x ! 3 x ! 3
+C H E C K  Y O U R  A N S W E R
+Because it is important to CHECK
+YOUR ANSWER, we do x ! 3:  LHS ! 713 2 $ 4  RHS ! 313 2 % 8 this in many
+of our examples. In these checks, LHS
+ ! 17  ! 17
+stands for "left-hand side" and RHS LHS ! RHS #
+stands for "right-hand side" of the 

@@ -1,0 +1,202 @@
+4.2 Exterior Angles Theorems
+
+Here you'll learn what an exterior angle is as well as two theorems involving exterior angles: that the sum of the
+
+exterior angles is always 360◦ and that in a triangle, an exterior angle is equal to the sum of its remote interior angles.
+
+What if you knew that two of the exterior angles of a triangle measured 130◦? How could you find the measure of
+
+the third exterior angle? After completing this Concept, you'll be able to apply the Exterior Angle Sum Theorem to
+
+solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136753
+
+CK-12 Exterior Angles Theorems
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1321
+
+James Sousa: Introduction to the Exterior Angles of a Triangle
+
+Then watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1322
+
+James Sousa: Proof that the Sum of the Exterior Angles of a Triangle is 360 Degrees
+
+Finally, watch this video.
+
+171
+
+4.2. Exterior Angles Theorems www.ck12.org
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1323
+
+James Sousa: Proof of the Exterior Angles Theorem
+
+Guidance
+
+An Exterior Angle is the angle formed by one side of a polygon and the extension of the adjacent side.
+
+In all polygons, there are two sets of exterior angles, one that goes around clockwise and the other goes around
+
+counterclockwise.
+
+Notice that the interior angle and its adjacent exterior angle form a linear pair and add up to 180◦.
+
+m6 1+m 6 2 = 180◦
+
+There are two important theorems to know involving exterior angles: the Exterior Angle Sum Theorem and the
+
+Exterior Angle Theorem.
+
+The Exterior Angle Sum Theorem states that the exterior angles of any polygon will always add up to 360◦.
+
+m6 1+m 6 2+m6 3 = 360◦
+
+m6 4+m 6 5+m6 6 = 360◦
+
+172
+4.2. Exterior Angles Theorems www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1323
+James Sousa: Proof of the Exterior Angles Theorem
+Guidance
+An Exterior Angle is the angle formed by one side of a polygon and the extension of the adjacent side.
+In all polygons, there are two sets of exterior angles, one that goes around clockwise and the other goes around
+counterclockwise.
+Notice that the interior angle and its adjacent exterior angle form a linear pair and add up to 180◦.
+m6 1+m 6 2 = 180◦
+There are two important theorems to know involving exterior angles: the Exterior Angle Sum Theorem and the
+Exterior Angle Theorem.
+The Exterior Angle Sum Theorem states that the exterior angles of any polygon will always add up to 360◦.
+m6 1+m 6 2+m6 3 = 360◦
+m6 4+m 6 5+m6 6 = 360◦
+172
+www.ck12.org Chapter 4. Triangles and Congruence
+.
+The Exterior Angle Theorem states that an exterior angle of a triangle is equal to the sum of its remote interior
+angles. ( Remote Interior Angles are the two interior angles in a triangle that are not adjacent to the indicated
+exterior angle.)
+m 6 A+m6 B = m6 ACD
+.
+Example A
+Find the measure of 6 RQS.
+Notice that 112◦ is an exterior angle of4RQS and is supplementary to 6 RQS.
+Set up an equation to solve for the missing angle.
+112◦+m6 RQS = 180◦
+m6 RQS = 68◦
+Example B
+Find the measures of the numbered interior and exterior angles in the triangle.
+We know that m 6 1+92◦ = 180◦ because they form a linear pair. So, m6 1 = 88◦.
+173
+4.2. Exterior Angles Theorems www.ck12.org
+Similarly, m 6 2+123◦ = 180◦ because they form a linear pair. So, m6 2 = 57◦.
+We also know that the three interior angles must add up to 180◦ by the Triangle Sum Theorem.
+m6 1+m6 2+m 6 3 = 180◦ by the Triangle Sum Theorem.
+88◦+57◦+m 6 3 = 180
+m 6 3 = 35◦
+Lastly, m6 3+m6 4 = 180◦ because they form a linear pair.
+35◦+m6 4 = 180◦
+m6 4 = 145◦
+Example C
+What is the value of p in the triangle below?
+First, we need to find the missing exterior angle, which we will call x. Set up an equation using the Exterior Angle
+Sum Theorem.
+130◦+110◦+ x = 360◦
+x = 360◦−130◦−110◦
+x = 120◦
+x and p add up to 180◦ because they are a linear pair.
+x+ p = 180◦
+120◦+ p = 180◦
+p = 60◦
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136754
+174
+www.ck12.org Chapter 4. Triangles and Congruence
+CK-12 Exterior Angles Theorems
+->
+Guided Practice
+1. Find m6 C.
+2. Two interior angles of a triangle are 40◦ and 73◦. What are the measures of the three exterior angles of the
+triangle?
+3. Find the value of x and the measure of each angle.
+Answers:
+1. Using the Exterior Angle Theorem
+m6 C+16◦ = 121◦
+m6 C = 105◦
+If you forget the Exterior Angle Theorem, you can do this problem just like Example C.
+2. Remember that every interior angle forms a linear pair (adds up to 180◦) with an exterior angle. So, since one
+of the interior angles is 40◦ that means that one of the exterior angles is 140◦ (because 40+140 = 180). Similarly,
+since another one of the interior angles is 73◦, one of the exterior angles must be 107◦. The third interior angle is
+not given to us, but we could figure it out using the Triangle Sum Theorem. We can also use the Exterior Angle
+Sum Theorem. If two of the exterior angles are 140◦ and 107◦, then the third Exterior Angle must be 113◦ since
+140+107+113 = 360.
+So, the measures of the three exterior angles are 140, 107 and 113.
+3. Set up an equation using the Exterior Angle Theorem.
+(4x+2)◦+(2x−9)◦ = (5x+13)◦
+↑ ↗ ↑
+remote interior angles exterior angle
+(6x−7)◦ = (5x+13)◦
+x = 20
+175
+4.2. Exterior Angles Theorems www.ck12.org
+Substitute in 20 for x to find each angle.
+[4(20)+2]◦ = 82◦ [2(20)−9]◦ = 31◦ Exterior angle: [5(20)+13]◦ = 113◦
+Explore More
+Determine m6 1.
+1.
+2.
+3.
+4.
+5.
+6.
+Use the following picture for the next three problems:
+176
+www.ck12.org Chapter 4. Triangles and Congruence
+7. What is m 6 1+m6 2+m6 3?
+8. What is m 6 4+m6 5+m6 6?
+9. What is m 6 7+m6 8+m6 9?
+Solve for x.
+10.
+11.
+12.
+177
+www.ck12.org Chapter 4. Triangles and Congruence
+
+7. What is m 6 1+m6 2+m6 3?
+
+8. What is m 6 4+m6 5+m6 6?
+
+9. What is m 6 7+m6 8+m6 9?
+
+Solve for x.
+
+10.
+
+11.
+
+12.
+
+177
+

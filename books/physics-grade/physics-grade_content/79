@@ -1,0 +1,321 @@
+6.2.5 Speed of a Transverse Wave
+
+In Chapter 3, we saw that speed was defined as
+
+distance travelled
+
+speed = .
+
+time taken
+
+The distance between two successive peaks is 1 wavelength, λ. Thus in a time of 1 period, the
+
+wave will travel 1 wavelength in distance. Thus the speed of the wave, v, is:
+
+distance travelled λ
+
+v = = .
+
+time taken T
+
+However, f = 1 . Therefore, we can also write:
+
+T
+
+λ
+
+v =
+
+T
+
+1
+
+= λ ·
+
+T
+
+= λ · f
+
+We call this equation the wave equation. To summarise, we have that v = λ · f where
+
+• v= speed in m·s−1
+
+111
+
+6.2 CHAPTER 6. TRANSVERSE WAVES - GRADE 10
+
+• λ= wavelength in m
+
+• f = frequency in Hz
+
+Worked Example 28: Speed of a Transverse Wave 1
+
+Question: When a particular string is vibrated at a frequency of 10Hz, a transverse
+
+wave of wavelength 0,25m is produced. Determine the speed of the wave as it
+
+travels along the string.
+
+Answer
+
+Step 1 : Determine what is given and what is required
+
+• frequency of wave: f = 10Hz
+
+• wavelength of wave: λ = 0,25m
+
+We are required to calculate the speed of the wave as it travels along the string. All
+
+quantities are in SI units.
+
+Step 2 : Determine how to approach the problem
+
+We know that the speed of a wave is:
+
+v = f · λ
+
+and we are given all the necessary quantities.
+
+Step 3 : Substituting in the values
+
+v = f · λ
+
+= (10 Hz)(0,25m)
+
+= 2,5m · s−1
+
+Step 4 : Write the final answer
+
+The wave travels at 2,5m·s−1 in the string.
+
+Worked Example 29: Speed of a Transverse Wave 2
+
+Question: A cork on the surface of a swimming pool bobs up and down once per
+
+second on some ripples. The ripples have a wavelength of 20 cm. If the cork is 2m
+
+from the edge of the pool, how long does it take a ripple passing the cork to reach
+
+the shore?
+
+Answer
+
+Step 1 : Determine what is given and what is required
+
+We are given:
+
+• frequency of wave: f = 1Hz
+
+• wavelength of wave: λ = 20 cm
+
+• distance of leaf from edge of pool: d = 2m
+
+We are required to determine the time it takes for a ripple to travel between the cork
+
+and the edge of the pool.
+
+The wavelength is not in SI units and should be converted.
+
+Step 2 : Determine how to approach the problem
+
+The time taken for the ripple to reach the edge of the pool is obtained from:
+
+d d
+
+t = (from v = )
+
+v t
+
+112
+6.2 CHAPTER 6. TRANSVERSE WAVES - GRADE 10
+• λ= wavelength in m
+• f = frequency in Hz
+Worked Example 28: Speed of a Transverse Wave 1
+Question: When a particular string is vibrated at a frequency of 10Hz, a transverse
+wave of wavelength 0,25m is produced. Determine the speed of the wave as it
+travels along the string.
+Answer
+Step 1 : Determine what is given and what is required
+• frequency of wave: f = 10Hz
+• wavelength of wave: λ = 0,25m
+We are required to calculate the speed of the wave as it travels along the string. All
+quantities are in SI units.
+Step 2 : Determine how to approach the problem
+We know that the speed of a wave is:
+v = f · λ
+and we are given all the necessary quantities.
+Step 3 : Substituting in the values
+v = f · λ
+= (10 Hz)(0,25m)
+= 2,5m · s−1
+Step 4 : Write the final answer
+The wave travels at 2,5m·s−1 in the string.
+Worked Example 29: Speed of a Transverse Wave 2
+Question: A cork on the surface of a swimming pool bobs up and down once per
+second on some ripples. The ripples have a wavelength of 20 cm. If the cork is 2m
+from the edge of the pool, how long does it take a ripple passing the cork to reach
+the shore?
+Answer
+Step 1 : Determine what is given and what is required
+We are given:
+• frequency of wave: f = 1Hz
+• wavelength of wave: λ = 20 cm
+• distance of leaf from edge of pool: d = 2m
+We are required to determine the time it takes for a ripple to travel between the cork
+and the edge of the pool.
+The wavelength is not in SI units and should be converted.
+Step 2 : Determine how to approach the problem
+The time taken for the ripple to reach the edge of the pool is obtained from:
+d d
+t = (from v = )
+v t
+112
+CHAPTER 6. TRANSVERSE WAVES - GRADE 10 6.2
+We know that
+v = f · λ
+Therefore,
+d
+t =
+f · λ
+Step 3 : Convert wavelength to SI units
+20 cm = 0,2m
+Step 4 : Solve the problem
+d
+t =
+f · λ
+2m
+=
+(1 Hz)(0,2m)
+= 10 s
+Step 5 : Write the final answer
+A ripple passing the leaf will take 10 s to reach the edge of the pool.
+Exercise: Waves
+1. List one property that distinguishes waves from matter.
+2. When the particles of a medium move perpendicular to the direction of the
+wave motion, the wave is called a . . . . . . . . . wave.
+3. A transverse wave is moving downwards. In what direction do the particles in
+the medium move?
+4. Consider the diagram below and answer the questions that follow:
+C D
+(a) the wavelength of the wave is shown by letter . . . . . ..
+(b) the amplitude of the wave is shown by letter . . . . . ..
+5. Draw 2 wavelengths of the following transverse waves on the same graph paper.
+Label all important values.
+(a) Wave 1: Amplitude = 1 cm, wavelength = 3 cm
+(b) Wave 2: Peak to trough distance (vertical) = 3 cm, peak to peak distance
+(horizontal) = 5 cm
+6. You are given the transverse wave below.
+1
+0
+1 2 3 4
+−1
+Draw the following:
+(a) A wave with twice the amplitude of the given wave.
+(b) A wave with half the amplitude of the given wave.
+113
+A
+B
+6.2 CHAPTER 6. TRANSVERSE WAVES - GRADE 10
+(c) A wave with twice the frequency of the given wave.
+(d) A wave with half the frequency of the given wave.
+(e) A wave with twice the wavelength of the given wave.
+(f) A wave with half the wavelength of the given wave.
+(g) A wave with twice the period of the given wave.
+(h) A wave with half the period of the given wave.
+7. A transverse wave with an amplitude of 5 cm has a frequency of 15Hz. The
+horizontal distance from a crest to the nearest trough is measured to be 2,5 cm.
+Find the
+(a) period of the wave.
+(b) speed of the wave.
+8. A fly flaps its wings back and forth 200 times each second. Calculate the period
+of a wing flap.
+9. As the period of a wave increases, the frequency increases/decreases/does
+not change.
+10. Calculate the frequency of rotation of the second hand on a clock.
+11. Microwave ovens produce radiation with a frequency of 2 450MHz (1MHz =
+106 Hz) and a wavelength of 0,122m. What is the wave speed of the radiation?
+12. Study the following diagram and answer the questions:
+C K
+b b
+B b bD J b bL
+A b bE I b bM bQ
+F b bH N b bP
+b b
+G O
+(a) Identify two sets of points that are in phase.
+(b) Identify two sets of points that are out of phase.
+(c) Identify any two points that would indicate a wavelength.
+13. Tom is fishing from a pier and notices that four wave crests pass by in 8 s and
+estimates the distance between two successive crests is 4m. The timing starts
+with the first crest and ends with the fourth. Calculate the speed of the wave.
+114
+6.2 CHAPTER 6. TRANSVERSE WAVES - GRADE 10
+
+(c) A wave with twice the frequency of the given wave.
+
+(d) A wave with half the frequency of the given wave.
+
+(e) A wave with twice the wavelength of the given wave.
+
+(f) A wave with half the wavelength of the given wave.
+
+(g) A wave with twice the period of the given wave.
+
+(h) A wave with half the period of the given wave.
+
+7. A transverse wave with an amplitude of 5 cm has a frequency of 15Hz. The
+
+horizontal distance from a crest to the nearest trough is measured to be 2,5 cm.
+
+Find the
+
+(a) period of the wave.
+
+(b) speed of the wave.
+
+8. A fly flaps its wings back and forth 200 times each second. Calculate the period
+
+of a wing flap.
+
+9. As the period of a wave increases, the frequency increases/decreases/does
+
+not change.
+
+10. Calculate the frequency of rotation of the second hand on a clock.
+
+11. Microwave ovens produce radiation with a frequency of 2 450MHz (1MHz =
+
+106 Hz) and a wavelength of 0,122m. What is the wave speed of the radiation?
+
+12. Study the following diagram and answer the questions:
+
+C K
+
+b b
+
+B b bD J b bL
+
+A b bE I b bM bQ
+
+F b bH N b bP
+
+b b
+
+G O
+
+(a) Identify two sets of points that are in phase.
+
+(b) Identify two sets of points that are out of phase.
+
+(c) Identify any two points that would indicate a wavelength.
+
+13. Tom is fishing from a pier and notices that four wave crests pass by in 8 s and
+
+estimates the distance between two successive crests is 4m. The timing starts
+
+with the first crest and ends with the fourth. Calculate the speed of the wave.
+
+114
+
+CHAPTER 6. TRANSVERSE WAVES - GRADE 10 6.3
+

@@ -1,0 +1,130 @@
+7.2 ADDITION AND SUBTRACTION FORMULAS
+Addition and Subtraction Formulas ! Evaluating Expressions Involving 
+Inverse Trigonometric Functions ! Expressions of the form A sin x! B cos x
+! Addition and Subtraction Formulas
+We now derive identities for trigonometric functions of sums and differences.
+ADDITION AND SUBTRACTION FORMUL AS
+Formulas for sine:  sin
+ sin11s ! t 2 " sin s cos t ! cos s sin ts # t 2 " sin s cos t # cos s sin t
+Formulas for cosine:  cos1s ! t 22 " cos s cos t # sin s sin t cos1s # t " cos s cos t ! sin s sin t
+t
+ tan1 an s ! tan tFormulas for tangent: s ! t 2 "
+1 # tan s tan t
+tan s # tan t
+ tan1s # t 2 "
+1 ! tan s tan t
+y P R O O F  O F  A D D I T I O N  F O R M U L A  F O R  C O S I N E To prove the formula
+cos1s ! t 2 " cos s cos t # sin s sin t, we use Figure 1. In the figure, the distances 
+P⁄ s s+t t, s ! t, and #s have been marked on the unit circle, starting at P011, 0 2 and terminating
+at Q1, P1, and Q0, respectively. The coordinates of these points areQ⁄
+t  P011, 0 2        Q01cos1#s 2 , s
+s ! t 2 , sin1s ! t 22        Q11cos t, sin t 2in1#s 22
+Since cos1#s 2  P11cos1O P‚ x 1 " cos s and , it follows that the point Q0 has the coor-dinates cos s, #sin s 2 sin1#s 2 " #sin s_s Q0 . Notice that the distances between P0 and P1 and between Q0
+and Q1 measured along the arc of the circle are equal. Since equal arcs are subtended by
+Q‚ equal chords, it follows that . Using the Distance Formula, we get
+F I G U R E  1 2 3cos1s ! t 2 # 1 4 2 ! 3d1P0, P1 2 " d1Q0, Q1 2sin1s ! t 2 # 0 4 2 " 21cos t # cos s 2 2 ! 1sin t ! sin s 2 2
+Squaring both sides and expanding, we have
+___________These add to 1___________
+! !
+cos21s ! t 2 # 2 cos1s ! t 2 ! 1 ! sin21s ! t 2
+" cos2 t # 2 cos s cos t ! cos2 s ! sin2 t ! 2 sin s sin t ! sin2 s
+" "
+___________These add to 1___________
+__________These add to 1__________
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+__#
+__#
+S E C T I O N  7 . 2 | Addition and Subtraction Formulas 501
+Using the Pythagorean identity sin2u ! cos2u " 1 three times gives
+JEAN BAPTISTE JOSEPH FOURIER
+(1768-1830) is responsible for the most 2 # 2 cos1s ! t 2 " 2 # 2 cos s cos t ! 2 sin s sin t
+powerful application of the trigono-
+metric functions (see the margin note Finally, subtracting 2 from ea
+cos1ch sids ! t 2e and dividing both sides by #2, we geton page 394). He used sums of thesefunctions to describe such physical " cos s cos t # sin s sin t
+phenomena as the transmission of
+sound and the flow of heat. which proves the Addition Formula for Cosine. "
+Orphaned as a young boy, Fourier
+was educated in a military school,
+where he became a mathematics P R O O F  O F  S U B T R A C T I O N  F O R M U L A  F O R  C O S I N E Replacing t with #t in the 
+teacher at the age of 20. He was later Addition Formula for Cosine, we get
+appointed professor at the École Poly-
+technique but resigned this position to  cos1s # t 2 " cos1s ! 1
+accompany Napoleon on his expedi-
+tion to Egypt, where Fourier served as  " cos s cos1#t 22#t 2 # sin s sin1#t 2 Addition Formula for Cosine
+governor. After returning to France he
+ " cos s cos t ! sin s sin t Even-odd identities
+began conducting experiments on
+heat. The French Academy refused to This proves the Subtraction Formula for Cosine. "
+publish his early papers on this subject
+because of his lack of rigor. Fourier
+eventually became Secretary of the See Exercises 70 and 71 for proofs of the other Addition Formulas.
+Academy and in this capacity had his
+papers published in their original form. E X A M P L E  1 Using the Addition and Subtraction Formulas
+Probably because of his study of heat
+and his years in the deserts of Egypt, Find the exact value of each expression.
+Fourier became obsessed with keeping
+himself warm-he wore several layers (a) cos 75( (b) pcos  
+of clothes, even in the summer, and 12
+kept his rooms at unbearably high S O L U T I O N
+temperatures. Evidently, these habits
+overburdened his heart and con- (a) Notice that 75( " 45( ! 30(. Since we know the exact values of sine and cosine at
+tributed to his death at the age of 62. 45( and 30(, we use the Addition Formula for Cosine to get
+ cos 75° " cos145° ! 30° 2
+ " c1os 45° cos 30° # sin 45° sin 30°2 13 12 1 1213 # 12 16 # 12
+ "  #  " "
+2 2 2 2 4 4
+(b) p p pSince " # , the Subtraction Formula for Cosine gives
+12 4 6
+p
+ cos  " cos a p p# b
+12 4 6
+1 p p p p " cos   cos  ! sin   sin  4 6 4 62 13 12 1 16 ! 12
+ "  !  "
+2 2 2 2 4
+S E C T I O N  7 . 2 | Addition and Subtraction Formulas 501
+Using the Pythagorean identity sin2u ! cos2u " 1 three times gives
+JEAN BAPTISTE JOSEPH FOURIER
+(1768-1830) is responsible for the most 2 # 2 cos1s ! t 2 " 2 # 2 cos s cos t ! 2 sin s sin t
+powerful application of the trigono-
+metric functions (see the margin note Finally, subtracting 2 from ea
+cos1ch sids ! t 2e and dividing both sides by #2, we geton page 394). He used sums of thesefunctions to describe such physical " cos s cos t # sin s sin t
+phenomena as the transmission of
+sound and the flow of heat. which proves the Addition Formula for Cosine. "
+Orphaned as a young boy, Fourier
+was educated in a military school,
+where he became a mathematics P R O O F  O F  S U B T R A C T I O N  F O R M U L A  F O R  C O S I N E Replacing t with #t in the 
+teacher at the age of 20. He was later Addition Formula for Cosine, we get
+appointed professor at the École Poly-
+technique but resigned this position to  cos1s # t 2 " cos1s ! 1
+accompany Napoleon on his expedi-
+tion to Egypt, where Fourier served as  " cos s cos1#t 22#t 2 # sin s sin1#t 2 Addition Formula for Cosine
+governor. After returning to France he
+ " cos s cos t ! sin s sin t Even-odd identities
+began conducting experiments on
+heat. The French Academy refused to This proves the Subtraction Formula for Cosine. "
+publish his early papers on this subject
+because of his lack of rigor. Fourier
+eventually became Secretary of the See Exercises 70 and 71 for proofs of the other Addition Formulas.
+Academy and in this capacity had his
+papers published in their original form. E X A M P L E  1 Using the Addition and Subtraction Formulas
+Probably because of his study of heat
+and his years in the deserts of Egypt, Find the exact value of each expression.
+Fourier became obsessed with keeping
+himself warm-he wore several layers (a) cos 75( (b) pcos  
+of clothes, even in the summer, and 12
+kept his rooms at unbearably high S O L U T I O N
+temperatures. Evidently, these habits
+overburdened his heart and con- (a) Notice that 75( " 45( ! 30(. Since we know the exact values of sine and cosine at
+tributed to his death at the age of 62. 45( and 30(, we use the Addition Formula for Cosine to get
+ cos 75° " cos145° ! 30° 2
+ " c1os 45° cos 30° # sin 45° sin 30°2 13 12 1 1213 # 12 16 # 12
+ "  #  " "
+2 2 2 2 4 4
+(b) p p pSince " # , the Subtraction Formula for Cosine gives
+12 4 6
+p
+ cos  " cos a p p# b
+12 4 6
+1 p p p p " cos   cos  ! sin   sin  4 6 4 62 13 12 1 16 ! 12
+ "  !  "
+2 2 2 2 4

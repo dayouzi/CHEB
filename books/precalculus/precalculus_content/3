@@ -1,0 +1,133 @@
+1.3 ALGEBRAIC EXPRESSIONS
+Adding and Subtracting Polynomials " Multiplying Algebraic Expressions "
+Special Product Formulas " Factoring Common Factors " Factoring 
+Trinomials " Special Factoring Formulas " Factoring by Grouping Terms
+A variable is a letter that can represent any number from a given set of numbers. If we
+start with variables, such as x, y, and z and some real numbers, and combine them using
+addition, subtraction, multiplication, division, powers, and roots, we obtain an algebraic
+expression. Here are some examples:
+2x2
+y # 2z
+# 3x $ 4   1x $ 10   
+y2 $ 4
+A monomial is an expression of the form axk, where a is a real number and k is a non-
+negative integer. A binomial is a sum of two monomials and a trinomial is a sum of three
+monomials. In general, a sum of monomials is called a polynomial. For example, the first
+expression listed above is a polynomial, but the other two are not.
+POLYNOMIALS
+A polynomial in the variable x is an expression of the form
+a nx
+n
+ $ a n#1 . . .
+ n#1x $ $ a1x $ a0
+where a0, a1, . . . , an are real numbers, and n is a nonnegative integer. If an " 0,
+then the polynomial has degree n. The monomials a kxk that make up the poly-
+nomial are called the terms of the polynomial.
+Note that the degree of a polynomial is the highest power of the variable that appears
+in the polynomial.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+24 C H A P T E R  1 | Fundamentals
+102. Distance from the Earth to the Sun It follows from 105. Limiting Behavior of Powers Complete the following
+Kepler's Third Law of planetary motion that the average tables. What happens to the nth root of 2 as n gets large?
+distance from a planet to the sun (in meters) is What about the nth root of 12 ?
+G
+d ! a M b 1/3T 2/3 n 21/n 12 B1/n4p2 n A
+where M ! 1.99 , 1030 kg is the 1 1mass of the sun,
+G ! 6.67 , 10#11 N # m2/kg2 is the gravitational 2 2constant,
+and T is the period of the planet' 5 5s orbit (in seconds). 
+Use the fact that the period of the earth's orbit is about 10 10
+365.25 days to find the distance from the earth to the 100 100sun.
+Construct a similar table for n1/n. What happens to the nth
+D I S C O V E R Y " D I S C U S S I O N " W R I T I N G root of n as n gets large?
+103. How Big Is a Billion? If you had a million (106) dollars 106. Comparing Roots Without using a calculator, deter-
+in a suitcase, and you spent a thousand (103) dollars each mine which number is larger in each pair.
+day, how many years would it take you to use all the money? (a) 21/2 or 21/3 (b) A11B1/2 A1 1/2B 32 or Spending at the same rate, how many years would it take (c) 71/4 or 41/3 (d) 3 5 or 13
+you to empty a suitcase filled with a billion (109) dollars?
+104. Easy Powers That Look Hard Calculate these expres-
+sions in your head. Use the Laws of Exponents to help you.
+185(a) (b) 206 # 10.5 2 6
+95
+1.3 ALGEBRAIC EXPRESSIONS
+Adding and Subtracting Polynomials " Multiplying Algebraic Expressions "
+Special Product Formulas " Factoring Common Factors " Factoring 
+Trinomials " Special Factoring Formulas " Factoring by Grouping Terms
+A variable is a letter that can represent any number from a given set of numbers. If we
+start with variables, such as x, y, and z and some real numbers, and combine them using
+addition, subtraction, multiplication, division, powers, and roots, we obtain an algebraic
+expression. Here are some examples:
+2x2
+y # 2z
+# 3x $ 4   1x $ 10   
+y2 $ 4
+A monomial is an expression of the form axk, where a is a real number and k is a non-
+negative integer. A binomial is a sum of two monomials and a trinomial is a sum of three
+monomials. In general, a sum of monomials is called a polynomial. For example, the first
+expression listed above is a polynomial, but the other two are not.
+POLYNOMIALS
+A polynomial in the variable x is an expression of the form
+a nx
+n
+ $ a n#1 . . .
+ n#1x $ $ a1x $ a0
+where a0, a1, . . . , an are real numbers, and n is a nonnegative integer. If an " 0,
+then the polynomial has degree n. The monomials a kxk that make up the poly-
+nomial are called the terms of the polynomial.
+Note that the degree of a polynomial is the highest power of the variable that appears
+in the polynomial.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+24 C H A P T E R  1 | Fundamentals
+102. Distance from the Earth to the Sun It follows from 105. Limiting Behavior of Powers Complete the following
+Kepler's Third Law of planetary motion that the average tables. What happens to the nth root of 2 as n gets large?
+distance from a planet to the sun (in meters) is What about the nth root of 12 ?
+G
+d ! a M b 1/3T 2/3 n 21/n 12 B1/n4p2 n A
+where M ! 1.99 , 1030 kg is the 1 1mass of the sun,
+G ! 6.67 , 10#11 N # m2/kg2 is the gravitational 2 2constant,
+and T is the period of the planet' 5 5s orbit (in seconds). 
+Use the fact that the period of the earth's orbit is about 10 10
+365.25 days to find the distance from the earth to the 100 100sun.
+Construct a similar table for n1/n. What happens to the nth
+D I S C O V E R Y " D I S C U S S I O N " W R I T I N G root of n as n gets large?
+103. How Big Is a Billion? If you had a million (106) dollars 106. Comparing Roots Without using a calculator, deter-
+in a suitcase, and you spent a thousand (103) dollars each mine which number is larger in each pair.
+day, how many years would it take you to use all the money? (a) 21/2 or 21/3 (b) A11B1/2 A1 1/2B 32 or Spending at the same rate, how many years would it take (c) 71/4 or 41/3 (d) 3 5 or 13
+you to empty a suitcase filled with a billion (109) dollars?
+104. Easy Powers That Look Hard Calculate these expres-
+sions in your head. Use the Laws of Exponents to help you.
+185(a) (b) 206 # 10.5 2 6
+95
+1.3 ALGEBRAIC EXPRESSIONS
+Adding and Subtracting Polynomials " Multiplying Algebraic Expressions "
+Special Product Formulas " Factoring Common Factors " Factoring 
+Trinomials " Special Factoring Formulas " Factoring by Grouping Terms
+A variable is a letter that can represent any number from a given set of numbers. If we
+start with variables, such as x, y, and z and some real numbers, and combine them using
+addition, subtraction, multiplication, division, powers, and roots, we obtain an algebraic
+expression. Here are some examples:
+2x2
+y # 2z
+# 3x $ 4   1x $ 10   
+y2 $ 4
+A monomial is an expression of the form axk, where a is a real number and k is a non-
+negative integer. A binomial is a sum of two monomials and a trinomial is a sum of three
+monomials. In general, a sum of monomials is called a polynomial. For example, the first
+expression listed above is a polynomial, but the other two are not.
+POLYNOMIALS
+A polynomial in the variable x is an expression of the form
+a nx
+n
+ $ a n#1 . . .
+ n#1x $ $ a1x $ a0
+where a0, a1, . . . , an are real numbers, and n is a nonnegative integer. If an " 0,
+then the polynomial has degree n. The monomials a kxk that make up the poly-
+nomial are called the terms of the polynomial.
+Note that the degree of a polynomial is the highest power of the variable that appears
+in the polynomial.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+26 C H A P T E R  1 | Fundamentals
+In general, we can multiply two algebraic expressions by using the Distributive Prop-
+erty and the Laws of Exponents.
+E X A M P L1E  2 | Multiplying Binomials Using FOIL2x $ 1 2 13x # 5 2 ! 6x2 # 10x $ 3x # 5 Distributive Property
+! ! ! !
+F O I L
+ ! 6x2 # 7x # 5 Combine like terms

@@ -1,0 +1,326 @@
+12.5 Momentum and Impulse
+
+Momentum is a physical quantity which is closely related to forces. Momentum is a property
+
+which applies to moving objects.
+
+Definition: Momentum
+
+Momentum is the tendency of an object to continue to move in its direction of travel.
+
+Momentum is calculated from the product of the mass and velocity of an object.
+
+The momentum (symbol p) of an object of mass m moving at velocity v is:
+
+p = m · v
+
+According to this equation, momentum is related to both the mass and velocity of an object. A
+
+small car travelling at the same velocity as a big truck will have a smaller momentum than the
+
+truck. The smaller the mass, the smaller the velocity.
+
+A car travelling at 120 km·hr−1will have a bigger momentum than the same car travelling at
+
+60 km·hr−1. Momentum is also related to velocity; the smaller the velocity, the smaller the
+
+momentum.
+
+Different objects can also have the same momentum, for example a car travelling slowly can have
+
+the same momentum as a motor cycle travelling relatively fast. We can easily demonstrate this.
+
+Consider a car of mass 1 000 kg with a velocity of 8 m·s−1(about 30 km·hr−1). The momentum
+
+of the car is therefore
+
+p = m · v
+
+= (1000)(8)
+
+= 8000 kg · m · s−1
+
+287
+
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+Now consider a motor cycle of mass 250 kg travelling at 32 m·s−1 (about 115 km·hr−1). The
+
+momentum of the motor cycle is:
+
+p = m · v
+
+= (250)(32)
+
+= 8000 kg · m · s−1
+
+Even though the motor cycle is considerably lighter than the car, the fact that the motor cy-
+
+cle is travelling much faster than the car means that the momentum of both vehicles is the same.
+
+From the calculations above, you are able to derive the unit for momentum as kg·m·s−1.
+
+Momentum is also vector quantity, because it is the product of a scalar (m) with a vector (v).
+
+This means that whenever we calculate the momentum of an object, we need to include the
+
+direction of the momentum.
+
+Worked Example 85: Momentum of a Soccer Ball
+
+Question: A soccer ball of mass 420 g is kicked at 20 m·s−1 towards the goal post.
+
+Calculate the momentum of the ball.
+
+Answer
+
+Step 1 : Identify what information is given and what is asked for
+
+The question explicitly gives
+
+• the mass of the ball, and
+
+• the velocity of the ball
+
+The mass of the ball must be converted to SI units.
+
+420 g = 0,42 kg
+
+We are asked to calculate the momentum of the ball. From the definition of mo-
+
+mentum,
+
+p = m · v
+
+we see that we need the mass and velocity of the ball, which we are given.
+
+Step 2 : Do the calculation
+
+We calculate the magnitude of the momentum of the ball,
+
+p = m · v
+
+= (0,42)(20)
+
+= 8,4 kg · m · s−1
+
+Step 3 : Quote the final answer
+
+We quote the answer with the direction of motion included, p = 8,4 kg·m·s−1 in the
+
+direction of the goal post.
+
+Worked Example 86: Momentum of a cricket ball
+
+Question: A cricket ball of mass 160 g is bowled at 40 m·s−1 towards a batsman.
+
+Calculate the momentum of the cricket ball.
+
+Answer
+
+Step 1 : Identify what information is given and what is asked for
+
+The question explicitly gives
+
+• the mass of the ball (m = 160 g = 0,16 kg), and
+
+288
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+Now consider a motor cycle of mass 250 kg travelling at 32 m·s−1 (about 115 km·hr−1). The
+momentum of the motor cycle is:
+p = m · v
+= (250)(32)
+= 8000 kg · m · s−1
+Even though the motor cycle is considerably lighter than the car, the fact that the motor cy-
+cle is travelling much faster than the car means that the momentum of both vehicles is the same.
+From the calculations above, you are able to derive the unit for momentum as kg·m·s−1.
+Momentum is also vector quantity, because it is the product of a scalar (m) with a vector (v).
+This means that whenever we calculate the momentum of an object, we need to include the
+direction of the momentum.
+Worked Example 85: Momentum of a Soccer Ball
+Question: A soccer ball of mass 420 g is kicked at 20 m·s−1 towards the goal post.
+Calculate the momentum of the ball.
+Answer
+Step 1 : Identify what information is given and what is asked for
+The question explicitly gives
+• the mass of the ball, and
+• the velocity of the ball
+The mass of the ball must be converted to SI units.
+420 g = 0,42 kg
+We are asked to calculate the momentum of the ball. From the definition of mo-
+mentum,
+p = m · v
+we see that we need the mass and velocity of the ball, which we are given.
+Step 2 : Do the calculation
+We calculate the magnitude of the momentum of the ball,
+p = m · v
+= (0,42)(20)
+= 8,4 kg · m · s−1
+Step 3 : Quote the final answer
+We quote the answer with the direction of motion included, p = 8,4 kg·m·s−1 in the
+direction of the goal post.
+Worked Example 86: Momentum of a cricket ball
+Question: A cricket ball of mass 160 g is bowled at 40 m·s−1 towards a batsman.
+Calculate the momentum of the cricket ball.
+Answer
+Step 1 : Identify what information is given and what is asked for
+The question explicitly gives
+• the mass of the ball (m = 160 g = 0,16 kg), and
+288
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.5
+• the velocity of the ball (v = 40 m·s−1)
+To calculate the momentum we will use
+p = m · v
+.
+Step 2 : Do the calculation
+p = m · v
+= (0,16)(40)
+= 6,4 kg · m · s−1
+= 6,4 kg · m · s−1in the direction of the batsman
+Worked Example 87: Momentum of the Moon
+Question: The Moon is 384 400 km away from the Earth and orbits the Earth in
+27,3 days. If the Moon has a mass of 7,35 x 1022kg, what is the magnitude of its
+momentum if we assume a circular orbit?
+Answer
+Step 1 : Identify what information is given and what is asked for
+The question explicitly gives
+• the mass of the Moon (m = 7,35 x 1022 kg)
+• the distance to the Moon (384 400 km = 384 400 000 m = 3,844 x 108 m)
+• the time for one orbit of the Moon (27,3 days = 27,3 x 24 x 60 x 60 = 2,36 x
+106 s)
+We are asked to calculate only the magnitude of the momentum of the Moon (i.e.
+we do not need to specify a direction). In order to do this we require the mass and
+the magnitude of the velocity of the Moon, since
+p = m · v
+Step 2 : Find the magnitude of the velocity of the Moon
+The magnitude of the average velocity is the same as the speed. Therefore:
+d
+s =
+∆t
+We are given the time the Moon takes for one orbit but not how far it travels in that
+time. However, we can work this out from the distance to the Moon and the fact
+that the Moon has a circular orbit. Using the equation for the circumference, C, of
+a circle in terms of its radius, we can determine the distance travelled by the Moon
+in one orbit:
+C = 2πr
+= 2π(3,844× 108)
+= 2,42× 109 m
+Combining the distance travelled by the Moon in an orbit and the time taken by
+the Moon to complete one orbit, we can determine the magnitude of the Moon's
+289
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.5
+
+• the velocity of the ball (v = 40 m·s−1)
+
+To calculate the momentum we will use
+
+p = m · v
+
+.
+
+Step 2 : Do the calculation
+
+p = m · v
+
+= (0,16)(40)
+
+= 6,4 kg · m · s−1
+
+= 6,4 kg · m · s−1in the direction of the batsman
+
+Worked Example 87: Momentum of the Moon
+
+Question: The Moon is 384 400 km away from the Earth and orbits the Earth in
+
+27,3 days. If the Moon has a mass of 7,35 x 1022kg, what is the magnitude of its
+
+momentum if we assume a circular orbit?
+
+Answer
+
+Step 1 : Identify what information is given and what is asked for
+
+The question explicitly gives
+
+• the mass of the Moon (m = 7,35 x 1022 kg)
+
+• the distance to the Moon (384 400 km = 384 400 000 m = 3,844 x 108 m)
+
+• the time for one orbit of the Moon (27,3 days = 27,3 x 24 x 60 x 60 = 2,36 x
+
+106 s)
+
+We are asked to calculate only the magnitude of the momentum of the Moon (i.e.
+
+we do not need to specify a direction). In order to do this we require the mass and
+
+the magnitude of the velocity of the Moon, since
+
+p = m · v
+
+Step 2 : Find the magnitude of the velocity of the Moon
+
+The magnitude of the average velocity is the same as the speed. Therefore:
+
+d
+
+s =
+
+∆t
+
+We are given the time the Moon takes for one orbit but not how far it travels in that
+
+time. However, we can work this out from the distance to the Moon and the fact
+
+that the Moon has a circular orbit. Using the equation for the circumference, C, of
+
+a circle in terms of its radius, we can determine the distance travelled by the Moon
+
+in one orbit:
+
+C = 2πr
+
+= 2π(3,844× 108)
+
+= 2,42× 109 m
+
+Combining the distance travelled by the Moon in an orbit and the time taken by
+
+the Moon to complete one orbit, we can determine the magnitude of the Moon's
+
+289
+
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+velocity or speed,
+
+d
+
+s =
+
+∆t
+
+C
+
+=
+
+T
+
+2,42× 109
+
+=
+
+2,36× 106
+
+= 1,02× 103 m · s−1.
+
+Step 3 : Finally calculate the momentum and quote the answer
+
+The magnitude of the Moon's momentum is:
+
+p = m · v
+
+= (7,35× 1022)(1,02× 103)
+
+= 7,50× 1025 kg · m · s−1
+

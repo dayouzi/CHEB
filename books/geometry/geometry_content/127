@@ -1,0 +1,170 @@
+12.4 Rotations
+
+Here you'll learn what a rotation is and how to find the coordinates of a rotated figure.
+
+What if you were given the coordinates of a quadrilateral and you were asked to rotate that quadrilateral 270◦ about
+
+the origin? What would its new coordinates be? After completing this Concept, you'll be able to rotate a figure like
+
+this one in the coordinate plane.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136597
+
+Transformation: Rotation CK-12
+
+Guidance
+
+A transformation is an operation that moves, flips, or otherwise changes a figure to create a new figure. A rigid
+
+transformation (also known as an isometry or congruence transformation) is a transformation that does not
+
+change the size or shape of a figure.
+
+The rigid transformations are translations (discussed elsewhere), reflections (discussed elsewhere), and rotations
+
+(discussed here). The new figure created by a transformation is called the image. The original figure is called the
+
+preimage. If the preimage is A, then the image would be A′, said "a prime." If there is an image of A′, that would be
+
+labeled A′′, said "a double prime."
+
+A rotation is a transformation where a figure is turned around a fixed point to create an image. The lines drawn
+
+from the preimage to the center of rotation and from the center of rotation to the image form the angle of rotation.
+
+In this concept, we will only do counterclockwise rotations.
+
+While we can rotate any image any amount of degrees, 90◦,180◦ and 270◦ rotations are common and have rules
+
+worth memorizing.
+
+Rotation of 180◦: (x,y)→ (−x,−y)
+
+679
+
+12.4. Rotations www.ck12.org
+
+Rotation of 90◦: (x,y)→ (−y,x)
+
+Rotation of 270◦: (x,y)→ (y,−x)
+
+Example A
+
+A rotation of 80◦ clockwise is the same as what counterclockwise rotation?
+
+There are 360◦ around a point. So, an 80◦ rotation clockwise is the same as a 360◦− 80◦ = 280◦ rotation counter-
+
+clockwise.
+
+Example B
+
+A rotation of 160◦ counterclockwise is the same as what clockwise rotation?
+
+680
+12.4. Rotations www.ck12.org
+Rotation of 90◦: (x,y)→ (−y,x)
+Rotation of 270◦: (x,y)→ (y,−x)
+Example A
+A rotation of 80◦ clockwise is the same as what counterclockwise rotation?
+There are 360◦ around a point. So, an 80◦ rotation clockwise is the same as a 360◦− 80◦ = 280◦ rotation counter-
+clockwise.
+Example B
+A rotation of 160◦ counterclockwise is the same as what clockwise rotation?
+680
+www.ck12.org Chapter 12. Rigid Transformations
+360◦−160◦ = 200◦ clockwise rotation.
+Example C
+Rotate4ABC, with vertices A(7,4),B(6,1), and C(3,1), 180◦ about the origin. Find the coordinates of4A′B′C′.
+Use the rule above to find4A′B′C′.
+A(7,4)→ A′(−7,−4)
+B(6,1)→ B′(−6,−1)
+C(3,1)→C′(−3,−1)
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136598
+Transformation: Rotation CK-12
+->
+681
+12.4. Rotations www.ck12.org
+Guided Practice
+1. Rotate ST 90◦.
+2. Find the coordinates of ABCD after a 270◦ rotation.
+682
+www.ck12.org Chapter 12. Rigid Transformations
+3. The rotation of a quadrilateral is shown below. What is the measure of x and y?
+Answers:
+1.
+683
+12.4. Rotations www.ck12.org
+2. Using the rule, we have:
+(x,y)→ (y,−x)
+A(−4,5)→ A′(5,4)
+B(1,2)→ B′(2,−1)
+C(−6,−2)→C′(−2,6)
+D(−8,3)→ D′(3,8)
+3. Because a rotation produces congruent figures, we can set up two equations to solve for x and y.
+2y = 80◦ 2x−3 = 15
+y = 40◦ 2x = 18
+x = 9
+Explore More
+In the questions below, every rotation is counterclockwise, unless otherwise stated.
+1. If you rotated the letter p 180◦ counterclockwise, what letter would you have?
+2. If you rotated the letter p 180◦ clockwise, what letter would you have?
+3. A 90◦ clockwise rotation is the same as what counterclockwise rotation?
+4. A 270◦ clockwise rotation is the same as what counterclockwise rotation?
+5. A 210◦ counterclockwise rotation is the same as what clockwise rotation?
+6. A 120◦ counterclockwise rotation is the same as what clockwise rotation?
+7. A 340◦ counterclockwise rotation is the same as what clockwise rotation?
+8. Rotating a figure 360◦ is the same as what other rotation?
+9. Does it matter if you rotate a figure 180◦ clockwise or counterclockwise? Why or why not?
+10. When drawing a rotated figure and using your protractor, would it be easier to rotate the figure 300◦ counter-
+clockwise or 60◦ clockwise? Explain your reasoning.
+Rotate each figure in the coordinate plane the given angle measure. The center of rotation is the origin.
+11. 180◦
+684
+www.ck12.org Chapter 12. Rigid Transformations
+12. 90◦
+13. 180◦
+14. 270◦
+15. 90◦
+685
+12.4. Rotations www.ck12.org
+16. 270◦
+17. 180◦
+18. 270◦
+686
+www.ck12.org Chapter 12. Rigid Transformations
+19. 90◦
+Find the measure of x in the rotations below. The blue figure is the preimage.
+20.
+21.
+687
+12.4. Rotations www.ck12.org
+22.
+Find the angle of rotation for the graphs below. The center of rotation is the origin and the blue figure is the preimage.
+Your answer will be 90◦,270◦, or 180◦.
+23.
+24.
+688
+www.ck12.org Chapter 12. Rigid Transformations
+25.
+26.
+27.
+689
+12.4. Rotations www.ck12.org
+28.
+690
+12.4. Rotations www.ck12.org
+
+28.
+
+690
+
+www.ck12.org Chapter 12. Rigid Transformations
+

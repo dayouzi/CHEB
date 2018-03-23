@@ -1,0 +1,49 @@
+4.3 LOGARITHMIC FUNCTIONS
+Logarithmic Functions ! Graphs of Logarithmic Functions ! Common 
+Logarithms ! Natural Logarithms
+y In this section we study the inverses of exponential functions.
+f(x)=a˛,
+a>1 ! Logarithmic Functions
+Every exponential function f 1x 2 ! ax, with a " 0 and a # 1, is a one-to-one function by
+the Horizontal Line Test (see Figure 1 for the case a " 1) and therefore has an inverse
+function. The inverse function f$1 is called the logarithmic function with base a and is
+denoted by loga. Recall from Section 2.6 that f$1 is
+f$1 1x 2 ! y 3  f 1 dy 2efined by0 x ! x
+F I G U R E  1 f 1x 2 ! ax is 
+one-to-one. This leads to the following definition of the logarithmic function.
+DEFINITION OF THE LOGARITHMIC FUNCTION
+Let a be a positive number with a # 1. The logarithmic function with base a,
+denoted by log a, is defined by
+We read loga x ! y as "log base a of loga x ! y 3  ay ! x
+x is y."
+So loga x is the exponent to which the base a must be raised to give x.
+When we use the definition of logarithms to switch back and forth between the loga-
+By tradition the name of the logarith- rithmic form logax ! y and the exponential form ay ! x, it is helpful to notice that, in
+mic function is loga, not just a single both forms, the base is the same:
+letter. Also, we usually omit the paren-
+theses in the function notation and
+write Logarithmic form Exponential form
+loga1x 2 ! loga x Exponent Exponent
+loga x ! y ay ! x
+Base Base
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+316 C H A P T E R  4 | Exponential and Logarithmic Functions
+E X A M P L E  1 | Logarithmic and Exponential Forms
+The logarithmic and exponential forms are equivalent equations: If one is true, then 
+so is the other. So we can switch from one form to the other as in the following illus-
+trations.
+Logarithmic form Exponential form
+log10 100,000 ! 5 105 ! 100,000
+log2 8 ! 3 23 ! 8
+log2 !'18'@ ! $3 2$3 ! '18'
+log5 s ! r 5r ! s
+316 C H A P T E R  4 | Exponential and Logarithmic Functions
+E X A M P L E  1 | Logarithmic and Exponential Forms
+The logarithmic and exponential forms are equivalent equations: If one is true, then 
+so is the other. So we can switch from one form to the other as in the following illus-
+trations.
+Logarithmic form Exponential form
+log10 100,000 ! 5 105 ! 100,000
+log2 8 ! 3 23 ! 8
+log2 !'18'@ ! $3 2$3 ! '18'
+log5 s ! r 5r ! s

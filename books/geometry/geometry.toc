@@ -1,0 +1,131 @@
+1 Basics of Geometry 1
+1.1 Basic Geometric Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+1.2 Distance Between Two Points . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+1.3 Congruent Angles and Angle Bisectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+1.4 Midpoints and Segment Bisectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+1.5 Angle Measurement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+1.6 Angle Classification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+1.7 Complementary Angles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+1.8 Supplementary Angles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+1.9 Linear Pairs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+1.10 Vertical Angles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+1.11 Triangle Classification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+1.12 Polygon Classification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+2 Reasoning and Proof 64
+2.1 Inductive Reasoning from Patterns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+2.2 Deductive Reasoning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+2.3 If-Then Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+2.4 Converse, Inverse, and Contrapositive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+2.5 Conjectures and Counterexamples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81
+2.6 Properties of Equality and Congruence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+2.7 Two-Column Proofs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+3 Parallel and Perpendicular Lines 100
+3.1 Parallel and Skew Lines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+3.2 Perpendicular Lines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
+3.3 Corresponding Angles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 116
+3.4 Alternate Interior Angles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+3.5 Alternate Exterior Angles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
+3.6 Same Side Interior Angles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+3.7 Slope in the Coordinate Plane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+3.8 Parallel Lines in the Coordinate Plane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 145
+3.9 Perpendicular Lines in the Coordinate Plane . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+3.10 Distance Formula in the Coordinate Plane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+3.11 Distance Between Parallel Lines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158
+4 Triangles and Congruence 164
+4.1 Triangle Sum Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 165
+4.2 Exterior Angles Theorems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 171
+4.3 Congruent Triangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+4.4 Congruence Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+4.5 Third Angle Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+4.6 SSS Triangle Congruence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 192
+4.7 SAS Triangle Congruence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+4.8 ASA and AAS Triangle Congruence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 207
+4.9 HL Triangle Congruence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
+4.10 Isosceles Triangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 220
+4.11 Equilateral Triangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 227
+5 Triangle Relationships 235
+5.1 Midsegment Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236
+5.2 Perpendicular Bisectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+5.3 Angle Bisectors in Triangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250
+5.4 Medians . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 256
+5.5 Altitudes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262
+5.6 Comparing Angles and Sides in Triangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 268
+5.7 Triangle Inequality Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 274
+5.8 Indirect Proof in Algebra and Geometry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 277
+6 Polygons and Quadrilaterals 281
+6.1 Interior Angles in Convex Polygons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 282
+6.2 Exterior Angles in Convex Polygons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 288
+6.3 Parallelograms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 291
+6.4 Quadrilaterals that are Parallelograms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 299
+6.5 Parallelogram Classification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 308
+6.6 Trapezoids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 315
+6.7 Kites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 321
+6.8 Quadrilateral Classification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 328
+7 Similarity 333
+7.1 Forms of Ratios . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 334
+7.2 Proportion Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 338
+7.3 Similar Polygons and Scale Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 343
+7.4 AA Similarity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 349
+7.5 Indirect Measurement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 356
+7.6 SSS Similarity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 360
+7.7 SAS Similarity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 365
+7.8 Triangle Proportionality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 372
+7.9 Parallel Lines and Transversals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 377
+7.10 Proportions with Angle Bisectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 384
+7.11 Dilation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 393
+7.12 Dilation in the Coordinate Plane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+7.13 Self-Similarity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 404
+8 Right Triangle Trigonometry 408
+8.1 Expressions with Radicals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 409
+8.2 Pythagorean Theorem and Pythagorean Triples . . . . . . . . . . . . . . . . . . . . . . . . . . 412
+8.3 Applications of the Pythagorean Theorem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 419
+8.4 Inscribed Similar Triangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 425
+8.5 45-45-90 Right Triangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
+8.6 30-60-90 Right Triangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 438
+8.7 Sine, Cosine, Tangent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 443
+8.8 Trigonometric Ratios with a Calculator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 448
+8.9 Trigonometry Word Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 452
+8.10 Inverse Trigonometric Ratios . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 457
+9 Circles 464
+9.1 Parts of Circles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 465
+9.2 Tangent Lines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 470
+9.3 Arcs in Circles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 478
+9.4 Chords in Circles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486
+9.5 Inscribed Angles in Circles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 495
+9.6 Inscribed Quadrilaterals in Circles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 502
+9.7 Angles On and Inside a Circle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507
+9.8 Angles Outside a Circle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 513
+9.9 Segments from Chords . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 518
+9.10 Segments from Secants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 525
+9.11 Segments from Secants and Tangents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 533
+9.12 Circles in the Coordinate Plane . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 542
+10 Perimeter and Area 548
+10.1 Area and Perimeter of Rectangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 549
+10.2 Area of a Parallelogram . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 552
+10.3 Area and Perimeter of Triangles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 558
+10.4 Area of Composite Shapes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 562
+10.5 Area and Perimeter of Trapezoids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 568
+10.6 Area and Perimeter of Rhombuses and Kites . . . . . . . . . . . . . . . . . . . . . . . . . . . . 573
+10.7 Area and Perimeter of Similar Polygons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 580
+10.8 Circumference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 584
+10.9 Arc Length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 588
+10.10 Area of a Circle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 593
+10.11 Area of Sectors and Segments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 597
+11 Surface Area and Volume 604
+11.1 Polyhedrons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 605
+11.2 Cross-Sections and Nets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 611
+11.3 Prisms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 617
+11.4 Cylinders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 625
+11.5 Pyramids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 630
+11.6 Cones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 637
+11.7 Spheres . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 643
+11.8 Composite Solids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 648
+11.9 Area and Volume of Similar Solids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 655
+12 Rigid Transformations 661
+12.1 Reflection Symmetry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 662
+12.2 Rotation Symmetry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 668
+12.3 Geometric Translations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 673
+12.4 Rotations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 679
+12.5 Reflections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 691
+12.6 Composition of Transformations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 704
+12.7 Tessellations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 714

@@ -1,0 +1,170 @@
+6.5 THE LAW OF SINES
+The Law of Sines ! The Ambiguous Case
+C In Section 6.2 we used the trigonometric ratios to solve right triangles. The trigonometric
+functions can also be used to solve oblique triangles, that is, triangles with no right an-
+gles. To do this, we first study the Law of Sines here and then the Law of Cosines in the
+b a next section. To state these laws (or formulas) more easily, we follow the convention of
+labeling the angles of a triangle as A, B, C and the lengths of the corresponding opposite
+sides as a, b, c, as in Figure 1.
+A c B
+To solve a triangle, we need to know certain information about its sides and angles. To
+decide whether we have enough information, it's often helpful to make a sketch. For in-
+stance, if we are given two angles and the included side, then it's clear that one and only
+F I G U R E  1
+one triangle can be formed (see Figure 2(a)). Similarly, if two sides and the included an-
+gle are known, then a unique triangle is determined (Figure 2(c)). But if we know all three
+angles and no sides, we cannot uniquely determine the triangle because many triangles
+can have the same three angles. (All these triangles would be similar, of course.) So we
+won't consider this last case.
+(a)  ASA or SAA (b) SSA (c) SAS (d) SSS
+F I G U R E  2
+In general, a triangle is determined by three of its six parts (angles and sides) as long as at
+least one of these three parts is a side. So the possibilities, illustrated in Figure 2, are as follows.
+Case 1 One side and two angles (ASA or SAA)
+Case 2 Two sides and the angle opposite one of those sides (SSA)
+Case 3 Two sides and the included angle (SAS)
+Case 4 Three sides (SSS)
+Cases 1 and 2 are solved by using the Law of Sines; Cases 3 and 4 require the Law of Cosines.
+! The Law of Sines
+The Law of Sines says that in any triangle the lengths of the sides are proportional to the
+sines of the corresponding opposite angles.
+THE L AW OF SINES
+In triangle ABC we have
+sin  A sin B sin C
+" "
+a b c
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 6.5 | The Law of Sines 469
+D I S C O V E R Y " D I S C U S S I O N " W R I T I N G  sec#1
+1
+ x " cos#1 a b , x . 1
+44. Inverse Trigonometric Functions on a Calculator
+Most calculators do not have keys for sec#1, csc#1, or cot#1.
+ csc#1
+1
+ x " sin#1 a x b , x . 1
+Pro xve the following identities, and then use these identities
+and a calculator to find sec#1 2, csc#1 3, and cot#1 4. 1
+ cot#1 x " tan#1 a b , x - 0
+x
+6.5 THE LAW OF SINES
+The Law of Sines ! The Ambiguous Case
+C In Section 6.2 we used the trigonometric ratios to solve right triangles. The trigonometric
+functions can also be used to solve oblique triangles, that is, triangles with no right an-
+gles. To do this, we first study the Law of Sines here and then the Law of Cosines in the
+b a next section. To state these laws (or formulas) more easily, we follow the convention of
+labeling the angles of a triangle as A, B, C and the lengths of the corresponding opposite
+sides as a, b, c, as in Figure 1.
+A c B
+To solve a triangle, we need to know certain information about its sides and angles. To
+decide whether we have enough information, it's often helpful to make a sketch. For in-
+stance, if we are given two angles and the included side, then it's clear that one and only
+F I G U R E  1
+one triangle can be formed (see Figure 2(a)). Similarly, if two sides and the included an-
+gle are known, then a unique triangle is determined (Figure 2(c)). But if we know all three
+angles and no sides, we cannot uniquely determine the triangle because many triangles
+can have the same three angles. (All these triangles would be similar, of course.) So we
+won't consider this last case.
+(a)  ASA or SAA (b) SSA (c) SAS (d) SSS
+F I G U R E  2
+In general, a triangle is determined by three of its six parts (angles and sides) as long as at
+least one of these three parts is a side. So the possibilities, illustrated in Figure 2, are as follows.
+Case 1 One side and two angles (ASA or SAA)
+Case 2 Two sides and the angle opposite one of those sides (SSA)
+Case 3 Two sides and the included angle (SAS)
+Case 4 Three sides (SSS)
+Cases 1 and 2 are solved by using the Law of Sines; Cases 3 and 4 require the Law of Cosines.
+! The Law of Sines
+The Law of Sines says that in any triangle the lengths of the sides are proportional to the
+sines of the corresponding opposite angles.
+THE L AW OF SINES
+In triangle ABC we have
+sin  A sin B sin C
+" "
+a b c
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 6.5 | The Law of Sines 469
+D I S C O V E R Y " D I S C U S S I O N " W R I T I N G  sec#1
+1
+ x " cos#1 a b , x . 1
+44. Inverse Trigonometric Functions on a Calculator
+Most calculators do not have keys for sec#1, csc#1, or cot#1.
+ csc#1
+1
+ x " sin#1 a x b , x . 1
+Pro xve the following identities, and then use these identities
+and a calculator to find sec#1 2, csc#1 3, and cot#1 4. 1
+ cot#1 x " tan#1 a b , x - 0
+x
+6.5 THE LAW OF SINES
+The Law of Sines ! The Ambiguous Case
+C In Section 6.2 we used the trigonometric ratios to solve right triangles. The trigonometric
+functions can also be used to solve oblique triangles, that is, triangles with no right an-
+gles. To do this, we first study the Law of Sines here and then the Law of Cosines in the
+b a next section. To state these laws (or formulas) more easily, we follow the convention of
+labeling the angles of a triangle as A, B, C and the lengths of the corresponding opposite
+sides as a, b, c, as in Figure 1.
+A c B
+To solve a triangle, we need to know certain information about its sides and angles. To
+decide whether we have enough information, it's often helpful to make a sketch. For in-
+stance, if we are given two angles and the included side, then it's clear that one and only
+F I G U R E  1
+one triangle can be formed (see Figure 2(a)). Similarly, if two sides and the included an-
+gle are known, then a unique triangle is determined (Figure 2(c)). But if we know all three
+angles and no sides, we cannot uniquely determine the triangle because many triangles
+can have the same three angles. (All these triangles would be similar, of course.) So we
+won't consider this last case.
+(a)  ASA or SAA (b) SSA (c) SAS (d) SSS
+F I G U R E  2
+In general, a triangle is determined by three of its six parts (angles and sides) as long as at
+least one of these three parts is a side. So the possibilities, illustrated in Figure 2, are as follows.
+Case 1 One side and two angles (ASA or SAA)
+Case 2 Two sides and the angle opposite one of those sides (SSA)
+Case 3 Two sides and the included angle (SAS)
+Case 4 Three sides (SSS)
+Cases 1 and 2 are solved by using the Law of Sines; Cases 3 and 4 require the Law of Cosines.
+! The Law of Sines
+The Law of Sines says that in any triangle the lengths of the sides are proportional to the
+sines of the corresponding opposite angles.
+THE L AW OF SINES
+In triangle ABC we have
+sin  A sin B sin C
+" "
+a b c
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 6.5 | The Law of Sines 471
+called the ambiguous case. To see why this is so, we show in Figure 6 the possibilities
+when angle A and sides a and b are given. In part (a) no solution is possible, since side a
+is too short to complete the triangle. In part (b) the solution is a right triangle. In part (c)
+two solutions are possible, and in part (d) there is a unique triangle with the given prop-
+erties. We illustrate the possibilities of Case 2 in the following examples.
+C C C C
+b a b a b a a b a
+A A B A B B A B
+F I G U R E  6 The ambiguous case (a) (b) (c) (d)
+E X A M P L E  3 SSA, the One-Solution Case
+Solve triangle ABC, where "A " 45!, a " 712, and b " 7.
+C S O L U T I O N We first sketch the triangle with the information we have (see Figure 7).
+Our sketch is necessarily tentative, since we don't yet know the other angles. Neverthe-
+7 7 œ∑2 less, we can now see the possibilities.
+We first find "B.
+45*
+A B sin A sin B "
+a b
+F I G U R E  7 b sin A 7
+ sin B " "   sin 45 "
+a 71 ° a2 11 b a 1
+Law of Sines
+2 b 1" Solve for sin B
+2 2 2
+Which angles B have sin B " 12? From the preceding section we know that there are 
+We consider only angles smaller than two such angles smaller than 180! (they are 30! and 150!). Which of these angles is
+180!, since no triangle can contain compatible with what we know about triangle ABC? Since "A " 45!, we cannot 
+an angle of 180! or larger. have "B " 150!, because 45! $ 150! - 180!. So "B " 30!, and the remaining angle
+is "C " 180° # 130° $ 45° 2 " 105°.
+Now we can find side c.
+sin B sin C
+ " Law of Sines
+b c
+b sin C 7 sin 105° 7 sin 105°
+ c " " " 1 ! 13.5 Solve for csin B sin 30° 2

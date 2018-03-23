@@ -1,0 +1,67 @@
+9.6 EQUATIONS OF LINES AND PLANES
+Equations of Lines ! Equations of Planes
+In this section we find equations for lines and planes in a three-dimensional coordinate
+space. We use vectors to help us find such equations. 
+! Equations of Lines
+T1 he position vector of a point A line L in three-dimensional space is determined when we know a point a1, a2, a3 2 8a1, a2, a39 P01x 0, y0, z0 2 onis the vector ; that L and the direction of L. In three dimensions the direction of a line is described by! a vec-
+is, it is the vector from the origin to the tor v parallel to L. If we let r0 be the position vector of P0 (that is, the vector OP0), then
+point. for all real numbers t, the terminal points P of the position vectors r0 ! t v trace out a line
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  9 . 6 | Equations of Lines and Planes 617
+z parallel to v and passing through P0 (see Figure 1). Each value of the parameter t gives a
+P point P on L. So the line L is given by the position vector r, where
+v
+P‚ tv r $ r0 ! t v
+L r‚ r‚! tv for t ! ". This is the vector equation of a line.
+Let's write the vector v in component form v $ 8a, b, c9 and let 
+x 0 r $ 8x, y, z9 r0 $ 8x 0, y0, z09 and. Then the vect
+y  8or equx, y, z9ation$ 8  of the line becomes x 0, y0, z09 ! t 8a, b, c9
+ $ 8x 0 ! ta, y0 ! tb, z0 ! tc9
+F I G U R E  1 Since two vectors are equal if and only if their corresponding components are equal, we
+have the following result.
+PARAMETRIC EQUATIONS FOR A LINE
+A line passing through the point and parallel to the vector
+v $ 8a, b, c9 P1x 0, y0, z0 2is described by the parametric equations 
+ x $ x 0 ! at
+ y $ y0 ! bt
+ z $ z0 ! ct
+where t is any real number. 
+z E X A M P L E  1 Equations of a Line 
+v=#3, _4, 2" Find parametric equations for the line that passes through the point 15, %2, 3 2 and is par-
+allel to the vector v $ 83, %4, 29.
+(5, _2, 3)
+S O L U T I O N We use the above formula to find the parametric equations:
+ x $ 5 ! 3t
+x 0 y  y $ %2 % 4t
+ z $ 3 ! 2t
+F I G U R E  2 Line through 1
+with direction v $ 8 53, %4, 29 , %2, 3 2 where t is any real number. (See Figure 2.)
+S E C T I O N  9 . 6 | Equations of Lines and Planes 617
+z parallel to v and passing through P0 (see Figure 1). Each value of the parameter t gives a
+P point P on L. So the line L is given by the position vector r, where
+v
+P‚ tv r $ r0 ! t v
+L r‚ r‚! tv for t ! ". This is the vector equation of a line.
+Let's write the vector v in component form v $ 8a, b, c9 and let 
+x 0 r $ 8x, y, z9 r0 $ 8x 0, y0, z09 and. Then the vect
+y  8or equx, y, z9ation$ 8  of the line becomes x 0, y0, z09 ! t 8a, b, c9
+ $ 8x 0 ! ta, y0 ! tb, z0 ! tc9
+F I G U R E  1 Since two vectors are equal if and only if their corresponding components are equal, we
+have the following result.
+PARAMETRIC EQUATIONS FOR A LINE
+A line passing through the point and parallel to the vector
+v $ 8a, b, c9 P1x 0, y0, z0 2is described by the parametric equations 
+ x $ x 0 ! at
+ y $ y0 ! bt
+ z $ z0 ! ct
+where t is any real number. 
+z E X A M P L E  1 Equations of a Line 
+v=#3, _4, 2" Find parametric equations for the line that passes through the point 15, %2, 3 2 and is par-
+allel to the vector v $ 83, %4, 29.
+(5, _2, 3)
+S O L U T I O N We use the above formula to find the parametric equations:
+ x $ 5 ! 3t
+x 0 y  y $ %2 % 4t
+ z $ 3 ! 2t
+F I G U R E  2 Line through 1
+with direction v $ 8 53, %4, 29 , %2, 3 2 where t is any real number. (See Figure 2.)

@@ -1,0 +1,142 @@
+17.3 Electric field around charges
+
+We have learnt that objects that carry charge feel forces from all other charged objects. It is
+
+useful to determine what the effect of a charge would be at every point surrounding it. To do
+
+this we need some sort of reference. We know that the force that one charge feels due to
+
+another depends on both charges (Q1 and Q2). How then can we talk about forces if we only
+
+have one charge? The solution to this dilemma is to introduce a test charge. We then
+
+determine the force that would be exerted on it if we placed it at a certain location. If we do
+
+this for every point surrounding a charge we know what would happen if we put a test charge
+
+at any location.
+
+This map of what would happen at any point we call an electric field map. It is a map of the
+
+electric field due to a charge. It tells us how large the force on a test charge would be and in
+
+what direction the force would be. Our map consists of the lines that tell us how the test
+
+charge would move if it were placed there.
+
+392
+
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.3
+
+Definition: Electric field
+
+An electric field as a region of space in which an electric charge experiences a force. The
+
+direction of the electric field at a point is the direction that a positive test charge would
+
+move if placed at that point.
+
+17.3 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+The only force we know is the gravitational force Fg = mg. Now we can calculate
+
+the magnitude of T from above:
+
+Fg (10)(10)
+
+T = = = 115,5N.
+
+sin(60◦) sin(60◦)
+
+Which means that FE is:
+
+FE = T cos(60
+
+◦) = 115,5 · cos(60◦) = 57,75N
+
+Step 4 :
+
+Now that we know the magnitude of the electrostatic force between X and Y, we
+
+can calculate their charges using Coulomb's Law. Don't forget that the magnitudes
+
+of the charges on X and Y are the same: QX = QY. The magnitude of the
+
+electrostatic force is
+
+QXQY Q
+
+2
+
+FE = k = k
+
+X
+
+√ r2 r2
+
+F 2Er
+
+QX = √ k
+
+(57.75)(0.5)2
+
+=
+
+8.99× 109
+
+= 5.66× 10−5C
+
+Thus the charge on X is −5.66× 10−5C.
+
+Exercise: Electrostatic forces
+
+1. Calculate the electrostatic force between two charges of +6nC and +1nC if
+
+they are separated by a distance of 2mm.
+
+2. Calculate the distance between two charges of +4nC and −3nC if the
+
+electrostaticforce between them is 0,005N.
+
+3. Calculate the charge on two identical spheres that are similiarly charged if they
+
+are separated by 20cm and the electrostatic force between them is 0,06N.
+
+17.3 Electric field around charges
+
+We have learnt that objects that carry charge feel forces from all other charged objects. It is
+
+useful to determine what the effect of a charge would be at every point surrounding it. To do
+
+this we need some sort of reference. We know that the force that one charge feels due to
+
+another depends on both charges (Q1 and Q2). How then can we talk about forces if we only
+
+have one charge? The solution to this dilemma is to introduce a test charge. We then
+
+determine the force that would be exerted on it if we placed it at a certain location. If we do
+
+this for every point surrounding a charge we know what would happen if we put a test charge
+
+at any location.
+
+This map of what would happen at any point we call an electric field map. It is a map of the
+
+electric field due to a charge. It tells us how large the force on a test charge would be and in
+
+what direction the force would be. Our map consists of the lines that tell us how the test
+
+charge would move if it were placed there.
+
+392
+
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.3
+
+Definition: Electric field
+
+An electric field as a region of space in which an electric charge experiences a force. The
+
+direction of the electric field at a point is the direction that a positive test charge would
+
+move if placed at that point.
+

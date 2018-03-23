@@ -1,0 +1,174 @@
+26.6 Shock Waves and Sonic Booms
+
+Now we know that the waves move away from the source at the speed of sound. What
+
+happens if the source moves at the same time as emitting sounds? Once a sound wave has
+
+562
+
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.6
+
+been emitted it is no longer connected to the source so if the source moves it doesn't change
+
+the way the sound wave is propagating through the medium. This means a source can actually
+
+catch up with a sound waves it has emitted.
+
+The speed of sound is very fast in air, about 340 m · s−1, so if we want to talk about a source
+
+catching up to sound waves then the source has to be able to move very fast. A good source of
+
+sound waves to discuss is a jet aircraft. Fighter jets can move very fast and they are very noisy
+
+so they are a good source of sound for our discussion. Here are the speeds for a selection of
+
+aircraft that can fly faster than the speed of sound.
+
+Aircraft speed at altitude (km · h−1) speed at altitude (m · s−1)
+
+Concorde 2 330 647
+
+Gripen 2 410 669
+
+Mirage F1 2 573 990
+
+Mig 27 1 885 524
+
+F 15 2 660 739
+
+F 16 2 414 671
+
+26.6 CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12
+
+532× 10−9
+
+sin θ =
+
+2511× 10−9
+
+532
+
+sin θ =
+
+2511
+
+sin θ = 0.211867782
+
+θ = sin−1 0.211867782
+
+θ = 12.2o
+
+The first minimum is at 12.2 degrees from the centre peak.
+
+From the formula you can see that a smaller wavelength for the same slit results in a smaller
+
+angle to the interference minimum. This is something you just saw in the two worked
+
+examples. Do a sanity check, go back and see if the answer makes sense. Ask yourself which
+
+light had the longer wavelength, which light had the larger angle and what do you expect for
+
+longer wavelengths from the formula.
+
+Worked Example 172: Diffraction Minimum III
+
+Question: A slit has a width which is unknown and has green light of wavelength
+
+532 nm impinge on it. The diffracted light interferers on a surface, and the first
+
+minimum is measure at an angle of 20.77 degrees?
+
+Answer
+
+Step 1 : Check what you are given
+
+We know that we are dealing with interference patterns from the diffraction of light
+
+passing through a slit. We know that the wavelength of the light is 532 nm which
+
+is 532× 10−9 m. We know the angle to first minimum so we know that m = 1 and
+
+θ = 20.77o.
+
+Step 2 : Applicable principles
+
+We know that there is a relationship between the slit width, wavelength and
+
+interference minimum angles:
+
+mλ
+
+sin θ =
+
+a
+
+We can use this relationship to find the width by substituting what we know and
+
+solving for the width.
+
+Step 3 : Substitution
+
+532× 10−9
+
+sin θ =
+
+a
+
+532× 10−9
+
+sin 20.77 =
+
+a
+
+532× 10−9
+
+a =
+
+0.354666667
+
+a = 1500× 10−9
+
+a = 1500 nm
+
+The slit width is 1500 nm.
+
+26.6 Shock Waves and Sonic Booms
+
+Now we know that the waves move away from the source at the speed of sound. What
+
+happens if the source moves at the same time as emitting sounds? Once a sound wave has
+
+562
+
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.6
+
+been emitted it is no longer connected to the source so if the source moves it doesn't change
+
+the way the sound wave is propagating through the medium. This means a source can actually
+
+catch up with a sound waves it has emitted.
+
+The speed of sound is very fast in air, about 340 m · s−1, so if we want to talk about a source
+
+catching up to sound waves then the source has to be able to move very fast. A good source of
+
+sound waves to discuss is a jet aircraft. Fighter jets can move very fast and they are very noisy
+
+so they are a good source of sound for our discussion. Here are the speeds for a selection of
+
+aircraft that can fly faster than the speed of sound.
+
+Aircraft speed at altitude (km · h−1) speed at altitude (m · s−1)
+
+Concorde 2 330 647
+
+Gripen 2 410 669
+
+Mirage F1 2 573 990
+
+Mig 27 1 885 524
+
+F 15 2 660 739
+
+F 16 2 414 671
+

@@ -1,0 +1,44 @@
+12.3 GEOMETRIC SEQUENCES
+Geometric Sequences ! Partial Sums of Geometric Sequences ! What Is an
+Infinite Series? ! Infinite Geometric Series
+In this section we study geometric sequences. This type of sequence occurs frequently in
+applications to finance, population growth, and other fields.
+! Geometric Sequences
+Recall that an arithmetic sequence is generated when we repeatedly add a number d to an
+initial term a. A geometric sequence is generated when we start with a number a and re-
+peatedly multiply by a fixed nonzero constant r.
+DEFINITION OF A GEOMETRIC SEQUENCE
+A geometric sequence is a sequence of the form
+a 2, ar, ar 3 , ar , ar 4 , . . .
+The number a is the first term, and r is the common ratio of the sequence. The
+nth term of a geometric sequence is given by
+an ! ar
+n"1
+The number r is called the common ratio because the ratio of any two consecutive
+terms of the sequence is r.
+E X A M P L E  1 | Geometric Sequences
+(a) If a ! 3 and r ! 2, then we have the geometric sequence
+3,  3 # 2,  3 # 22,  3 # 23,  3 # 24,  . . .
+or 3, 6, 12, 24, 48, . . .
+Notice that the ratio of any two consecutive terms is r ! 2. The nth term is
+an ! 312 2 n"1.
+(b) The sequence
+2, "10, 50, "250, 1250, . . .
+is a geometric sequence with a ! 2 and r ! "5. When r is negative, the terms of
+the sequence alternate in sign. The nth term is an ! 21"5 2 n"1.
+(c) The sequence
+1 1 1 1
+1, , , , , . . .
+3 9 27 81
+is a geometric sequence with a ! 1 and an ! 1A13Bn"1r ! 13. The nth term is .
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 2 . 3 | Geometric Sequences 801
+20 (d) The graph of the geometric sequence a 1n ! 5 # 2n"1 is shown in Figure 1. Notice that
+the points in the graph lie on the graph of the exponential function y ! 1 x"15 # 2 .
+If 0 % r % 1, then the terms of the geometric sequence arn"1 decrease, but if r & 1, then
+the terms increase. (What happens if r ! 1?)
+S E C T I O N  1 2 . 3 | Geometric Sequences 801
+20 (d) The graph of the geometric sequence a 1n ! 5 # 2n"1 is shown in Figure 1. Notice that
+the points in the graph lie on the graph of the exponential function y ! 1 x"15 # 2 .
+If 0 % r % 1, then the terms of the geometric sequence arn"1 decrease, but if r & 1, then
+the terms increase. (What happens if r ! 1?)

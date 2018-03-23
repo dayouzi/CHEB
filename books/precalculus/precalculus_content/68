@@ -1,0 +1,83 @@
+10.1 SYSTEMS OF LINEAR EQUATIONS IN TWO VARIABLES
+Systems of Linear Equations and Their Solutions ! Substitution Method !
+Elimination Method ! Graphical Method ! The Number of Solutions of a
+Linear System in Two Variables ! Modeling with Linear Systems
+! Systems of Linear Equations and Their Solutions
+A linear equation in two variables is an A system of equations is a set of equations that involve the same variables. A system of
+equation of the form linear equations is a system of equations in which each equation is linear. A solution
+ax " by ! c of a system is an assignment of values for the variables that makes each equation in the
+system true. To solve a system means to find all solutions of the system.
+The graph of a linear equation is a line
+(see Here is an example of a system of linear equations in two variables:Section 1.10). b 2x #  y ! 5 Equation 1
+ x " 4y ! 7 Equation 2
+We can check that x ! 3 and y ! 1 is a solution of this system.
+Equation 1 Equation 2
+ 2x # y ! 5  x " 4y ! 7
+213 2 # 1 ! 5 " 3 " 411 2 ! 7 "
+T1 he solution can also be written as the order 13, 1 23, 1 2 13, 1 2ed pair .Note that the graphs of Equations 1 and 2 are lines (see Figure 1). Since the solutionsatisfies each equation, the point lies on each line. So it is the point of inter-
+section of the two lines.
+y
+x+4y=7
+1 (3, 1)
+0 1 3 x
+2x-y=5
+F I G U R E  1
+! Substitution Method
+In the substitution method we start with one equation in the system and solve for one
+variable in terms of the other variable. The following box describes the procedure.
+SUBSTITUTION METHOD
+1. Solve for One Variable. Choose one equation, and solve for one variable in
+terms of the other variable.
+2. Substitute. Substitute the expression you found in Step 1 into the other
+equation to get an equation in one variable, then solve for that variable.
+3. Back-Substitute. Substitute the value you found in Step 2 back into the 
+expression found in Step 1 to solve for the remaining variable.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 0 . 1 | Systems of Linear Equations in Two Variables 631
+E X A M P L E  1 | Substitution Method
+Find all solutions of the systbem. 2x "  y ! 1 Equation 1
+ 3x " 4y ! 14 Equation 2
+S O L U T I O N Solve for one variable. We solve for y in the first equation.
+y ! 1 # 2x Solve for y in Equation 1
+Substitute. Now we substitute for y in the second equation and solve for x.
+ 3x " 411 # 2x 2 !   14 Substitute y ! 1 " 2x into Equation 2
+ 3x " 4 # 8x !   14 Expand
+ #5x " 4 !   14 Simplify
+ #5x !   10 Subtract 4
+ x ! #2 Solve for x
+Back-substitute. Next we back-substit
+y ! 1 # 21#2 2ute x ! #2 into the equation y ! 1 # 2x.! 5 Back-substitute
+Thus x ! #2 and y ! 5, so the solution is the ordere1d pair 1#2  25 2 , 5 . Figure 2 shows thatthe graphs of the two equations intersect at the point #2, .
+C H E C K  Y O U R  A N S W E R
+x ! #b2, y !  21 5:#2 2 " 5 ! 1
+31#2 2 " 415 2 ! 14 " (_2, 5)
+3x+4y=14
+2x+y=1
+1
+1
+0 x
+F I G U R E  2
+S E C T I O N  1 0 . 1 | Systems of Linear Equations in Two Variables 631
+E X A M P L E  1 | Substitution Method
+Find all solutions of the systbem. 2x "  y ! 1 Equation 1
+ 3x " 4y ! 14 Equation 2
+S O L U T I O N Solve for one variable. We solve for y in the first equation.
+y ! 1 # 2x Solve for y in Equation 1
+Substitute. Now we substitute for y in the second equation and solve for x.
+ 3x " 411 # 2x 2 !   14 Substitute y ! 1 " 2x into Equation 2
+ 3x " 4 # 8x !   14 Expand
+ #5x " 4 !   14 Simplify
+ #5x !   10 Subtract 4
+ x ! #2 Solve for x
+Back-substitute. Next we back-substit
+y ! 1 # 21#2 2ute x ! #2 into the equation y ! 1 # 2x.! 5 Back-substitute
+Thus x ! #2 and y ! 5, so the solution is the ordere1d pair 1#2  25 2 , 5 . Figure 2 shows thatthe graphs of the two equations intersect at the point #2, .
+C H E C K  Y O U R  A N S W E R
+x ! #b2, y !  21 5:#2 2 " 5 ! 1
+31#2 2 " 415 2 ! 14 " (_2, 5)
+3x+4y=14
+2x+y=1
+1
+1
+0 x
+F I G U R E  2

@@ -1,0 +1,167 @@
+3.8 Parallel Lines in the Coordinate Plane
+
+Here you'll learn that parallel lines have the same slope. You'll then apply this fact to determine if two lines are
+
+parallel and to find what their equations are.
+
+What if you were given two parallel lines in the coordinate plane? What could you say about their slopes? After
+
+completing this Concept, you'll be able to answer this question. You'll also find the equations of parallel lines and
+
+determine if two lines are parallel based on their slopes.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136579
+
+CK-12 Parallel Lines in the Coordinate Plane
+
+Guidance
+
+Parallel lines are two lines that never intersect. In the coordinate plane, that would look like this:
+
+If we take a closer look at these two lines, the slopes are both 23 .
+
+This can be generalized to any pair of parallel lines. Parallel lines always have the same slope and different
+
+y−intercepts.
+
+Example A
+
+Find the equation of the line that is parallel to y =−13 x+4 and passes through (9, -5).
+
+145
+
+3.8. Parallel Lines in the Coordinate Plane www.ck12.org
+
+Recall that the equation of a line is y = mx+b, where m is the slope and b is the y−intercept. We know that parallel
+
+lines have the same slope, so the line will have a slope of −13 . Now, we need to find the y−intercept. Plug in 9 for x
+
+and -5 for y to solve for the new y−intercept (b).
+
+−5 =−1(9)+b
+
+3
+
+−5 =−3+b
+
+−2 = b
+
+The equation of parallel line is y =−13 x−2.
+
+Example B
+
+Find the equation of the lines below and determine if they are parallel.
+
+The top line has a y−intercept of 1. From there, use "rise over run" to find the slope. From the y−intercept, if you
+
+go up 1 and over 2, you hit the line again, m = 12 . The equation is y =
+
+1
+
+2 x+1.
+
+For the second line, the y−intercept is -3. The "rise" is 1 and the "run" is 2 making the slope 12 . The equation of this
+
+line is y = 12 x−3.
+
+The lines are parallel because they have the same slope.
+
+Example C
+
+Find the equation of the line that is parallel to the line through the point marked with a blue dot.
+
+146
+3.8. Parallel Lines in the Coordinate Plane www.ck12.org
+Recall that the equation of a line is y = mx+b, where m is the slope and b is the y−intercept. We know that parallel
+lines have the same slope, so the line will have a slope of −13 . Now, we need to find the y−intercept. Plug in 9 for x
+and -5 for y to solve for the new y−intercept (b).
+−5 =−1(9)+b
+3
+−5 =−3+b
+−2 = b
+The equation of parallel line is y =−13 x−2.
+Example B
+Find the equation of the lines below and determine if they are parallel.
+The top line has a y−intercept of 1. From there, use "rise over run" to find the slope. From the y−intercept, if you
+go up 1 and over 2, you hit the line again, m = 12 . The equation is y =
+1
+2 x+1.
+For the second line, the y−intercept is -3. The "rise" is 1 and the "run" is 2 making the slope 12 . The equation of this
+line is y = 12 x−3.
+The lines are parallel because they have the same slope.
+Example C
+Find the equation of the line that is parallel to the line through the point marked with a blue dot.
+146
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+First, notice that the equation of the line is y = 2x+6 and the point is (2, -2). The parallel would have the same slope
+and pass through (2, -2).
+y = 2x+b
+−2 = 2(2)+b
+−2 = 4+b
+−6 = b
+The equation of the parallel line is y = 2x+−6.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136580
+CK-12 Parallel Lines in the Coordinate Plane
+->
+Guided Practice
+1. Find the equation of the line that is parallel to y = 14 x+3 and passes through (8, -7).
+2. Are the lines y = 2x+1 and y = 2x+5 parallel?
+3. Are the lines 3x+4y = 7 and y = 34 x+1 parallel?
+Answers:
+1. We know that parallel lines have the same slope, so the line will have a slope of 14 . Now, we need to find the
+y−intercept. Plug in 8 for x and -7 for y to solve for the new y−intercept (b).
+− 17 = (8)+b
+4
+−7 = 2+b
+−9 = b
+The equation of the parallel line is y = 14 x−9.
+2. Both equations are already in slope-intercept form and their slopes are both 2 so yes, the lines are parallel.
+3. First we need to rewrite the first equation in slope-intercept form.
+3x+4y = 7
+4y =−3x+7
+y =−3 7x+
+4 4
+147
+3.8. Parallel Lines in the Coordinate Plane www.ck12.org
+.
+The slope of this line is −34 while the slope of the other line is 34 . Because the slopes are different the lines are not
+parallel.
+Explore More
+Determine if each pair of lines are parallel. Then, graph each pair on the same set of axes.
+1. y = 4x−2 and y = 4x+5
+2. y =−x+5 and y = x+1
+3. 5x+2y =−4 and 5x+2y = 8
+4. x+ y = 6 and 4x+4y =−16
+Determine the equation of the line that is parallel to the given line, through the given point.
+5. y =−5x+1; (−2,3)
+6. y = 23 x−2; (9,1)
+7. x−4y = 12; (−16,−2)
+8. 3x+2y = 10; (8,−11)
+Find the equation of the two lines in each graph below. Then, determine if the two lines are parallel.
+9.
+For the line and point below, find a parallel line, through the given point.
+10.
+148
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+11.
+12.
+13.
+149
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+
+11.
+
+12.
+
+13.
+
+149
+

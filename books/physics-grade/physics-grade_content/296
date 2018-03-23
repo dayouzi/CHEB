@@ -1,0 +1,214 @@
+17.5.4 Electric field in a capacitor
+
+The electric field strength between the plates of a capacitor can be calculated using the
+
+formula:
+
+E = V where E is the electric field in J.C−1, V is the potential difference in V and d is the
+
+d
+
+distance between the plates in m.
+
+Worked Example 120: Electric field in a capacitor
+
+Question: What is the strength of the electric field in a capacitor which has a
+
+potential difference of 300V between its parallel plates that are 0,02m apart?
+
+Answer
+
+Step 1 : Determine what is required
+
+We need to determine the electric field between the plates of the capacitor.
+
+Step 2 : Determine how to approach the problem
+
+We can use the formula:
+
+E = Vd
+
+Step 3 : Determine what is given.
+
+We are given the potential difference and the distance between the plates.
+
+Step 4 : Determine the electric field
+
+405
+
+17.6 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+V
+
+E = (17.4)
+
+d
+
+300
+
+= (17.5)
+
+0,02
+
+= 1,50× 104J.C−1 (17.6)
+
+(17.7)
+
+Exercise: Capacitance and the parallel plate capacitor
+
+1. Determine the capacitance of a capacitor which stores 9× 10−9C when a
+
+potential difference of 12 V is applied to it.
+
+2. What charge will be stored on a 5µF capacitor if a potential difference of 6V
+
+is maintained between its plates?
+
+3. What is the capacitance of a capacitor that uses air as its dielectric if it has
+
+an area of 0,004m2 and a distance of 0,03m between its plates?
+
+4. What is the strength of the electric field between the plates of a charged
+
+capacitor if the plates are 2mm apart and have a potential difference of 200V
+
+across them?
+
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.5
+
+permittivity of the dielectric. The dielectric is the non-conducting substance that separates the
+
+plates. As mentioned before, dielectrics can be air, paper, mica, perspex or glass.
+
+The capacitance of a parallel-plate capacitor is given by:
+
+A
+
+C = ǫ0
+
+d
+
+where ǫ0 is the permittivity of air, A is the area of the plates and d is the distance between the
+
+plates.
+
+Worked Example 119: Capacitance
+
+Question: What is the capacitance of a capacitor in which the dielectric is air, the
+
+area of the plates is 0,001m2 and the distance between the plates is 0,02m?
+
+Answer
+
+Step 1 : Determine what is required
+
+We need to determine the capacitance of the capacitor.
+
+Step 2 : Determine how to approach the problem
+
+We can use the formula:
+
+A
+
+C = ǫ0
+
+d
+
+Step 3 : Determine what is given.
+
+We are given the area of the plates, the distance between the plates and that the
+
+dielectric is air.
+
+Step 4 : Determine the capacitance
+
+A
+
+C = ǫ0 (17.1)
+
+d
+
+(8,9× 10−12)(0,001)
+
+= (17.2)
+
+0,02
+
+= 4,45× 10−13F (17.3)
+
+17.5.4 Electric field in a capacitor
+
+The electric field strength between the plates of a capacitor can be calculated using the
+
+formula:
+
+E = V where E is the electric field in J.C−1, V is the potential difference in V and d is the
+
+d
+
+distance between the plates in m.
+
+Worked Example 120: Electric field in a capacitor
+
+Question: What is the strength of the electric field in a capacitor which has a
+
+potential difference of 300V between its parallel plates that are 0,02m apart?
+
+Answer
+
+Step 1 : Determine what is required
+
+We need to determine the electric field between the plates of the capacitor.
+
+Step 2 : Determine how to approach the problem
+
+We can use the formula:
+
+E = Vd
+
+Step 3 : Determine what is given.
+
+We are given the potential difference and the distance between the plates.
+
+Step 4 : Determine the electric field
+
+405
+
+17.6 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+V
+
+E = (17.4)
+
+d
+
+300
+
+= (17.5)
+
+0,02
+
+= 1,50× 104J.C−1 (17.6)
+
+(17.7)
+
+Exercise: Capacitance and the parallel plate capacitor
+
+1. Determine the capacitance of a capacitor which stores 9× 10−9C when a
+
+potential difference of 12 V is applied to it.
+
+2. What charge will be stored on a 5µF capacitor if a potential difference of 6V
+
+is maintained between its plates?
+
+3. What is the capacitance of a capacitor that uses air as its dielectric if it has
+
+an area of 0,004m2 and a distance of 0,03m between its plates?
+
+4. What is the strength of the electric field between the plates of a charged
+
+capacitor if the plates are 2mm apart and have a potential difference of 200V
+
+across them?
+

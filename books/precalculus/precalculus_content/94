@@ -1,0 +1,161 @@
+13.3 TANGENT LINES AND DERIVATIVES
+The Tangent Lines ! Derivatives ! Instantaneous Rates of Change
+In this section we see how limits arise when we attempt to find the tangent line to a curve
+or the instantaneous rate of change of a function.
+! The Tangent Problem
+A tangent line is a line that just touches a curve. For instance, Figure 1 shows the parabola
+y $ x2 and the tangent line t that touches the parabola at the point P11, 1 2 . We will be able
+to find an equation of the tangent line t as soon as we know its slope m. The difficulty is that
+we know only one point, P, on t, whereas we need two points to compute the slope. But ob-
+serve that we can compute an approximation to m by choosing a nearby point Q1x, x2 2 on
+the parabola (as in Figure 2) and computing the slope mPQ of the secant line PQ.
+y y
+t QÓx, ≈Ô t
+y=≈ P(1, 1) y=≈ P(1, 1)
+0 x 0 x
+F I G U R E  1 F I G U R E  2
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 3 | Tangent Lines and Derivatives 857
+We choose x ! 1 so that Q ! P. Then
+x2 " 1
+mPQ $
+x " 1
+Now we let x approach 1, so Q approaches P along the parabola. Figure 3 shows how the
+corresponding secant lines rotate about P and approach the tangent line t.
+y y y
+Q
+t t t
+Q
+Q
+P P P
+0 x 0 x 0 x
+Q approaches P from the right
+y y y
+t t t
+Q P P P
+Q Q
+0 x 0 x 0 x
+Q approaches P from the left
+F I G U R E  3 The slope of the tangent line is the limit of the slopes of the secant lines:
+m $ lim m
+Q PQ!P 
+So using the method of Section 13.2, we have
+x 2 " 1 1x " 1 2 1x # 1 2
+ m $ lim $ lim 
+x!1 x " 1 x!1 x " 1
+ $ lim 1x # 1 2 $ 1 # 1 $ 2
+x!1 
+The point-slope form for the equation
+of a line through the point 1x 1, y1 2 Now that we know the slope of the tangent line is m $ 2, we can use the point-slope formwith of the equation of a line to find its equation.
+slope m is
+y " 1 $ 21x " 1 2  or  y $ 2x " 1
+y " y1 $ m1x " x 1 2
+We sometimes refer to the slope of the tangent line to a curve at a point as the slope of
+(See Section 1.10.) the curve at the point. The idea is that if we zoom in far enough toward the point, the
+curve looks almost like a straight line. Figure 4 illustrates this procedure for the curve 
+y $ x2. The more we zoom in, the more the parabola looks like a line. In other words, the
+curve becomes almost indistinguishable from its tangent line.
+2 1.5 1.1
+(1, 1) (1, 1) (1, 1)
+0 2 0.5 1.5 0.9 1.1
+F I G U R E  4 Zooming in toward the point 11, 1 2 on the parabola y $ x2
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 3 | Tangent Lines and Derivatives 857
+We choose x ! 1 so that Q ! P. Then
+x2 " 1
+mPQ $
+x " 1
+Now we let x approach 1, so Q approaches P along the parabola. Figure 3 shows how the
+corresponding secant lines rotate about P and approach the tangent line t.
+y y y
+Q
+t t t
+Q
+Q
+P P P
+0 x 0 x 0 x
+Q approaches P from the right
+y y y
+t t t
+Q P P P
+Q Q
+0 x 0 x 0 x
+Q approaches P from the left
+F I G U R E  3 The slope of the tangent line is the limit of the slopes of the secant lines:
+m $ lim m
+Q PQ!P 
+So using the method of Section 13.2, we have
+x 2 " 1 1x " 1 2 1x # 1 2
+ m $ lim $ lim 
+x!1 x " 1 x!1 x " 1
+ $ lim 1x # 1 2 $ 1 # 1 $ 2
+x!1 
+The point-slope form for the equation
+of a line through the point 1x 1, y1 2 Now that we know the slope of the tangent line is m $ 2, we can use the point-slope formwith of the equation of a line to find its equation.
+slope m is
+y " 1 $ 21x " 1 2  or  y $ 2x " 1
+y " y1 $ m1x " x 1 2
+We sometimes refer to the slope of the tangent line to a curve at a point as the slope of
+(See Section 1.10.) the curve at the point. The idea is that if we zoom in far enough toward the point, the
+curve looks almost like a straight line. Figure 4 illustrates this procedure for the curve 
+y $ x2. The more we zoom in, the more the parabola looks like a line. In other words, the
+curve becomes almost indistinguishable from its tangent line.
+2 1.5 1.1
+(1, 1) (1, 1) (1, 1)
+0 2 0.5 1.5 0.9 1.1
+F I G U R E  4 Zooming in toward the point 11, 1 2 on the parabola y $ x2
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+858 C H A P T E R  1 3 | Limits: A Preview of Calculus
+If we have a general cur
+P1 f xa, f 1vea 2 2C with equation y $ 1 2 and we want to find the tangentline to C at the point , then we consider a nearby point Q1x, f 1x 22 , where x ! a,
+and compute the slope of the secant line PQ
+f 1 .x 2 " f 1a 2
+mPQ $ x " a
+Then we let Q approach P along the curve C by letting x approach a. If mPQ approaches a
+number m, then we define the tangent t to be the line through P with slope m. (This
+amounts to saying that the tangent line is the limiting position of the secant line PQ as Q
+approaches P. See Figure 5.)
+y y
+t
+QÓx, ÏÔ Q
+Q
+Ï-f(a)
+P Óa, f(a)Ô P Q
+x-a
+0 a x x 0 x
+F I G U R E  5
+DEFINITION OF A TANGENT LINE
+The tangent line to the curve y $ f 1x 2 at the point P1a, f 1a 22 is the line through
+P with slope
+f 1x 2 " f 1a 2
+m $ lim 
+x!a x " a
+provided that this limit exists.
+E X A M P L E  1 Finding a Tangent Line to a Hyperbola
+Find an equation of 1 2
+f 1the 1 ,x 2  tangent line to the hyperbola y $ 3/x at the point 3  .S O L U T I O N Let $ 3/x. Then the
+f 1x 2 " f 1 sl3 2ope of the tangent line at 13, 1 2 is
+ m $ lim Definition of m
+x!3 x " 3
+3
+" 1
+x
+im f 1 3 $ l x 2 $
+x!3 x " 3 x
+3 " x
+im Multiply numerator $ l  
+x!3 x1x " 3 2 and denominator by x
+ $ lim a 1" b Cancel x " 3
+x!3 x
+1
+ $ " Let x ! 3
+3
+Therefore an equation of the tangent at the point 
+1
+3 1 13, 1 2 isy " 1 $ " x " 3 2 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 3 | Tangent Lines and Derivatives 859
+y which simplifies to
+x+3y-6=0 y=3x x # 3y " 6 $ 0
+The hyperbola and its tangent are shown in Figure 6.
+(3, 1)

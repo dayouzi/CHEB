@@ -1,0 +1,174 @@
+3.11 Summary
+
+• A reference point is a point from where you take your measurements.
+
+• A frame of reference is a reference point with a set of directions.
+
+• Your position is where you are located with respect to your reference point.
+
+• The displacement of an object is how far it is from the reference point. It is the shortest
+
+distance between the object and the reference point. It has magnitude and direction
+
+because it is a vector.
+
+• The distance of an object is the length of the path travelled from the starting point to the
+
+end point. It has magnitude only because it is a scalar.
+
+• A vector is a physical quantity with magnitude and direction.
+
+• A scalar is a physical quantity with magnitude only.
+
+• Speed (s) is the distance covered (d) divided by the time taken (∆t):
+
+d
+
+s =
+
+∆t
+
+• Average velocity (v) is the displacement (∆x) divided by the time taken (∆t):
+
+∆x
+
+v =
+
+∆t
+
+• Instantaneous speed is the speed at a specific instant in time.
+
+• Instantaneous velocity is the velocity at a specific instant in time.
+
+• Acceleration (a) is the change in velocity (∆x) over a time interval (∆t):
+
+∆v
+
+a =
+
+∆t
+
+• The gradient of a position - time graph (x vs. t) give the velocity.
+
+• The gradient of a velocity - time graph (v vs. t) give the acceleration.
+
+• The area under a velocity - time graph (v vs. t) give the displacement.
+
+• The area under an acceleration - time graph (a vs. t) gives the velocity.
+
+• The graphs of motion are summarised in figure 3.10.
+
+• The equations of motion are used where constant acceleration takes place:
+
+vf = vi + at
+
+(vi + vf )
+
+∆x = t
+
+2
+
+1
+
+∆x = vit+ at
+
+2
+
+2
+
+v2f = v
+
+2
+
+i + 2a∆x
+
+61
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.11
+
+3.11 Summary
+
+• A reference point is a point from where you take your measurements.
+
+• A frame of reference is a reference point with a set of directions.
+
+• Your position is where you are located with respect to your reference point.
+
+• The displacement of an object is how far it is from the reference point. It is the shortest
+
+distance between the object and the reference point. It has magnitude and direction
+
+because it is a vector.
+
+• The distance of an object is the length of the path travelled from the starting point to the
+
+end point. It has magnitude only because it is a scalar.
+
+• A vector is a physical quantity with magnitude and direction.
+
+• A scalar is a physical quantity with magnitude only.
+
+• Speed (s) is the distance covered (d) divided by the time taken (∆t):
+
+d
+
+s =
+
+∆t
+
+• Average velocity (v) is the displacement (∆x) divided by the time taken (∆t):
+
+∆x
+
+v =
+
+∆t
+
+• Instantaneous speed is the speed at a specific instant in time.
+
+• Instantaneous velocity is the velocity at a specific instant in time.
+
+• Acceleration (a) is the change in velocity (∆x) over a time interval (∆t):
+
+∆v
+
+a =
+
+∆t
+
+• The gradient of a position - time graph (x vs. t) give the velocity.
+
+• The gradient of a velocity - time graph (v vs. t) give the acceleration.
+
+• The area under a velocity - time graph (v vs. t) give the displacement.
+
+• The area under an acceleration - time graph (a vs. t) gives the velocity.
+
+• The graphs of motion are summarised in figure 3.10.
+
+• The equations of motion are used where constant acceleration takes place:
+
+vf = vi + at
+
+(vi + vf )
+
+∆x = t
+
+2
+
+1
+
+∆x = vit+ at
+
+2
+
+2
+
+v2f = v
+
+2
+
+i + 2a∆x
+
+61
+

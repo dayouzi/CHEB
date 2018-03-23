@@ -1,0 +1,369 @@
+7.6. SSS Similarity www.ck12.org
+
+7.6 SSS Similarity
+
+Here you'll learn how to determine if triangles are similar using Side-Side-Side (SSS).
+
+What if you were given a pair of triangles and the side lengths for all three of their sides? How could you use this
+
+information to determine if the two triangles are similar? After completing this Concept, you'll be able to use the
+
+SSS Similarity Theorem to decide if two triangles are congruent.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136693
+
+CK-12 Foundation: SSS Similarity
+
+Watch this video beginning at the 2:09 mark.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1302
+
+James Sousa: Similar Triangles
+
+Now watch the first part of this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1349
+
+James Sousa: Similar Triangles Using SSS andSAS
+
+Guidance
+
+By definition, two triangles are similar if all their corresponding angles are congruent and their corresponding sides
+
+are proportional. It is not necessary to check all angles and sides in order to tell if two triangles are similar. In fact, if
+
+360
+
+www.ck12.org Chapter 7. Similarity
+
+you know only that all sides are proportional, that is enough information to know that the triangles are similar. This
+
+is called the SSS Similarity Theorem.
+
+SSS Similarity Theorem: If all three pairs of corresponding sides of two triangles are proportional, then the two
+
+triangles are similar.
+
+If ABY Z =
+
+BC
+
+ZX =
+
+AC
+
+XY , then4ABC ∼4Y ZX .
+
+Example A
+
+Determine if the following triangles are similar. If so, explain why and write the similarity statement.
+
+We will need to find the ratios for the corresponding sides of the triangles and see if they are all the same. Start with
+
+the longest sides and work down to the shortest sides.
+
+BC
+
+FD =
+
+28
+
+20 =
+
+7
+
+5
+
+BA
+
+FE =
+
+21
+
+15 =
+
+7
+
+5
+
+AC
+
+ED =
+
+14
+
+10 =
+
+7
+
+5
+
+Since all the ratios are the same,4ABC ∼4EFD by the SSS Similarity Theorem.
+
+Example B
+
+Find x and y, such that4ABC ∼4DEF .
+
+According to the similarity statement, the corresponding sides are: ABDE =
+
+BC
+
+EF =
+
+AC
+
+DF . Substituting in what we know,
+
+we have 96 =
+
+4x−1
+
+10 =
+
+18
+
+y .
+
+361
+www.ck12.org Chapter 7. Similarity
+you know only that all sides are proportional, that is enough information to know that the triangles are similar. This
+is called the SSS Similarity Theorem.
+SSS Similarity Theorem: If all three pairs of corresponding sides of two triangles are proportional, then the two
+triangles are similar.
+If ABY Z =
+BC
+ZX =
+AC
+XY , then4ABC ∼4Y ZX .
+Example A
+Determine if the following triangles are similar. If so, explain why and write the similarity statement.
+We will need to find the ratios for the corresponding sides of the triangles and see if they are all the same. Start with
+the longest sides and work down to the shortest sides.
+BC
+FD =
+28
+20 =
+7
+5
+BA
+FE =
+21
+15 =
+7
+5
+AC
+ED =
+14
+10 =
+7
+5
+Since all the ratios are the same,4ABC ∼4EFD by the SSS Similarity Theorem.
+Example B
+Find x and y, such that4ABC ∼4DEF .
+According to the similarity statement, the corresponding sides are: ABDE =
+BC
+EF =
+AC
+DF . Substituting in what we know,
+we have 96 =
+4x−1
+10 =
+18
+y .
+361
+7.6. SSS Similarity www.ck12.org
+9 4x−1 9 18
+= =
+6 10 6 y
+9(10) = 6(4x−1) 9y = 18(6)
+90 = 24x−6 9y = 108
+96 = 24x y = 12
+x = 4
+Example C
+Determine if the following triangles are similar. If so, explain why and write the similarity statement.
+We will need to find the ratios for the corresponding sides of the triangles and see if they are all the same. Start with
+the longest sides and work down to the shortest sides.
+AC
+ED =
+21
+35 =
+3
+5
+BC
+FD =
+15
+25 =
+3
+5
+AB
+EF =
+10
+20 =
+1
+2
+Since the ratios are not all the same, the triangles are not similar.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136694
+CK-12 Foundation: SSS Similarity
+->
+Guided Practice
+Determine if any of the triangles below are similar. Compare two triangles at a time.
+362
+www.ck12.org Chapter 7. Similarity
+1. Is4ABC ∼4DEF?
+2. Is4DEF ∼4GHI?
+3. Is4ABC ∼4GHI?
+Answers:
+1. 4ABC and4DEF : Is 2015 = 2216 = 2418 ?
+Reduce each fraction to see if they are equal. 2015 =
+4
+3 ,
+22
+16 =
+11
+8 , and
+24
+18 =
+4
+3 .
+4
+3 6= 118 ,4ABC and4DEF are not similar.
+2. 4DEF and4GHI: Is 1530 = 1633 = 1836 ?
+15
+30 =
+1
+2 ,
+16
+33 =
+16
+33 , and
+18
+36 =
+1
+2 .
+1
+2 6= 1633 ,4DEF is not similar to4GHI.
+3. 4ABC and4GHI: Is 2030 = 2233 = 2436 ?
+20
+30 =
+2
+3 ,
+22
+33 =
+2
+3 , and
+24
+36 =
+2
+3 . All three ratios reduce to
+2
+3 ,4ABC ∼4GIH.
+Explore More
+Fill in the blanks.
+1. If all three sides in one triangle are __________________ to the three sides in another, then the two triangles
+are similar.
+2. Two triangles are similar if the corresponding sides are _____________.
+Use the following diagram for questions 3-5. The diagram is to scale.
+3. Are the two triangles similar? Explain your answer.
+4. Are the two triangles congruent? Explain your answer.
+5. What is the scale factor for the two triangles?
+Fill in the blanks in the statements below. Use the diagram to the left.
+363
+7.6. SSS Similarity www.ck12.org
+6. 4ABC ∼4_____
+7. AB? =
+BC
+? =
+AC
+?
+8. If4ABC had an altitude, AG = 10, what would be the length of altitude DH?
+9. Find the perimeter of4ABC and4DEF . Find the ratio of the perimeters.
+Use the diagram to the right for questions 10-15.
+10. 4ABC ∼4_____
+11. Why are the two triangles similar?
+12. Find ED.
+13. BD? =
+?
+BC =
+DE
+?
+14. Is ADDB =
+CE
+EB true?
+15. Is ADDB =
+AC
+DE true?
+Find the value of the missing variable(s) that makes the two triangles similar.
+16.
+364
+7.6. SSS Similarity www.ck12.org
+
+6. 4ABC ∼4_____
+
+7. AB? =
+
+BC
+
+? =
+
+AC
+
+?
+
+8. If4ABC had an altitude, AG = 10, what would be the length of altitude DH?
+
+9. Find the perimeter of4ABC and4DEF . Find the ratio of the perimeters.
+
+Use the diagram to the right for questions 10-15.
+
+10. 4ABC ∼4_____
+
+11. Why are the two triangles similar?
+
+12. Find ED.
+
+13. BD? =
+
+?
+
+BC =
+
+DE
+
+?
+
+14. Is ADDB =
+
+CE
+
+EB true?
+
+15. Is ADDB =
+
+AC
+
+DE true?
+
+Find the value of the missing variable(s) that makes the two triangles similar.
+
+16.
+
+364
+
+www.ck12.org Chapter 7. Similarity
+

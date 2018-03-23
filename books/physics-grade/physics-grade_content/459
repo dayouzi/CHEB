@@ -1,0 +1,253 @@
+29.6.3 Storing binary numbers
+
+Counting is important. However, it is equally important to be able to remember the numbers.
+
+Computers can convert almost anything to a string of 0s and 1s, and therefore to a binary
+
+number. Unless this number can be stored in the computer's memory, the computer would be
+
+useless.
+
+The memory in the computer contains many parts. Each part is able to store a single 0 or 1.
+
+Since 0 and 1 are the two binary digits, we say that each part of the memory stores one bit.
+
+619
+
+29.6 CHAPTER 29. ELECTRONICS - GRADE 12
+
+R R
+
+Q Q
+
+S S
+
+Figure 29.20: A bistable circuit made from two NOR gates. This circuit is able to store one bit
+
+of digital information. With the two inputs set to 0, you can see that the output could be (and
+
+will remain) either 0 or 1. The circuit on the left shows an output of 0, the circuit on the right
+
+shows an output of 1. Wires carrying high logic levels (1) are drawn thicker. The output of the
+
+bistable is labelled Q.
+
+Definition: Bit
+
+One bit is a short way of saying one ‘binary digit'. It is a single 0 or 1.
+
+Itneterreessttinigng If you have eight bits, you can store a binary number from 00000000 to
+
+FFacctt 11111111 (0 to 255 in denary). This gives you enough permutations of 0s and
+
+1s to have one for each letter of the alphabet (in upper and lower case), each
+
+digit from 0 to 9, each punctuation mark and each control code used by a
+
+computer in storing a document. When you type text into a word processor,
+
+each character is stored as a set of eight bits. Each set of eight bits is called a
+
+byte. Computer memories are graded according to how many bytes they store.
+
+There are 1024 bytes in a kilobyte (kB), 1024× 1024 bytes in a megabyte
+
+(MB), and 1024× 1024× 1024 bytes in a gigabyte (GB).
+
+To store a bit we need a circuit which can ‘remember' a 0 or a 1. This is called a bistable
+
+circuit because it has two stable states. It can stay indefinitely either as a 0 or a 1. An example
+
+of a bistable circuit is shown in Figure 29.20. It is made from two NOR gates.
+
+To store the 0 or the 1 in the bistable circuit, you set one of the inputs to 1, then put it back
+
+to 0 again. If the input labelled ‘S' (set) is raised, the output will immediately become 1. This
+
+is shown in Figure 29.21.
+
+To store a 0, you raise the ‘R' (reset) input to 1. This is shown in Figure 29.22.
+
+Once you have used the S or R inputs to set or reset the bistable circuit, you then bring both
+
+inputs back to 0. The bistable ‘remembers' the state. Because of the ease with which the
+
+circuit can be Reset and Set it is also called a RS flip flop circuit.
+
+A computer memory will be able to store millions or billions of bits. If it used our circuit above,
+
+it would need millions or billions of NOR gates, each of which is made from several transistors.
+
+The computer memory is made of many millions of transistors.
+
+620
+29.6 CHAPTER 29. ELECTRONICS - GRADE 12
+R R
+Q Q
+S S
+Figure 29.20: A bistable circuit made from two NOR gates. This circuit is able to store one bit
+of digital information. With the two inputs set to 0, you can see that the output could be (and
+will remain) either 0 or 1. The circuit on the left shows an output of 0, the circuit on the right
+shows an output of 1. Wires carrying high logic levels (1) are drawn thicker. The output of the
+bistable is labelled Q.
+Definition: Bit
+One bit is a short way of saying one ‘binary digit'. It is a single 0 or 1.
+Itneterreessttinigng If you have eight bits, you can store a binary number from 00000000 to
+FFacctt 11111111 (0 to 255 in denary). This gives you enough permutations of 0s and
+1s to have one for each letter of the alphabet (in upper and lower case), each
+digit from 0 to 9, each punctuation mark and each control code used by a
+computer in storing a document. When you type text into a word processor,
+each character is stored as a set of eight bits. Each set of eight bits is called a
+byte. Computer memories are graded according to how many bytes they store.
+There are 1024 bytes in a kilobyte (kB), 1024× 1024 bytes in a megabyte
+(MB), and 1024× 1024× 1024 bytes in a gigabyte (GB).
+To store a bit we need a circuit which can ‘remember' a 0 or a 1. This is called a bistable
+circuit because it has two stable states. It can stay indefinitely either as a 0 or a 1. An example
+of a bistable circuit is shown in Figure 29.20. It is made from two NOR gates.
+To store the 0 or the 1 in the bistable circuit, you set one of the inputs to 1, then put it back
+to 0 again. If the input labelled ‘S' (set) is raised, the output will immediately become 1. This
+is shown in Figure 29.21.
+To store a 0, you raise the ‘R' (reset) input to 1. This is shown in Figure 29.22.
+Once you have used the S or R inputs to set or reset the bistable circuit, you then bring both
+inputs back to 0. The bistable ‘remembers' the state. Because of the ease with which the
+circuit can be Reset and Set it is also called a RS flip flop circuit.
+A computer memory will be able to store millions or billions of bits. If it used our circuit above,
+it would need millions or billions of NOR gates, each of which is made from several transistors.
+The computer memory is made of many millions of transistors.
+620
+CHAPTER 29. ELECTRONICS - GRADE 12 29.6
+R
+Q
+S
+Figure 29.21: The output of a bistable circuit is set (made 1) by raising the ‘S' input to 1. Wires
+carrying high logic levels (1) are shown with thicker lines.
+R
+Q
+S
+Figure 29.22: The output of a bistable circuit is reset (made 0) by raising the ‘R' input to 1.
+Wires carrying high logic levels (1) are shown with thicker lines.
+621
+29.6 CHAPTER 29. ELECTRONICS - GRADE 12
+Itneterreessttinigng The bistable circuits drawn here don't remember 0s or 1s for ever - they lose
+FFacctt the information if the power is turned off. The same is true for the RAM
+(Random Access Memory) used to store working and temporary data in a
+computer. Some modern circuits contain special memory which can remember
+its state even if the power is turned off. This is used in FLASH drives,
+commonly found in USB data sticks and on the memory cards used with digital
+cameras. These bistable circuits are much more complex.
+You can also make T flip flops out of logic gates, however these are more complicated to design.
+Exercise: Counting Circuits
+1. What is the term bit short for?
+2. What is 43 in binary?
+3. What is 1100101 in denary?
+4. What is the highest number a modulo 64 counter can count to? How many T
+flip flops does it contain?
+5. What is the difference between an RS flip flop and a T flip flop?
+6. Draw a circuit diagram for a bistable circuit (RS flip flop). Make three extra
+copies of your diagram. On the first diagram, colour in the wires which will
+carry high voltage levels (digital 1) if the R input is low, and the S input is
+high. On the second diagram, colour in the wires which carry high voltage
+levels if the S input of the first circuit is now made low. On the third
+diagram, colour in the wires which carry high voltage levels if the R input is
+now made high. On the final diagram, colour in the wires carrying high
+voltage levels if the R input is now made low again.
+7. Justify the statement: a modern computer contains millions of transistors.
+Exercise: End of Chapter Exercises
+1. Calculate the reactance of a 3 mH inductor at a frequency of 50 Hz.
+2. Calculate the reactance of a 30 µF capacitor at a frequency of 1 kHz.
+3. Calculate the impedance of a series circuit containing a 5 mH inductor, a 400
+µF capacitor and a 2 kΩ resistor at a frequency of 50 kHz.
+4. Calculate the frequency at which the impedance of the circuit in the last
+question will be the smallest.
+5. Which component can be used to block low frequencies?
+6. Draw a circuit diagram with a battery, diode and resistor in series. Make sure
+that the diode is forward biased so that a current will flow through it.
+622
+CHAPTER 29. ELECTRONICS - GRADE 12 29.6
+7. When building a complex electronic circuit which is going to be powered by a
+battery, it is always a good idea to put a diode in series with the battery.
+Explain how this will protect the circuit if the user puts the battery in the
+wrong way round.
+8. Summarize the differences betwen a bipolar and field effect transistor.
+9. What does an operational amplifier (op-amp) do?
+10. What is the difference between a digital signal and an analogue signal?
+11. What are the advantages of digital signals over analogue signals?
+12. Draw the symbols for the five logic gates, and write down their truth tables.
+13. Draw a circuit diagram with an AND gate. Each input should be connected
+to the output of a separate NOT gate. By writing truth tables show that this
+whole circuit behaves as a NOR gate.
+14. Convert the denary number 99 into binary.
+15. Convert the binary number 11100111 into denary.
+16. Explain how three T flip flops can be connected together to make a modulo 8
+counter. What is the highest number it can count up to?
+17. Draw the circuit diagram for an RS flip flop (bistable) using two NOR gates.
+18. Show how the circuit you have just drawn can have a stable output of 0 or 1
+when both inputs are 0.
+19. Operational (and other) amplifiers, logic gates, and flip flops all contain
+transistors, and would not work without them. Write a short newspaper
+article for an intelligent reader who knows nothing about electronics. Explain
+how important transistors are in modern society.
+623
+29.6 CHAPTER 29. ELECTRONICS - GRADE 12
+624
+29.6 CHAPTER 29. ELECTRONICS - GRADE 12
+
+624
+
+Chapter 30
+
+Electromagnetic Radiation
+
+30.1 Introduction
+
+This chapter will focus on the electromagnetic (EM) radiation. Electromagnetic radiation is a
+
+self-propagating wave in space with electric and magnetic components. These components
+
+oscillate at right angles to each other and to the direction of propagation, and are in phase
+
+with each other. Electromagnetic radiation is classified into types according to the frequency of
+
+the wave: these types include, in order of increasing frequency, radio waves, microwaves,
+
+infrared radiation, visible light, ultraviolet radiation, X-rays and gamma rays.
+
+30.2 Particle/wave nature of electromagnetic radiation
+
+If you watch a colony of ants walking up the wall, they look like a thin continuous black line.
+
+But as you look closer, you see that the line is made up of thousands of separated black ants.
+
+Light and all other types of electromagnetic radiation seems like a continuous wave at first, but
+
+when one performs experiments on the light, one can notice that the light can have both wave
+
+and particle like properties. Just like the individual ants, the light can also be made up of
+
+individual bundles of energy, or quanta of light.
+
+Light has both wave-like and particle-like properties (wave-particle duality), but only shows one
+
+or the other, depending on the kind of experiment we perform. A wave-type experiment shows
+
+the wave nature, and a particle-type experiment shows particle nature. One cannot test the
+
+wave and the particle nature at the same time. A particle of light is called a photon.
+
+Definition: Photon
+
+A photon is a quantum (energy packet) of light.
+
+The particle nature of light can be demonstrated by the interaction of photons with matter.
+
+One way in which light interacts with matter is via the photoelectric effect, which will be
+
+studied in detail in Chapter 31.
+
+Exercise: Particle/wave nature of electromagnetic radiation
+
+1. Give examples of the behaviour of EM radiation which can best be explained
+
+using a wave model.
+
+625

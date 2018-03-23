@@ -1,0 +1,42 @@
+10.2.3 Potential Difference and Series Resistors
+
+When resistors are in series, one after the other, there is a potential difference across each
+
+resistor. The total potential difference across a set of resistors in series is the sum of the
+
+potential differences across each of the resistors in the set. This is the same as falling a large
+
+distance under gravity or falling that same distance (difference) in many smaller steps. The total
+
+distance (difference) is the same.
+
+Look at the circuits below. If we measured the potential difference between the black dots in
+
+all of these circuits it would be the same just like we saw above. So we now know the total
+
+potential difference is the same across one, two or three resistors. We also know that some work
+
+is required to make charge flow through each one, each is a step down in potential energy. These
+
+steps add up to the total drop which we know is the difference between the two dots.
+
+b b b
+
+b b b
+
+Let us look at this in a bit more detail. In the picture below you can see what the different
+
+measurements for 3 identical resistors in series could look like. The total voltage across all three
+
+resistors is the sum of the voltages across the individual resistors.
+
+zooming in bb b b b b
+
+V V V
+
+V = 5V V = 5V V = 5V
+
+V
+
+V = 15V
+

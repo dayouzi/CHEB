@@ -1,0 +1,200 @@
+9.5 Inscribed Angles in Circles
+
+Here you'll learn the Inscribed Angle Theorem, which states that the measure of an inscribed angle is half the
+
+measure of its intercepted arc. You'll also learn other inscribed angle theorems and you'll use them to solve problems
+
+about circles.
+
+What if you had a circle with two chords that share a common endpoint? How could you use the arc formed by those
+
+chords to determine the measure of the angle those chords make inside the circle? After completing this Concept,
+
+you'll be able to use the Inscribed Angle Theorem to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136563
+
+Inscribed Angles in Circles CK-12
+
+Guidance
+
+An inscribed angle is an angle with its vertex on the circle and whose sides are chords. The intercepted arc is the
+
+arc that is inside the inscribed angle and whose endpoints are on the angle. The vertex of an inscribed angle can be
+
+anywhere on the circle as long as its sides intersect the circle to form an intercepted arc.
+
+The Inscribed Angle Theorem states that the measure of an inscribed angle is half the measure of its intercepted
+
+arc.
+
+495
+
+9.5. Inscribed Angles in Circles www.ck12.org
+
+m6 ADC = 12 mÂC and mÂC = 2m 6 ADC
+
+Inscribed angles that intercept the same arc are congruent. This is called the Congruent Inscribed Angles Theorem
+
+and is shown below.
+
+6 ADB and 6 ACB intercept ÂB, so m 6 ADB = m6 ACB. Similarly, 6 DAC and 6 DBC intercept D̂C, so m6 DAC =
+
+m6 DBC.
+
+An angle intercepts a semicircle if and only if it is a right angle ( Semicircle Theorem). Anytime a right angle is
+
+inscribed in a circle, the endpoints of the angle are the endpoints of a diameter and the diameter is the hypotenuse.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/5558
+
+6 DAB intercepts a semicircle, so m6 DAB = 90◦. 6 DAB is a right angle, so D̂B is a semicircle.
+
+Example A
+
+Find mD̂C and m6 ADB.
+
+From the Inscribed Angle Theorem:
+
+mD̂C = 2 ·45◦ = 90◦
+
+m6
+
+1
+
+ADB = ·76◦ = 38◦
+
+2
+
+496
+9.5. Inscribed Angles in Circles www.ck12.org
+m6 ADC = 12 mÂC and mÂC = 2m 6 ADC
+Inscribed angles that intercept the same arc are congruent. This is called the Congruent Inscribed Angles Theorem
+and is shown below.
+6 ADB and 6 ACB intercept ÂB, so m 6 ADB = m6 ACB. Similarly, 6 DAC and 6 DBC intercept D̂C, so m6 DAC =
+m6 DBC.
+An angle intercepts a semicircle if and only if it is a right angle ( Semicircle Theorem). Anytime a right angle is
+inscribed in a circle, the endpoints of the angle are the endpoints of a diameter and the diameter is the hypotenuse.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/5558
+6 DAB intercepts a semicircle, so m6 DAB = 90◦. 6 DAB is a right angle, so D̂B is a semicircle.
+Example A
+Find mD̂C and m6 ADB.
+From the Inscribed Angle Theorem:
+mD̂C = 2 ·45◦ = 90◦
+m6
+1
+ADB = ·76◦ = 38◦
+2
+496
+www.ck12.org Chapter 9. Circles
+Example B
+Find m 6 ADB and m6 ACB.
+The intercepted arc for both angles is ÂB. Therefore,
+m6
+1
+ADB = ·124◦ = 62◦
+2
+1
+m6 ACB = ·124◦ = 62◦
+2
+Example C
+⊙
+Find m 6 DAB in C.
+C is the center, so DB is a diameter. 6 DAB's endpoints are on the diameter, so the central angle is 180◦.
+m6
+1
+DAB = ·180◦ = 90◦.
+2
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136564
+Inscribed Angles in Circles CK-12
+->
+497
+9.5. Inscribed Angles in Circles www.ck12.org
+Guided Practice
+1. Find m6 PMN, mP̂N, m6 MNP, and m6 LNP.
+2. Fill in the blank: An inscribed angle is ____________ the measure of the intercepted arc.
+3. Fill in the blank: A central angle is ________________ the measure of the intercepted arc.
+Answers:
+1. Use what you've learned about inscribed angles.
+m6 PMN = m6 PLN = 68◦ by the Congruent Inscribed Angles Theorem.
+mP̂N = 2 ·68◦ = 136◦ from the Inscribed Angle Theorem.
+m6 MNP = 90◦ by the Semicircle Theorem.
+m 6
+1
+LNP = ·92◦ = 46◦ from the Inscribed Angle Theorem.
+2
+2. half
+3. equal to
+Explore More
+Fill in the blanks.
+1. An angle inscribed in a ________________ is 90◦.
+2. Two inscribed angles that intercept the same arc are _______________.
+3. The sides of an inscribed angle⊙are ___________________.
+4. Draw inscribed angle 6 JKL in M. Then draw central angle 6 JML. How do the two angles relate?
+⊙
+Find the value of x and/or y in A.
+5.
+498
+www.ck12.org Chapter 9. Circles
+6.
+7.
+8.
+9.
+Solve for x.
+10.
+499
+9.5. Inscribed Angles in Circles www.ck12.org
+11.
+12.
+13.
+14. Fill in the blanks of the Inscribed Angle Theorem proof.
+Given: Inscribed 6 ABC and diameter BD
+Prove: m6 ABC = 12 mÂC
+TABLE 9.2:
+Statement Reason
+1. Inscribed 6 ABC and diameter BD 1.
+m6 ABE = x◦ and m6 CBE = y◦
+2. x◦+ y◦ = m 6 ABC 2.
+3. 3. All radii are congruent
+4. 4. Definition of an isosceles triangle
+5. m6 EAB = x◦ and m 6 ECB = y◦ 5.
+6. m6 AED = 2x◦ and m6 CED = 2y◦ 6.
+7. mÂD = 2x◦ and mD̂C = 2y◦ 7.
+8. 8. Arc Addition Postulate
+9. mÂC = 2x◦+2y◦ 9.
+500
+www.ck12.org Chapter 9. Circles
+TABLE 9.2: (continued)
+Statement Reason
+10. 10. Distributive PoE
+11. mÂC = 2m 6 ABC 11.
+12. m6 ABC = 12 mÂC 12.
+501
+www.ck12.org Chapter 9. Circles
+
+TABLE 9.2: (continued)
+
+Statement Reason
+
+10. 10. Distributive PoE
+
+11. mÂC = 2m 6 ABC 11.
+
+12. m6 ABC = 12 mÂC 12.
+
+501
+

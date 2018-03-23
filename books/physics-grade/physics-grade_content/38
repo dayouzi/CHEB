@@ -1,0 +1,451 @@
+3.9.1 Finding the Equations of Motion
+
+The following does not form part of the syllabus and can be considered additional information.
+
+54
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.9
+
+Derivation of Equation 3.1
+
+According to the definition of acceleration:
+
+∆v
+
+a =
+
+t
+
+where ∆v is the change in velocity, i.e. ∆v = vf - vi. Thus we have
+
+vf − vi
+
+a =
+
+t
+
+vf = vi + at
+
+Derivation of Equation 3.2
+
+We have seen that displacement can be calculated from the area under a velocity vs. time graph.
+
+For uniformly accelerated motion the most complicated velocity vs. time graph we can have is
+
+a straight line. Look at the graph below - it represents an object with a starting velocity of vi,
+
+accelerating to a final velocity vf over a total time t.
+
+v (m·s−1)
+
+vf
+
+vi
+
+t (s)
+
+t
+
+To calculate the final displacement we must calculate the area under the graph - this is just
+
+the area of the rectangle added to the area of the triangle. This portion of the graph has been
+
+shaded for clarity.
+
+1
+
+Area△ = b× h
+
+2
+
+1
+
+= t× (vf − vi)
+
+2
+
+1 1
+
+= vf t− vit
+
+2 2
+
+Area = ℓ× b
+
+= t× vi
+
+= vit
+
+Displacement = Area +Area△
+
+1 1
+
+∆x = vit+ vf t− vit
+
+2 2
+
+(vi + vf )
+
+∆x = t
+
+2
+
+55
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.9
+Derivation of Equation 3.1
+According to the definition of acceleration:
+∆v
+a =
+t
+where ∆v is the change in velocity, i.e. ∆v = vf - vi. Thus we have
+vf − vi
+a =
+t
+vf = vi + at
+Derivation of Equation 3.2
+We have seen that displacement can be calculated from the area under a velocity vs. time graph.
+For uniformly accelerated motion the most complicated velocity vs. time graph we can have is
+a straight line. Look at the graph below - it represents an object with a starting velocity of vi,
+accelerating to a final velocity vf over a total time t.
+v (m·s−1)
+vf
+vi
+t (s)
+t
+To calculate the final displacement we must calculate the area under the graph - this is just
+the area of the rectangle added to the area of the triangle. This portion of the graph has been
+shaded for clarity.
+1
+Area△ = b× h
+2
+1
+= t× (vf − vi)
+2
+1 1
+= vf t− vit
+2 2
+Area = ℓ× b
+= t× vi
+= vit
+Displacement = Area +Area△
+1 1
+∆x = vit+ vf t− vit
+2 2
+(vi + vf )
+∆x = t
+2
+55
+3.9 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+Derivation of Equation 3.3
+This equation is simply derived by eliminating the final velocity vf in equation 3.2. Remembering
+from equation 3.1 that
+vf = vi + at
+then equation 3.2 becomes
+vi + vi + at
+∆x = t
+2
+2vit+ at
+2
+=
+2
+1
+∆x = vit+ at
+2
+2
+56
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.9
+Derivation of Equation 3.4
+This equation is just derived by eliminating the time variable in the above equation. From
+Equation 3.1 we know
+vf − vi
+t =
+a
+Substituting this into Equation 3.3 gives
+vf − vi 1 vf − vi
+∆x = vi( ) + a( )
+2
+a 2 a
+viv
+2
+f 1
+= − v v
+2
+i f
+− 2vivf + v2i
++ a( )
+a a 2 a2
+viv
+2
+f
+= − v v
+2
+i f vi+ − vf v
+2
++ i
+a a 2a a 2a
+2a∆x = −2v2i + v2f + v2i
+v2f = v
+2
+i + 2a∆x (3.5)
+This gives us the final velocity in terms of the initial velocity, acceleration and displacement and
+is independent of the time variable.
+Worked Example 12: Equations of motion
+Question: A racing car is travelling north. It accelerates uniformly covering a
+distance of 725 m in 10 s. If it has an initial velocity of 10 m·s−1, find its acceleration.
+Answer
+Step 1 : Identify what information is given and what is asked for
+We are given:
+vi = 10 m · s−1
+∆x = 725 m
+t = 10 s
+a = ?
+Step 2 : Find an equation of motion relating the given information to the
+acceleration
+If you struggle to find the correct equation, find the quantity that is not given and
+then look for an equation that does not have this quantity in it.
+We can use equation 3.3
+1
+∆x = vit+ at
+2
+2
+Step 3 : Substitute your values in and find the answer
+1
+∆x = vit+ at
+2
+2
+1
+725 = (10× 10) + a× (10)2
+2
+725− 100 = 50 a
+a = 12,5 m · s−2
+Step 4 : Quote the final answer
+The racing car is accelerating at 12,5 m·s−2 north.
+57
+3.9 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+Worked Example 13: Equations of motion
+Question: A motorcycle, travelling east, starts from rest, moves in a straight line
+with a constant acceleration and covers a distance of 64 m in 4 s. Calculate
+• its acceleration
+• its final velocity
+• at what time the motorcycle had covered half the total distance
+• what distance the motorcycle had covered in half the total time.
+Answer
+Step 1 : Identify what information is given and what is asked for
+We are given:
+vi = 0 m · s−1(because the object starts from rest.)
+∆x = 64 m
+t = 4 s
+a = ?
+vf = ?
+t = ? at half the distance ∆x = 32 m.
+∆x = ? at half the time t = 2 s.
+All quantities are in SI units.
+Step 2 : Acceleration: Find a suitable equation to calculate the acceleration
+We can use equations 3.3
+1
+∆x = vit+ at
+2
+2
+Step 3 : Substitute the values and calculate the acceleration
+1
+∆x = vit+ at
+2
+2
+1
+64 = (0× 4) + a× (4)2
+2
+64 = 8a
+a = 8 m · s−2 east
+Step 4 : Final velocity: Find a suitable equation to calculate the final velocity
+We can use equation 3.1 - remember we now also know the acceleration of the
+object.
+vf = vi + at
+Step 5 : Substitute the values and calculate the final velocity
+vf = vi + at
+vf = 0 + (8)(4)
+= 32 m · s−1 east
+Step 6 : Time at half the distance: Find an equation to calculate the time
+We can use equation 3.3:
+1
+∆x = vi + at
+2
+2
+1
+32 = (0)t+ (8)(t)2
+2
+32 = 0 + 4t2
+8 = t2
+t = 2,83 s
+58
+3.9 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+Worked Example 13: Equations of motion
+
+Question: A motorcycle, travelling east, starts from rest, moves in a straight line
+
+with a constant acceleration and covers a distance of 64 m in 4 s. Calculate
+
+• its acceleration
+
+• its final velocity
+
+• at what time the motorcycle had covered half the total distance
+
+• what distance the motorcycle had covered in half the total time.
+
+Answer
+
+Step 1 : Identify what information is given and what is asked for
+
+We are given:
+
+vi = 0 m · s−1(because the object starts from rest.)
+
+∆x = 64 m
+
+t = 4 s
+
+a = ?
+
+vf = ?
+
+t = ? at half the distance ∆x = 32 m.
+
+∆x = ? at half the time t = 2 s.
+
+All quantities are in SI units.
+
+Step 2 : Acceleration: Find a suitable equation to calculate the acceleration
+
+We can use equations 3.3
+
+1
+
+∆x = vit+ at
+
+2
+
+2
+
+Step 3 : Substitute the values and calculate the acceleration
+
+1
+
+∆x = vit+ at
+
+2
+
+2
+
+1
+
+64 = (0× 4) + a× (4)2
+
+2
+
+64 = 8a
+
+a = 8 m · s−2 east
+
+Step 4 : Final velocity: Find a suitable equation to calculate the final velocity
+
+We can use equation 3.1 - remember we now also know the acceleration of the
+
+object.
+
+vf = vi + at
+
+Step 5 : Substitute the values and calculate the final velocity
+
+vf = vi + at
+
+vf = 0 + (8)(4)
+
+= 32 m · s−1 east
+
+Step 6 : Time at half the distance: Find an equation to calculate the time
+
+We can use equation 3.3:
+
+1
+
+∆x = vi + at
+
+2
+
+2
+
+1
+
+32 = (0)t+ (8)(t)2
+
+2
+
+32 = 0 + 4t2
+
+8 = t2
+
+t = 2,83 s
+
+58
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.10
+
+Step 7 : Distance at half the time: Find an equation to relate the distance
+
+and time
+
+Half the time is 2 s, thus we have vi, a and t - all in the correct units. We can use
+
+equation 3.3 to get the distance:
+
+1
+
+∆x = vit+ at
+
+2
+
+2
+
+1
+
+= (0)(2) + (8)(2)2
+
+2
+
+= 16 m east
+
+Exercise: Acceleration
+
+1. A car starts off at 10 m·s−1 and accelerates at 1 m·s−2 for 10 s. What is its
+
+final velocity?
+
+2. A train starts from rest, and accelerates at 1 m·s−2 for 10 s. How far does it
+
+move?
+
+3. A bus is going 30 m·s−1 and stops in 5 s. What is its stopping distance for this
+
+speed?
+
+4. A racing car going at 20 m·s−1 stops in a distance of 20 m. What is its
+
+acceleration?
+
+5. A ball has a uniform acceleration of 4 m·s−1. Assume the ball starts from rest.
+
+Determine the velocity and displacement at the end of 10 s.
+
+6. A motorcycle has a uniform acceleration of 4 m·s−1. Assume the motorcycle
+
+has an initial velocity of 20 m·s−1. Determine the velocity and displacement at
+
+the end of 12 s.
+
+7. An aeroplane accelerates uniformly such that it goes from rest to 144 km·hr−1in
+
+8 s. Calculate the acceleration required and the total distance that it has
+
+traveled in this time.
+

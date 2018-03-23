@@ -1,0 +1,360 @@
+27.2 de Broglie Wavelength
+
+Einstein showed that for a photon, its momentum, p, is equal to its energy, E divided the
+
+speed of light, c:
+
+E
+
+p = .
+
+c
+
+The energy of the photon can also be expressed in terms of the wavelength of the light, λ:
+
+hc
+
+E = ,
+
+λ
+
+where h is Planck's constant. Combining these two equations we find that the the momentum
+
+of the photon is related to its wavelength
+
+hc h
+
+p = = ,
+
+cλ λ
+
+or equivalently
+
+h
+
+λ = .
+
+p
+
+In 1923, Louis de Broglie proposed that this equation not only holds for photons, but also holds
+
+for particles of matter. This is known as the de Broglie hypothesis
+
+Definition: De Broglie Hypothesis
+
+A particle of mass m moving with velocity v has a wavelength λ related to is momentum
+
+p = mv by
+
+h h
+
+λ = = (27.1)
+
+p mv
+
+This wavelength, λ, is known as the de Broglie wavelength of the particle.
+
+571
+
+27.2 CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12
+
+Since the value of Planck's constant is incredibly small h = 6.63× 10−34 J · s, the wavelike
+
+nature of everyday objects is not really observable.
+
+Itneterreessttinigng The de Broglie hypothesis was proposed by French physicist Louis de Broglie
+
+FFacctt (15 August 1892 - 19 March 1987) in 1923 in his PhD thesis. He was awarded
+
+the Nobel Prize for Physics in 1929 for this work, which made him the first
+
+person to receive a Nobel Prize on a PhD thesis.
+
+Worked Example 174: de Broglie Wavelength of a Cricket Ball
+
+Question: A cricket ball has a mass of 0,150 kg and is bowled towards a bowler at
+
+40m · s−1. Calculate the de Broglie wavelength of the cricket ball?
+
+Answer
+
+Step 1 : Determine what is required and how to approach the problem
+
+We are required to calculate the de Broglie wavelength of a cricket ball given its
+
+mass and speed. We can do this by using:
+
+h
+
+λ =
+
+mv
+
+Step 2 : Determine what is given
+
+We are given:
+
+• The mass of the cricket ball m = 0,150 kg
+
+• The velocity of the cricket ball v = 40m · s−1
+
+and we know:
+
+• Planck's constant h = 6,63× 10−34 J · s
+
+Step 3 : Calculate the de Broglie wavelength
+
+h
+
+λ =
+
+mv
+
+6,63× 10−34 J · s
+
+=
+
+(0,150 kg)(40 m · s−1)
+
+= 1,10× 10−34 m
+
+This wavelength is considerably smaller than the diameter of a proton which is approximately
+
+10−15 m. Hence the wave-like properties of this cricket ball are too small to be observed.
+
+Worked Example 175: The de Broglie wavelength of an electron
+
+Question: Calculate the de Broglie wavelength of an electron moving at 40 m·s−1.
+
+Answer
+
+Step 1 : Determine what is required and how to approach the problem
+
+572
+27.2 CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12
+Since the value of Planck's constant is incredibly small h = 6.63× 10−34 J · s, the wavelike
+nature of everyday objects is not really observable.
+Itneterreessttinigng The de Broglie hypothesis was proposed by French physicist Louis de Broglie
+FFacctt (15 August 1892 - 19 March 1987) in 1923 in his PhD thesis. He was awarded
+the Nobel Prize for Physics in 1929 for this work, which made him the first
+person to receive a Nobel Prize on a PhD thesis.
+Worked Example 174: de Broglie Wavelength of a Cricket Ball
+Question: A cricket ball has a mass of 0,150 kg and is bowled towards a bowler at
+40m · s−1. Calculate the de Broglie wavelength of the cricket ball?
+Answer
+Step 1 : Determine what is required and how to approach the problem
+We are required to calculate the de Broglie wavelength of a cricket ball given its
+mass and speed. We can do this by using:
+h
+λ =
+mv
+Step 2 : Determine what is given
+We are given:
+• The mass of the cricket ball m = 0,150 kg
+• The velocity of the cricket ball v = 40m · s−1
+and we know:
+• Planck's constant h = 6,63× 10−34 J · s
+Step 3 : Calculate the de Broglie wavelength
+h
+λ =
+mv
+6,63× 10−34 J · s
+=
+(0,150 kg)(40 m · s−1)
+= 1,10× 10−34 m
+This wavelength is considerably smaller than the diameter of a proton which is approximately
+10−15 m. Hence the wave-like properties of this cricket ball are too small to be observed.
+Worked Example 175: The de Broglie wavelength of an electron
+Question: Calculate the de Broglie wavelength of an electron moving at 40 m·s−1.
+Answer
+Step 1 : Determine what is required and how to approach the problem
+572
+CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12 27.2
+We required to calculate the de Broglie wavelength of an electron given its speed.
+We can do this by using:
+h
+λ =
+mv
+Step 2 : Determine what is given
+We are given:
+• The velocity of the electron v = 40m · s−1
+and we know:
+• The mass of the electron m = 9,11× 10−31 kg
+• Planck's constant h = 6,63× 10−34 J · s
+Step 3 : Calculate the de Broglie wavelength
+h
+λ =
+mv
+6,63× 10−34 J · s
+=
+(9,11× 10−31 kg)(40 m · s−1)
+= 1,82× 10−5 m
+= 0,0182 mm
+Although the electron and cricket ball in the two previous examples are travelling at the same
+velocity the de Broglie wavelength of the electron is much larger than that of the cricket ball.
+This is because the wavelength is inversely proportional to the mass of the particle.
+Worked Example 176: The de Broglie wavelength of an electron
+Question: Calculate the de Broglie wavelength of a electron moving at
+3× 105 m · s−1. ( 11000 of the speed of light.)
+Answer
+Step 1 : Determine what is required and how to approach the problem
+We required to calculate the de Broglie wavelength of an electron given its speed.
+We can do this by using:
+h
+λ =
+mv
+Step 2 : Determine what is given
+We are given:
+• The velocity of the electron v = 3× 105 m · s−1
+and we know:
+• The mass of the electron m = 9,11× 10−31 kg
+• Planck's constant h = 6,63× 10−34 J · s
+Step 3 : Calculate the de Broglie wavelength
+h
+λ =
+mv
+6,63× 10−34 J · s
+=
+(9,11× 10−31 kg)(3× 105 m · s−1)
+= 2,43× 10−9 m
+This is the size of an atom. For this reason, electrons moving at high velocities can
+be used to "probe" the structure of atoms. This is discussed in more detail at the
+end of this chapter. Figure 27.1 compares the wavelengths of fast moving electrons
+to the wavelengths of visible light.
+573
+CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12 27.2
+
+We required to calculate the de Broglie wavelength of an electron given its speed.
+
+We can do this by using:
+
+h
+
+λ =
+
+mv
+
+Step 2 : Determine what is given
+
+We are given:
+
+• The velocity of the electron v = 40m · s−1
+
+and we know:
+
+• The mass of the electron m = 9,11× 10−31 kg
+
+• Planck's constant h = 6,63× 10−34 J · s
+
+Step 3 : Calculate the de Broglie wavelength
+
+h
+
+λ =
+
+mv
+
+6,63× 10−34 J · s
+
+=
+
+(9,11× 10−31 kg)(40 m · s−1)
+
+= 1,82× 10−5 m
+
+= 0,0182 mm
+
+Although the electron and cricket ball in the two previous examples are travelling at the same
+
+velocity the de Broglie wavelength of the electron is much larger than that of the cricket ball.
+
+This is because the wavelength is inversely proportional to the mass of the particle.
+
+Worked Example 176: The de Broglie wavelength of an electron
+
+Question: Calculate the de Broglie wavelength of a electron moving at
+
+3× 105 m · s−1. ( 11000 of the speed of light.)
+
+Answer
+
+Step 1 : Determine what is required and how to approach the problem
+
+We required to calculate the de Broglie wavelength of an electron given its speed.
+
+We can do this by using:
+
+h
+
+λ =
+
+mv
+
+Step 2 : Determine what is given
+
+We are given:
+
+• The velocity of the electron v = 3× 105 m · s−1
+
+and we know:
+
+• The mass of the electron m = 9,11× 10−31 kg
+
+• Planck's constant h = 6,63× 10−34 J · s
+
+Step 3 : Calculate the de Broglie wavelength
+
+h
+
+λ =
+
+mv
+
+6,63× 10−34 J · s
+
+=
+
+(9,11× 10−31 kg)(3× 105 m · s−1)
+
+= 2,43× 10−9 m
+
+This is the size of an atom. For this reason, electrons moving at high velocities can
+
+be used to "probe" the structure of atoms. This is discussed in more detail at the
+
+end of this chapter. Figure 27.1 compares the wavelengths of fast moving electrons
+
+to the wavelengths of visible light.
+
+573
+
+27.3 CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12
+
+Since the de Broglie wavelength of a particle is inversely proportional to its velocity, the
+
+wavelength decreases as the velocity increases. This is confirmed in the last two examples with
+
+the electrons. De Broglie's hypothesis was confirmed by Davisson and Germer in 1927 when
+
+they observed a beam of electrons being diffracted off a nickel surface. The diffraction means
+
+that the moving electrons have a wave nature. They were also able to determine the wavelength
+
+of the electrons from the diffraction. To measure a wavelength one needs two or more
+
+diffacting centres such as pinholes, slits or atoms. For diffraction to occur the centres must be
+
+separated by a distance about the same size as the wavelength. Theoretically, all objects, not
+
+just sub-atomic particles, exhibit wave properties according to the de Broglie hypothesis.
+
+fast electrons
+
+visible light
+
+≈ 2 nm ≈ 700 nm ≈ 400 nm
+
+wavelength (nm)
+
+Figure 27.1: The wavelengths of the fast electrons are much smaller than that of visible light.
+

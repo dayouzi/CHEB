@@ -1,0 +1,348 @@
+19.3.1 Equivalent resistance
+
+When there is more than one resistor in a circuit, we are usually able to replace all resistors
+
+with a single resistor whose effect is the same as all the resistors put together. The resistance
+
+of the single resistor is known as equivalent resistance. We are able to calculate equivalent
+
+resistance for resistors connected in series and parallel.
+
+433
+
+19.3 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+
+Equivalent Series Resistance
+
+Consider a circuit consisting of three resistors and a single battery connected in series.
+
+R1
+
+A B
+
+b b
+
+V R2
+
+b b
+
+D C
+
+R3
+
+The first principle to understand about series circuits is that the amount of current is the same
+
+through any component in the circuit. This is because there is only one path for electrons to
+
+flow in a series circuit. From the way that the battery is connected, we can tell which direction
+
+the current will flow. We know that charge flows from positive to negative, by convention.
+
+Current in this circuit will flow in a clockwise direction, from point A to B to C to D and back
+
+to A.
+
+So, how do we use this knowledge to calculate the value of a single resistor that can replace
+
+the three resistors in the circuit and still have the same current?
+
+We know that in a series circuit the current has to be the same in all components. So we can
+
+write:
+
+I = I1 = I2 = I3
+
+We also know that total voltage of the circuit has to be equal to the sum of the voltages over
+
+all three resistors. So we can write:
+
+V = V1 + V2 + V3
+
+Finally, we know that Ohm's Law has to apply for each resistor individually, which gives us:
+
+V1 = I1 ·R1
+
+V2 = I2 ·R2
+
+V3 = I3 ·R3
+
+Therefore:
+
+V = I1 ·R1 + I2 · R2 + I3 ·R3
+
+However, because
+
+I = I1 = I2 = I3
+
+, we can further simplify this to:
+
+V = I · R1 + I ·R2 + I ·R3
+
+= I(R1 +R2 +R3)
+
+Further, we can write an Ohm's Law relation for the entire circuit:
+
+V = I · R
+
+434
+19.3 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+Equivalent Series Resistance
+Consider a circuit consisting of three resistors and a single battery connected in series.
+R1
+A B
+b b
+V R2
+b b
+D C
+R3
+The first principle to understand about series circuits is that the amount of current is the same
+through any component in the circuit. This is because there is only one path for electrons to
+flow in a series circuit. From the way that the battery is connected, we can tell which direction
+the current will flow. We know that charge flows from positive to negative, by convention.
+Current in this circuit will flow in a clockwise direction, from point A to B to C to D and back
+to A.
+So, how do we use this knowledge to calculate the value of a single resistor that can replace
+the three resistors in the circuit and still have the same current?
+We know that in a series circuit the current has to be the same in all components. So we can
+write:
+I = I1 = I2 = I3
+We also know that total voltage of the circuit has to be equal to the sum of the voltages over
+all three resistors. So we can write:
+V = V1 + V2 + V3
+Finally, we know that Ohm's Law has to apply for each resistor individually, which gives us:
+V1 = I1 ·R1
+V2 = I2 ·R2
+V3 = I3 ·R3
+Therefore:
+V = I1 ·R1 + I2 · R2 + I3 ·R3
+However, because
+I = I1 = I2 = I3
+, we can further simplify this to:
+V = I · R1 + I ·R2 + I ·R3
+= I(R1 +R2 +R3)
+Further, we can write an Ohm's Law relation for the entire circuit:
+V = I · R
+434
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.3
+Therefore:
+V = I(R1 +R2 +R3)
+I ·R = I(R1 +R2 +R3)
+∴ R = R1 +R2 +R3
+Definition: Equivalent resistance in a series circuit, Rs
+For n resistors in series the equivalent resistance is:
+Rs = R1 +R2 +R3 + · · ·+Rn
+Let us apply this to the following circuit.
+R1=3 kΩ
+A B
+b b
+9 V R2=10 kΩ
+b b
+D C
+R3=5 kΩ
+The resistors are in series, therefore:
+Rs = R1 +R2 +R3
+= 3Ω+ 10Ω + 5Ω
+= 18Ω
+Worked Example 125: Equivalent series resistance I
+Question: Two 10 kΩ resistors are connected in series. Calculate the equivalent
+resistance.
+Answer
+Step 1 : Determine how to approach the problem
+Since the resistors are in series we can use:
+Rs = R1 +R2
+Step 2 : Solve the problem
+Rs = R1 +R2
+= 10 kΩ+ 10 kΩ
+= 20 kΩ
+Step 3 : Write the final answer
+The equivalent resistance of two 10 kΩ resistors connected in series is 20 kΩ.
+435
+19.3 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+Worked Example 126: Equivalent series resistance II
+Question: Two resistors are connected in series. The equivalent resistance is
+100 Ω. If one resistor is 10 Ω, calculate the value of the second resistor.
+Answer
+Step 1 : Determine how to approach the problem
+Since the resistors are in series we can use:
+Rs = R1 +R2
+We are given the value of Rs and R1.
+Step 2 : Solve the problem
+Rs = R1 +R2
+∴ R2 = Rs −R1
+= 100Ω− 10Ω
+= 90Ω
+Step 3 : Write the final answer
+The second resistor has a resistance of 90Ω.
+Equivalent parallel resistance
+Consider a circuit consisting of a single battery and three resistors that are connected in parallel.
+A B C D
+b b b b
+V R1 R2 R3
+b b b b
+H G F E
+The first principle to understand about parallel circuits is that the voltage is equal across all
+components in the circuit. This is because there are only two sets of electrically common
+points in a parallel circuit, and voltage measured between sets of common points must always
+be the same at any given time. So, for the circuit shown, the following is true:
+V = V1 = V2 = V3
+The second principle for a parallel circuit is that all the currents through each resistor must add
+up to the total current in the circuit.
+I = I1 + I2 + I3
+Also, from applying Ohm's Law to the entire circuit, we can write:
+I
+V =
+Rp
+where Rp is the equivalent resistance in this parallel arrangement.
+436
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.3
+We are now ready to apply Ohm's Law to each resistor, to get:
+V1 = R1 · I1
+V2 = R2 · I2
+V3 = R3 · I3
+This can be also written as:
+V1
+I1 =
+R1
+V2
+I2 =
+R2
+V3
+I3 =
+R3
+Now we have:
+I = I1 + I2 + I3
+V V1 V2 V3
+= + +
+Rp R1 R2 R3
+V V V
+= + +
+R1 R2 R3
+because V (= V1 = V2 = V3 )
+1 1 1
+= (V + +R1 R2 R)3
+1 1 1 1
+∴ = + +
+Rp R1 R2 R3
+Definition: Equivalent resistance in a parallel circuit, Rp
+For n resistors in parallel, the equ(ivalent resistance is: )
+1 1 1 1
+= + + + · · · 1+
+Rp R1 R2 R3 Rn
+Let us apply this formula to the following circuit.
+V =9 V R1=10Ω R2=2Ω R3=1Ω
+( )
+1 1 1 1
+= ( + +Rp R1 R2 R3 )
+1 1 1
+= ( + +10Ω 2Ω) 1Ω
+1 + 5 + 10
+= ( )10
+16
+=
+10
+10
+∴ Rp = Ω
+16
+437
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.3
+
+We are now ready to apply Ohm's Law to each resistor, to get:
+
+V1 = R1 · I1
+
+V2 = R2 · I2
+
+V3 = R3 · I3
+
+This can be also written as:
+
+V1
+
+I1 =
+
+R1
+
+V2
+
+I2 =
+
+R2
+
+V3
+
+I3 =
+
+R3
+
+Now we have:
+
+I = I1 + I2 + I3
+
+V V1 V2 V3
+
+= + +
+
+Rp R1 R2 R3
+
+V V V
+
+= + +
+
+R1 R2 R3
+
+because V (= V1 = V2 = V3 )
+
+1 1 1
+
+= (V + +R1 R2 R)3
+
+1 1 1 1
+
+∴ = + +
+
+Rp R1 R2 R3
+
+Definition: Equivalent resistance in a parallel circuit, Rp
+
+For n resistors in parallel, the equ(ivalent resistance is: )
+
+1 1 1 1
+
+= + + + · · · 1+
+
+Rp R1 R2 R3 Rn
+
+Let us apply this formula to the following circuit.
+
+V =9 V R1=10Ω R2=2Ω R3=1Ω
+
+( )
+
+1 1 1 1
+
+= ( + +Rp R1 R2 R3 )
+
+1 1 1
+
+= ( + +10Ω 2Ω) 1Ω
+
+1 + 5 + 10
+
+= ( )10
+
+16
+
+=
+
+10
+
+10
+
+∴ Rp = Ω
+
+16
+
+437
+
+19.3 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+

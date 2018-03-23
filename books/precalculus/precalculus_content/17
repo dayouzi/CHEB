@@ -1,0 +1,72 @@
+2.5 TRANSFORMATIONS OF FUNCTIONS
+Vertical Shifting ! Horizontal Shifting ! Reflecting Graphs ! Vertical
+Stretching and Shrinking ! Horizontal Stretching and Shrinking ! Even 
+and Odd Functions
+In this section we study how certain transformations of a function affect its graph. This
+will give us a better understanding of how to graph functions. The transformations that we
+study are shifting, reflecting, and stretching.
+! Vertical Shifting
+Adding a constant to a function shifts its graph vertically: upward if the constant is posi-
+tive and downward if it is negative.
+In general, suppose we know the graph of y ! f 1x 2 . How do we obtain from it the
+graphs of
+Recall that the graph of the function f
+is the same as the graph of the equation y ! f 1x 2 % c  and  y ! f 1x 2 $ c  1c ' 0 2
+y ! f 1x 2 . The y-co
+y ! f 1orx 2dinate of each point on the graph of y ! f 1x 2 % c is c units above the y-coordinate of the corresponding point on the graph of y ! f 1x 2 . So we obtain the graphof % c simply by shifting the graph of f
+y ! f 1x 2 y ! 1x 2 upward c units. Similarly, weobtain the graph of $ c by shifting the graph of y ! f 1x 2 downward c units.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+180 C H A P T E R  2 | Functions
+VERTIC AL SHIFTS OF GRAPHS
+Suppose c ' 0.
+To graph y ! f
+y ! f 11xx 22 % c, shift the graph of y ! f$ c y ! f 11xx 22 upward c units.To graph , shift the graph of downward c units.
+y y=f(x)+c y
+c y=f(x)
+c
+y=f(x)
+0 x 0 y=f(x)-c x
+E X A M P L E  1 | Vertical Shifts of Graphs
+Use the graph of 
+g1 fx 2 1x 2 ! x2 to sketch the graph of each function.(a) ! x2 % 3 (b) h1x 2 ! x2 $ 2
+S O L U T I O N The function f 1x 2 ! x2 was graphed in Example 1(a), Section 2.2. It is
+sketched again in Figure 1.
+(a) Observe that
+g1x 2 ! x2 % 3 ! f 1x 2 % 3
+So the y-coordinate of each point on the graph of g is 3 units above the correspond-
+ing point on the graph of f. This means that to graph g, we shift the graph of f
+upward 3 units, as in Figure 1.
+(b) Similarly, to graph h, we shift the graph of f downward 2 units, as shown in Figure 1.
+y g(x)=≈+3
+f (x)=≈
+h(x)=≈ - 2
+2
+0 2 x
+F I G U R E  1
+180 C H A P T E R  2 | Functions
+VERTIC AL SHIFTS OF GRAPHS
+Suppose c ' 0.
+To graph y ! f
+y ! f 11xx 22 % c, shift the graph of y ! f$ c y ! f 11xx 22 upward c units.To graph , shift the graph of downward c units.
+y y=f(x)+c y
+c y=f(x)
+c
+y=f(x)
+0 x 0 y=f(x)-c x
+E X A M P L E  1 | Vertical Shifts of Graphs
+Use the graph of 
+g1 fx 2 1x 2 ! x2 to sketch the graph of each function.(a) ! x2 % 3 (b) h1x 2 ! x2 $ 2
+S O L U T I O N The function f 1x 2 ! x2 was graphed in Example 1(a), Section 2.2. It is
+sketched again in Figure 1.
+(a) Observe that
+g1x 2 ! x2 % 3 ! f 1x 2 % 3
+So the y-coordinate of each point on the graph of g is 3 units above the correspond-
+ing point on the graph of f. This means that to graph g, we shift the graph of f
+upward 3 units, as in Figure 1.
+(b) Similarly, to graph h, we shift the graph of f downward 2 units, as shown in Figure 1.
+y g(x)=≈+3
+f (x)=≈
+h(x)=≈ - 2
+2
+0 2 x
+F I G U R E  1

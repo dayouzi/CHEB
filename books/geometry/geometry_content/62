@@ -1,0 +1,311 @@
+6.8. Quadrilateral Classification www.ck12.org
+
+6.8 Quadrilateral Classification
+
+Here you'll learn how to differentiate among parallelograms, rectangles, rhombuses, squares, kites, trapezoids, and
+
+quadrilaterals in the coordinate plane.
+
+What if you were given the coordinates of four points that form a quadrilateral? How could you determine if that
+
+quadrilateral qualifies as one of the special four-sided figures you learned about in the previous Concepts? After
+
+completing this Concept, you'll be able to make such a determination.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136711
+
+CK-12 Classifying Quadrilaterals in the Coordinate Plane
+
+Guidance
+
+In order to be successful in this concept you need to already be familiar with the definitions and properties of the
+
+following quadrilaterals: parallelograms, rhombuses, rectangles, squares, kites and trapezoids. The definitions for
+
+each are provided in the vocabulary section as a resource, and further information can be found by searching on
+
+those topic words.
+
+When working in the coordinate plane, you will sometimes want to know what type of shape a given shape is. You
+
+should easily be able to tell that it is a quadrilateral if it has four sides. But how can you classify it beyond that?
+
+First you should graph the shape if it has not already been graphed. Look at it and see if it looks like any special
+
+quadrilateral. Do the sides appear to be congruent? Do they meet at right angles? This will give you a place to start.
+
+Once you have a guess for what type of quadrilateral it is, your job is to prove your guess. To prove that a quadrilateral
+
+is a parallelogram, rectangle, rhombus, square, kite or trapezoid, you must show that it meets the definition of that
+
+shape OR that it has properties that only that shape has.
+
+If it turns out that your guess was wrong because the shape does not fulfill the necessary properties, you can guess
+
+again. If it appears to be no type of special quadrilateral then it is simply a quadrilateral.
+
+The examples below will help you to see what this process might look like.
+
+Example A
+
+Determine what type of parallelogram TUNE is: T (0,10),U(4,2),N(−2,−1), and E(−6,7).
+
+328
+
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+
+This looks like a rectangle. Let's see if the diagonals are equal. If they are, then TUNE is a rectangle.
+
+√ √
+
+EU = √(−6−4)2 +(7−2)2 T N = √(0+2)2 +(10+1)2
+
+= (−10)2 +52 = 22 +112
+
+√ √
+
+= √100+25 = √4+121
+
+= 125 = 125
+
+If the diagonals are also perpendicular, then TUNE is a square.
+
+Slope of EU = 7−2−6−4 =− 510 =−12 Slope of T N = 10−(−1)0−(−2) = 112
+
+The slope of EU 6= slope of T N, so TUNE is a rectangle.
+
+Example B
+
+A quadrilateral is defined by the four lines y = 2x+1, y =−x+5, y = 2x−4, and y =−x−5. Is this quadrilateral
+
+a parallelogram?
+
+To check if its a parallelogram we have to check that it has two pairs of parallel sides. From the equations we can
+
+see that the slopes of the lines are 2, −1, 2 and −1. Because two pairs of slopes match, this shape has two pairs of
+
+parallel sides and is a parallelogram.
+
+Example C
+
+Determine what type of quadrilateral RSTV is.
+
+329
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+This looks like a rectangle. Let's see if the diagonals are equal. If they are, then TUNE is a rectangle.
+√ √
+EU = √(−6−4)2 +(7−2)2 T N = √(0+2)2 +(10+1)2
+= (−10)2 +52 = 22 +112
+√ √
+= √100+25 = √4+121
+= 125 = 125
+If the diagonals are also perpendicular, then TUNE is a square.
+Slope of EU = 7−2−6−4 =− 510 =−12 Slope of T N = 10−(−1)0−(−2) = 112
+The slope of EU 6= slope of T N, so TUNE is a rectangle.
+Example B
+A quadrilateral is defined by the four lines y = 2x+1, y =−x+5, y = 2x−4, and y =−x−5. Is this quadrilateral
+a parallelogram?
+To check if its a parallelogram we have to check that it has two pairs of parallel sides. From the equations we can
+see that the slopes of the lines are 2, −1, 2 and −1. Because two pairs of slopes match, this shape has two pairs of
+parallel sides and is a parallelogram.
+Example C
+Determine what type of quadrilateral RSTV is.
+329
+6.8. Quadrilateral Classification www.ck12.org
+This looks like a kite. Find the lengths of all the sides to check if the adjacent sides are congruent.
+√ √
+RS = √(−5−2)2 +(7−6)2 ST = √(2−5)2 +(6− (−3))2
+= (−7)2 +12 = (−3)2 +92
+√ √
+= 50 = 90
+√ √
+RV = √(−5− (−4))2 +(7−0)2 V T = √(−4−5)2 +(0− (−3))2
+= (−1)2 +72 = (−9)2 +32
+√ √
+= 50 = 90
+From this we see that the adjacent sides are congruent. Therefore, RSTV is a kite.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136712
+CK-12 Classifying Quadrilaterals in the Coordinate Plane
+->
+Guided Practice
+1. A quadrilateral is defined by the four lines y = 2x + 1, y = −2x + 5, y = 2x− 4, and y = −2x− 5. Is this
+quadrilateral a rectangle?
+2. Determine what type of quadrilateral ABCD is. A(−3,3),B(1,5),C(4,−1),D(1,−5).
+3. Determine what type of quadrilateral EFGH is. E(5,−1),F(11,−3),G(5,−5),H(−1,−3)
+330
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+Answers:
+1. To be a rectangle a shape must have four right angles. This means that the sides must be perpendicular to each
+other. From the given equations we see that the slopes are 2, −2, 2 and −2. Because the slopes are not opposite
+reciprocals of each other, the sides are not perpendicular, and the shape is not a rectangle.
+2. First, graph ABCD. This will make it easier to figure out what type of quadrilateral it is. From the graph, we can
+tell this is not a parallelogram. Find the slopes of BC and AD to see if they are parallel.
+Slope of BC = 5−(−1)1−4 =
+6
+−3 =−2
+Slope of AD = 3−(−5)−3−1 =
+8
+−4 =−2
+BC‖AD, so ABCD is a trapezoid. To determine if it is an isosceles trapezoid, find AB and CD.
+√ √
+AB = √(−3−1)2 +(3−5)2 ST = √(4−1)2 +(−1− (−5))2
+= (−4)2 +(−2)2 = 32 +42
+√ √ √
+= 20 = 2 5 = 25 = 5
+AB 6=CD, therefore this is not an isosceles trapezoid.
+3. We will not graph this example. Let's find the length of all four sides.
+√ √ √
+EF = √(5−11)2 +(−1− (−3))2 FG = (11−5)2 +(−3− (−5))2√ √ √
+= √(−6)2 +22 = 40 = √62 +22 = 40
+GH = √(5− (−1))2 +(−5− (−3))2 HE =√ √(−1−5)2 +(−3− (−1))2√
+= 62 +(−2)2 = 40 = (−6)2 +(−2)2 = 40
+All four sides are equal. This quadrilateral is either a rhombus or a square. Let's find the length of the diagonals.
+331
+6.8. Quadrilateral Classification www.ck12.org
+√ √
+EG = √(5−5)2 +(−1− (−5))2 FH = √(11− (−1))2 +(−3− (−3))2
+= 02√ +4
+2 = √ 12
+2 +02
+= 16 = 4 = 144 = 12
+The diagonals are not congruent, so EFGH is a rhombus and not a square.
+Explore More
+Determine what type of quadrilateral ABCD is.
+1. A(−2,4),B(−1,2),C(−3,1),D(−4,3)
+2. A(−2,3),B(3,4),C(2,−1),D(−3,−2)
+3. A(1,−1),B(7,1),C(8,−2),D(2,−4)
+4. A(10,4),B(8,−2),C(2,2),D(4,8)
+5. A(0,0),B(5,0),C(0,4),D(5,4)
+6. A(−1,0),B(0,1),C(1,0),D(0,−1)
+7. A(2,0),B(3,5),C(5,0),D(6,5)
+SRUE is a rectangle and PRUC is a square.
+8. What type of quadrilateral is SPCE?
+9. If SR = 20 and RU = 12, find CE.
+10. Find SC and RC based on the information from part b. Round your answers to the nearest hundredth.
+For questions 11-14, determine what type of quadrilateral ABCD is. If it is no type of special quadrilateral, just write
+quadrilateral.
+11. A(1,−2),B(7,−5),C(4,−8),D(−2,−5)
+12. A(6,6),B(10,8),C(12,4),D(8,2)
+13. A(−1,8),B(1,4),C(−5,−4),D(−5,6)
+14. A(5,−1),B(9,−4),C(6,−10),D(3,−5)
+Summary
+This chapter introduces the Polygon Sum Formula and the Regular Polygon Interior Angle Formula. After this
+detailed presentation of the interior angles of polygons, the next topic is exterior angles of polygons and the Exterior
+Angle Sum Theorem. Quadrilaterals, parallelograms, rectangles, squares, trapezoids, kites, and rhombuses are
+introduced and these various types of four-sided figures are classified and their properties are explored.
+332
+6.8. Quadrilateral Classification www.ck12.org
+
+√ √
+
+EG = √(5−5)2 +(−1− (−5))2 FH = √(11− (−1))2 +(−3− (−3))2
+
+= 02√ +4
+
+2 = √ 12
+
+2 +02
+
+= 16 = 4 = 144 = 12
+
+The diagonals are not congruent, so EFGH is a rhombus and not a square.
+
+Explore More
+
+Determine what type of quadrilateral ABCD is.
+
+1. A(−2,4),B(−1,2),C(−3,1),D(−4,3)
+
+2. A(−2,3),B(3,4),C(2,−1),D(−3,−2)
+
+3. A(1,−1),B(7,1),C(8,−2),D(2,−4)
+
+4. A(10,4),B(8,−2),C(2,2),D(4,8)
+
+5. A(0,0),B(5,0),C(0,4),D(5,4)
+
+6. A(−1,0),B(0,1),C(1,0),D(0,−1)
+
+7. A(2,0),B(3,5),C(5,0),D(6,5)
+
+SRUE is a rectangle and PRUC is a square.
+
+8. What type of quadrilateral is SPCE?
+
+9. If SR = 20 and RU = 12, find CE.
+
+10. Find SC and RC based on the information from part b. Round your answers to the nearest hundredth.
+
+For questions 11-14, determine what type of quadrilateral ABCD is. If it is no type of special quadrilateral, just write
+
+quadrilateral.
+
+11. A(1,−2),B(7,−5),C(4,−8),D(−2,−5)
+
+12. A(6,6),B(10,8),C(12,4),D(8,2)
+
+13. A(−1,8),B(1,4),C(−5,−4),D(−5,6)
+
+14. A(5,−1),B(9,−4),C(6,−10),D(3,−5)
+
+Summary
+
+This chapter introduces the Polygon Sum Formula and the Regular Polygon Interior Angle Formula. After this
+
+detailed presentation of the interior angles of polygons, the next topic is exterior angles of polygons and the Exterior
+
+Angle Sum Theorem. Quadrilaterals, parallelograms, rectangles, squares, trapezoids, kites, and rhombuses are
+
+introduced and these various types of four-sided figures are classified and their properties are explored.
+
+332
+
+www.ck12.org Chapter 7. Similarity
+
+CHAPTER 7 Similarity
+
+Chapter Outline
+
+7.1 FORMS OF RATIOS
+
+7.2 PROPORTION PROPERTIES
+
+7.3 SIMILAR POLYGONS AND SCALE FACTORS
+
+7.4 AA SIMILARITY
+
+7.5 INDIRECT MEASUREMENT
+
+7.6 SSS SIMILARITY
+
+7.7 SAS SIMILARITY
+
+7.8 TRIANGLE PROPORTIONALITY
+
+7.9 PARALLEL LINES AND TRANSVERSALS
+
+7.10 PROPORTIONS WITH ANGLE BISECTORS
+
+7.11 DILATION
+
+7.12 DILATION IN THE COORDINATE PLANE
+
+7.13 SELF-SIMILARITY
+
+Introduction
+
+In this chapter, we will start with a review of ratios and proportions. Second, we will introduce the concept of
+
+similarity and apply it to polygons, quadrilaterals and triangles. Then, we will extend proportionality to parallel
+
+lines and dilations. Finally, we conclude with an extension about fractals.
+
+333

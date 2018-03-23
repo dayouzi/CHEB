@@ -1,0 +1,649 @@
+12.3.2 Newton's Second Law of Motion
+
+According to Newton I, things 'like to keep on doing what they are doing'. In other words, if
+
+an object is moving, it likes to keep on moving and if an object is stationary, it likes to stay
+
+stationary. So how do objects start to move then?
+
+Let us look at the example of a 10 kg box on a rough table. If we push lightly on the box as
+
+indicated in the diagram, the box won't move. Let's say we applied a force of 100 N, yet the
+
+box remains stationary. At this point a frictional force of 100 N is acting on the box, preventing
+
+the box from moving. If we increase the force, lets say to 150 N and the box just about starts to
+
+move, the frictional force is 150 N. To be able to move the box, we need to push hard enough to
+
+overcome the friction and then move the box. If we therefore apply a force of 200 N remembering
+
+that a frictional force of 150 N is present, the 'first' 150 N will be used to overcome or 'cancel'
+
+the friction and the other 50 N will be used to move (accelerate) the block. In order to accelerate
+
+an object we must have a resultant force acting on the block.
+
+box applied force
+
+rough table
+
+Now, what do you think will happen if we pushed harder, lets say 300 N? Or, what do you
+
+think will happen if the mass of the block was more, say 20 kg, or what if it was less? Let us
+
+investigate how the motion of an object is affected by mass and force.
+
+Activity :: Investigation : Newton's Second Law of Motion
+
+Aim:
+
+To investigate the relationship between the acceleration produced on different masses
+
+by a constant resultant force.
+
+Method:
+
+30◦
+
+249
+
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+1. A constant force of 20 N, acting at an angle of 30◦ to the horizontal, is applied
+
+to a dynamics trolley.
+
+2. Ticker tape attached to the trolley runs through a ticker timer of frequency 20
+
+Hz as the trolley is moving on the frictionless surface.
+
+3. The above procedure is repeated 4 times, each time using the same force, but
+
+varying the mass of the trolley.
+
+4. Shown below are sections of the four ticker tapes obtained. The tapes are
+
+marked with the letters A, B, C, D, etc. A is the first dot, B is the second dot
+
+and so on. The distance between each dot is also shown.
+
+Tape 1
+
+A B C D E F G
+
+b b b b b b b
+
+5mm 9mm 13mm 17mm 21mm 25mm
+
+Tape 2
+
+A B C D E F G
+
+b b b b b b b
+
+3mm 10mm 17mm 24mm 31mm 38mm
+
+Tape 3
+
+AB C D E F G
+
+b b b b b b b
+
+2mm 13mm 24mm 35mm 46mm 57mm
+
+Tape 4
+
+A B C D E F G
+
+b b b b b b b
+
+9mm 24mm 39mm 54mm 69mm 84mm
+
+Tapes are not drawn to scale
+
+Instructions:
+
+1. Use each tape to calculate the instantaneous velocity (in m·s−1) of the trolley
+
+at points B and F. Use these velocities to calculate the trolley?s acceleration
+
+in each case.
+
+2. Use Newton's second law to calculate the mass of the trolley in each case.
+
+3. Tabulate the mass and corresponding acceleration values as calculated in each
+
+case. Ensure that each column and row in your table is appropriately labeled.
+
+4. Draw a graph of acceleration vs. mass, using a scale of 1 cm = 1 m·s−2on the
+
+y-axis and 1 cm = 1 kg on the x-axis.
+
+5. Use your graph to read off the acceleration of the trolley if its mass is 5 kg.
+
+6. Write down a conclusion for the experiment.
+
+You will have noted in the investigation above that the heavier the trolley is, the slower it moved.
+
+The acceleration is indirectly proportional to the mass. In mathematical terms: a ∝ 1
+
+m
+
+In a similar investigation where the mass is kept constant, but the applied force is varied, you
+
+will find that the bigger the force is, the faster the object will move. The acceleration of the
+
+trolley is therefore directly proportional to the resultant force. In mathematical terms: a ∝ F.
+
+If we rearrange the above equations, we get a ∝ Fm OR F = ma
+
+250
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+1. A constant force of 20 N, acting at an angle of 30◦ to the horizontal, is applied
+to a dynamics trolley.
+2. Ticker tape attached to the trolley runs through a ticker timer of frequency 20
+Hz as the trolley is moving on the frictionless surface.
+3. The above procedure is repeated 4 times, each time using the same force, but
+varying the mass of the trolley.
+4. Shown below are sections of the four ticker tapes obtained. The tapes are
+marked with the letters A, B, C, D, etc. A is the first dot, B is the second dot
+and so on. The distance between each dot is also shown.
+Tape 1
+A B C D E F G
+b b b b b b b
+5mm 9mm 13mm 17mm 21mm 25mm
+Tape 2
+A B C D E F G
+b b b b b b b
+3mm 10mm 17mm 24mm 31mm 38mm
+Tape 3
+AB C D E F G
+b b b b b b b
+2mm 13mm 24mm 35mm 46mm 57mm
+Tape 4
+A B C D E F G
+b b b b b b b
+9mm 24mm 39mm 54mm 69mm 84mm
+Tapes are not drawn to scale
+Instructions:
+1. Use each tape to calculate the instantaneous velocity (in m·s−1) of the trolley
+at points B and F. Use these velocities to calculate the trolley?s acceleration
+in each case.
+2. Use Newton's second law to calculate the mass of the trolley in each case.
+3. Tabulate the mass and corresponding acceleration values as calculated in each
+case. Ensure that each column and row in your table is appropriately labeled.
+4. Draw a graph of acceleration vs. mass, using a scale of 1 cm = 1 m·s−2on the
+y-axis and 1 cm = 1 kg on the x-axis.
+5. Use your graph to read off the acceleration of the trolley if its mass is 5 kg.
+6. Write down a conclusion for the experiment.
+You will have noted in the investigation above that the heavier the trolley is, the slower it moved.
+The acceleration is indirectly proportional to the mass. In mathematical terms: a ∝ 1
+m
+In a similar investigation where the mass is kept constant, but the applied force is varied, you
+will find that the bigger the force is, the faster the object will move. The acceleration of the
+trolley is therefore directly proportional to the resultant force. In mathematical terms: a ∝ F.
+If we rearrange the above equations, we get a ∝ Fm OR F = ma
+250
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+Newton formulated his second law as follows:
+Definition: Newton's Second Law of Motion
+If a resultant force acts on a body, it will cause the body to accelerate in the direction of the
+resultant force. The acceleration of the body will be directly proportional to the resultant
+force and indirectly proportional to the mass of the body. The mathematical representation
+is a ∝ F .
+m
+Applying Newton's Second Law
+Newton's Second Law can be applied to a variety of situations. We will look at the main types
+of examples that you need to study.
+Worked Example 64: Newton II - Box on a surface 1
+Question: A 10 kg box is placed on a table. A horizontal force of 32 N is applied
+to the box. A frictional force of 7 N is present between the surface and the box.
+1. Draw a force diagram indicating all the horizontal forces acting on the box.
+2. Calculate the acceleration of the box.
+friction = 7 N 32 N
+10 kg
+Answer
+Step 1 : Identify the horizontal forces and draw a force diagram
+We only look at the forces acting in a horizontal direction (left-right) and not vertical
+(up-down) forces. The applied force and the force of friction will be included. The
+force of gravity, which is a vertical force, will not be included.
+direction of motion
+a = ? F1 = applied force on box (32 N)
+F Ff = Frictional force (7 N)1
+Ff
+Step 2 : Calculate the acceleration of the box
+We have been given:
+Applied force F1 = 32 N
+Frictional force Ff = - 7 N
+Mass m = 10 kg
+251
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+To calculate the acceleration of the box we will be using the equation FR = ma.
+Therefore:
+FR = ma
+F1 + Ff = (10)(a)
+32− 7 = 10 a
+25 = 10 a
+a = 2,5m · s−1towards the left
+Worked Example 65: Newton II - box on surface 2
+Question: Two crates, 10 kg and 15 kg respectively, are connected with a thick
+rope according to the diagram. A force of 500 N is applied. The boxes move with
+an acceleration of 2 m·s−2. One third of the total frictional force is acting on the
+10 kg block and two thirds on the 15 kg block. Calculate:
+1. the magnitude and direction of the frictional force present.
+2. the magnitude of the tension in the rope at T.
+a = 2 m·s−2
+500 N
+10 kg T 15 kg
+Figure 12.3: Two crates on a surface
+Answer
+Step 3 : Draw a force diagram
+Always draw a force diagram although the question might not ask for it. The
+acceleration of the whole system is given, therefore a force diagram of the whole
+system will be drawn. Because the two crates are seen as a unit, the force diagram
+will look like this:
+a = 2 m·s−2
+Applied force = 500 N
+Friction = ?
+10 kg 15 kg
+Figure 12.4: Force diagram for two crates on a surface
+Step 4 : Calculate the frictional force
+To find the frictional force we will apply Newton's Second Law. We are given the
+mass (10 + 15 kg) and the acceleration (2 m·s−2). Choose the direction of motion
+252
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+to be the positive direction (to the right is positive).
+FR = ma
+Fapplied + Ff = ma
+500 + Ff = (10 + 15)(2)
+Ff = 50− 500
+Ff = −450N
+The frictional force is 450 N opposite to the direction of motion (to the left).
+Step 5 : Find the tension in the rope
+To find the tension in the rope we need to look at one of the two crates on their
+own. Let's choose the 10 kg crate. Firstly, we need to draw a force diagram:
+a = 2 m·s−2
+1
+3 of total frictional force Tension T
+Ff on 10 kg crate 10 kg
+Figure 12.5: Force diagram of 10 kg crate
+The frictional force on the 10 kg block is one third of the total, therefore:
+Ff =
+1
+3× 450
+Ff = 150 N
+If we apply Newton's Second Law:
+FR = ma
+T + Ff = (10)(2)
+T + (−150) = 20
+T = 170 N
+Note: If we had used the same principle and applied it to 15 kg crate, our calcula-
+tions would have been the following:
+FR = ma
+Fapplied + T + Ff = (15)(2)
+500 + T + (−300) = 30
+T = −170 N
+The negative answer here means that the force is in the direction opposite to the
+motion, in other words to the left, which is correct. However, the question asks for
+the magnitude of the force and your answer will be quoted as 170 N.
+Worked Example 66: Newton II - Man pulling a box
+Question: A man is pulling a 20 kg box with a rope that makes an angle of 60◦
+with the horizontal. If he applies a force of 150 N and a frictional force of 15 N is
+present, calculate the acceleration of the box.
+253
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+b
+150 N
+60 ◦
+15 N 20 kg
+Figure 12.6: Man pulling a box
+Answer
+Step 1 : Draw a force diagram
+The motion is horizontal and therefore we will only consider the forces in a horizontal
+direction. Remember that vertical forces do not influence horizontal motion and vice
+versa.
+150 N
+60 ◦
+20 kg Fx15 N
+Figure 12.7: Force diagram
+Step 2 : Calculate the horizontal component of the applied force
+The applied force is acting at an angle of 60 ◦ to the horizontal. We can only con-
+sider forces that are parallel to the motion. The horizontal component of the applied
+force needs to be calculated before we can continue:
+Fx = 150 cos 60
+◦
+Fx = 75N
+Step 3 : Calculate the acceleration
+To find the acceleration we apply Newton's Second Law:
+FR = ma
+Fx + Ff = (20)(a)
+75 + (−15) = 20a
+a = 3m · s−2to the right
+Worked Example 67: Newton II - Truck and trailor
+Question: A 2000 kg truck pulls a 500 kg trailer with a constant acceleration. The
+engine of the truck produces a thrust of 10 000 N. Ignore the effect of friction.
+1. Calculate the acceleration of the truck.
+2. Calculate the tension in the tow bar T between the truck and the trailer, if the
+tow bar makes an angle of 25◦ with the horizontal.
+254
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+a = ? m·s−2
+10 000 N
+500 kg T 2000 kg
+25◦
+Figure 12.8: Truck pulling a trailer
+Answer
+Step 1 : Draw a force diagram
+Draw a force diagram indicating all the horizontal forces on the system as a whole:
+2500 kg 10 000 N
+T
+Figure 12.9: Force diagram for truck pulling a trailer
+Step 2 : Find the acceleration of the system
+In the absence of friction, the only force that causes the system to accelerate is the
+thrust of the engine. If we now apply Newton's Second Law:
+FR = ma
+10000 = (500 + 2000)a
+a = 4m · s−2 to the right
+Step 3 : Find the horizontal component of T
+We are asked to find the tension in the tow bar, but because the tow bar is acting
+at an angle, we need to find the horizontal component first. We will find the
+horizontal component in terms of T and then use it in the next step to find T.
+25◦
+T
+T cos25◦
+The horizontal component is T cos 25◦.
+Step 4 : Find the tension in the tow bar
+To find T, we will apply Newton's Second Law:
+FR = ma
+F − T cos 25◦ = ma
+10000− T cos 25◦ = (2000)(4)
+T cos 25◦ = 2000
+T = 2206,76N
+Object on an inclined plane
+When we place an object on a slope the force of gravity (Fg) acts straight down and not
+perpendicular to the slope. Due to gravity pulling straight down, the object will tend to slide
+255
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+down the slope with a force equal to the horizontal component of the force of gravity (Fg sin θ).
+The object will 'stick' to the slope due to the frictional force between the object and the surface.
+As you increase the angle of the slope, the horizontal component will also increase until the
+frictional force is overcome and the object starts to slide down the slope.
+The force of gravity will also tend to push an object 'into' the slope. This force is equal to the
+vertical component of the force of gravity (Fg cos θ). There is no movement in this direction as
+this force is balanced by the slope pushing up against the object. This ?pushing force? is called
+the normal force (N) and is equal to the resultant force in the vertical direction, Fg sin θ in this
+case, but opposite in direction.
+Important: Do not use the abbreviation W for weight as it is used to abbreviate 'work'.
+Rather use the force of gravity Fg for weight.
+Surface friction
+horizontal component
+parallel to the surface
+Fg sin θ θ
+vertical component
+θ perpendicular to the surface
+Fg cos θ
+Fg
+θ
+Fg cos θ
+Fg
+Fg sin θ
+Worked Example 68: Newton II - Box on inclined plane
+Question: A body of mass M is at rest on an inclined plane.
+N
+F
+θ
+What is the magnitude of the frictional force acting on the body?
+A Mg
+B Mg cos θ
+C Mg sin θ
+D Mg tan θ
+256
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+Answer
+Step 1 : Analyse the situation
+The question asks us to identify the frictional force. The body is said to be at rest
+on the plane, which means that it is not moving and therefore there is no resultant
+force. The frictional force must therefore be balanced by the force F up the inclined
+plane.
+Step 2 : Choose the correct answer
+The frictional force is equal to the horizontal component of the weight (Mg) which
+is equal to Mg sin θ.
+Worked Example 69: Newton II - Object on a slope
+Question: A force T = 312 N is required to keep a body at rest on a frictionless
+inclined plane which makes an angle of 35◦ with the horizontal. The forces acting
+on the body are shown. Calculate the magnitudes of forces P and R, giving your
+answers to three significant figures.
+R T
+35◦
+35◦
+P
+Answer
+Step 1 : Find the magnitude of P
+We are usually asked to find the magnitude of T, but in this case T is given and we
+are asked to find P. We can use the same equation. T is the force that balances the
+horizontal component of P (Px) and therefore it has the same magnitude.
+T = P sin θ
+312 = P sin 35◦
+P = 544 N
+Step 2 : Find the magnitude of R
+R can also be determined with the use of trigonometric ratios. The tan or cos ratio
+can be used. We recommend that you use the tan ratio because it does not involve
+using the value for P (for in case you made a mistake in calculating P).
+R
+tan 55◦ =
+T
+R
+tan 55◦ =
+312
+R = tan 55◦ × 312
+R = 445,6 N
+R = 446 N
+Note that the question asks that the answers be given to 3 significant figures. We
+therefore round 445,6 N up to 446 N.
+257
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+Lifts and rockets
+So far we have looked at objects being pulled or pushed across a surface, in other words hori-
+zontal motion. Here we only considered horizontal forces, but we can also lift objects up or let
+them fall. This is vertical motion where only vertical forces are being considered.
+Let us consider a 500 kg lift, with no passengers, hanging on a cable. The purpose of the
+cable is to pull the lift upwards so that it can reach the next floor or to let go a little so that it
+can move downwards to the floor below. We will look at five possible stages during the motion
+of the lift.
+Stage 1:
+The 500 kg lift is stationary at the second floor of a tall building.
+Because the lift is stationary (not moving) there is no resultant force acting on the lift. This
+means that the upward forces must be balanced by the downward forces. The only force acting
+down is the force of gravity which is equal to (500 x 9,8 = 4900 N) in this case. The cable must
+therefore pull upwards with a force of 4900 N to keep the lift stationary at this point.
+Stage 2:
+The lift moves upwards at an acceleration of 1 m·s−2.
+If the lift is accelerating, it means that there is a resultant force in the direction of the motion.
+This means that the force acting upwards is now bigger than the force of gravity Fg (down). To
+find the magnitude of the force applied by the cable (Fc) we can do the following calculation:
+(Remember to choose a direction as positive. We have chosen upwards as positive.)
+FR = ma
+Fc + Fg = ma
+Fc + (−4900) = (500)(1)
+Fc = 5400 N upwards
+The answer makes sense as we need a bigger force upwards to cancel the effect of gravity as well
+as make the lift go faster.
+Stage 3:
+The lift moves at a constant velocity.
+When the lift moves at a constant velocity, it means that all the forces are balanced and that
+there is no resultant force. The acceleration is zero, therefore FR = 0. The force acting upwards
+is equal to the force acting downwards, therefore Fc = 4900 N.
+Stage 4:
+The lift slow down at a rate of 2m·s−2.
+As the lift is now slowing down there is a resultant force downwards. This means that the force
+acting downwards is bigger than the force acting upwards. To find the magnitude of the force
+applied by the cable (Fc) we can do the following calculation: Again we have chosen upwards as
+positive, which means that the acceleration will be a negative number.
+FR = ma
+Fc + Fg = ma
+Fc + (−4900) = (500)(−2)
+Fc = 3900 N upwards
+This makes sense as we need a smaller force upwards to ensure a resultant force down. The
+force of gravity is now bigger than the upward pull of the cable and the lift will slow down.
+258
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+Stage 5:
+The cable snaps.
+When the cable snaps, the force that used to be acting upwards is no longer present. The only
+force that is present would be the force of gravity. The lift will freefall and its acceleration can
+be calculated as follows:
+FR = ma
+Fc + Fg = ma
+0 + (−4900) = (500)(a)
+a = −9,8m · s−2
+a = 9,8m · s−2downwards
+Rockets
+Like with lifts, rockets are also examples of objects in vertical motion. The force of gravity pulls
+the rocket down while the thrust of the engine pushes the rocket upwards. The force that the
+engine exerts must overcome the force of gravity so that the rocket can accelerate upwards. The
+worked example below looks at the application of Newton's Second Law in launching a rocket.
+Worked Example 70: Newton II - rocket
+Question: A rocket is launched vertically upwards into the sky at an acceleration
+of 20 m·s−2. If the mass of the rocket is 5000 kg, calculate the magnitude and
+direction of the thrust of the rocket?s engines.
+Answer
+Step 1 : Analyse what is given and what is asked
+We have the following:
+m = 5000 kg
+a = 20 m·s−2
+Fg = 5000 x 9,8 = 49000 N
+We are asked to find the thrust of the rocket engine F1.
+Step 2 : Find the thrust of the engine
+We will apply Newton's Second Law:
+FR = ma
+F1 + Fg = ma
+F1 + (−49000) = (5000)(20)
+F1 = 149 000 N upwards
+Worked Example 71: Rockets
+Question: How do rockets accelerate in space?
+259
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+F
+b
+tail nozzle
+W
+Answer
+• Gas explodes inside the rocket.
+• This exploding gas exerts a force on each side of the rocket (as shown in the
+picture below of the explosion chamber inside the rocket).
+Note that the forces shown in this picture are
+representative. With an explosion there will be
+forces in all directions.
+• Due to the symmetry of the situation, all the forces exerted on the rocket are
+balanced by forces on the opposite side, except for the force opposite the open
+side. This force on the upper surface is unbalanced.
+• This is therefore the resultant force acting on the rocket and it makes the rocket
+accelerate forwards.
+Worked Example 72: Newton II - lifts
+Question: A lift, mass 250 kg, is initially at rest on the ground floor of a tall
+building. Passengers with an unknown total mass, m, climb into the lift. The lift
+accelerates upwards at 1,6 m·s−2. The cable supporting the lift exerts a constant
+upward force of 7700 N. Use g = 10 m·s−2.
+1. Draw a labeled force diagram indicating all the forces acting on the lift while
+it accelerates upwards.
+2. What is the maximum mass, m, of the passengers the lift can carry in order to
+achieve a constant upward acceleration of 1,6 m·s−2.
+Answer
+Step 1 : Draw a force diagram.
+Upward force of cable on lift
+(FC = 7700 N)
+Downward force of Downward force of Earth on lift
+passengers on lift (2500 N)
+(10 x m)
+260
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+F
+
+b
+
+tail nozzle
+
+W
+
+Answer
+
+• Gas explodes inside the rocket.
+
+• This exploding gas exerts a force on each side of the rocket (as shown in the
+
+picture below of the explosion chamber inside the rocket).
+
+Note that the forces shown in this picture are
+
+representative. With an explosion there will be
+
+forces in all directions.
+
+• Due to the symmetry of the situation, all the forces exerted on the rocket are
+
+balanced by forces on the opposite side, except for the force opposite the open
+
+side. This force on the upper surface is unbalanced.
+
+• This is therefore the resultant force acting on the rocket and it makes the rocket
+
+accelerate forwards.
+
+Worked Example 72: Newton II - lifts
+
+Question: A lift, mass 250 kg, is initially at rest on the ground floor of a tall
+
+building. Passengers with an unknown total mass, m, climb into the lift. The lift
+
+accelerates upwards at 1,6 m·s−2. The cable supporting the lift exerts a constant
+
+upward force of 7700 N. Use g = 10 m·s−2.
+
+1. Draw a labeled force diagram indicating all the forces acting on the lift while
+
+it accelerates upwards.
+
+2. What is the maximum mass, m, of the passengers the lift can carry in order to
+
+achieve a constant upward acceleration of 1,6 m·s−2.
+
+Answer
+
+Step 1 : Draw a force diagram.
+
+Upward force of cable on lift
+
+(FC = 7700 N)
+
+Downward force of Downward force of Earth on lift
+
+passengers on lift (2500 N)
+
+(10 x m)
+
+260
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+
+Step 2 : Find the mass, m.
+
+Let us look at the lift with its passengers as a unit. The mass of this unit will be (250
+
++ m) kg and the force of the Earth pulling downwards (Fg) will be (250 + m) x 10.
+
+If we apply Newton's Second Law to the situation we get:
+
+Fnet = ma
+
+FC − Fg = ma
+
+7700− (250 +m)(10) = (250 +m)(1,6)
+
+7700− 2500− 10 m = 400 + 1,6 m
+
+4800 = 11,6 m
+
+m = 413,79 kg
+

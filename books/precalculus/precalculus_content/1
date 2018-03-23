@@ -1,0 +1,139 @@
+1.1 REAL NUMBERS
+Properties of Real Numbers " Addition and Subtraction " Multiplication
+and Division " The Real Line " Sets and Intervals " Absolute Value 
+and Distance
+Let's review the types of numbers that make up the real number system. We start with the
+natural numbers:
+1, 2, 3, 4, . . .
+The different types of real numbers The integers consist of the natural numbers together with their negatives and 0:
+were invented to meet specific needs.
+For exampl . . . , #3, #2, #1, 0, 1, 2, 3, 4, . . .e, natural numbers are
+needed for counting, negative num- We construct the rational numbers by taking ratios of integers. Thus, any rational num-
+bers for describing debt or below-zero ber r can be expressed as
+temperatures, rational numbers for 
+m
+concepts like "half a gallon of milk," r !
+and irrational numbers for measuring n
+certain distances, like the diagonal where m and n are integers and n " 0. Examples are
+of a square.
+1 3 46
+2   #7  1 46 ! 0.17 !
+17
+1    100
+(Recall that division by 0 is always ruled out, so expressions like 3 00 and 0 are undefined.)
+There are also real numbers, such as 2, that cannot be expressed as a ratio of integers
+and are therefore called irrational numbers. It can be shown, with varying degrees of
+difficulty, that these nu1mbers are also irrational:3   15   13 32   p   
+p2
+The set of all real numbers is usually denoted by the symbol !. When we use the word
+number without qualification, we will mean "real number." Figure 1 is a diagram of the
+types of real numbers that we work with in this book.
+Rational numbers Irrational numbers
+1 , -37 ,-2 - 46,  0.17,  0.6,  0.317 œ3 , œ5 , œ
+3 2 , pi , 3-pi2
+Integers
+Natural numbers
+. . . ,  −3,  −2,  −1,  0,  1,  2,  3, . . .
+A repeating decimal such as F I G U R E  1 The real number system
+x ! 3.5474747. . .
+Every real number has a decimal representation. If the number is rational, then its cor-
+is a rational number. To convert it to a responding decimal is repeating. For example,
+ratio of two integers, we write
+1 .5000. . . ! 0.50 22 ! 0 3 ! 0.66666. . . ! 0.6
+ 1000x ! 3547.47474747. . .
+ 10x !   35.47474747. 157. .
+495 ! 0.3171717. . . ! 0.317 97 ! 1.285714285714. . . ! 1.285714
+ 990x ! 3512.0
+Thus, x ! 3512
+(The bar indicates that the sequence of digits repeats forever.) If the number is irrational,
+990 . (The idea is to multiply the decimal representation is nonrepeating:
+x by appropriate powers of 10 and then
+subtract to eliminate the repeating part.) 12 ! 1.414213562373095. . .   p ! 3.141592653589793. . .
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 . 1 | Real Numbers 3
+If we stop the decimal expansion of any number at a certain place, we get an approxima-
+tion to the number. For instance, we can write
+p ! 3.14159265
+where the symbol ! is read "is approximately equal to." The more decimal places we re-
+tain, the better our approximation.
+! Properties of Real Numbers
+We all know that 2 $ 3 ! 3 $ 2, and 5 $ 7 ! 7 $ 5, and 513 $ 87 ! 87 $ 513, and so
+on. In algebra, we express all these (infinitely many) facts by writing
+a $ b ! b $ a
+where a and b stand for any two numbers. In other words, "a $ b ! b $ a" is a concise
+way of saying that "when we add two numbers, the order of addition doesn't matter." This
+fact is called the Commutative Property for addition. From our experience with numbers
+we know that the properties in the following box are also valid.
+PROPERTIES OF REAL NUMBERS
+Property Example Description
+Commutative Properties
+a $ b ! b $ a 7 $ 3 ! 3 $ 7 When we add two numbers, order doesn't matter.
+ab ! ba 3 # 5 ! 5 # 3 When we multiply two numbers, order doesn't 
+1 matter.Associative Propertiesa $ b 2 $ c ! a $ 1b $ c 2 12 $ 4 2 $ 7 ! 2 $ 14 $ 7 2 When we add three numbers, it doesn't matter which
+1ab 2c ! a1bc 2 13 # 7 2 # 5 ! 3 # 17 # 5 2 two we add first.When we multiply three numbers, it doesn't 
+matter which two we multiply first.
+D
+a1 1
+istribu
+b $ c 2tive Property! ab $ ac # 3 $ 2 # 5 When we multiply a number by a sum of two 
+b $ c 2 21 # 13 $ 5 2 ! 2a ! ab $ ac 3 $ 5 2 # 2 ! 2 # 3 $ 2 # 5 numbers, we get the same result as we would get if  
+we multiply the number by each of the terms and
+then add the results.
+The Distributive Property applies whenever we multiply a number by a sum. 
+Figure 2 explains why this property works for the case in which all the numbers are pos-
+itive integers, but the property is true for any real numbers a, b, and c.
+The Distributive Property is crucial 2(3+5)
+because it describes the way addition
+and multiplication interact with each
+other.
+2#3 2#5
+F I G U R E  2 The Distributive Property
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 . 1 | Real Numbers 3
+If we stop the decimal expansion of any number at a certain place, we get an approxima-
+tion to the number. For instance, we can write
+p ! 3.14159265
+where the symbol ! is read "is approximately equal to." The more decimal places we re-
+tain, the better our approximation.
+! Properties of Real Numbers
+We all know that 2 $ 3 ! 3 $ 2, and 5 $ 7 ! 7 $ 5, and 513 $ 87 ! 87 $ 513, and so
+on. In algebra, we express all these (infinitely many) facts by writing
+a $ b ! b $ a
+where a and b stand for any two numbers. In other words, "a $ b ! b $ a" is a concise
+way of saying that "when we add two numbers, the order of addition doesn't matter." This
+fact is called the Commutative Property for addition. From our experience with numbers
+we know that the properties in the following box are also valid.
+PROPERTIES OF REAL NUMBERS
+Property Example Description
+Commutative Properties
+a $ b ! b $ a 7 $ 3 ! 3 $ 7 When we add two numbers, order doesn't matter.
+ab ! ba 3 # 5 ! 5 # 3 When we multiply two numbers, order doesn't 
+1 matter.Associative Propertiesa $ b 2 $ c ! a $ 1b $ c 2 12 $ 4 2 $ 7 ! 2 $ 14 $ 7 2 When we add three numbers, it doesn't matter which
+1ab 2c ! a1bc 2 13 # 7 2 # 5 ! 3 # 17 # 5 2 two we add first.When we multiply three numbers, it doesn't 
+matter which two we multiply first.
+D
+a1 1
+istribu
+b $ c 2tive Property! ab $ ac # 3 $ 2 # 5 When we multiply a number by a sum of two 
+b $ c 2 21 # 13 $ 5 2 ! 2a ! ab $ ac 3 $ 5 2 # 2 ! 2 # 3 $ 2 # 5 numbers, we get the same result as we would get if  
+we multiply the number by each of the terms and
+then add the results.
+The Distributive Property applies whenever we multiply a number by a sum. 
+Figure 2 explains why this property works for the case in which all the numbers are pos-
+itive integers, but the property is true for any real numbers a, b, and c.
+The Distributive Property is crucial 2(3+5)
+because it describes the way addition
+and multiplication interact with each
+other.
+2#3 2#5
+F I G U R E  2 The Distributive Property
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+4 C H A P T E R  1 | Fundamentals
+E X A M P L E  1 Using the Distributive Property
+(a)  21x $ 3 2 ! 2 # x $ 2 # 3 Distributive Property
+x $ 6 Simplify
+(b)  1  a $ b 2 1 ! 2x $ y 2 ! 1a $ b 2x $ 1a $ b 2y
+ ! 1ax $ bx 2 $ 1ay $ by 2 Distributive PropertyDistributive Property
+ ! ax $ bx $ ay $ by Associative Property of Addition
+In the last step we removed the parentheses because, according to the 
+Associative Property, the order of addition doesn't matter.

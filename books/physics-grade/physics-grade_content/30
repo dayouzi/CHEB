@@ -1,0 +1,298 @@
+3.5 Acceleration
+
+Definition: Acceleration
+
+Acceleration is the rate of change of velocity.
+
+Acceleration (symbol a) is the rate of change of velocity. It is a measure of how fast the velocity
+
+of an object changes in time. If we have a change in velocity (∆v) over a time interval (∆t),
+
+then the acceleration (a) is defined as:
+
+change in velocity (in m · s−1)
+
+acceleration (in m · s−2) =
+
+change in time (in s)
+
+∆v
+
+a =
+
+∆t
+
+Since velocity is a vector, acceleration is also a vector. Acceleration does not provide any infor-
+
+mation about a motion, but only about how the motion changes. It is not possible to tell how
+
+fast an object is moving or in which direction from the acceleration.
+
+Like velocity, acceleration can be negative or positive. We see that when the sign of the acceler-
+
+ation and the velocity are the same, the object is speeding up. If both velocity and acceleration
+
+are positive, the object is speeding up in a positive direction. If both velocity and acceleration
+
+are negative, the object is speeding up in a negative direction. If velocity is positive and accel-
+
+eration is negative, then the object is slowing down. Similarly, if the velocity is negative and the
+
+acceleration is positive the object is slowing down. This is illustrated in the following worked
+
+example.
+
+Worked Example 7: Acceleration
+
+Question: A car accelerates uniformly from and initial velocity of 2 m·s−1 to a final
+
+velocity of 10 m·s1 in 8 seconds. It then slows down uniformly to a final velocity of 4
+
+m·s−1 in 6 seconds. Calculate the acceleration of the car during the first 8 seconds
+
+and during the last 6 seconds.
+
+Answer
+
+Step 9 : Identify what information is given and what is asked for:
+
+Consider the motion of the car in two parts: the first 8 seconds and the last 6 seconds.
+
+For the first 8 seconds: For the last 6 seconds:
+
+vi = 2 m · s−1 vi = 10 m · s−1
+
+vf = 10 m · s−1 vf = 4 m · s−1
+
+ti = 0 s ti = 8 s
+
+tf = 8 s tf = 14 s
+
+Step 10 : Calculate the acceleration.
+
+For the first 8 seconds: For the next 6 seconds:
+
+∆v ∆v
+
+a = a =
+
+∆t ∆t
+
+10− 2 4− 10
+
+= =
+
+8− 0 14− 8
+
+= 1 m · s−2 = −1 m · s−2
+
+During the first 8 seconds the car had a positive acceleration. This means that its
+
+velocity increased. The velocity is positive so the car is speeding up. During the
+
+next 6 seconds the car had a negative acceleration. This means that its velocity
+
+decreased. The velocity is positive so the car is slowing down.
+
+38
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+
+Important: Acceleration does not tell us about the direction of the motion. Acceleration
+
+only tells us how the velocity changes.
+
+Important: Deceleration
+
+Avoid the use of the word deceleration to refer to a negative acceleration. This word usually
+
+means slowing down and it is possible for an object to slow down with both a positive and
+
+negative acceleration, because the sign of the velocity of the object must also be taken into
+
+account to determine whether the body is slowing down or not.
+
+Exercise: Acceleration
+
+1. An athlete is accelerating uniformly from an initial velocity of 0 m·s−1to a final
+
+velocity of 4 m·s−1in 2 seconds. Calculate his acceleration. Let the direction
+
+that the athlete is running in be the positive direction.
+
+2. A bus accelerates uniformly from an initial velocity of 15 m·s−1to a final velocity
+
+of 7 m·s−1in 4 seconds. Calculate the acceleration of the bus. Let the direction
+
+of motion of the bus be the positive direction.
+
+3. An aeroplane accelerates uniformly from an initial velocity of 200 m·s−1to a
+
+velocity of 100 m·s−1in 10 seconds. It then accelerates uniformly to a final
+
+velocity of 240 m·s−1in 20 seconds. Let the direction of motion of the aeroplane
+
+be the positive direction.
+
+(a) Calculate the acceleration of the aeroplane during the first 10 seconds of
+
+the motion.
+
+(b) Calculate the acceleration of the aeroplane during the next 14 seconds of
+
+its motion.
+
+(c) Calculate the acceleration of the aeroplane during the whole 24 seconds of
+
+its motion.
+
+3.5 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+3.5 Acceleration
+
+Definition: Acceleration
+
+Acceleration is the rate of change of velocity.
+
+Acceleration (symbol a) is the rate of change of velocity. It is a measure of how fast the velocity
+
+of an object changes in time. If we have a change in velocity (∆v) over a time interval (∆t),
+
+then the acceleration (a) is defined as:
+
+change in velocity (in m · s−1)
+
+acceleration (in m · s−2) =
+
+change in time (in s)
+
+∆v
+
+a =
+
+∆t
+
+Since velocity is a vector, acceleration is also a vector. Acceleration does not provide any infor-
+
+mation about a motion, but only about how the motion changes. It is not possible to tell how
+
+fast an object is moving or in which direction from the acceleration.
+
+Like velocity, acceleration can be negative or positive. We see that when the sign of the acceler-
+
+ation and the velocity are the same, the object is speeding up. If both velocity and acceleration
+
+are positive, the object is speeding up in a positive direction. If both velocity and acceleration
+
+are negative, the object is speeding up in a negative direction. If velocity is positive and accel-
+
+eration is negative, then the object is slowing down. Similarly, if the velocity is negative and the
+
+acceleration is positive the object is slowing down. This is illustrated in the following worked
+
+example.
+
+Worked Example 7: Acceleration
+
+Question: A car accelerates uniformly from and initial velocity of 2 m·s−1 to a final
+
+velocity of 10 m·s1 in 8 seconds. It then slows down uniformly to a final velocity of 4
+
+m·s−1 in 6 seconds. Calculate the acceleration of the car during the first 8 seconds
+
+and during the last 6 seconds.
+
+Answer
+
+Step 9 : Identify what information is given and what is asked for:
+
+Consider the motion of the car in two parts: the first 8 seconds and the last 6 seconds.
+
+For the first 8 seconds: For the last 6 seconds:
+
+vi = 2 m · s−1 vi = 10 m · s−1
+
+vf = 10 m · s−1 vf = 4 m · s−1
+
+ti = 0 s ti = 8 s
+
+tf = 8 s tf = 14 s
+
+Step 10 : Calculate the acceleration.
+
+For the first 8 seconds: For the next 6 seconds:
+
+∆v ∆v
+
+a = a =
+
+∆t ∆t
+
+10− 2 4− 10
+
+= =
+
+8− 0 14− 8
+
+= 1 m · s−2 = −1 m · s−2
+
+During the first 8 seconds the car had a positive acceleration. This means that its
+
+velocity increased. The velocity is positive so the car is speeding up. During the
+
+next 6 seconds the car had a negative acceleration. This means that its velocity
+
+decreased. The velocity is positive so the car is slowing down.
+
+38
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+
+Important: Acceleration does not tell us about the direction of the motion. Acceleration
+
+only tells us how the velocity changes.
+
+Important: Deceleration
+
+Avoid the use of the word deceleration to refer to a negative acceleration. This word usually
+
+means slowing down and it is possible for an object to slow down with both a positive and
+
+negative acceleration, because the sign of the velocity of the object must also be taken into
+
+account to determine whether the body is slowing down or not.
+
+Exercise: Acceleration
+
+1. An athlete is accelerating uniformly from an initial velocity of 0 m·s−1to a final
+
+velocity of 4 m·s−1in 2 seconds. Calculate his acceleration. Let the direction
+
+that the athlete is running in be the positive direction.
+
+2. A bus accelerates uniformly from an initial velocity of 15 m·s−1to a final velocity
+
+of 7 m·s−1in 4 seconds. Calculate the acceleration of the bus. Let the direction
+
+of motion of the bus be the positive direction.
+
+3. An aeroplane accelerates uniformly from an initial velocity of 200 m·s−1to a
+
+velocity of 100 m·s−1in 10 seconds. It then accelerates uniformly to a final
+
+velocity of 240 m·s−1in 20 seconds. Let the direction of motion of the aeroplane
+
+be the positive direction.
+
+(a) Calculate the acceleration of the aeroplane during the first 10 seconds of
+
+the motion.
+
+(b) Calculate the acceleration of the aeroplane during the next 14 seconds of
+
+its motion.
+
+(c) Calculate the acceleration of the aeroplane during the whole 24 seconds of
+
+its motion.
+

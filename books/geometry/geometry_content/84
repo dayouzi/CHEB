@@ -1,0 +1,228 @@
+8.7 Sine, Cosine, Tangent
+
+Here you'll learn what the three trigonometric ratios are and how to find their value for a right triangle's non-right
+
+angle.
+
+What if you were given a right triangle and told that its sides measure 3, 4, and 5 inches? How could you find the
+
+sine, cosine, and tangent of one of the triangle's non-right angles? After completing this Concept, you'll be able to
+
+solve for these trigonometric ratios.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136648
+
+CK-12 Foundation: The Trigonometric Ratios
+
+Watch the parts of the video dealing with the sine, cosine, and tangent.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1365
+
+James Sousa: Introduction to Trigonometric Functions Using Triangles
+
+Guidance
+
+Trigonometry is the study of the relationships between the sides and angles of right triangles. The legs are called
+
+adjacent or opposite depending on which acute angle is being used.
+
+443
+
+8.7. Sine, Cosine, Tangent www.ck12.org
+
+a is ad jacent to 6 B a is opposite 6 A
+
+b is ad jacent to 6 A b is opposite 6 B
+
+c is the hypotenuse
+
+The three basic trigonometric ratios are called sine, cosine and tangent. For right triangle4ABC, we have:
+
+Sine Ratio: opposite leghypotenuse sinA =
+
+a
+
+c or sinB =
+
+b
+
+c
+
+Cosine Ratio: ad jacent leghypotenuse cosA =
+
+b
+
+c or cosB =
+
+a
+
+c
+
+Tangent Ratio: opposite legad jacent leg tanA =
+
+a
+
+b or tanB =
+
+b
+
+a
+
+An easy way to remember ratios is to use SOH-CAH-TOA.
+
+A few important points:
+
+• Always reduce ratios (fractions) when you can.
+
+• Use the Pythagorean Theorem to find the missing side (if there is one).
+
+• If there is a radical in the denominator, rationalize the denominator.
+
+Example A
+
+Find the sine, cosine and tangent ratios of 6 A.
+
+First, we need to use the Pythagorean Theorem to find the length of the hypotenuse.
+
+52 +122 = c2
+
+13 = c
+
+leg opposite 6 A 12 leg ad jacent to 6 A 5
+
+sinA = = cosA = = ,
+
+hypotenuse 13 hypotenuse 13
+
+leg opposite 6 A 12
+
+tanA = =
+
+leg ad jacent to 6 A 5
+
+Example B
+
+Find the sine, cosine, and tangent of 6 B.
+
+444
+8.7. Sine, Cosine, Tangent www.ck12.org
+a is ad jacent to 6 B a is opposite 6 A
+b is ad jacent to 6 A b is opposite 6 B
+c is the hypotenuse
+The three basic trigonometric ratios are called sine, cosine and tangent. For right triangle4ABC, we have:
+Sine Ratio: opposite leghypotenuse sinA =
+a
+c or sinB =
+b
+c
+Cosine Ratio: ad jacent leghypotenuse cosA =
+b
+c or cosB =
+a
+c
+Tangent Ratio: opposite legad jacent leg tanA =
+a
+b or tanB =
+b
+a
+An easy way to remember ratios is to use SOH-CAH-TOA.
+A few important points:
+• Always reduce ratios (fractions) when you can.
+• Use the Pythagorean Theorem to find the missing side (if there is one).
+• If there is a radical in the denominator, rationalize the denominator.
+Example A
+Find the sine, cosine and tangent ratios of 6 A.
+First, we need to use the Pythagorean Theorem to find the length of the hypotenuse.
+52 +122 = c2
+13 = c
+leg opposite 6 A 12 leg ad jacent to 6 A 5
+sinA = = cosA = = ,
+hypotenuse 13 hypotenuse 13
+leg opposite 6 A 12
+tanA = =
+leg ad jacent to 6 A 5
+Example B
+Find the sine, cosine, and tangent of 6 B.
+444
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+Find the length of the missing side.
+AC2 +52 = 152
+AC2 = 200√
+AC = 10 √2 √ √
+10 2 2 2 5 1 10 2 √
+sinB = = cosB = = tanB = = 2 2
+15 3 15 3 5
+Example C
+Find the sine, cosine and tangent of 30◦.
+√
+This is a 30-60-90 triangle. The short leg is 6, y = 6 3 and x = 12.
+√ √ √ √
+6 6 3 3 6 1 3
+sin30◦
+1
+= = cos30◦ = = tan30◦ = √ 3= √ · √ =
+12 2 12 2 6 3 3 3 3
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136649
+CK-12 Foundation: The Trigonometric Ratios
+->
+Guided Practice
+Answer the questions about the following image. Reduce all fractions.
+445
+8.7. Sine, Cosine, Tangent www.ck12.org
+1. What is sinA?
+2. What is cosA?
+3. What is tanA?
+Answers:
+1. sinA = 1620 =
+4
+5
+2. cosA = 1220 =
+3
+5
+3. tanA = 1612 =
+4
+3
+Explore More
+Use the diagram to fill in the blanks below.
+1. tanD = ??
+2. sinF = ??
+3. tanF = ??
+4. cosF = ??
+5. sinD = ??
+6. cosD = ??
+From questions 1-6, we can conclude the following. Fill in the blanks.
+7. cos = sinF and sin = cosF .
+8. tanD and tanF are _________ of each other.
+Find the sine, cosine and tangent of 6 A. Reduce all fractions and radicals.
+9.
+446
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+10.
+11.
+12.
+13.
+447
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+
+10.
+
+11.
+
+12.
+
+13.
+
+447
+

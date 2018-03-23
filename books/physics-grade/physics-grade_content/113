@@ -1,0 +1,289 @@
+7.6.1 Total Internal Reflection
+
+Activity :: Investigation : Total Internal Reflection
+
+Work in groups of four. Each group will need a raybox (or torch) with slit,
+
+triangular glass prism and protractor. If you do not have a raybox, use a torch and
+
+stick two pieces of tape over the lens so that only a thin beam of light is visible.
+
+Aim:
+
+To investigate total internal reflection.
+
+Method:
+
+156
+
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.6
+
+1. Place the raybox next to the glass block so that the light shines right through
+
+without any refraction. See "Position 1" in diagram.
+
+refracted ray
+
+No refraction
+
+takes place
+
+glass prism
+
+incident ray
+
+ray box
+
+Position 1
+
+2. Move the raybox such that the light is refracted by the glass. See "Position 2".
+
+Refraction
+
+takes place
+
+Position 2
+
+3. Move the raybox further and observe what happens.
+
+More refraction
+
+takes place
+
+Position 3
+
+4. Move the raybox until the refracted ray seems to disappear. See "Position 4".
+
+The angle of the incident light is called the critical angle.
+
+θi = θc
+
+Position 4
+
+5. Move the raybox further and observe what happens. See "Position 5". The
+
+light shines back into the glass block. This is called total internal reflection.
+
+157
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.6
+1. Place the raybox next to the glass block so that the light shines right through
+without any refraction. See "Position 1" in diagram.
+refracted ray
+No refraction
+takes place
+glass prism
+incident ray
+ray box
+Position 1
+2. Move the raybox such that the light is refracted by the glass. See "Position 2".
+Refraction
+takes place
+Position 2
+3. Move the raybox further and observe what happens.
+More refraction
+takes place
+Position 3
+4. Move the raybox until the refracted ray seems to disappear. See "Position 4".
+The angle of the incident light is called the critical angle.
+θi = θc
+Position 4
+5. Move the raybox further and observe what happens. See "Position 5". The
+light shines back into the glass block. This is called total internal reflection.
+157
+7.6 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+incident ray
+reflected ray
+θi > θc
+Position 5
+When we increase the angle of incidence, we reach a point where the angle of refraction is 90◦
+and the refracted ray runs along the surface of the medium. This angle of incidence is called the
+critical angle.
+Definition: Critical Angle
+The critical angle is the angle of incidence where the angle of reflection is 90◦. The light
+must shine from a dense to a less dense medium.
+If the angle of incidence is bigger than this critical angle, the refracted ray will not emerge from
+the medium, but will be reflected back into the medium. This is called total internal reflection.
+Total internal reflection takes place when
+• light shines from an optically denser medium to an optically less dense medium.
+• the angle of incidence is greater than the critical angle.
+Definition: Total Internal Reflection
+Total internal reflection takes place when light is reflected back into the medium because
+the angle of incidence is greater than the critical angle.
+Less dense
+medium
+Denser
+medium
+θc > θc
+Figure 7.22: Diagrams to show the critical angle and total internal reflection.
+Each medium has its own unique critical angle. For example, the critical angle for glass is 42◦,
+and that of water is 48,8◦. We can calculate the critical angle for any medium.
+Calculating the Critical Angle
+Now we shall learn how to derive the value of the critical angle for two given media. The process
+is fairly simple and involves just the use of Snell's Law that we have already studied. To recap,
+Snell's Law states:
+n1 sin θ1 = n2 sin θ2
+158
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.6
+where n1 is the refractive index of material 1, n2 is the refractive index of material 2, θ1 is the
+angle of incidence and θ2 is the angle of refraction. For total internal reflection we know that
+the angle of incidence is the critical angle. So,
+θ1 = θc.
+However, we also know that the angle of refraction at the critical angle is 90◦. So we have:
+θ2 = 90
+◦.
+We can then write Snell's Law as:
+n1 sin θc = n2 sin 90
+◦
+Solving for θc gives:
+n1 sin θc = n2 sin 90
+◦
+n2
+sin θc = (1)
+n1
+− n2
+∴ θc = sin
+1 ( )
+n1
+Important: Take care that for total internal reflection the incident ray is always in the
+denser medium.
+Worked Example 37: Critical Angle 1
+Question: Given that the refractive indices of air and water are 1 and 1,33, respec-
+tively, find the critical angle.
+Answer
+Step 1 : Determine how to approach the problem
+We know that the critical angle is given by:
+n
+θc = sin
+−1 2( )
+n1
+Step 2 : Solve the problem
+θc = sin
+−1 n2( )
+n1
+1
+= sin−1 ( )
+1,33
+= 48,8◦
+Step 3 : Write the final answer
+The critical angle for light travelling from water to air is 48,8◦.
+Worked Example 38: Critical Angle 2
+Question: Complete the following ray diagrams to show the path of light in each
+situation.
+159
+7.6 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+a) b)
+air air
+water water
+30◦ 50◦
+c) d)
+air water
+water air
+48,8◦ 48,8◦
+Answer
+Step 1 : Identify what is given and what is asked
+The critical angle for water is 48,8◦.
+We are asked to complete the diagrams.
+For incident angles smaller than 48,8◦ refraction will occur.
+For incident angles greater than 48,8◦ total internal reflection will occur.
+For incident angles equal to 48,8◦ refraction will occur at 90◦.
+The light must travel from a high optical density to a lower one.
+Step 2 : Complete the diagrams
+a)
+air
+water
+30◦
+Refraction occurs (ray is bent away from the normal)
+b)
+air
+water
+50◦ 50◦
+Total internal reflection occurs
+c)
+air
+water
+48,8◦
+θc = 48,8
+◦
+160
+7.6 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+
+a) b)
+
+air air
+
+water water
+
+30◦ 50◦
+
+c) d)
+
+air water
+
+water air
+
+48,8◦ 48,8◦
+
+Answer
+
+Step 1 : Identify what is given and what is asked
+
+The critical angle for water is 48,8◦.
+
+We are asked to complete the diagrams.
+
+For incident angles smaller than 48,8◦ refraction will occur.
+
+For incident angles greater than 48,8◦ total internal reflection will occur.
+
+For incident angles equal to 48,8◦ refraction will occur at 90◦.
+
+The light must travel from a high optical density to a lower one.
+
+Step 2 : Complete the diagrams
+
+a)
+
+air
+
+water
+
+30◦
+
+Refraction occurs (ray is bent away from the normal)
+
+b)
+
+air
+
+water
+
+50◦ 50◦
+
+Total internal reflection occurs
+
+c)
+
+air
+
+water
+
+48,8◦
+
+θc = 48,8
+
+◦
+
+160
+
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.6
+
+d)
+
+water
+
+air
+
+48,8◦
+
+Refraction towards the normal (air is less dense than water)
+

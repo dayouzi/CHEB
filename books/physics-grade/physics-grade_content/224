@@ -1,0 +1,258 @@
+12.6.2 Mechanical Advantage and Levers
+
+We can use our knowlegde about the moments of forces (torque) to determine whether situations
+
+are balanced. For example two mass pieces are placed on a seesaw as shown in Figure 12.20.
+
+The one mass is 3 kg and the other is 6 kg. The masses are placed a distance 2 m and 1
+
+m, respectively from the pivot. By looking at the clockwise and anti-clockwise moments, we
+
+can determine whether the seesaw will pivot (move) or not. If the sum of the clockwise and
+
+anti-clockwise moments is zero, the seesaw is in equilibrium (i.e. balanced).
+
+2 m 1 m
+
+6 kg
+
+3 kg
+
+F1 F2
+
+Figure 12.20: The moments of force are balanced.
+
+The clockwise moment can be calculated as follows:
+
+τ = F⊥ · r
+
+τ = (6)(9,8)(1)
+
+τ = 58,8N ·m clockwise
+
+The anti-clockwise moment can be calculated as follows:
+
+τ = F⊥ · r
+
+τ = (3)(9,8)(2)
+
+τ = 58,8N ·m anti-clockwise
+
+The sum of the moments of force will be zero:
+
+305
+
+12.6 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+The resultant moment is zero as the clockwise and anti-clockwise moments of force are in op-
+
+posite directions and therefore cancel each other.
+
+As we see in Figure 12.20, we can use different distances away from a pivot to balance two
+
+different forces. This principle is applied to a lever to make lifting a heavy object much easier.
+
+Definition: Lever
+
+A lever is a rigid object that is used with an appropriate fulcrum or pivot point to multiply
+
+the mechanical force that can be applied to another object.
+
+effort load
+
+Figure 12.21: A lever is used to put in a small effort to get out a large load.
+
+Itneterreessttinigng Archimedes reputedly said: Give me a lever long enough and a fulcrum on which
+
+FFacctt to place it, and I shall move the world.
+
+The concept of getting out more than the effort is termed mechanical advantage, and is one
+
+example of the principle of moments. The lever allows to do less effort but for a greater distance.
+
+For instance to lift a certain unit of weight with a lever with an effort of half a unit we need a
+
+distance from the fulcrum in the effort's side to be twice the distance of the weight's side. It
+
+also means that to lift the weight 1 meter we need to push the lever for 2 meter. The amount of
+
+work done is always the same and independent of the dimensions of the lever (in an ideal lever).
+
+The lever only allows to trade effort for distance.
+
+Ideally, this means that the mechanical advantage of a system is the ratio of the force that
+
+performs the work (output or load) to the applied force (input or effort), assuming there is no
+
+friction in the system. In reality, the mechanical advantage will be less than the ideal value by
+
+an amount determined by the amount of friction.
+
+load
+
+mechanical advantage =
+
+effort
+
+For example, you want to raise an object of mass 100 kg. If the pivot is placed as shown in
+
+Figure 12.22, what is the mechanical advantage of the lever?
+
+In order to calculate mechanical advantage, we need to determine the load and effort.
+
+Important: Effort is the input force and load is the output force.
+
+The load is easy, it is simply the weight of the 100 kg object.
+
+Fload = m · g = 100 kg · 9,8m · s−2 = 980N
+
+306
+12.6 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+The resultant moment is zero as the clockwise and anti-clockwise moments of force are in op-
+posite directions and therefore cancel each other.
+As we see in Figure 12.20, we can use different distances away from a pivot to balance two
+different forces. This principle is applied to a lever to make lifting a heavy object much easier.
+Definition: Lever
+A lever is a rigid object that is used with an appropriate fulcrum or pivot point to multiply
+the mechanical force that can be applied to another object.
+effort load
+Figure 12.21: A lever is used to put in a small effort to get out a large load.
+Itneterreessttinigng Archimedes reputedly said: Give me a lever long enough and a fulcrum on which
+FFacctt to place it, and I shall move the world.
+The concept of getting out more than the effort is termed mechanical advantage, and is one
+example of the principle of moments. The lever allows to do less effort but for a greater distance.
+For instance to lift a certain unit of weight with a lever with an effort of half a unit we need a
+distance from the fulcrum in the effort's side to be twice the distance of the weight's side. It
+also means that to lift the weight 1 meter we need to push the lever for 2 meter. The amount of
+work done is always the same and independent of the dimensions of the lever (in an ideal lever).
+The lever only allows to trade effort for distance.
+Ideally, this means that the mechanical advantage of a system is the ratio of the force that
+performs the work (output or load) to the applied force (input or effort), assuming there is no
+friction in the system. In reality, the mechanical advantage will be less than the ideal value by
+an amount determined by the amount of friction.
+load
+mechanical advantage =
+effort
+For example, you want to raise an object of mass 100 kg. If the pivot is placed as shown in
+Figure 12.22, what is the mechanical advantage of the lever?
+In order to calculate mechanical advantage, we need to determine the load and effort.
+Important: Effort is the input force and load is the output force.
+The load is easy, it is simply the weight of the 100 kg object.
+Fload = m · g = 100 kg · 9,8m · s−2 = 980N
+306
+12.6 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+The resultant moment is zero as the clockwise and anti-clockwise moments of force are in op-
+
+posite directions and therefore cancel each other.
+
+As we see in Figure 12.20, we can use different distances away from a pivot to balance two
+
+different forces. This principle is applied to a lever to make lifting a heavy object much easier.
+
+Definition: Lever
+
+A lever is a rigid object that is used with an appropriate fulcrum or pivot point to multiply
+
+the mechanical force that can be applied to another object.
+
+effort load
+
+Figure 12.21: A lever is used to put in a small effort to get out a large load.
+
+Itneterreessttinigng Archimedes reputedly said: Give me a lever long enough and a fulcrum on which
+
+FFacctt to place it, and I shall move the world.
+
+The concept of getting out more than the effort is termed mechanical advantage, and is one
+
+example of the principle of moments. The lever allows to do less effort but for a greater distance.
+
+For instance to lift a certain unit of weight with a lever with an effort of half a unit we need a
+
+distance from the fulcrum in the effort's side to be twice the distance of the weight's side. It
+
+also means that to lift the weight 1 meter we need to push the lever for 2 meter. The amount of
+
+work done is always the same and independent of the dimensions of the lever (in an ideal lever).
+
+The lever only allows to trade effort for distance.
+
+Ideally, this means that the mechanical advantage of a system is the ratio of the force that
+
+performs the work (output or load) to the applied force (input or effort), assuming there is no
+
+friction in the system. In reality, the mechanical advantage will be less than the ideal value by
+
+an amount determined by the amount of friction.
+
+load
+
+mechanical advantage =
+
+effort
+
+For example, you want to raise an object of mass 100 kg. If the pivot is placed as shown in
+
+Figure 12.22, what is the mechanical advantage of the lever?
+
+In order to calculate mechanical advantage, we need to determine the load and effort.
+
+Important: Effort is the input force and load is the output force.
+
+The load is easy, it is simply the weight of the 100 kg object.
+
+Fload = m · g = 100 kg · 9,8m · s−2 = 980N
+
+306
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.6
+
+1 m 0.5 m
+
+F? 100 kg
+
+Figure 12.22: A lever is used to put in a small effort to get out a large load.
+
+The effort is found by balancing torques.
+
+Fload · rload = Feffort · reffort
+
+980N · 0.5m = Feffort · 1m
+
+980N · 0.5m
+
+Feffort =
+
+1m
+
+= 490N
+
+The mechanical advantage is:
+
+load
+
+mechanical advantage =
+
+effort
+
+980N
+
+=
+
+490N
+
+= 2
+
+Since mechanical advantage is a ratio, it does not have any units.
+
+Extension: Pulleys
+
+Pulleys change the direction of a tension force on a flexible material, e.g. a rope or
+
+cable. In addition, pulleys can be "added together" to create mechanical advantage,
+
+by having the flexible material looped over several pulleys in turn. More loops and
+
+pulleys increases the mechanical advantage.
+

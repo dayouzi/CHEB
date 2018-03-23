@@ -1,0 +1,120 @@
+3.3 DIVIDING POLYNOMIALS
+Long Division of Polynomials ! Synthetic Division ! The Remainder 
+and Factor Theorems
+So far in this chapter we have been studying polynomial functions graphically. In this sec-
+tion we begin to study polynomials algebraically. Most of our work will be concerned
+with factoring polynomials, and to factor, we need to know how to divide polynomials.
+! Long Division of Polynomials
+Dividing polynomials is much like the familiar process of dividing numbers. When we di-
+vide 38 by 7, the quotient is 5 and the remainder is 3. We write
+Dividend
+Remainder
+38
+! 5 3#
+Divisor 7 7
+Quotient
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+246 C H A P T E R  3 | Polynomial and Rational Functions
+83. Volume of a Box An open box is to be constructed from
+a piece of cardboard 20 cm by 40 cm by cutting squares of D I S C O V E R Y " D I S C U S S I O N " W R I T I N G
+side length x from each corner and folding up the sides, as 85. Graphs of Large Powers Graph the functions y ! x2,
+shown in the figure. y ! x3, y ! x4, and y ! x5, for "1 ( x ( 1, on the same 
+(a) Express the volume V of the box as a function of x coordinate axes. What do you think the graph of y ! x100.
+(b) What is the domain of V? (Use the fact that length and would look like on this same interval? What about y ! x101?
+volume must be positive.) Make a table of values to confirm your answers.
+(c) Draw a graph of the function V, and use it to estimate the
+maximum volume for such a box. 86. Maximum Number of Local Extrema What is the
+smallest possible degree that the polynomial whose graph is
+40 cm shown can have? Explain.
+x x y
+20 cm
+0 x
+84. Volume of a Box A cardboard box has a square base,
+with each edge of the base having length x inches, as shown in
+the fig
+V1urx 2e. The total leng! 2x2118 " x 2th of all 12 edges of the box is 144 in.(a) Show that the volume of the box is given by the function 87. Possible Number of Local Extrema Is it possible for . a third-degree polynomial to have exactly one local extre-
+(b) What is the domain of V? (Use the fact that length and mum? Can a fourth-degree polynomial have exactly two local
+volume must be positive.) extrema? How many local extrema can polynomials of third,
+(c) Draw a graph of the function V and use it to estimate the fourth, fifth, and sixth degree have? (Think about the end 
+maximum volume for such a box. behavior of such polynomials.) Now give an example of a
+polynomial that has six local extrema.
+88. Impossible Situation? Is it possible for a polynomial to
+have two local maxima and no local minimum? Explain.
+x
+x
+3.3 DIVIDING POLYNOMIALS
+Long Division of Polynomials ! Synthetic Division ! The Remainder 
+and Factor Theorems
+So far in this chapter we have been studying polynomial functions graphically. In this sec-
+tion we begin to study polynomials algebraically. Most of our work will be concerned
+with factoring polynomials, and to factor, we need to know how to divide polynomials.
+! Long Division of Polynomials
+Dividing polynomials is much like the familiar process of dividing numbers. When we di-
+vide 38 by 7, the quotient is 5 and the remainder is 3. We write
+Dividend
+Remainder
+38
+! 5 3#
+Divisor 7 7
+Quotient
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+246 C H A P T E R  3 | Polynomial and Rational Functions
+83. Volume of a Box An open box is to be constructed from
+a piece of cardboard 20 cm by 40 cm by cutting squares of D I S C O V E R Y " D I S C U S S I O N " W R I T I N G
+side length x from each corner and folding up the sides, as 85. Graphs of Large Powers Graph the functions y ! x2,
+shown in the figure. y ! x3, y ! x4, and y ! x5, for "1 ( x ( 1, on the same 
+(a) Express the volume V of the box as a function of x coordinate axes. What do you think the graph of y ! x100.
+(b) What is the domain of V? (Use the fact that length and would look like on this same interval? What about y ! x101?
+volume must be positive.) Make a table of values to confirm your answers.
+(c) Draw a graph of the function V, and use it to estimate the
+maximum volume for such a box. 86. Maximum Number of Local Extrema What is the
+smallest possible degree that the polynomial whose graph is
+40 cm shown can have? Explain.
+x x y
+20 cm
+0 x
+84. Volume of a Box A cardboard box has a square base,
+with each edge of the base having length x inches, as shown in
+the fig
+V1urx 2e. The total leng! 2x2118 " x 2th of all 12 edges of the box is 144 in.(a) Show that the volume of the box is given by the function 87. Possible Number of Local Extrema Is it possible for . a third-degree polynomial to have exactly one local extre-
+(b) What is the domain of V? (Use the fact that length and mum? Can a fourth-degree polynomial have exactly two local
+volume must be positive.) extrema? How many local extrema can polynomials of third,
+(c) Draw a graph of the function V and use it to estimate the fourth, fifth, and sixth degree have? (Think about the end 
+maximum volume for such a box. behavior of such polynomials.) Now give an example of a
+polynomial that has six local extrema.
+88. Impossible Situation? Is it possible for a polynomial to
+have two local maxima and no local minimum? Explain.
+x
+x
+3.3 DIVIDING POLYNOMIALS
+Long Division of Polynomials ! Synthetic Division ! The Remainder 
+and Factor Theorems
+So far in this chapter we have been studying polynomial functions graphically. In this sec-
+tion we begin to study polynomials algebraically. Most of our work will be concerned
+with factoring polynomials, and to factor, we need to know how to divide polynomials.
+! Long Division of Polynomials
+Dividing polynomials is much like the familiar process of dividing numbers. When we di-
+vide 38 by 7, the quotient is 5 and the remainder is 3. We write
+Dividend
+Remainder
+38
+! 5 3#
+Divisor 7 7
+Quotient
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+248 C H A P T E R  3 | Polynomial and Rational Functions
+E X A M P L E  2 | Long Division of Polynomials
+Let P1x 2 ! 8x4 # 6x2 " 3 x # 2
+R1 Dx 2 1xP1x 2 ! D1x 2x## 1 andQ1x 2 # R1x 22 ! 2x2 " . Find polynomials Q1x 2 andsuch that .
+S O L U T I O N We use long division after first inserting the term 0x3 into the dividend to
+ensure that the columns line up correctly.
+4x 2 # 2x
+2x 2 " x # 2"8x 4 # 0x 3 # 6x 2 " 3x # 1
+8x 4 " 4x 3 # 8x 2 Multiply divisor by 4x2
+4x 3 " 2x 2 " 3x Subtract
+4x 3 " 2x 2 # 4x Multiply divisor by 2x
+"7x # 1 Subtract
+The process is complete at this point because "7x # 1 is of lesser degree than the divi-
+sor 2x2 " x # 2. From the above long division we see that 2 # 2x
+R1 Q xx 2 1 2 ! 4x and! "7x # 1, so
+8x4 # 6x2 " 3x # 1 ! 12x2 " x # 2 2 14x2 # 2x 2 # 1"7x # 1 2

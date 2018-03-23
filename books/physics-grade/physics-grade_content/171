@@ -1,0 +1,66 @@
+11.4.1 Relative Directions
+
+The simplest method of expressing direction is relative directions: to the left, to the right,
+
+forward, backward, up and down.
+
+212
+
+CHAPTER 11. VECTORS 11.4
+
+11.4 CHAPTER 11. VECTORS
+
+11.3.1 Mathematical Representation
+
+There are many ways of writing the symbol for a vector. Vectors are denoted by symbols with an
+
+arrow pointing to the right above it. For example, ~a, ~v and F~ represent the vectors acceleration,
+
+velocity and force, meaning they have both a magnitude and a direction.
+
+Sometimes just the magnitude of a vector is needed. In this case, the arrow is omitted. In other
+
+words, F denotes the magnitude of vector F~ . |F~ | is another way of representing the magnitude
+
+of a vector.
+
+11.3.2 Graphical Representation
+
+Vectors are drawn as arrows. An arrow has both a magnitude (how long it is) and a direction
+
+(the direction in which it points). The starting point of a vector is known as the tail and the
+
+end point is known as the head.
+
+b
+
+b b b
+
+Figure 11.1: Examples of vectors
+
+magnitude
+
+b
+
+tail head
+
+Figure 11.2: Parts of a vector
+
+11.4 Directions
+
+There are many acceptable methods of writing vectors. As long as the vector has a magnitude
+
+and a direction, it is most likely acceptable. These different methods come from the different
+
+methods of expressing a direction for a vector.
+
+11.4.1 Relative Directions
+
+The simplest method of expressing direction is relative directions: to the left, to the right,
+
+forward, backward, up and down.
+
+212
+
+CHAPTER 11. VECTORS 11.4
+

@@ -1,0 +1,220 @@
+26.7 End of Chapter Exercises
+
+1. In the diagram below the peaks of wavefronts are shown by black lines and the troughs
+
+by grey lines. Mark all the points where constructive interference between two waves is
+
+taking place and where destructive interference is taking place. Also note whether the
+
+interference results in a peak or a trough.
+
+C
+
+b
+
+A b bB
+
+2. For an slit of width 1300 nm, calculate the first 3 minima for light of the following
+
+wavelengths:
+
+A blue at 475 nm
+
+B green at 510 nm
+
+C yellow at 570 nm
+
+D red at 650 nm
+
+3. For light of wavelength 540 nm, determine what the width of the slit needs to be to have
+
+the first minimum at:
+
+A 7.76 degrees
+
+B 12.47 degrees
+
+C 21.1 degrees
+
+4. For light of wavelength 635 nm, determine what the width of the slit needs to be to have
+
+the second minimum at:
+
+A 12.22 degrees
+
+B 18.51 degrees
+
+C 30.53 degrees
+
+5. If the first minimum is at 8.21 degrees and the second minimum is at 16.6 degrees, what
+
+is the wavelength of light and the width of the slit? (Hint: solve simultaneously.)
+
+6. Determine the Mach Number, with a speed of sound of 340 m · s−1, for the following
+
+aircraft speeds:
+
+A 640 m · s−1
+
+B 980 m · s−1
+
+C 500 m · s−1
+
+D 450 m · s−1
+
+E 1300 km · h−1
+
+568
+
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.7
+
+F 1450 km · h−1
+
+G 1760 km · h−1
+
+7. If an aircraft has a Mach Number of 3.3 and the speed of sound is 340 m · s−1, what is
+
+its speed?
+
+8. Determine the Mach Cone angle, with a speed of sound of 340 m · s−1, for the following
+
+aircraft speeds:
+
+A 640 m · s−1
+
+B 980 m · s−1
+
+C 500 m · s−1
+
+D 450 m · s−1
+
+E 1300 km · h−1
+
+F 1450 km · h−1
+
+G 1760 km · h−1
+
+9. Determine the aircraft speed, with a speed of sound of 340 m · s−1, for the following
+
+Mach Cone Angles:
+
+A 58.21 degrees
+
+B 49.07 degrees
+
+C 45.1 degrees
+
+D 39.46 degrees
+
+E 31.54 degrees
+
+569
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.7
+F 1450 km · h−1
+G 1760 km · h−1
+7. If an aircraft has a Mach Number of 3.3 and the speed of sound is 340 m · s−1, what is
+its speed?
+8. Determine the Mach Cone angle, with a speed of sound of 340 m · s−1, for the following
+aircraft speeds:
+A 640 m · s−1
+B 980 m · s−1
+C 500 m · s−1
+D 450 m · s−1
+E 1300 km · h−1
+F 1450 km · h−1
+G 1760 km · h−1
+9. Determine the aircraft speed, with a speed of sound of 340 m · s−1, for the following
+Mach Cone Angles:
+A 58.21 degrees
+B 49.07 degrees
+C 45.1 degrees
+D 39.46 degrees
+E 31.54 degrees
+569
+26.7 CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12
+570
+26.7 CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12
+
+570
+
+Chapter 27
+
+Wave Nature of Matter - Grade 12
+
+27.1 Introduction
+
+In chapters 30 and 31 the so called wave-particle duality if light is described. This duality
+
+states that light displays properties of both waves and of particles, depending on the
+
+experiment performed. For example, interference and diffraction of light are properties of its
+
+wave nature, while the photoelectric effect is a property of its particle nature. In fact we call a
+
+particle of light a photon.
+
+Hopefully you have realised that nature loves symmetry. So, if light which was originally
+
+believed to be a wave also has a particle nature then perhaps particles, also display a wave
+
+nature. In other words matter which which we originally thought of as particles may also
+
+display a wave-particle duality.
+
+27.2 de Broglie Wavelength
+
+Einstein showed that for a photon, its momentum, p, is equal to its energy, E divided the
+
+speed of light, c:
+
+E
+
+p = .
+
+c
+
+The energy of the photon can also be expressed in terms of the wavelength of the light, λ:
+
+hc
+
+E = ,
+
+λ
+
+where h is Planck's constant. Combining these two equations we find that the the momentum
+
+of the photon is related to its wavelength
+
+hc h
+
+p = = ,
+
+cλ λ
+
+or equivalently
+
+h
+
+λ = .
+
+p
+
+In 1923, Louis de Broglie proposed that this equation not only holds for photons, but also holds
+
+for particles of matter. This is known as the de Broglie hypothesis
+
+Definition: De Broglie Hypothesis
+
+A particle of mass m moving with velocity v has a wavelength λ related to is momentum
+
+p = mv by
+
+h h
+
+λ = = (27.1)
+
+p mv
+
+This wavelength, λ, is known as the de Broglie wavelength of the particle.
+
+571

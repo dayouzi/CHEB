@@ -1,0 +1,371 @@
+6.4.5 Wavelengths of Standing Waves with Fixed and Free Ends
+
+There are many applications which make use of the properties of waves and the use of fixed and
+
+free ends. Most musical instruments rely on the basic picture that we have presented to create
+
+specific sounds, either through standing pressure waves or standing vibratory waves in strings.
+
+The key is to understand that a standing wave must be created in the medium that is oscillating.
+
+There are restrictions as to what wavelengths can form standing waves in a medium.
+
+For example, if we consider a rope that can move in a pipe such that it can have
+
+• both ends free to move (Case 1)
+
+• one end free and one end fixed (Case 2)
+
+• both ends fixed (Case 3).
+
+Each of these cases is slightly different because the free or fixed end determines whether a node or
+
+anti-node will form when a standing wave is created in the rope. These are the main restrictions
+
+when we determine the wavelengths of potential standing waves. These restrictions are known
+
+as boundary conditions and must be met.
+
+122
+
+CHAPTER 6. TRANSVERSE WAVES - GRADE 10 6.4
+
+In the diagram below you can see the three different cases. It is possible to create standing
+
+waves with different frequencies and wavelengths as long as the end criteria are met.
+
+Case 1 Case 2 Case 3
+
+L L L
+
+The longer the wavelength the less the number of anti-nodes in the standing waves. We cannot
+
+have a standing wave with no anti-nodes because then there would be no oscillations. We use n
+
+to number the anti-nodes. If all of the tubes have a length L and we know the end constraints
+
+we can find the wavelength, λ, for a specific number of anti-nodes.
+
+One Node
+
+Let's work out the longest wavelength we can have in each tube, i.e. the case for n = 1.
+
+λ = 2L λ = 4L
+
+n = 1
+
+Case 1: In the first tube, both ends must be nodes, so we can place one anti-node in the middle
+
+of the tube. We know the distance from one node to another is 12λ and we also know this
+
+distance is L. So we can equate the two and solve for the wavelength:
+
+1
+
+λ = L
+
+2
+
+λ = 2L
+
+Case 2: In the second tube, one end must be a node and the other must be an anti-node. We
+
+are looking at the case with one anti-node we are forced to have it at the end. We know the
+
+distance from one node to another is 12λ but we only have half this distance contained in the
+
+tube. So :
+
+1 1
+
+( λ) = L
+
+2 2
+
+λ = 4L
+
+Case 3: Here both ends are closed and so we must have two nodes so it is impossible to construct
+
+a case with only one node.
+
+Two Nodes
+
+Next we determine which wavelengths could be formed if we had two nodes. Remember that we
+
+are dividing the tube up into smaller and smaller segments by having more nodes so we expect
+
+the wavelengths to get shorter.
+
+λ = L λ = 43L λ = 2L
+
+n = 2
+
+Case 1: Both ends are open and so they must be anti-nodes. We can have two nodes inside
+
+the tube only if we have one anti-node contained inside the tube and one on each end. This
+
+means we have 3 anti-nodes in the tube. The distance between any two anti-nodes is half
+
+a wavelength. This means there is half wavelength between the left side and the middle and
+
+another half wavelength between the middle and the right side so there must be one wavelength
+
+inside the tube. The safest thing to do is work out how many half wavelengths there are and
+
+equate this to the length of the tube L and then solve for λ.
+
+123
+CHAPTER 6. TRANSVERSE WAVES - GRADE 10 6.4
+In the diagram below you can see the three different cases. It is possible to create standing
+waves with different frequencies and wavelengths as long as the end criteria are met.
+Case 1 Case 2 Case 3
+L L L
+The longer the wavelength the less the number of anti-nodes in the standing waves. We cannot
+have a standing wave with no anti-nodes because then there would be no oscillations. We use n
+to number the anti-nodes. If all of the tubes have a length L and we know the end constraints
+we can find the wavelength, λ, for a specific number of anti-nodes.
+One Node
+Let's work out the longest wavelength we can have in each tube, i.e. the case for n = 1.
+λ = 2L λ = 4L
+n = 1
+Case 1: In the first tube, both ends must be nodes, so we can place one anti-node in the middle
+of the tube. We know the distance from one node to another is 12λ and we also know this
+distance is L. So we can equate the two and solve for the wavelength:
+1
+λ = L
+2
+λ = 2L
+Case 2: In the second tube, one end must be a node and the other must be an anti-node. We
+are looking at the case with one anti-node we are forced to have it at the end. We know the
+distance from one node to another is 12λ but we only have half this distance contained in the
+tube. So :
+1 1
+( λ) = L
+2 2
+λ = 4L
+Case 3: Here both ends are closed and so we must have two nodes so it is impossible to construct
+a case with only one node.
+Two Nodes
+Next we determine which wavelengths could be formed if we had two nodes. Remember that we
+are dividing the tube up into smaller and smaller segments by having more nodes so we expect
+the wavelengths to get shorter.
+λ = L λ = 43L λ = 2L
+n = 2
+Case 1: Both ends are open and so they must be anti-nodes. We can have two nodes inside
+the tube only if we have one anti-node contained inside the tube and one on each end. This
+means we have 3 anti-nodes in the tube. The distance between any two anti-nodes is half
+a wavelength. This means there is half wavelength between the left side and the middle and
+another half wavelength between the middle and the right side so there must be one wavelength
+inside the tube. The safest thing to do is work out how many half wavelengths there are and
+equate this to the length of the tube L and then solve for λ.
+123
+6.4 CHAPTER 6. TRANSVERSE WAVES - GRADE 10
+1
+2( λ) = L
+2
+λ = L
+Case 2: We want to have two nodes inside the tube. The left end must be a node and the right
+end must be an anti-node. We can have one node inside the tube as drawn above. Again we can
+count the number of distances between adjacent nodes or anti-nodes. If we start from the left
+end we have one half wavelength between the end and the node inside the tube. The distance
+from the node inside the tube to the right end which is an anti-node is half of the distance to
+another node. So it is half of half a wavelength. Together these add up to the length of the
+tube:
+1 1 1
+λ+ ( λ) = L
+2 2 2
+2 1
+λ+ λ = L
+4 4
+3
+λ = L
+4
+4
+λ = L
+3
+Case 3: In this case both ends have to be nodes. This means that the length of the tube is one
+half wavelength: So we can equate the two and solve for the wavelength:
+1
+λ = L
+2
+λ = 2L
+Important: If you ever calculate a longer wavelength for more nodes you have made a
+mistake. Remember to check if your answers make sense!
+Three Nodes
+To see the complete pattern for all cases we need to check what the next step for case 3 is when
+we have an additional node. Below is the diagram for the case where n = 3.
+λ = 23L λ =
+4
+5L λ = L
+n = 3
+Case 1: Both ends are open and so they must be anti-nodes. We can have three nodes inside
+the tube only if we have two anti-nodes contained inside the tube and one on each end. This
+means we have 4 anti-nodes in the tube. The distance between any two anti-nodes is half a
+wavelength. This means there is half wavelength between every adjacent pair of anti-nodes.
+We count how many gaps there are between adjacent anti-nodes to determine how many half
+wavelengths there are and equate this to the length of the tube L and then solve for λ.
+1
+3( λ) = L
+2
+2
+λ = L
+3
+Case 2: We want to have three nodes inside the tube. The left end must be a node and the
+right end must be an anti-node, so there will be two nodes between the ends of the tube. Again
+124
+6.4 CHAPTER 6. TRANSVERSE WAVES - GRADE 10
+
+1
+
+2( λ) = L
+
+2
+
+λ = L
+
+Case 2: We want to have two nodes inside the tube. The left end must be a node and the right
+
+end must be an anti-node. We can have one node inside the tube as drawn above. Again we can
+
+count the number of distances between adjacent nodes or anti-nodes. If we start from the left
+
+end we have one half wavelength between the end and the node inside the tube. The distance
+
+from the node inside the tube to the right end which is an anti-node is half of the distance to
+
+another node. So it is half of half a wavelength. Together these add up to the length of the
+
+tube:
+
+1 1 1
+
+λ+ ( λ) = L
+
+2 2 2
+
+2 1
+
+λ+ λ = L
+
+4 4
+
+3
+
+λ = L
+
+4
+
+4
+
+λ = L
+
+3
+
+Case 3: In this case both ends have to be nodes. This means that the length of the tube is one
+
+half wavelength: So we can equate the two and solve for the wavelength:
+
+1
+
+λ = L
+
+2
+
+λ = 2L
+
+Important: If you ever calculate a longer wavelength for more nodes you have made a
+
+mistake. Remember to check if your answers make sense!
+
+Three Nodes
+
+To see the complete pattern for all cases we need to check what the next step for case 3 is when
+
+we have an additional node. Below is the diagram for the case where n = 3.
+
+λ = 23L λ =
+
+4
+
+5L λ = L
+
+n = 3
+
+Case 1: Both ends are open and so they must be anti-nodes. We can have three nodes inside
+
+the tube only if we have two anti-nodes contained inside the tube and one on each end. This
+
+means we have 4 anti-nodes in the tube. The distance between any two anti-nodes is half a
+
+wavelength. This means there is half wavelength between every adjacent pair of anti-nodes.
+
+We count how many gaps there are between adjacent anti-nodes to determine how many half
+
+wavelengths there are and equate this to the length of the tube L and then solve for λ.
+
+1
+
+3( λ) = L
+
+2
+
+2
+
+λ = L
+
+3
+
+Case 2: We want to have three nodes inside the tube. The left end must be a node and the
+
+right end must be an anti-node, so there will be two nodes between the ends of the tube. Again
+
+124
+
+CHAPTER 6. TRANSVERSE WAVES - GRADE 10 6.4
+
+we can count the number of distances between adjacent nodes or anti-nodes, together these add
+
+up to the length of the tube. Remember that the distance between the node and an adjacent
+
+anti-node is only half the distance between adjacent nodes. So starting from the left end we
+
+count 3 nodes, so 2 half wavelength intervals and then only a node to anti-node distance:
+
+1 1 1
+
+2( λ) + ( λ) = L
+
+2 2 2
+
+1
+
+λ+ λ = L
+
+4
+
+5
+
+λ = L
+
+4
+
+4
+
+λ = L
+
+5
+
+Case 3: In this case both ends have to be nodes. With one node in between there are two
+
+sets of adjacent nodes. This means that the length of the tube consists of two half wavelength
+
+sections:
+
+1
+
+2( λ) = L
+
+2
+
+λ = L
+

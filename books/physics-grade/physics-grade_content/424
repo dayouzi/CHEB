@@ -1,0 +1,294 @@
+27.3 The Electron Microscope
+
+We have seen that under certain circumstances particles behave like waves. This idea is used in
+
+the electron microscope which is a type of microscope that uses electrons to create an image of
+
+the target. It has much higher magnification or resolving power than a normal light
+
+microscope, up to two million times, allowing it to see smaller objects and details.
+
+Let's first review how a regular optical microscope works. A beam of light is shone through a
+
+thin target and the image is then magnified and focused using objective and ocular lenses. The
+
+amount of light which passes through the target depends on the densities of the target since
+
+the less dens regions allow more light to pass through than the denser regions. This means that
+
+the beam of light which is partially transmitted through the target carries information about
+
+the inner structure of the target.
+
+The original form of the electron microscopy, the transmission electron microscopy, works in a
+
+similar manner using electrons. In the electron microscope, electrons which are emitted by a
+
+cathode are formed into a beam using magnetic lenses. This electron beam is then passed
+
+through a very thin target. Again, the regions in the target with higher densities stop the
+
+electrons more easily. So, the amount of electrons which pass through the different regions of
+
+the target depend their densities. This means that the partially transmitted beam of electrons
+
+carries information about the densities of the inner structure of the target. The spatial
+
+variation in this information (the "image") is then magnified by a series of magnetic lenses and
+
+it is recorded by hitting a fluorescent screen, photographic plate, or light sensitive sensor such
+
+as a CCD (charge-coupled device) camera. The image detected by the CCD may be displayed
+
+in real time on a monitor or computer. In figure ?? is an image of the polio virus obtained with
+
+a transmission electron microscope.
+
+The structure of an optical and electron microscope are compared in figure 27.3. While the
+
+optical microscope uses light and focuses using lenses, the electron microscope uses electrons
+
+and focuses using electromagnets.
+
+Itneterreessttinigng The first electron microscope prototype was built in 1931 by the German
+
+FFacctt engineers Ernst Ruska and Maximillion Knoll. It was based on the ideas and
+
+discoveries of Louis de Broglie. Although it was primitive and was not ideal for
+
+practical use, the instrument was still capable of magnifying objects by four
+
+hundred times. The first practical electron microscope was built at the
+
+574
+
+CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12 27.3
+
+Figure 27.2: The image of the polio virus using a transmission electron microscope.
+
+10
+
+light source electron source
+
+9
+
+8
+
+condenser lens magnetic lens
+
+7
+
+6
+
+target target
+
+5
+
+objective lens objective lens
+
+4
+
+3
+
+2
+
+eyepiece lens projector lens
+
+1
+
+screen
+
+0
+
+optical microscope electron microscope
+
+-1
+
+Figure 27.3: Diagr-a1m of0the ba1sic com2ponen3ts of an4optica5l micro6scope7and an8electron micro-
+
+scope.
+
+575
+CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12 27.3
+Figure 27.2: The image of the polio virus using a transmission electron microscope.
+10
+light source electron source
+9
+8
+condenser lens magnetic lens
+7
+6
+target target
+5
+objective lens objective lens
+4
+3
+2
+eyepiece lens projector lens
+1
+screen
+0
+optical microscope electron microscope
+-1
+Figure 27.3: Diagr-a1m of0the ba1sic com2ponen3ts of an4optica5l micro6scope7and an8electron micro-
+scope.
+575
+27.3 CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12
+Table 27.1: Comparison of Light and Electron Microscopes
+Light microscope Electron microscope
+Source Bright lamp or laser Electron gun
+Radiation U.V. or visible light Electron beam produced by heat-
+ing metal surface (e.g. tungsten)
+Lenses Curved glass surfaces Electromagnets
+Receiver Eye; photographic emulsion or dig- Fluorescent screen (for location
+ital image and focusing image); photographic
+emulsion or digital image
+Focus Axial movement of lenses (up and Adjustment of magnetic field in
+down) the electromagnets by changing
+the current
+Operating Atmospheric High vacuum
+Pressure
+University of Toronto in 1938, by Eli Franklin Burton and students Cecil Hall,
+James Hillier and Albert Prebus.
+Although modern electron microscopes can magnify objects up to two million
+times, they are still based upon Ruska's prototype and his correlation between
+wavelength and resolution. The electron microscope is an integral part of many
+laboratories. Researchers use it to examine biological materials (such as
+microorganisms and cells), a variety of large molecules, medical biopsy samples,
+metals and crystalline structures, and the characteristics of various surfaces.
+Electron microscopes are very useful as they are able to magnify objects to a much higher
+resolution. This is because their de Broglie wavelengths are so much smaller than that of
+visible light. You hopefully remember that light is diffracted by objects which are separated by
+a distance of about the same size as the wavelength of the light. This diffraction then prevents
+you from being able to focus the transmitted light into an image. So the sizes at which
+diffraction occurs for a beam of electrons is much smaller than those for visible light. This is
+why you can magnify targets to a much higher order of magnification using electrons rather
+than visible light.
+Extension: High-Resolution Transmission Electron Microscope (HRTEM)
+There are high-resolution TEM (HRTEM) which have been built. However
+their resolution is limited by spherical and chromatic aberration. Fortunately
+though, software correction of the spherical aberration has allowed the production
+of images with very high resolution. In fact the resolution is sufficient to show
+carbon atoms in diamond separated by only 89 picometers and atoms in silicon at
+78 picometers. This is at magnifications of 50 million times. The ability to
+determine the positions of atoms within materials has made the HRTEM a very
+useful tool for nano-technologies research. It is also very important for the
+development of semiconductor devices for electronics and photonics.
+Transmission electron microscopes produce two-dimensional images.
+Extension: Scanning Electron Microscope (SEM)
+The Scanning Electron Microscope (SEM) produces images by hitting the
+target with a primary electron beam which then excites the surface of the target.
+This causes secondary electrons to be emitted from the surface which are then
+detected. So the the electron beam in the SEM is moved across the sample, while
+detectors build an image from the secondary electrons.
+576
+27.3 CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12
+
+Table 27.1: Comparison of Light and Electron Microscopes
+
+Light microscope Electron microscope
+
+Source Bright lamp or laser Electron gun
+
+Radiation U.V. or visible light Electron beam produced by heat-
+
+ing metal surface (e.g. tungsten)
+
+Lenses Curved glass surfaces Electromagnets
+
+Receiver Eye; photographic emulsion or dig- Fluorescent screen (for location
+
+ital image and focusing image); photographic
+
+emulsion or digital image
+
+Focus Axial movement of lenses (up and Adjustment of magnetic field in
+
+down) the electromagnets by changing
+
+the current
+
+Operating Atmospheric High vacuum
+
+Pressure
+
+University of Toronto in 1938, by Eli Franklin Burton and students Cecil Hall,
+
+James Hillier and Albert Prebus.
+
+Although modern electron microscopes can magnify objects up to two million
+
+times, they are still based upon Ruska's prototype and his correlation between
+
+wavelength and resolution. The electron microscope is an integral part of many
+
+laboratories. Researchers use it to examine biological materials (such as
+
+microorganisms and cells), a variety of large molecules, medical biopsy samples,
+
+metals and crystalline structures, and the characteristics of various surfaces.
+
+Electron microscopes are very useful as they are able to magnify objects to a much higher
+
+resolution. This is because their de Broglie wavelengths are so much smaller than that of
+
+visible light. You hopefully remember that light is diffracted by objects which are separated by
+
+a distance of about the same size as the wavelength of the light. This diffraction then prevents
+
+you from being able to focus the transmitted light into an image. So the sizes at which
+
+diffraction occurs for a beam of electrons is much smaller than those for visible light. This is
+
+why you can magnify targets to a much higher order of magnification using electrons rather
+
+than visible light.
+
+Extension: High-Resolution Transmission Electron Microscope (HRTEM)
+
+There are high-resolution TEM (HRTEM) which have been built. However
+
+their resolution is limited by spherical and chromatic aberration. Fortunately
+
+though, software correction of the spherical aberration has allowed the production
+
+of images with very high resolution. In fact the resolution is sufficient to show
+
+carbon atoms in diamond separated by only 89 picometers and atoms in silicon at
+
+78 picometers. This is at magnifications of 50 million times. The ability to
+
+determine the positions of atoms within materials has made the HRTEM a very
+
+useful tool for nano-technologies research. It is also very important for the
+
+development of semiconductor devices for electronics and photonics.
+
+Transmission electron microscopes produce two-dimensional images.
+
+Extension: Scanning Electron Microscope (SEM)
+
+The Scanning Electron Microscope (SEM) produces images by hitting the
+
+target with a primary electron beam which then excites the surface of the target.
+
+This causes secondary electrons to be emitted from the surface which are then
+
+detected. So the the electron beam in the SEM is moved across the sample, while
+
+detectors build an image from the secondary electrons.
+
+576
+
+CHAPTER 27. WAVE NATURE OF MATTER - GRADE 12 27.3
+
+Generally, the transmission electron microscope's resolution is about an order of
+
+magnitude better than the SEM resolution, however, because the SEM image relies
+
+on surface processes rather than transmission it is able to image bulk samples and
+
+has a much greater depth of view, and so can produce images that are a good
+
+representation of the 3D structure of the sample.
+

@@ -1,0 +1,20 @@
+2.7 ONE-TO-ONE FUNCTIONS AND THEIR INVERSES
+One-to-One Functions ! The Inverse of a Function ! Graphing the Inverse 
+of a Function
+The inverse of a function is a rule that acts on the output of the function and produces the
+corresponding input. So the inverse "undoes" or reverses what the function has done. Not
+all functions have inverses; those that do are called one-to-one.
+! One-to-One Functions
+Let's compare the functions f and g whose arrow diagrams are shown in Figure 1. Note
+that f never
+g 1 ta2 2kes on the same value twi! g 13 2 f 1x1 2 ( f 1x2 2ce (any two numbers in A have different images),whereas g does take on the same value twice (both 2 and 3 have the same image, 4). Insymbols, but whenever x1 ( x2. Functions that have this latter
+property are called one-to-one.
+A B A B
+4 10 4 10
+200 C H A P T E R  2 | Functions
+y E X A M P L E  1 | Deciding Whether a Function Is One-to-One
+Is the function f 1x 2 ! x3 one-to-one?
+1 S O L U T I O N  1 If 
+f 1x1 ( x2, then xx 2 31 ( x3 2 (two different numbers cannot have the samecube). Therefore, ! x3 is one-to-one.
+0 1 x S O L U T I O N  2 From Figure 3 we see that no horizontal line intersects the graph of
+f 1x 2 ! x3 more than once. Therefore, by the Horizontal Line Test, f is one-to-one.

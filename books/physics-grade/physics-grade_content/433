@@ -1,0 +1,125 @@
+28.2.3 Real-life applications
+
+Cars
+
+A car contains an alternator that charges up its battery power the car's electric system when its
+
+engine is running. Alternators have the great advantage over direct-current generators of not
+
+using a commutator, which makes them simpler, lighter, less costly, and more rugged than a
+
+DC generator.
+
+582
+
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.2
+
+N S
+
+slip ring (front view)
+
+brush
+
+slip ring
+
+slip ring
+
+brush
+
+Figure 28.6: Layout of an alternating current motor.
+
+N S
+
+split ring commutator
+
+brush brush
+
+split ring
+
+Figure 28.7: Layout of a direct current motor.
+
+583
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.2
+N S
+slip ring (front view)
+brush
+slip ring
+slip ring
+brush
+Figure 28.6: Layout of an alternating current motor.
+N S
+split ring commutator
+brush brush
+split ring
+Figure 28.7: Layout of a direct current motor.
+583
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.2
+
+N S
+
+slip ring (front view)
+
+brush
+
+slip ring
+
+slip ring
+
+brush
+
+Figure 28.6: Layout of an alternating current motor.
+
+N S
+
+split ring commutator
+
+brush brush
+
+split ring
+
+Figure 28.7: Layout of a direct current motor.
+
+583
+
+28.2 CHAPTER 28. ELECTRODYNAMICS - GRADE 12
+
+Activity :: Research Topic : Alternators
+
+Try to find out the different ampere values produced by alternators for different
+
+types of machines. Compare these to understand what numbers make sense in the
+
+real world. You will find different numbers for cars, trucks, buses, boats etc. Try to
+
+find out what other machines might have alternators.
+
+A car also contains a DC electric motor, the starter motor, to turn over the engine to start it.
+
+A starter consists of the very powerful DC electric motor and starter solenoid that is attached
+
+to the motor. A starter motor requires very high current to crank the engine, that's why it's
+
+connected to the battery with large cables.
+
+Electricity Generation
+
+AC generators are mainly used in the real-world to generate electricity.
+
+high voltage
+
+Power Plant
+
+Step-up
+
+. . . to other customers
+
+low voltage
+
+Step-down
+
+Home or
+
+Business low voltage
+
+Figure 28.8: AC generators are used at the power plant to generate electricity.
+

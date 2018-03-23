@@ -1,0 +1,191 @@
+4.9. HL Triangle Congruence www.ck12.org
+
+4.9 HL Triangle Congruence
+
+Here you'll learn how to prove that right triangles are congruent given the length of only their hypotenuses and one
+
+of their legs.
+
+What if you were given two right triangles and provided with only the measure of their hypotenuses and one of their
+
+legs? How could you determine if the two right triangles were congruent? After completing this Concept, you'll be
+
+able to use the Hypotenuse-Leg (HL) shortcut to prove right triangle congruency.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136759
+
+CK-12 HL Triangle Congruence
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1314
+
+James Sousa: Hypotenuse-Leg Congruence Theorem
+
+Guidance
+
+If the hypotenuse and leg in one right triangle are congruent to the hypotenuse and leg in another right triangle, then
+
+the two triangles are congruent. This is called the Hypotenuse-Leg (HL) Congruence Theorem. Note that it will
+
+only work for right triangles.
+
+If4ABC and4XY Z are both right triangles and AB∼= XY and BC ∼= Y Z then4ABC ∼=4XY Z.
+
+214
+
+www.ck12.org Chapter 4. Triangles and Congruence
+
+Example A
+
+What additional information would you need to prove that these two triangles were congruent using the HL Theo-
+
+rem?
+
+For HL, you need the hypotenuses to be congruent. AC ∼= MN.
+
+Example B
+
+Determine if the triangles are congruent. If they are, write the congruence statement and which congruence postulate
+
+or theorem you used.
+
+We know the two triangles are right triangles. The have one pair of legs that is congruent and their hypotenuses are
+
+congruent. This means that4ABC ∼=4RQP by HL.
+
+Example C
+
+Determine the additional piece of information needed to show the two triangles are congruent by HL.
+
+We already know one pair of legs is congruent and that they are right triangles. The additional piece of information
+
+we need is that the two hypotenuses are congruent, UT ∼= FG.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136760
+
+CK-12 HL Triangle Congruence
+
+->
+
+215
+www.ck12.org Chapter 4. Triangles and Congruence
+Example A
+What additional information would you need to prove that these two triangles were congruent using the HL Theo-
+rem?
+For HL, you need the hypotenuses to be congruent. AC ∼= MN.
+Example B
+Determine if the triangles are congruent. If they are, write the congruence statement and which congruence postulate
+or theorem you used.
+We know the two triangles are right triangles. The have one pair of legs that is congruent and their hypotenuses are
+congruent. This means that4ABC ∼=4RQP by HL.
+Example C
+Determine the additional piece of information needed to show the two triangles are congruent by HL.
+We already know one pair of legs is congruent and that they are right triangles. The additional piece of information
+we need is that the two hypotenuses are congruent, UT ∼= FG.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136760
+CK-12 HL Triangle Congruence
+->
+215
+4.9. HL Triangle Congruence www.ck12.org
+Guided Practice
+1. Determine if the triangles are congruent. If they are, write the congruence statement and which congruence
+postulate or theorem you used.
+2. Fill in the blanks in the proof below.
+Given:
+SV ⊥WU
+T is the midpoint of SV and WU
+Prove: WS∼=UV
+TABLE 4.17:
+Statement Reason
+1. 1.
+2. 6 STW and 6 UTV are right angles 2.
+3. 3.
+4. ST ∼= TV , WT ∼= TU 4.
+5. 4STW ∼=4UTV 5.
+6. WS∼=UV 6.
+3. Explain why the HL Congruence shortcut works.
+Answers:
+1. All we know is that two pairs of sides are congruent. Since we do not know if these are right triangles, we cannot
+use HL. We do not know if these triangles are congruent.
+2.
+TABLE 4.18:
+Statement Reason
+1. SV ⊥WU 1. Given
+2. 6 STW and 6 UTV are right angles 2. Definition of perpendicular lines.
+216
+www.ck12.org Chapter 4. Triangles and Congruence
+TABLE 4.18: (continued)
+Statement Reason
+3. T is the midpoint of SV and WU 3. Given
+4. ST ∼= TV , WT ∼= TU 4. Definition of midpoint
+5. 4STW ∼=4UTV 5. SAS
+6. WS∼=UV 6. CPCTC
+Note that even though these were right triangles, we did not use the HL congruence shortcut because we were not
+originally given that the two hypotenuses were congruent. The SAS congruence shortcut was quicker in this case.
+3. The Pythagorean Theorem, which says, for any right triangle, this equation is true:
+(leg)2 +(leg)2 = (hypotenuse)2
+What this means is that if you are given two sides of a right triangle, you can always find the third. Therefore, if you
+know two sides of a right triangle are congruent to two sides of another right triangle, then you can conclude that
+the third sides are also congruent. If three pairs of sides are congruent, then we know the triangles are congruent by
+SSS.
+Explore More
+Using the HL Theorem, what additional information do you need to prove the two triangles are congruent?
+1.
+217
+4.9. HL Triangle Congruence www.ck12.org
+2.
+3.
+The triangles are formed by two parallel lines cut by a perpendicular transversal. C is the midpoint of AD. Complete
+the proof to show the two triangles are congruent. Questions 4-7 are within the proof.
+TABLE 4.19:
+Statement Reason
+1. 6 ACB and 6 DCE are right angles. (4.)
+2. (5.) Definition of midpoint
+3. (6.) Given
+4. ∆ACD∼= ∆DCE (7.)
+Based on the following details, are the two right triangles definitively congruent? The statements do not build off of
+each other.
+8. The hypotenuses of two right triangles are congruent.
+218
+www.ck12.org Chapter 4. Triangles and Congruence
+9. Both sets of legs in the two right triangles are congruent.
+10. One set of legs are congruent in the two right triangles.
+11. The hypotenuses and one pair of legs are congruent in the two right triangles.
+12. One of the non right angles of the two right triangles is congruent.
+13. All of the angles of the two right triangles are congruent.
+14. All of the sides of the two right triangles are congruent.
+15. Both triangles have one leg that is twice the length of the other.
+219
+www.ck12.org Chapter 4. Triangles and Congruence
+
+9. Both sets of legs in the two right triangles are congruent.
+
+10. One set of legs are congruent in the two right triangles.
+
+11. The hypotenuses and one pair of legs are congruent in the two right triangles.
+
+12. One of the non right angles of the two right triangles is congruent.
+
+13. All of the angles of the two right triangles are congruent.
+
+14. All of the sides of the two right triangles are congruent.
+
+15. Both triangles have one leg that is twice the length of the other.
+
+219
+

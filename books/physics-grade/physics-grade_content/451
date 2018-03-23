@@ -1,0 +1,258 @@
+29.4.2 The Light Emitting Diode (LED)
+
+A light-emitting diode (LED) is a diode device that emits light when charge flows in the correct
+
+direction through it. If you apply a voltage to force current to flow in the direction the LED
+
+allows it will light up.
+
+Extension: Circuit Symbols
+
+This notation of having two small arrows pointing away from the device is
+
+common to the schematic symbols of all light-emitting semiconductor devices.
+
+Conversely, if a device is light-activated (meaning that incoming light stimulates
+
+it), then the symbol will have two small arrows pointing toward it. It is interesting
+
+to note, though, that LEDs are capable of acting as light-sensing devices: they will
+
+generate a small voltage when exposed to light, much like a solar cell on a small
+
+scale. This property can be gainfully applied in a variety of light-sensing circuits.
+
+The color depends on the semiconducting material used to construct the LED, and can be in
+
+the near-ultraviolet, visible or infrared part of the electromagnetic spectrum.
+
+Itneterreessttinigng Nick Holonyak Jr. (1928 ) of the University of Illinois at Urbana-Champaign
+
+FFacctt developed the first practical visible-spectrum LED in 1962.
+
+Light emission
+
+The wavelength of the light emitted, and therefore its color, depends on the materials forming
+
+the p-n junction. A normal diode, typically made of silicon or germanium, emits invisible
+
+far-infrared light (so it can't be seen), but the materials used for an LED have emit light
+
+corresponding to near-infrared, visible or near-ultraviolet frequencies.
+
+601
+
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+
+LED applications
+
+LEDs have many uses. Some of these are given here.
+
+• thin, lightweight message displays, e.g. in public information signs (at airports and
+
+railway stations, among other places)
+
+• status indicators, e.g. on/off lights on professional instruments and consumers
+
+audio/video equipment
+
+• infrared LEDs in remote controls (for TVs, VCRs, etc)
+
+• clusters of LEDs are used in traffic signals, replacing ordinary bulbs behind colored glass
+
+• car indicator lights and bicycle lighting
+
+• calculator and measurement instrument displays (seven segment displays), although now
+
+mostly replaced by LCDs
+
+• red or yellow LEDs are used in indicator and [alpha]numeric displays in environments
+
+where night vision must be retained: aircraft cockpits, submarine and ship bridges,
+
+astronomy observatories, and in the field, e.g. night time animal watching and military
+
+field use
+
+• red or yellow LEDs are also used in photographic darkrooms, for providing lighting which
+
+does not lead to unwanted exposure of the film
+
+• illumination, e.g. flashlights (a.k.a. torches, UK), and backlighting for LCD screens
+
+• signaling/emergency beacons and strobes
+
+• movement sensors, e.g. in mechanical and optical computer mice and trackballs
+
+• in LED printers, e.g. high-end color printers
+
+LEDs offer benefits in terms of maintenance and safety.
+
+• The typical working lifetime of a device, including the bulb, is ten years, which is much
+
+longer than the lifetimes of most other light sources.
+
+• LEDs fail by dimming over time, rather than the abrupt burn-out of incandescent bulbs.
+
+• LEDs give off less heat than incandescent light bulbs and are less fragile than fluorescent
+
+lamps.
+
+• Since an individual device is smaller than a centimetre in length, LED-based light sources
+
+used for illumination and outdoor signals are built using clusters of tens of devices.
+
+Because they are monochromatic, LED lights have great power advantages over white lights
+
+where a specific color is required. Unlike the white lights, the LED does not need a filter that
+
+absorbs most of the emitted white light. Colored fluorescent lights are made, but they are not
+
+widely available. LED lights are inherently colored, and are available in a wide range of colors.
+
+One of the most recently introduced colors is the emerald green (bluish green, about 500 nm)
+
+that meets the legal requirements for traffic signals and navigation lights.
+
+Itneterreessttinigng The largest LED display in the world is 36 m high, at Times Square, New
+
+FFacctt York, U.S.A.
+
+602
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+LED applications
+LEDs have many uses. Some of these are given here.
+• thin, lightweight message displays, e.g. in public information signs (at airports and
+railway stations, among other places)
+• status indicators, e.g. on/off lights on professional instruments and consumers
+audio/video equipment
+• infrared LEDs in remote controls (for TVs, VCRs, etc)
+• clusters of LEDs are used in traffic signals, replacing ordinary bulbs behind colored glass
+• car indicator lights and bicycle lighting
+• calculator and measurement instrument displays (seven segment displays), although now
+mostly replaced by LCDs
+• red or yellow LEDs are used in indicator and [alpha]numeric displays in environments
+where night vision must be retained: aircraft cockpits, submarine and ship bridges,
+astronomy observatories, and in the field, e.g. night time animal watching and military
+field use
+• red or yellow LEDs are also used in photographic darkrooms, for providing lighting which
+does not lead to unwanted exposure of the film
+• illumination, e.g. flashlights (a.k.a. torches, UK), and backlighting for LCD screens
+• signaling/emergency beacons and strobes
+• movement sensors, e.g. in mechanical and optical computer mice and trackballs
+• in LED printers, e.g. high-end color printers
+LEDs offer benefits in terms of maintenance and safety.
+• The typical working lifetime of a device, including the bulb, is ten years, which is much
+longer than the lifetimes of most other light sources.
+• LEDs fail by dimming over time, rather than the abrupt burn-out of incandescent bulbs.
+• LEDs give off less heat than incandescent light bulbs and are less fragile than fluorescent
+lamps.
+• Since an individual device is smaller than a centimetre in length, LED-based light sources
+used for illumination and outdoor signals are built using clusters of tens of devices.
+Because they are monochromatic, LED lights have great power advantages over white lights
+where a specific color is required. Unlike the white lights, the LED does not need a filter that
+absorbs most of the emitted white light. Colored fluorescent lights are made, but they are not
+widely available. LED lights are inherently colored, and are available in a wide range of colors.
+One of the most recently introduced colors is the emerald green (bluish green, about 500 nm)
+that meets the legal requirements for traffic signals and navigation lights.
+Itneterreessttinigng The largest LED display in the world is 36 m high, at Times Square, New
+FFacctt York, U.S.A.
+602
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+
+LED applications
+
+LEDs have many uses. Some of these are given here.
+
+• thin, lightweight message displays, e.g. in public information signs (at airports and
+
+railway stations, among other places)
+
+• status indicators, e.g. on/off lights on professional instruments and consumers
+
+audio/video equipment
+
+• infrared LEDs in remote controls (for TVs, VCRs, etc)
+
+• clusters of LEDs are used in traffic signals, replacing ordinary bulbs behind colored glass
+
+• car indicator lights and bicycle lighting
+
+• calculator and measurement instrument displays (seven segment displays), although now
+
+mostly replaced by LCDs
+
+• red or yellow LEDs are used in indicator and [alpha]numeric displays in environments
+
+where night vision must be retained: aircraft cockpits, submarine and ship bridges,
+
+astronomy observatories, and in the field, e.g. night time animal watching and military
+
+field use
+
+• red or yellow LEDs are also used in photographic darkrooms, for providing lighting which
+
+does not lead to unwanted exposure of the film
+
+• illumination, e.g. flashlights (a.k.a. torches, UK), and backlighting for LCD screens
+
+• signaling/emergency beacons and strobes
+
+• movement sensors, e.g. in mechanical and optical computer mice and trackballs
+
+• in LED printers, e.g. high-end color printers
+
+LEDs offer benefits in terms of maintenance and safety.
+
+• The typical working lifetime of a device, including the bulb, is ten years, which is much
+
+longer than the lifetimes of most other light sources.
+
+• LEDs fail by dimming over time, rather than the abrupt burn-out of incandescent bulbs.
+
+• LEDs give off less heat than incandescent light bulbs and are less fragile than fluorescent
+
+lamps.
+
+• Since an individual device is smaller than a centimetre in length, LED-based light sources
+
+used for illumination and outdoor signals are built using clusters of tens of devices.
+
+Because they are monochromatic, LED lights have great power advantages over white lights
+
+where a specific color is required. Unlike the white lights, the LED does not need a filter that
+
+absorbs most of the emitted white light. Colored fluorescent lights are made, but they are not
+
+widely available. LED lights are inherently colored, and are available in a wide range of colors.
+
+One of the most recently introduced colors is the emerald green (bluish green, about 500 nm)
+
+that meets the legal requirements for traffic signals and navigation lights.
+
+Itneterreessttinigng The largest LED display in the world is 36 m high, at Times Square, New
+
+FFacctt York, U.S.A.
+
+602
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.4
+
+There are applications that specifically require light that does not contain any blue component.
+
+Examples are photographic darkroom safe lights, illumination in laboratories where certain
+
+photo-sensitive chemicals are used, and situations where dark adaptation (night vision) must be
+
+preserved, such as cockpit and bridge illumination, observatories, etc. Yellow LED lights are a
+
+good choice to meet these special requirements because the human eye is more sensitive to
+
+yellow light.
+
+Exercise: The Light Emitting Diode
+
+1. What is an LED?
+
+2. List 5 applications of LEDs.
+

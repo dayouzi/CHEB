@@ -1,0 +1,217 @@
+11.2 ELLIPSES
+Geometric Definition of an Ellipse ! Equations and Graphs of Ellipses
+! Eccentricity of an Ellipse
+! Geometric Definition of an Ellipse
+An ellipse is an oval curve that looks like an elongated circle. More precisely, we have the
+following definition.
+P
+GEOMETRIC DEFINITION OF AN ELLIPSE
+F⁄ F¤ An ellipse is the set of all points in the plane the sum of whose distances from
+two fixed points F1 and F2 is a constant. (See Figure 1.) These two fixed points
+are the foci (plural of focus) of the ellipse.
+F I G U R E  1
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 1 . 2 | Ellipses 733
+The geometric definition suggests a simple method for drawing an ellipse. Place a
+sheet of paper on a drawing board, and insert thumbtacks at the two points that are to be
+the foci of the ellipse. Attach the ends of a string to the tacks, as shown in Figure 2(a).
+With the point of a pencil, hold the string taut. Then carefully move the pencil around the
+foci, keeping the string taut at all times. The pencil will trace out an ellipse, because the
+sum of the distances from the point of the pencil to the foci will always equal the length
+of the string, which is constant.
+If the string is only slightly longer than the distance between the foci, then the ellipse that
+is traced out will be elongated in shape, as in Figure 2(a), but if the foci are close together
+relative to the length of the string, the ellipse will be almost circular, as shown in Figure 2(b).
+(a) (b)
+F I G U R E  2
+y To ob
+P(x, y) F11#c, 0 2tain the simpF21c, 0 2 lest equation for an ellipse, we place the foci on the x-axis atand so that the origin is halfway between them (see Figure 3).
+For later convenience w
+P1x, y 2 e let the sum of the distances from a point on the ellipse to thefoci be 2a. Then if is any point on the ellipse, we have
+F⁄(_c, 0) 0 F¤(c, 0) x d1P, F1 2 ! d1P, F2 2 " 2a
+So from the Distance F2ormula we have211x ! c 2 2 ! y 2 ! 21x # c 2 2 ! y 2 " 2aor x # c 2 2 ! y 2 " 2a # 21x ! c 2 2 ! y 2 
+F I G U R E  3
+Squaring each side and expanding, we get
+x 2 # 2cx ! c 2 ! y 2 " 4a 2 # 4a21x ! c 2 2 ! y 2 ! 1x 2 2 ! 2cx ! c ! y 2 2
+which simplifies to
+4a21x ! c 2 2 ! y 2 " 4a 2 ! 4cx
+Dividing each side by 4 and squaring again, we get
+2
+ a 2 3 1x ! c 2 2 ! y 2 4 " 1a ! cx 2 2
+2 2
+ a 2 x ! 2a 2 2 2 cx ! a c ! a 2 y 2 " a 4 ! 2a 2 cx ! c 2 x 
+2
+ 1a 2 # c 2 2x 2 ! a 2 y " a 2 1a 2 # c 2 2
+Since the sum of the distances from P to the foci must be larger than the distance between
+the foci, we have that 2a $ 2c, or a $ c. Thus $ 0
+a 2 1 a 2 # c 2 , and we can divide each sideof the preceding equation by a 2 # c 2 2 to get
+x 2
+2
+ y 
+a 2
+! 2 "
+ a # c 2
+1
+ 
+For convenience let b 2 " a 2 # c 2 b 2 % a 2  1with b $ 02. Since  , it follows that b % a. The
+preceding equation then becomes
+x 2 y 2 
+a $ b
+a 2
+! " 1  with
+ b 2
+ 
+ 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 1 . 2 | Ellipses 733
+The geometric definition suggests a simple method for drawing an ellipse. Place a
+sheet of paper on a drawing board, and insert thumbtacks at the two points that are to be
+the foci of the ellipse. Attach the ends of a string to the tacks, as shown in Figure 2(a).
+With the point of a pencil, hold the string taut. Then carefully move the pencil around the
+foci, keeping the string taut at all times. The pencil will trace out an ellipse, because the
+sum of the distances from the point of the pencil to the foci will always equal the length
+of the string, which is constant.
+If the string is only slightly longer than the distance between the foci, then the ellipse that
+is traced out will be elongated in shape, as in Figure 2(a), but if the foci are close together
+relative to the length of the string, the ellipse will be almost circular, as shown in Figure 2(b).
+(a) (b)
+F I G U R E  2
+y To ob
+P(x, y) F11#c, 0 2tain the simpF21c, 0 2 lest equation for an ellipse, we place the foci on the x-axis atand so that the origin is halfway between them (see Figure 3).
+For later convenience w
+P1x, y 2 e let the sum of the distances from a point on the ellipse to thefoci be 2a. Then if is any point on the ellipse, we have
+F⁄(_c, 0) 0 F¤(c, 0) x d1P, F1 2 ! d1P, F2 2 " 2a
+So from the Distance F2ormula we have211x ! c 2 2 ! y 2 ! 21x # c 2 2 ! y 2 " 2aor x # c 2 2 ! y 2 " 2a # 21x ! c 2 2 ! y 2 
+F I G U R E  3
+Squaring each side and expanding, we get
+x 2 # 2cx ! c 2 ! y 2 " 4a 2 # 4a21x ! c 2 2 ! y 2 ! 1x 2 2 ! 2cx ! c ! y 2 2
+which simplifies to
+4a21x ! c 2 2 ! y 2 " 4a 2 ! 4cx
+Dividing each side by 4 and squaring again, we get
+2
+ a 2 3 1x ! c 2 2 ! y 2 4 " 1a ! cx 2 2
+2 2
+ a 2 x ! 2a 2 2 2 cx ! a c ! a 2 y 2 " a 4 ! 2a 2 cx ! c 2 x 
+2
+ 1a 2 # c 2 2x 2 ! a 2 y " a 2 1a 2 # c 2 2
+Since the sum of the distances from P to the foci must be larger than the distance between
+the foci, we have that 2a $ 2c, or a $ c. Thus $ 0
+a 2 1 a 2 # c 2 , and we can divide each sideof the preceding equation by a 2 # c 2 2 to get
+x 2
+2
+ y 
+a 2
+! 2 "
+ a # c 2
+1
+ 
+For convenience let b 2 " a 2 # c 2 b 2 % a 2  1with b $ 02. Since  , it follows that b % a. The
+preceding equation then becomes
+x 2 y 2 
+a $ b
+a 2
+! " 1  with
+ b 2
+ 
+ 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 1 . 2 | Ellipses 733
+The geometric definition suggests a simple method for drawing an ellipse. Place a
+sheet of paper on a drawing board, and insert thumbtacks at the two points that are to be
+the foci of the ellipse. Attach the ends of a string to the tacks, as shown in Figure 2(a).
+With the point of a pencil, hold the string taut. Then carefully move the pencil around the
+foci, keeping the string taut at all times. The pencil will trace out an ellipse, because the
+sum of the distances from the point of the pencil to the foci will always equal the length
+of the string, which is constant.
+If the string is only slightly longer than the distance between the foci, then the ellipse that
+is traced out will be elongated in shape, as in Figure 2(a), but if the foci are close together
+relative to the length of the string, the ellipse will be almost circular, as shown in Figure 2(b).
+(a) (b)
+F I G U R E  2
+y To ob
+P(x, y) F11#c, 0 2tain the simpF21c, 0 2 lest equation for an ellipse, we place the foci on the x-axis atand so that the origin is halfway between them (see Figure 3).
+For later convenience w
+P1x, y 2 e let the sum of the distances from a point on the ellipse to thefoci be 2a. Then if is any point on the ellipse, we have
+F⁄(_c, 0) 0 F¤(c, 0) x d1P, F1 2 ! d1P, F2 2 " 2a
+So from the Distance F2ormula we have211x ! c 2 2 ! y 2 ! 21x # c 2 2 ! y 2 " 2aor x # c 2 2 ! y 2 " 2a # 21x ! c 2 2 ! y 2 
+F I G U R E  3
+Squaring each side and expanding, we get
+x 2 # 2cx ! c 2 ! y 2 " 4a 2 # 4a21x ! c 2 2 ! y 2 ! 1x 2 2 ! 2cx ! c ! y 2 2
+which simplifies to
+4a21x ! c 2 2 ! y 2 " 4a 2 ! 4cx
+Dividing each side by 4 and squaring again, we get
+2
+ a 2 3 1x ! c 2 2 ! y 2 4 " 1a ! cx 2 2
+2 2
+ a 2 x ! 2a 2 2 2 cx ! a c ! a 2 y 2 " a 4 ! 2a 2 cx ! c 2 x 
+2
+ 1a 2 # c 2 2x 2 ! a 2 y " a 2 1a 2 # c 2 2
+Since the sum of the distances from P to the foci must be larger than the distance between
+the foci, we have that 2a $ 2c, or a $ c. Thus $ 0
+a 2 1 a 2 # c 2 , and we can divide each sideof the preceding equation by a 2 # c 2 2 to get
+x 2
+2
+ y 
+a 2
+! 2 "
+ a # c 2
+1
+ 
+For convenience let b 2 " a 2 # c 2 b 2 % a 2  1with b $ 02. Since  , it follows that b % a. The
+preceding equation then becomes
+x 2 y 2 
+a $ b
+a 2
+! " 1  with
+ b 2
+ 
+ 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 1 . 2 | Ellipses 735
+E X A M P L E  1 | Sketching an Ellipse
+An ellipse has the equation
+x 2
+2
+ y 
+! " 1
+9 4
+(a) Find the foci, the vertices, and the lengths of the major and minor axes, and sketch
+the graph.
+(b) Draw the graph using a graphing calculator.
+S O L U T I O N
+(a) Since
+a 2 " 9 b 2 " c 2 4  " a 2 # b 2 " 9 # 4 " 5.
+c " 1 the denominator of x2 is larger, the ellipse has a horizontal major axis. Thisgives and , so Thus a " 3, b " 2, and5.
+foci 11&15, 0 2vertices &3, 0 2
+length of major axis 6
+length of minor axis 4
+The graph is shown in Figure 5(a).
+(b) To draw the graph using a graphing calculator, we need to solve for y.
+x 2 y 2 
+ ! " 1
+9 4
+y 2 2 x x 2
+ " 1 # Subtract 
+4 9 9
+2
+ 
+ y 2 " 4 a x1 # b Multiply by 4
+9
+The orbits of the planets are ellipses,
+with the sun at one focus. x
+2
+ 
+ y " &2 B1 # Take square roots9
+To obtain the graph of the ellipse, we graph both functions
+y " 221 # x 2 /9  and  y " #221 # x 2 /9
+as shown in Figure 5(b).
+Note that the equation of an ellipse y
+does not define y as a function of x y = 2 œ1 - x2/9
+(see page 158). That's why we need to 3 3.1F !œ5, 0@
+graph two functions to graph an ellipse.
+0 _4.7 4.74 x
+F⁄!_œ5, 0@
+F I G U R E  5 _3.1
+x 2 y 2 y = -2 œ1 - x2 /9
+! " 1
+9 4 (a) (b)

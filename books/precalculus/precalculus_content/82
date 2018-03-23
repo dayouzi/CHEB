@@ -1,0 +1,89 @@
+11.5 ROTATION OF AXES
+Rotation of Axes ! General Equation of a Conic ! The Discriminant
+In Section 11.4 we studied conics with equations of the form
+Ax2 ! Cy2 ! Dx ! Ey ! F " 0
+We saw that the graph is always an ellipse, parabola, or hyperbola with horizontal or ver-
+tical axes (except in the degenerate cases). In this section we study the most general 
+second-degree equation
+Ax2 ! Bxy ! Cy2 ! Dx ! Ey ! F " 0
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+758 C H A P T E R  1 1 | Conic Sections
+y We will see that the graph of an equation of this form is also a conic. In fact, by rotating
+Y P(x, y) the coordinate axes through an appropriate angle, we can eliminate the term Bxy and then
+P(X, Y) use our knowledge of conic sections to analyze the graph.
+X ! Rotation of Axes
+In Figure 1 the x- and y-axes have been rotated through an acute angle f about the origin
+ƒ to produce a new pair of axes, which we call the X- a
+0 x 1x, y 2 1X, Y 2nd Y-axes. A point P that has coor-dinates in the old system has coordinates in the new system. If we let r de-
+note the distance of P from the origin and let u be the angle that the segment OP makes
+with the new X-axis, then we can see from Figure 2 (by considering the two right trian-
+F I G U R E  1 gles in the figure) that
+y X " r cos u      Y " r sin u
+Y
+ x " r cos1u ! f 2   y " r sin1u ! f 2
+P
+Using the Addition Formula for Cosine, we see that
+Y
+r Xy  x " r cos1u ! f 2
+¨  " r 1cos u cos f # sin u sin f 2
+ƒ X
+ " 1r cos u 2  cos f # 1r sin u 2  sin f
+0 x x
+ " X cos f # Y sin f
+Similarly, we can apply the Addition Formula for Sine to the expression for y to obtain 
+F I G U R E  2 y " X sin f! Y cos f. By treating these equations for x and y as a system of linear equa-
+tions in the variables X and Y (see Exercise 35), we obtain expressions for X and Y in terms
+of x and y, as detailed in the following box.
+ROTATION OF A XES FORMUL AS
+S1 uppx, y 2ose the x- and y-axes in a coordinate plane are rotated through the acute an-gle f to produce the X- and Y-axes, as shown in Figure 1. Then the coordinatesand 1X, Y 2 of a point in the xy- and the XY-planes are related as follows:
+ x " X cos f # Y sin f     X " x cos f ! y sin f
+ y " X sin f ! Y cos f     Y " #x sin f ! y cos f
+E X A M P L E  1 Rotation of Axes
+If the coordinat1e axes 2,  #4 2are rotated through 30+, find the XY-coordinates of the point withxy-coordinates .
+S O L U T I O N Using the Rotation of Axes Formulas with x " 2, y " #4, and f " 30+,
+we get
+ X " 2 cos 30° ! 1#4 2  sin 30° " 2 a 13 b # 4 a 1 b " 13 # 2
+2 b 2 Y " #2 sin 30° 1! 1#4 2  cos 30° " #2 a
+1
+# 4 a 13 b " #1 # 213
+#2 ! 13,  #1 # 213 22 2The XY-coordinates are .
+758 C H A P T E R  1 1 | Conic Sections
+y We will see that the graph of an equation of this form is also a conic. In fact, by rotating
+Y P(x, y) the coordinate axes through an appropriate angle, we can eliminate the term Bxy and then
+P(X, Y) use our knowledge of conic sections to analyze the graph.
+X ! Rotation of Axes
+In Figure 1 the x- and y-axes have been rotated through an acute angle f about the origin
+ƒ to produce a new pair of axes, which we call the X- a
+0 x 1x, y 2 1X, Y 2nd Y-axes. A point P that has coor-dinates in the old system has coordinates in the new system. If we let r de-
+note the distance of P from the origin and let u be the angle that the segment OP makes
+with the new X-axis, then we can see from Figure 2 (by considering the two right trian-
+F I G U R E  1 gles in the figure) that
+y X " r cos u      Y " r sin u
+Y
+ x " r cos1u ! f 2   y " r sin1u ! f 2
+P
+Using the Addition Formula for Cosine, we see that
+Y
+r Xy  x " r cos1u ! f 2
+¨  " r 1cos u cos f # sin u sin f 2
+ƒ X
+ " 1r cos u 2  cos f # 1r sin u 2  sin f
+0 x x
+ " X cos f # Y sin f
+Similarly, we can apply the Addition Formula for Sine to the expression for y to obtain 
+F I G U R E  2 y " X sin f! Y cos f. By treating these equations for x and y as a system of linear equa-
+tions in the variables X and Y (see Exercise 35), we obtain expressions for X and Y in terms
+of x and y, as detailed in the following box.
+ROTATION OF A XES FORMUL AS
+S1 uppx, y 2ose the x- and y-axes in a coordinate plane are rotated through the acute an-gle f to produce the X- and Y-axes, as shown in Figure 1. Then the coordinatesand 1X, Y 2 of a point in the xy- and the XY-planes are related as follows:
+ x " X cos f # Y sin f     X " x cos f ! y sin f
+ y " X sin f ! Y cos f     Y " #x sin f ! y cos f
+E X A M P L E  1 Rotation of Axes
+If the coordinat1e axes 2,  #4 2are rotated through 30+, find the XY-coordinates of the point withxy-coordinates .
+S O L U T I O N Using the Rotation of Axes Formulas with x " 2, y " #4, and f " 30+,
+we get
+ X " 2 cos 30° ! 1#4 2  sin 30° " 2 a 13 b # 4 a 1 b " 13 # 2
+2 b 2 Y " #2 sin 30° 1! 1#4 2  cos 30° " #2 a
+1
+# 4 a 13 b " #1 # 213
+#2 ! 13,  #1 # 213 22 2The XY-coordinates are .

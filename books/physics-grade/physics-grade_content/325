@@ -1,0 +1,249 @@
+19.5 Wheatstone bridge
+
+Another method of finding an unknown resistance is to use a Wheatstone bridge. A
+
+Wheatstone bridge is a measuring instrument that is used to measure an unknown electrical
+
+resistance by balancing two legs of a bridge circuit, one leg of which includes the unknown
+
+component. Its operation is similar to the original potentiometer except that in potentiometer
+
+circuits the meter used is a sensitive galvanometer.
+
+Itneterreessttinigng The Wheatstone bridge was invented by Samuel Hunter Christie in 1833 and
+
+FFacctt improved and popularized by Sir Charles Wheatstone in 1843.
+
+A
+
+b
+
+R3 R1
+
+D b V bB Circuit for Wheatstone bridge
+
+R2 Rx
+
+b
+
+C
+
+In the circuit of the Wheatstone bridge, Rx is the unknown resistance. R1, R2 and R3 are
+
+resistors of known resistance and the resistance of R2 is adjustable. If the ratio of R2:R1 is
+
+equal to the ratio of Rx:R3, then the voltage between the two midpoints will be zero and no
+
+current will flow between the midpoints. In order to determine the unknown resistance, R2 is
+
+varied until this condition is reached. That is when the voltmeter reads 0 V.
+
+445
+
+19.5 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+
+Worked Example 131: Wheatstone bridge
+
+Question:
+
+Answer
+
+What is the resistance of the unknown resistor Rx in the diagram below if R1=4Ω
+
+R2=8Ω and R3=6Ω.
+
+A
+
+b
+
+R3 R1
+
+D b V bB Circuit for Wheatstone bridge
+
+R2 Rx
+
+b
+
+C
+
+Step 1 : Determine how to approach the problem
+
+The arrangement is a Wheatstone bridge. So we use the equation:
+
+Rx : R3 = R2 : R1
+
+Step 2 : Solve the problem
+
+Rx : R3 = R2 : R1
+
+Rx : 6 = 8 : 4
+
+Rx = 12 Ω
+
+Step 3 : Write the final answer
+
+The resistance of the unknown resistor is 12 Ω.
+
+Extension: Power in electric circuits
+
+In addition to voltage and current, there is another measure of free electron
+
+activity in a circuit: power. Power is a measure of how rapidly a standard amount
+
+of work is done. In electric circuits, power is a function of both voltage and
+
+current:
+
+Definition: Electrical Power
+
+Electrical power is calculated as:
+
+P = I · V
+
+Power (P ) is exactly equal to current (I) multiplied by voltage (V ) and there is
+
+no extra constant of proportionality. The unit of measurement for power is the
+
+Watt (abbreviated W).
+
+446
+19.5 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+Worked Example 131: Wheatstone bridge
+Question:
+Answer
+What is the resistance of the unknown resistor Rx in the diagram below if R1=4Ω
+R2=8Ω and R3=6Ω.
+A
+b
+R3 R1
+D b V bB Circuit for Wheatstone bridge
+R2 Rx
+b
+C
+Step 1 : Determine how to approach the problem
+The arrangement is a Wheatstone bridge. So we use the equation:
+Rx : R3 = R2 : R1
+Step 2 : Solve the problem
+Rx : R3 = R2 : R1
+Rx : 6 = 8 : 4
+Rx = 12 Ω
+Step 3 : Write the final answer
+The resistance of the unknown resistor is 12 Ω.
+Extension: Power in electric circuits
+In addition to voltage and current, there is another measure of free electron
+activity in a circuit: power. Power is a measure of how rapidly a standard amount
+of work is done. In electric circuits, power is a function of both voltage and
+current:
+Definition: Electrical Power
+Electrical power is calculated as:
+P = I · V
+Power (P ) is exactly equal to current (I) multiplied by voltage (V ) and there is
+no extra constant of proportionality. The unit of measurement for power is the
+Watt (abbreviated W).
+446
+19.5 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+
+Worked Example 131: Wheatstone bridge
+
+Question:
+
+Answer
+
+What is the resistance of the unknown resistor Rx in the diagram below if R1=4Ω
+
+R2=8Ω and R3=6Ω.
+
+A
+
+b
+
+R3 R1
+
+D b V bB Circuit for Wheatstone bridge
+
+R2 Rx
+
+b
+
+C
+
+Step 1 : Determine how to approach the problem
+
+The arrangement is a Wheatstone bridge. So we use the equation:
+
+Rx : R3 = R2 : R1
+
+Step 2 : Solve the problem
+
+Rx : R3 = R2 : R1
+
+Rx : 6 = 8 : 4
+
+Rx = 12 Ω
+
+Step 3 : Write the final answer
+
+The resistance of the unknown resistor is 12 Ω.
+
+Extension: Power in electric circuits
+
+In addition to voltage and current, there is another measure of free electron
+
+activity in a circuit: power. Power is a measure of how rapidly a standard amount
+
+of work is done. In electric circuits, power is a function of both voltage and
+
+current:
+
+Definition: Electrical Power
+
+Electrical power is calculated as:
+
+P = I · V
+
+Power (P ) is exactly equal to current (I) multiplied by voltage (V ) and there is
+
+no extra constant of proportionality. The unit of measurement for power is the
+
+Watt (abbreviated W).
+
+446
+
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.6
+
+Itneterreessttinigng It was James Prescott Joule, not Georg Simon Ohm, who first
+
+FFacctt discovered the mathematical relationship between power dissipation
+
+and current through a resistance. This discovery, published in 1841,
+
+followed the form of the equation:
+
+P = I2R
+
+and is properly known as Joule's Law. However, these power
+
+equations are so commonly associated with the Ohm's Law equations
+
+relating voltage, current, and resistance that they are frequently
+
+credited to Ohm.
+
+Activity :: Investigation : Equivalence
+
+Use Ohm's Law to show that:
+
+P = V I
+
+is identical to
+
+P = I2R
+
+and
+
+V 2
+
+P =
+
+R
+

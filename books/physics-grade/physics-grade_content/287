@@ -1,0 +1,137 @@
+17.3.3 Combined charge distributions
+
+We will now look at the field of a positive charge and a negative charge placed next to each
+
+other. The net resulting field would be the addition of the fields from each of the charges. To
+
+start off with let us sketch the field maps for each of the charges separately.
+
+394
+
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.3
+
+Electric field of a negative and a positive charge in isolation
+
++Q -Q
+
+Notice that a test charge starting off directly between the two would be pushed away from the
+
+positive charge and pulled towards the negative charge in a straight line. The path it would
+
+follow would be a straight line between the charges.
+
++Q -Q
+
+Now let's consider a test charge starting off a bit higher than directly between the charges. If it
+
+starts closer to the positive charge the force it feels from the positive charge is greater, but the
+
+negative charge also attracts it, so it would move away from the positive charge with a tiny
+
+force attracting it towards the negative charge. As it gets further from the positive charge the
+
+force from the negative and positive charges change and they are equal in magnitude at equal
+
+distances from the charges. After that point the negative charge starts to exert a stronger force
+
+on the test charge. This means that the test charge moves towards the negative charge with
+
+only a small force away from the positive charge.
+
++Q -Q
+
+Now we can fill in the other lines quite easily using the same ideas. The resulting field map is:
+
++Q -Q
+
+395
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.3
+Electric field of a negative and a positive charge in isolation
++Q -Q
+Notice that a test charge starting off directly between the two would be pushed away from the
+positive charge and pulled towards the negative charge in a straight line. The path it would
+follow would be a straight line between the charges.
++Q -Q
+Now let's consider a test charge starting off a bit higher than directly between the charges. If it
+starts closer to the positive charge the force it feels from the positive charge is greater, but the
+negative charge also attracts it, so it would move away from the positive charge with a tiny
+force attracting it towards the negative charge. As it gets further from the positive charge the
+force from the negative and positive charges change and they are equal in magnitude at equal
+distances from the charges. After that point the negative charge starts to exert a stronger force
+on the test charge. This means that the test charge moves towards the negative charge with
+only a small force away from the positive charge.
++Q -Q
+Now we can fill in the other lines quite easily using the same ideas. The resulting field map is:
++Q -Q
+395
+17.3 CHAPTER 17. ELECTROSTATICS - GRADE 11
+Two like charges : both positive
+For the case of two positive charges things look a little different. We can't just turn the arrows
+around the way we did before. In this case the test charge is repelled by both charges. This
+tells us that a test charge will never cross half way because the force of repulsion from both
+charges will be equal in magnitude.
++Q +Q
+The field directly between the charges cancels out in the middle. The force has equal
+magnitude and opposite direction. Interesting things happen when we look at test charges that
+are not on a line directly between the two.
++Q +Q
+We know that a charge the same distance below the middle will experience a force along a
+reflected line, because the problem is symmetric (i.e. if we flipped vertically it would look the
+same). This is also true in the horizontal direction. So we use this fact to easily draw in the
+next four lines.
++Q +Q
+Working through a number of possible starting points for the test charge we can show the
+electric field map to be:
+396
+17.3 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+Two like charges : both positive
+
+For the case of two positive charges things look a little different. We can't just turn the arrows
+
+around the way we did before. In this case the test charge is repelled by both charges. This
+
+tells us that a test charge will never cross half way because the force of repulsion from both
+
+charges will be equal in magnitude.
+
++Q +Q
+
+The field directly between the charges cancels out in the middle. The force has equal
+
+magnitude and opposite direction. Interesting things happen when we look at test charges that
+
+are not on a line directly between the two.
+
++Q +Q
+
+We know that a charge the same distance below the middle will experience a force along a
+
+reflected line, because the problem is symmetric (i.e. if we flipped vertically it would look the
+
+same). This is also true in the horizontal direction. So we use this fact to easily draw in the
+
+next four lines.
+
++Q +Q
+
+Working through a number of possible starting points for the test charge we can show the
+
+electric field map to be:
+
+396
+
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.3
+
++Q +Q
+
+Two like charges : both negative
+
+We can use the fact that the direction of the force is reversed for a test charge if you change
+
+the sign of the charge that is influencing it. If we change to the case where both charges are
+
+negative we get the following result:
+
+-Q -Q
+

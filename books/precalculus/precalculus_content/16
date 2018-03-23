@@ -1,0 +1,116 @@
+2.4 AVERAGE RATE OF CHANGE OF A FUNCTION
+Average Rate of Change ! Linear Functions Have Constant Rate of Change
+Functions are often used to model changing quantities. In this section we learn how to find
+the rate at which the values of a function change as the input variable changes.
+! Average Rate of Change
+We are all familiar with the concept of speed: If you drive a distance of 120 miles in 
+2 hours, then your average speed, or rate of travel, is 120 mi2 h ! 60 mi/h. Now suppose you
+take a car trip and record the distance that you travel every few minutes. The distance s
+you have traveled is a function of the time t:
+s 1t 2 ! total distance traveled at time t
+We graph the function s as shown in Figure 1. The graph shows that you have traveled a
+total of 50 miles after 1 hour, 75 miles after 2 hours, 140 miles after 3 hours, and so on.
+To find your average speed between any two points on the trip, we divide the distance
+traveled by the time elapsed.
+s (mi)
+200
+150 mi
+100
+3 h
+F I G U R E  1 0 1 2 3 4 t (h) Average speed
+Let's calculate your average speed between 1:00 P.M. and 4:00 P.M. The time elapsed is
+4 $ 1 ! 3 hours. To find the distance you traveled, we subtract the distance at 1:00 P.M.
+from the distance at 4:00 P.M., that is, 200 $ 50 ! 150 mi. Thus, your average speed is
+distance traveled 150 mi
+average speed ! ! ! 50 mi/h
+time elapsed 3 h
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  2 . 4 | Average Rate of Change of a Function 173
+The average speed that we have just c
+s1alc4 2 ulated can be expressed by using function notation:$ s11 2 200 $ 50
+average speed ! ! ! 50 mi/h
+4 $ 1 3
+Note that the average speed is different over different time intervals. For example, be-
+tween 2:00 P.M. and 3:00 P.M. we fin
+s1d t3 2hat$ s12 2 140 $ 75
+average speed ! ! ! 65 mi/h
+3 $ 2 1
+Finding average rates of change is important in many contexts. For instance, we 
+might be interested in knowing how quickly the air temperature is dropping as a storm
+approaches or how fast revenues are increasing from the sale of a new product. So we 
+need to know how to determine the average rate of change of the functions that model 
+these quantities. In fact, the concept of average rate of change can be defined for any
+function.
+AVERAGE RATE OF CHANGE
+The average rate of change of the function y ! f 1x 2 between x ! a and x ! b is
+change in f 1 y b 2 $ f 1a 2
+average rate of change ! !
+change in x b $ a
+The average rate of change is the slope of the secant line between x ! a and 
+x ! b on the graph of f, that is, the line that passes through 1a, f 1a 22  and 1b, f 1b 22 .
+y
+average rate of change=f(b)-f(a)b-a
+f(b)
+y=Ï
+f(b)-f(a)
+f(a)
+b-a
+0 a b x
+E X A M P L E  1 | Calculating the Average Rate of Change
+For the function f 1x 2 ! 1x $ 3 2 2 , whose graph is shown in Figure 2, find the average rate
+y of change between the following points:
+16 (a) x ! 1 and x ! 3 (b) x ! 4 and x ! 7
+S O L U T I O N
+9
+(a) f 13 2 $ f 11 2 Average rate of change ! 1 3 $ 13 $ 3 2 2 $ 11 $ 3 2 Definition2
+1 Use f (x) ! (x $ 3)2 !
+0 3 $ 11 1 32 41 7  !F I G U R E  2 f x ! x $ 3 2 x 0 $ 42 ! $22
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  2 . 4 | Average Rate of Change of a Function 173
+The average speed that we have just c
+s1alc4 2 ulated can be expressed by using function notation:$ s11 2 200 $ 50
+average speed ! ! ! 50 mi/h
+4 $ 1 3
+Note that the average speed is different over different time intervals. For example, be-
+tween 2:00 P.M. and 3:00 P.M. we fin
+s1d t3 2hat$ s12 2 140 $ 75
+average speed ! ! ! 65 mi/h
+3 $ 2 1
+Finding average rates of change is important in many contexts. For instance, we 
+might be interested in knowing how quickly the air temperature is dropping as a storm
+approaches or how fast revenues are increasing from the sale of a new product. So we 
+need to know how to determine the average rate of change of the functions that model 
+these quantities. In fact, the concept of average rate of change can be defined for any
+function.
+AVERAGE RATE OF CHANGE
+The average rate of change of the function y ! f 1x 2 between x ! a and x ! b is
+change in f 1 y b 2 $ f 1a 2
+average rate of change ! !
+change in x b $ a
+The average rate of change is the slope of the secant line between x ! a and 
+x ! b on the graph of f, that is, the line that passes through 1a, f 1a 22  and 1b, f 1b 22 .
+y
+average rate of change=f(b)-f(a)b-a
+f(b)
+y=Ï
+f(b)-f(a)
+f(a)
+b-a
+0 a b x
+E X A M P L E  1 | Calculating the Average Rate of Change
+For the function f 1x 2 ! 1x $ 3 2 2 , whose graph is shown in Figure 2, find the average rate
+y of change between the following points:
+16 (a) x ! 1 and x ! 3 (b) x ! 4 and x ! 7
+S O L U T I O N
+9
+(a) f 13 2 $ f 11 2 Average rate of change ! 1 3 $ 13 $ 3 2 2 $ 11 $ 3 2 Definition2
+1 Use f (x) ! (x $ 3)2 !
+0 3 $ 11 1 32 41 7  !F I G U R E  2 f x ! x $ 3 2 x 0 $ 42 ! $22
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+174 C H A P T E R  2 | Functions
+(b) f 17 2 $ f 14 2 Average rate of change ! 1 7 $ 47 $ 3 2 2 $ 14 $ 3 2 Definition2
+Use f (x) # (x $ 3)2 !
+7 $ 4
+16 $ 1
+ !  ! 5
+3

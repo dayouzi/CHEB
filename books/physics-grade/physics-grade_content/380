@@ -1,0 +1,123 @@
+23.3 Energy
+
+23.3.1 External and Internal Forces
+
+In Grade 10, you saw that mechanical energy was conserved in the absence of external forces.
+
+It is important to know whether a force is an internal force or an external force, because this is
+
+related to whether the force can change an object's total mechanical energy when it does work
+
+upon an object.
+
+Activity :: Investigations : External Forces
+
+(NOTE TO SELF: need an activity that helps the learner investigate how
+
+energy is lost when external forces do work on an object.)
+
+When an external force (for example friction, air resistance, applied force) does work on an
+
+object, the total mechanical energy (KE + PE) of that object changes. If positive work is done,
+
+then the object will gain energy. If negative work is done, then the object will lose energy. The
+
+gain or loss in energy can be in the form of potential energy, kinetic energy, or both. However,
+
+the work which is done is equal to the change in mechanical energy of the object.
+
+Activity :: Investigation : Internal Forces and Energy Conservation
+
+(NOTE TO SELF: need an activity that helps the learner investigate how
+
+energy changes form when an internal force does work on an object.)
+
+519
+
+23.3 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+
+When an internal force does work on an object by an (for example, gravitational and spring
+
+forces), the total mechanical energy (KE + PE) of that object remains constant but the
+
+object's energy can change form. For example, as an object falls in a gravitational field from a
+
+high elevation to a lower elevation, some of the object's potential energy is changed into
+
+kinetic energy. However, the sum of the kinetic and potential energies remain constant. When
+
+the only forces doing work are internal forces, energy changes forms - from kinetic to potential
+
+(or vice versa); yet the total amount of mechanical is conserved.
+
+23.3.2 Capacity to do Work
+
+Energy is the capacity to do work. When positive work is done on an object, the system doing
+
+the work loses energy. In fact, the energy lost by a system is exactly equal to the work
+
+done by the system. An object with larger potential energy has a greater capacity to do work.
+
+Worked Example 152: Work Done on a System
+
+Question: Show that a hammer of mass 2 kg does more work when dropped from
+
+a height of 10 m than when dropped from a height of 5 m. Confirm that the
+
+hammer has a greater potential energy at 10 m than at 5 m.
+
+Answer
+
+Step 5 : Determine what is given and what is required
+
+We are given:
+
+• the mass of the hammer, m =2 kg
+
+• height 1, h1=10 m
+
+• height 2, h2=5 m
+
+We are required to show that the hammer does more work when dropped from h1
+
+than from h2. We are also required to confirm that the hammer has a greater
+
+potential energy at 10 m than at 5 m.
+
+Step 6 : Determine how to approach the problem
+
+1. Calculate the work done by the hammer, W1, when dropped from h1 using:
+
+W1 = Fg · h1.
+
+2. Calculate the work done by the hammer, W2, when dropped from h2 using:
+
+W2 = Fg · h2.
+
+3. Compare W1 and W2
+
+4. Calculate potential energy at h1 and h2 and compare using:
+
+PE = m · g · h. (23.2)
+
+Step 7 : Calculate W1
+
+W1 = Fg · h1
+
+= m · g · h1
+
+= (2 kg)(9.8m · s−2)(10m)
+
+= 196 J
+
+Step 8 : Calculate W2
+
+W2 = Fg · h2
+
+= m · g · h2
+
+= (2 kg)(9.8m · s−2)(5m)
+
+= 98 J
+
+520

@@ -1,0 +1,14 @@
+29.6 Using and Storing Binary Numbers
+
+In the previous section, we saw how the numbers 0 and 1 could represent ‘false' and ‘true' and
+
+could be used in decision making. Often we want to program a computer to count with
+
+numbers. To do this we need a way of writing any number using nothing other than 0 and 1.
+
+When written in this way, numbers are called binary numbers.
+
+Definition: Binary
+
+A way of writing any number using only the digits 0 and 1.
+

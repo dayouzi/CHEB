@@ -1,0 +1,382 @@
+6.3 Graphs of Particle Motion
+
+In Chapter 5, we saw that when a pulse moves through a medium, there are two different motions:
+
+the motion of the particles of the medium and the motion of the pulse. These two motions are
+
+at right angles to each other when the pulse is transverse. Since a transverse wave is a series of
+
+transverse pulses, the particle in the medium and the wave move in exactly the same way as for
+
+the pulse.
+
+When a transverse wave moves through the medium, the particles in the medium only move up
+
+and down. We can see this in the figure below, which shows the motion of a single particle as a
+
+transverse wave moves through the medium.
+
+direction of motion of the wave
+
+t = 0 s b
+
+t = 20 s
+
+b
+
+t = 40 s
+
+b
+
+t = 60 s
+
+b
+
+t = 80 s
+
+b
+
+t = 100 s
+
+b
+
+t = 120 s
+
+b
+
+t = 140 s
+
+b
+
+Important: A particle in the medium only moves up and down when a transverse wave
+
+moves through the medium.
+
+As in Chapter 3, we can draw a graph of the particles' position as a function of time. For the
+
+wave shown in the above figure, we can draw the graph shown below.
+
+y
+
+b t
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+Graph of particle position as a function of time.
+
+115
+
+6.3 CHAPTER 6. TRANSVERSE WAVES - GRADE 10
+
+The graph of the particle's velocity as a function of time is obtained by taking the gradient of
+
+the position vs. time graph. The graph of velocity vs. time for the position vs. time graph
+
+above, is shown in the graph below.
+
+vy
+
+b
+
+b
+
+b t
+
+b
+
+b
+
+b
+
+b
+
+b
+
+Graph of particle velocity as a function of time.
+
+The graph of the particle's acceleration as a function of time is obtained by taking the gradient
+
+of the velocity vs. time graph. The graph of acceleration vs. time for the position vs. time
+
+graph shown above, is shown below.
+
+ay
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b t
+
+Graph of particle acceleration as a function of time.
+
+As for motion in one dimension, these graphs can be used to describe the motion of the particle.
+
+This is illustrated in the worked examples below.
+
+Worked Example 30: Graphs of particle motion 1
+
+Question: The following graph shows the position of a particle of a wave as a
+
+function of time.
+
+y
+
+B
+
+b
+
+A C E
+
+t
+
+b
+
+D
+
+1. Draw the corresponding velocity vs. time graph for the particle.
+
+2. Draw the corresponding acceleration vs. time graph for the particle.
+
+Answer
+
+Step 1 : Determine what is given and what is required.
+
+The y vs. t graph is given.
+
+The vy vs. t and ay vs. t graphs are required.
+
+Step 2 : Draw the velocity vs. time graph
+
+To find the velocity of the particle we need to find the gradient of the y vs. t
+
+graph at each time.
+
+116
+6.3 CHAPTER 6. TRANSVERSE WAVES - GRADE 10
+The graph of the particle's velocity as a function of time is obtained by taking the gradient of
+the position vs. time graph. The graph of velocity vs. time for the position vs. time graph
+above, is shown in the graph below.
+vy
+b
+b
+b t
+b
+b
+b
+b
+b
+Graph of particle velocity as a function of time.
+The graph of the particle's acceleration as a function of time is obtained by taking the gradient
+of the velocity vs. time graph. The graph of acceleration vs. time for the position vs. time
+graph shown above, is shown below.
+ay
+b
+b
+b
+b
+b
+b
+b
+b t
+Graph of particle acceleration as a function of time.
+As for motion in one dimension, these graphs can be used to describe the motion of the particle.
+This is illustrated in the worked examples below.
+Worked Example 30: Graphs of particle motion 1
+Question: The following graph shows the position of a particle of a wave as a
+function of time.
+y
+B
+b
+A C E
+t
+b
+D
+1. Draw the corresponding velocity vs. time graph for the particle.
+2. Draw the corresponding acceleration vs. time graph for the particle.
+Answer
+Step 1 : Determine what is given and what is required.
+The y vs. t graph is given.
+The vy vs. t and ay vs. t graphs are required.
+Step 2 : Draw the velocity vs. time graph
+To find the velocity of the particle we need to find the gradient of the y vs. t
+graph at each time.
+116
+CHAPTER 6. TRANSVERSE WAVES - GRADE 10 6.3
+At point A the gradient is a maximum and positive.
+At point B the gradient is zero.
+At point C the gradient is a maximum, but negative.
+At point D the gradient is zero.
+At point E the gradient is a maximum and positive again.
+yt
+A E
+B D
+t
+C
+b
+Step 3 : Draw the acceleration vs. time graph
+To find the acceleration of the particle we need to find the gradient of the vy
+vs. t graph at each time.
+At point A the gradient is zero.
+At point B the gradient is negative and a maximum.
+At point C the gradient is zero.
+At point D the gradient is positive and a maximum.
+At point E the gradient is zero.
+ay
+D
+b
+C E
+A
+t
+b
+B
+Extension: Mathematical Description of Waves
+If you look carefully at the pictures of waves you will notice that they look very
+much like sine or cosine functions. This is correct. Waves can be described by
+trigonometric functions that are functions of time or of position. Depending on
+which case we are dealing with the function will be a function of t or x. For example,
+a function of position would be:
+x
+y(x) = A sin(k )
+λ
+while a function of time would be:
+t
+y(t) = A sin(k )
+T
+Descriptions of the wave incorporate the amplitude, wavelength, frequency or period
+and a phase shift.
+117
+CHAPTER 6. TRANSVERSE WAVES - GRADE 10 6.3
+
+At point A the gradient is a maximum and positive.
+
+At point B the gradient is zero.
+
+At point C the gradient is a maximum, but negative.
+
+At point D the gradient is zero.
+
+At point E the gradient is a maximum and positive again.
+
+yt
+
+A E
+
+B D
+
+t
+
+C
+
+b
+
+Step 3 : Draw the acceleration vs. time graph
+
+To find the acceleration of the particle we need to find the gradient of the vy
+
+vs. t graph at each time.
+
+At point A the gradient is zero.
+
+At point B the gradient is negative and a maximum.
+
+At point C the gradient is zero.
+
+At point D the gradient is positive and a maximum.
+
+At point E the gradient is zero.
+
+ay
+
+D
+
+b
+
+C E
+
+A
+
+t
+
+b
+
+B
+
+Extension: Mathematical Description of Waves
+
+If you look carefully at the pictures of waves you will notice that they look very
+
+much like sine or cosine functions. This is correct. Waves can be described by
+
+trigonometric functions that are functions of time or of position. Depending on
+
+which case we are dealing with the function will be a function of t or x. For example,
+
+a function of position would be:
+
+x
+
+y(x) = A sin(k )
+
+λ
+
+while a function of time would be:
+
+t
+
+y(t) = A sin(k )
+
+T
+
+Descriptions of the wave incorporate the amplitude, wavelength, frequency or period
+
+and a phase shift.
+
+117
+
+6.4 CHAPTER 6. TRANSVERSE WAVES - GRADE 10
+
+Exercise: Graphs of Particle Motion
+
+1. The following velocity vs. time graph for a particle in a wave is given.
+
+vy
+
+2 b b
+
+1
+
+0 b t
+
+1 2 3 4
+
+−1
+
+−2 b
+
+(a) Draw the corresponding position vs. time graph for the particle.
+
+(b) Draw the corresponding acceleration vs. time graph for the particle.
+

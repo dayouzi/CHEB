@@ -1,0 +1,105 @@
+29.3 Filters and Signal Tuning
+
+29.3.1 Capacitors and Inductors as Filters
+
+We have already seen how capacitors and inductors pass current more easily at certain
+
+frequencies than others. To recap: if we examine the equation for the reactance of a capacitor,
+
+we see that the frequency is in the denominator. Therefore, when the frequency is low, the
+
+capacitive reactance is very high. This is why a capacitor blocks the flow of DC and low
+
+frequency AC because its reactance increases with decreasing frequency.
+
+When the frequency is high, the capacitive reactance is low. This is why a capacitor allows the
+
+flow of high frequency AC because its reactance decreases with increasing frequency.
+
+Therefore putting a capacitor in a circuit blocks the low frequencies and allows the high
+
+frequencies to pass. This is called a high pass filter. A filter like this can be used in the ‘treble'
+
+setting of a sound mixer or music player which controls the amount of high frequency signal
+
+reaching the speaker. The more high frequency signal there is, the ‘tinnier' the sound. A simple
+
+high pass filter circuit is shown in Figure 29.5.
+
+Similarly, if we examine the equation for the reactance of an inductor, we see that inductive
+
+reactance increases with increasing frequency. Therefore, when the frequency is low, the
+
+inductive reactance is very low. This is why an inductor allows the flow of DC and low
+
+frequency AC because its reactance decreases with decreasing frequency.
+
+When the frequency is high, the inductive reactance is high. This is why an inductor blocks the
+
+flow of high frequency AC because its reactance increases with increasing frequency.
+
+Therefore putting an inductor in a circuit blocks the high frequencies and allows the low
+
+frequencies to pass. This is called a low pass filter. A filter like this can be used in the ‘bass'
+
+setting of a sound mixer or music player which controls the amount of low frequency signal
+
+reaching the speaker. The more low frequency signal there is, the more the sound ‘booms'. A
+
+simple low pass filter circuit is shown in Figure 29.6.
+
+C
+
+L
+
+Figure 29.5: A high pass filter. High frequencies easily pass through the capacitor and into the
+
+next part of the circuit, while low frequencies pass through the inductor straight to ground.
+
+29.3.2 LRC Circuits, Resonance and Signal Tuning
+
+A circuit containing a resistor, a capacitor and an inductor all in series is called an LRC circuit.
+
+Because the components are in series, the current through each component at a particular time
+
+will be the same as the current through the others. The voltage across the resistor will be in
+
+phase with the current. The voltage across the inductor will be 90◦ ahead of the current (the
+
+current always follows or lags the voltage in an inductor). The voltage across the capacitor will
+
+be 90◦ behind the current (the current leads the voltage for a capacitor). The phases of the
+
+three voltages are shown in Figure 29.7.
+
+596
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.3
+
+L
+
+C
+
+Figure 29.6: A low pass filter. Low frequencies pass through the inductor and into the next part
+
+of the circuit, while high frequencies pass through the capacitor straight to ground.
+
+VC
+
+VL
+
+I
+
+Time
+
+Figure 29.7: The voltages across the separate components of an LRC circuit. Looking at the
+
+peaks, you see that the voltage across the inductor VL ‘peaks' first, followed 90
+
+◦ later by the
+
+current I, followed 90◦ later by the voltage across the capacitor VC . The voltage across the
+
+resistor is not shown - it is in phase with the current and peaks at the same time as the current.
+
+597

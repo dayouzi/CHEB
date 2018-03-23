@@ -1,0 +1,97 @@
+1 FUNDAMENTALS 1
+1.1 Real Numbers 2
+1.2 Exponents and Radicals 12
+1.3 Algebraic Expressions 24
+1.4 Rational Expressions 35
+1.5 Equations 44
+1.6 Modeling with Equations 57
+1.7 Inequalities 73
+1.8 Coordinate Geometry 83
+1.9 Graphing Calculators; Solving Equations and Inequalities Graphically 96
+1.10 Lines 106
+1.11 Making Models Using Variation 118
+2 FUNCTIONS 141
+2.1 What Is a Function? 142
+2.2 Graphs of Functions 152
+2.3 Getting Information from the Graph of a Function 163
+2.4 Average Rate of Change of a Function 172
+2.5 Transformations of Functions 179
+2.6 Combining Functions 190
+2.7 One-to-One Functions and Their Inverses 199
+3 POLYNOMIAL AND RATIONAL FUNCTIONS 223
+3.1 Quadratic Functions and Models 224
+3.2 Polynomial Functions and Their Graphs 232
+3.3 Dividing Polynomials 246
+3.4 Real Zeros of Polynomials 253
+3.5 Complex Numbers 264
+3.6 Complex Zeros and the Fundamental Theorem of Algebra 269
+3.7 Rational Functions 277
+4 EXPONENTIAL AND LOGARITHMIC FUNCTIONS 301
+4.1 Exponential Functions 302
+4.2 The Natural Exponential Function 310
+4.3 Logarithmic Functions 315
+4.4 Laws of Logarithms 325
+4.5 Exponential and Logarithmic Equations 331
+4.6 Modeling with Exponential and Logarithmic Functions 340
+5 TRIGONOMETRIC FUNCTIONS: UNIT CIRCLE APPROACH 369
+5.1 The Unit Circle 370
+5.2 Trigonometric Functions of Real Numbers 377
+5.3 Trigonometric Graphs 386
+5.4 More Trigonometric Graphs 399
+5.5 Inverse Trigonometric Functions and Their Graphs 406
+5.6 Modeling Harmonic Motion 412
+6 TRIGONOMETRIC FUNCTIONS: RIGHT TRIANGLE APPROACH 433
+6.1 Angle Measure 434
+6.2 Trigonometry of Right Triangles 443
+6.3 Trigonometric Functions of Angles 451
+6.4 Inverse Trigonometric Functions and Right Triangles 462
+6.5 The Law of Sines 469
+6.6 The Law of Cosines 476
+7 ANALYTIC TRIGONOMETRY 493
+7.1 Trigonometric Identities 494
+7.2 Addition and Subtraction Formulas 500
+7.3 Double-Angle, Half-Angle, and Product-Sum Formulas 507
+7.4 Basic Trigonometric Equations 517
+7.5 More Trigonometric Equations 524
+8 POLAR COORDINATES AND PARAMETRIC EQUATIONS 541
+8.1 Polar Coordinates 542
+8.2 Graphs of Polar Equations 547
+8.3 Polar Form of Complex Numbers; De Moivre's Theorem 555
+8.4 Plane Curves and Parametric Equations 564
+9 VECTORS IN TWO AND THREE DIMENSIONS 579
+9.1 Vectors in Two Dimensions 580
+9.2 The Dot Product 589
+9.3 Three-Dimensional Coordinate Geometry 597
+9.4 Vectors in Three Dimensions 603
+9.5 The Cross Product 610
+9.6 Equations of Lines and Planes 616
+10 SYSTEMS OF EQUATIONS AND INEQUALITIES 629
+10.1 Systems of Linear Equations in Two Variables 630
+10.2 Systems of Linear Equations in Several Variables 640
+10.3 Matrices and Systems of Linear Equations 649
+10.4 The Algebra of Matrices 661
+10.5 Inverses of Matrices and Matrix Equations 672
+10.6 Determinants and Cramer's Rule 682
+10.7 Partial Fractions 693
+10.8 Systems of Nonlinear Equations 698
+10.9 Systems of Inequalities 703
+11 CONIC SECTIONS 723
+11.1 Parabolas 724
+11.2 Ellipses 732
+11.3 Hyperbolas 741
+11.4 Shifted Conics 750
+11.5 Rotation of Axes 757
+11.6 Polar Equations of Conics 765
+12 SEQUENCES AND SERIES 783
+12.1 Sequences and Summation Notation 784
+12.2 Arithmetic Sequences 794
+12.3 Geometric Sequences 800
+12.4 Mathematics of Finance 808
+12.5 Mathematical Induction 814
+12.6 The Binomial Theorem 820
+13 LIMITS: A PREVIEW OF CALCULUS 839
+13.1 Finding Limits Numerically and Graphically 840
+13.2 Finding Limits Algebraically 848
+13.3 Tangent Lines and Derivatives 856
+13.4 Limits at Infinity; Limits of Sequences 865
+13.5 Areas 872

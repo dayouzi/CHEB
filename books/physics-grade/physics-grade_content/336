@@ -1,0 +1,293 @@
+20.3.2 Deficiency
+
+A deficiency of electrons is created by adding an element that has less valence electrons than Si
+
+to the Si crystal. This is known as p-type doping and elements used for p-type doping usually
+
+come from Group III in the periodic table. Elements from Group III have 3 valence electrons,
+
+one less than the semiconductor elements that come from Group IV. A common p-type dopant
+
+is boron (B). The combination of a semiconductor and a p-type dopant is known as an p-type
+
+semiconductor. A Si crystal doped with B is shown in Figure 20.3. When B is mixed into the
+
+silicon crystal, there is a Si valence electron that is left unbonded.
+
+455
+
+20.3 CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11
+
+The lack of an electron is known as a hole and has the effect of a positive charge. Holes can
+
+conduct current. A hole happily accepts an electron from a neighbor, moving the hole over a
+
+space. Since p-type dopants ‘accept' electrons, they are known as acceptor atoms.
+
+b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b
+
+b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b
+
+b b b b b
+
+b b b b b
+
+Si b Si b SBi cb Si b Si b missing electron or hole
+
+b b b b b b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b
+
+Figure 20.3: Si crystal doped with B. For each B atom present in the Si crystal, there is one
+
+less electron. This combination of Si and B is known as a p-type semiconductor, because of its
+
+overall deficiency of electrons.
+
+Donor (n-type) impurities have extra valence electrons with energies very close to the
+
+conduction band which can be easily thermally excited to the conduction band. Acceptor
+
+(p-type) impurities capture electrons from the valence band, allowing the easy formation of
+
+holes.
+
+conduction band conduction band conduction band
+
+donor atom
+
+acceptor atom
+
+valence band valence band valence band
+
+intrinsic semiconductor n-type semiconductor p-type semiconductor
+
+The energy level of the donor atom is close to the conduction band and it is relatively easy for
+
+electrons to enter the conduction band. The energy level of the acceptor atom is close to the
+
+valence band and it is relatively easy for electrons to leave the valence band and enter the
+
+vacancies left by the holes.
+
+Exercise: Intrinsic Properties and Doping
+
+1. Explain the process of doping using detailed diagrams for p-type and n-type
+
+semiconductors.
+
+2. Draw a diagram showing a Ge crystal doped with As. What type of
+
+semiconductor is this?
+
+3. Draw a diagram showing a Ge crystal doped with B. What type of
+
+semiconductor is this?
+
+4. Explain how doping improves the conductivity of semi-conductors.
+
+5. Would the following elements make good p-type dopants or good n-type
+
+dopants?
+
+A B
+
+B P
+
+C Ga
+
+D As
+
+456
+
+Energy
+20.3 CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11
+The lack of an electron is known as a hole and has the effect of a positive charge. Holes can
+conduct current. A hole happily accepts an electron from a neighbor, moving the hole over a
+space. Since p-type dopants ‘accept' electrons, they are known as acceptor atoms.
+b b b b b
+b b b b b
+Si b Si b Si b Si b Si b
+b b b b b
+b b b b b
+b b b b b
+Si b Si b Si b Si b Si b
+b b b b b
+b b b b b
+b b b b b
+Si b Si b SBi cb Si b Si b missing electron or hole
+b b b b b b b b b b
+b b b b b
+Si b Si b Si b Si b Si b
+b b b b b b b b b b
+b b b b b
+Si b Si b Si b Si b Si b
+b b b b b
+Figure 20.3: Si crystal doped with B. For each B atom present in the Si crystal, there is one
+less electron. This combination of Si and B is known as a p-type semiconductor, because of its
+overall deficiency of electrons.
+Donor (n-type) impurities have extra valence electrons with energies very close to the
+conduction band which can be easily thermally excited to the conduction band. Acceptor
+(p-type) impurities capture electrons from the valence band, allowing the easy formation of
+holes.
+conduction band conduction band conduction band
+donor atom
+acceptor atom
+valence band valence band valence band
+intrinsic semiconductor n-type semiconductor p-type semiconductor
+The energy level of the donor atom is close to the conduction band and it is relatively easy for
+electrons to enter the conduction band. The energy level of the acceptor atom is close to the
+valence band and it is relatively easy for electrons to leave the valence band and enter the
+vacancies left by the holes.
+Exercise: Intrinsic Properties and Doping
+1. Explain the process of doping using detailed diagrams for p-type and n-type
+semiconductors.
+2. Draw a diagram showing a Ge crystal doped with As. What type of
+semiconductor is this?
+3. Draw a diagram showing a Ge crystal doped with B. What type of
+semiconductor is this?
+4. Explain how doping improves the conductivity of semi-conductors.
+5. Would the following elements make good p-type dopants or good n-type
+dopants?
+A B
+B P
+C Ga
+D As
+456
+Energy
+20.3 CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11
+
+The lack of an electron is known as a hole and has the effect of a positive charge. Holes can
+
+conduct current. A hole happily accepts an electron from a neighbor, moving the hole over a
+
+space. Since p-type dopants ‘accept' electrons, they are known as acceptor atoms.
+
+b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b
+
+b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b
+
+b b b b b
+
+b b b b b
+
+Si b Si b SBi cb Si b Si b missing electron or hole
+
+b b b b b b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b
+
+Figure 20.3: Si crystal doped with B. For each B atom present in the Si crystal, there is one
+
+less electron. This combination of Si and B is known as a p-type semiconductor, because of its
+
+overall deficiency of electrons.
+
+Donor (n-type) impurities have extra valence electrons with energies very close to the
+
+conduction band which can be easily thermally excited to the conduction band. Acceptor
+
+(p-type) impurities capture electrons from the valence band, allowing the easy formation of
+
+holes.
+
+conduction band conduction band conduction band
+
+donor atom
+
+acceptor atom
+
+valence band valence band valence band
+
+intrinsic semiconductor n-type semiconductor p-type semiconductor
+
+The energy level of the donor atom is close to the conduction band and it is relatively easy for
+
+electrons to enter the conduction band. The energy level of the acceptor atom is close to the
+
+valence band and it is relatively easy for electrons to leave the valence band and enter the
+
+vacancies left by the holes.
+
+Exercise: Intrinsic Properties and Doping
+
+1. Explain the process of doping using detailed diagrams for p-type and n-type
+
+semiconductors.
+
+2. Draw a diagram showing a Ge crystal doped with As. What type of
+
+semiconductor is this?
+
+3. Draw a diagram showing a Ge crystal doped with B. What type of
+
+semiconductor is this?
+
+4. Explain how doping improves the conductivity of semi-conductors.
+
+5. Would the following elements make good p-type dopants or good n-type
+
+dopants?
+
+A B
+
+B P
+
+C Ga
+
+D As
+
+456
+
+Energy
+
+CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11 20.4
+
+E In
+
+F Bi
+

@@ -1,0 +1,78 @@
+1.6 MODELING WITH EQUATIONS
+Making and Using Models " Problems About Interest " Problems About
+Area or Length " Problems About Mixtures " Problems About the Time
+Needed to Do a Job " Problems About Distance, Rate, and Time
+Many problems in the sciences, economics, finance, medicine, and numerous other fields
+can be translated into algebra problems; this is one reason that algebra is so useful. In this
+section we use equations as mathematical models to solve real-life problems.
+! Making and Using Models
+We will use the following guidelines to help us set up equations that model situations de-
+scribed in words. To show how the guidelines can help you to set up equations, we note
+them as we work each example in this section.
+GUIDELINES FOR MODELING WITH EQUATIONS
+1. Identify the Variable. Identify the quantity that the problem asks you to find.
+This quantity can usually be determined by a careful reading of the question
+that is posed at the end of the problem. Then introduce notation for the vari-
+able (call it x or some other letter).
+2. Translate from Words to Algebra. Read each sentence in the problem again,
+and express all the quantities mentioned in the problem in terms of the variable
+you defined in Step 1. To organize this information, it is sometimes helpful to
+draw a diagram or make a table.
+3. Set Up the Model. Find the crucial fact in the problem that gives a relation-
+ship between the expressions you listed in Step 2. Set up an equation (or
+model) that expresses this relationship.
+4. Solve the Equation and Check Your Answer. Solve the equation, check your an-
+swer, and express it as a sentence that answers the question posed in the problem.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+58 C H A P T E R  1 | Fundamentals
+The following example illustrates how these guidelines are used to translate a "word
+problem" into the language of algebra.
+E X A M P L E  1 | Renting a Car
+A car rental company charges $30 a day and 15¢ a mile for renting a car. Helen rents a
+car for two days, and her bill comes to $108. How many miles did she drive?
+S O L U T I O N
+Identify the variable. We are asked to find the number of miles Helen has driven. So
+we let
+x ! number of miles driven
+Translate from words to algebra. Now we translate all the information given in the
+problem into the language of algebra.
+In Words In Algebra
+Number of miles driven x
+Mileage cost (at $0.15 per mile) 0.15x
+Daily cost (at $30 per day) 21302
+Set up the model. Now we set up the model.
+mileage cost % daily cost total cost
+0.15x % 2130 2 !! 108
+Solve. Now we solve for x.
+ 0.15x ! 48 Subtract 60
+48
+C H E C K  Y O U R  A N S W E R  x ! Divide by 0.15
+total cost ! mileage cost % daily cost
+ ! 0.151320 2 % 2130 2 0.15 x ! 320 Calculator
+ ! 108 # Helen drove her rental car 320 miles.
+58 C H A P T E R  1 | Fundamentals
+The following example illustrates how these guidelines are used to translate a "word
+problem" into the language of algebra.
+E X A M P L E  1 | Renting a Car
+A car rental company charges $30 a day and 15¢ a mile for renting a car. Helen rents a
+car for two days, and her bill comes to $108. How many miles did she drive?
+S O L U T I O N
+Identify the variable. We are asked to find the number of miles Helen has driven. So
+we let
+x ! number of miles driven
+Translate from words to algebra. Now we translate all the information given in the
+problem into the language of algebra.
+In Words In Algebra
+Number of miles driven x
+Mileage cost (at $0.15 per mile) 0.15x
+Daily cost (at $30 per day) 21302
+Set up the model. Now we set up the model.
+mileage cost % daily cost total cost
+0.15x % 2130 2 !! 108
+Solve. Now we solve for x.
+ 0.15x ! 48 Subtract 60
+48
+C H E C K  Y O U R  A N S W E R  x ! Divide by 0.15
+total cost ! mileage cost % daily cost
+ ! 0.151320 2 % 2130 2 0.15 x ! 320 Calculator
+ ! 108 # Helen drove her rental car 320 miles.

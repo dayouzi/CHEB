@@ -1,0 +1,264 @@
+2.6. Properties of Equality and Congruence www.ck12.org
+
+2.6 Properties of Equality and Congruence
+
+Here you'll review the properties of equality you learned in Algebra I, be introduced to the properties of congruence,
+
+and learn how to use these properties.
+
+Suppose you know that a circle measures 360 degrees and you want to find what kind of angle one-quarter of a circle
+
+is. After completing this Concept, you'll be able to apply the basic properties of equality and congruence to solve
+
+geometry problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136616
+
+CK-12 Properties of Equality and Congruence
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1375
+
+James Sousa: Introduction to Proof Using Properties of Equality
+
+Now watch this.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1376
+
+James Sousa: Introduction to Proof Using Properties of Congruence
+
+Guidance
+
+The basic properties of equality were introduced to you in Algebra I. Here they are again:
+
+• Reflexive Property of Equality: AB = AB
+
+84
+
+www.ck12.org Chapter 2. Reasoning and Proof
+
+• Symmetric Property of Equality: If m6 A = m 6 B, then m6 B = m6 A
+
+• Transitive Property of Equality: If AB =CD and CD = EF , then AB = EF
+
+• Substitution Property of Equality: If a = 9 and a− c = 5, then 9− c = 5
+
+• Addition Property of Equality: If 2x = 6, then 2x+5 = 6+5 or 2x+5 = 11
+
+• Subtraction Property of Equality: If m 6 x+15◦ = 65◦, then m6 x+15◦−15◦ = 65◦−15◦ or m6 x = 50◦
+
+• Multiplication Property of Equality: If y = 8, then 5 · y = 5 ·8 or 5y = 40
+
+• Division Property of Equality: If 3b = 18, then 3b3 =
+
+18
+
+3 or b = 6
+
+• Distributive Property: 5(2x−7) = 5(2x)−5(7) = 10x−35
+
+Just like the properties of equality, there are properties of congruence. These properties hold for figures and shapes.
+
+• Reflexive Property of Congruence: AB∼= AB or 6 B∼= 6 B
+
+• Symmetric Property of Congruence: If AB ∼= CD, then CD ∼= AB. Or, if 6 ABC ∼= 6 DEF , then 6 DEF ∼=
+
+6 ABC
+
+• Transitive Property of Congruence: If AB∼= CD and CD∼= EF , then AB∼= EF . Or, if 6 ABC ∼= 6 DEF and
+
+6 DEF ∼= 6 GHI, then 6 ABC ∼= 6 GHI
+
+When you solve equations in algebra you use properties of equality. You might not write out the property for each
+
+step, but you should know that there is an equality property that justifies that step. We will abbreviate "Property of
+
+Equality" "PoE" and "Property of Congruence" "PoC" when we use these properties in proofs.
+
+Example A
+
+Solve 2(3x−4)+11 = x−27 and write the property for each step (also called "to justify each step").
+
+2(3x−4)+11 = x−27
+
+6x−8+11 = x−27 Distributive Property
+
+6x+3 = x−27 Combine like terms
+
+6x+3−3 = x−27−3 Subtraction PoE
+
+6x = x−30 Simplify
+
+6x− x = x− x−30 Subtraction PoE
+
+5x =−30 Simplify
+
+5x −30
+
+= Division PoE
+
+5 5
+
+x =−6 Simplify
+
+Example B
+
+AB = 8,BC = 17, and AC = 20. Are points A,B, and C collinear?
+
+Set up an equation using the Segment Addition Postulate.
+
+AB+BC = AC Segment Addition Postulate
+
+8+17 = 20 Substitution PoE
+
+25 6= 20 Combine like terms
+
+Because the two sides of the equation are not equal, A,B and C are not collinear.
+
+85
+www.ck12.org Chapter 2. Reasoning and Proof
+• Symmetric Property of Equality: If m6 A = m 6 B, then m6 B = m6 A
+• Transitive Property of Equality: If AB =CD and CD = EF , then AB = EF
+• Substitution Property of Equality: If a = 9 and a− c = 5, then 9− c = 5
+• Addition Property of Equality: If 2x = 6, then 2x+5 = 6+5 or 2x+5 = 11
+• Subtraction Property of Equality: If m 6 x+15◦ = 65◦, then m6 x+15◦−15◦ = 65◦−15◦ or m6 x = 50◦
+• Multiplication Property of Equality: If y = 8, then 5 · y = 5 ·8 or 5y = 40
+• Division Property of Equality: If 3b = 18, then 3b3 =
+18
+3 or b = 6
+• Distributive Property: 5(2x−7) = 5(2x)−5(7) = 10x−35
+Just like the properties of equality, there are properties of congruence. These properties hold for figures and shapes.
+• Reflexive Property of Congruence: AB∼= AB or 6 B∼= 6 B
+• Symmetric Property of Congruence: If AB ∼= CD, then CD ∼= AB. Or, if 6 ABC ∼= 6 DEF , then 6 DEF ∼=
+6 ABC
+• Transitive Property of Congruence: If AB∼= CD and CD∼= EF , then AB∼= EF . Or, if 6 ABC ∼= 6 DEF and
+6 DEF ∼= 6 GHI, then 6 ABC ∼= 6 GHI
+When you solve equations in algebra you use properties of equality. You might not write out the property for each
+step, but you should know that there is an equality property that justifies that step. We will abbreviate "Property of
+Equality" "PoE" and "Property of Congruence" "PoC" when we use these properties in proofs.
+Example A
+Solve 2(3x−4)+11 = x−27 and write the property for each step (also called "to justify each step").
+2(3x−4)+11 = x−27
+6x−8+11 = x−27 Distributive Property
+6x+3 = x−27 Combine like terms
+6x+3−3 = x−27−3 Subtraction PoE
+6x = x−30 Simplify
+6x− x = x− x−30 Subtraction PoE
+5x =−30 Simplify
+5x −30
+= Division PoE
+5 5
+x =−6 Simplify
+Example B
+AB = 8,BC = 17, and AC = 20. Are points A,B, and C collinear?
+Set up an equation using the Segment Addition Postulate.
+AB+BC = AC Segment Addition Postulate
+8+17 = 20 Substitution PoE
+25 6= 20 Combine like terms
+Because the two sides of the equation are not equal, A,B and C are not collinear.
+85
+2.6. Properties of Equality and Congruence www.ck12.org
+Example C
+If m6 A+m6 B = 100◦ and m6 B = 40◦, prove that m6 A is an acute angle.
+We will use a 2-column format, with statements in one column and their reasons next to it, just like Example A.
+m6 A+m6 B = 100◦ Given Information
+m6 B = 40◦ Given Information
+m6 A+40◦ = 100◦ Substitution PoE
+m6 A = 60◦ Subtraction PoE
+6 A is an acute angle Definition of an acute angle,m6 A < 90◦
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136617
+CK-12 Properties of Equality and Congruence
+->
+Guided Practice
+Use the given property or properties of equality to fill in the blank. x,y, and z are real numbers.
+1. Symmetric: If x = 3, then ______________.
+2. Distributive: If 4(3x−8), then ______________.
+3. Transitive: If y = 12 and x = y, then ______________.
+Answers:
+1. 3 = x
+2. 12x−32
+3. x = 12
+Explore More
+For questions 1-8, solve each equation and justify each step.
+86
+www.ck12.org Chapter 2. Reasoning and Proof
+1. 3x+11 =−16
+2. 7x−3 = 3x−35
+3. 23 g+1 = 19
+4. 12 MN = 5
+5. 5m 6 ABC = 540◦
+6. 10b−2(b+3) = 5b
+7. 14 y+
+5
+6 =
+1
+3
+8. 14 AB+
+1
+3 AB = 12+
+1
+2 AB
+For questions 9-11, use the given property or properties of equality to fill in the blank. x,y, and z are real numbers.
+9. Symmetric: If x+ y = y+ z, then ______________.
+10. Transitive: If AB = 5 and AB =CD, then ______________.
+11. Substitution: If x = y−7 and x = z+4, then ______________.
+87
+www.ck12.org Chapter 2. Reasoning and Proof
+
+1. 3x+11 =−16
+
+2. 7x−3 = 3x−35
+
+3. 23 g+1 = 19
+
+4. 12 MN = 5
+
+5. 5m 6 ABC = 540◦
+
+6. 10b−2(b+3) = 5b
+
+7. 14 y+
+
+5
+
+6 =
+
+1
+
+3
+
+8. 14 AB+
+
+1
+
+3 AB = 12+
+
+1
+
+2 AB
+
+For questions 9-11, use the given property or properties of equality to fill in the blank. x,y, and z are real numbers.
+
+9. Symmetric: If x+ y = y+ z, then ______________.
+
+10. Transitive: If AB = 5 and AB =CD, then ______________.
+
+11. Substitution: If x = y−7 and x = z+4, then ______________.
+
+87
+

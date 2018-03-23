@@ -1,0 +1,141 @@
+12.7. Tessellations www.ck12.org
+
+12.7 Tessellations
+
+Here you'll learn what a tessellation is and how to tell whether or not a regular polygon can tessellate.
+
+What if you were given a hexagon and asked to tile it over a plane such that it would fill the plane with no overlaps
+
+and no gaps? Could you do this? After completing this Concept, you'll be able to determine if a figure tessellates.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136599
+
+Tessellations CK-12
+
+Guidance
+
+A tessellation is a tiling over a plane with one or more figures such that the figures fill the plane with no overlaps
+
+and no gaps. You have probably seen tessellations before. Examples of a tessellation are: a tile floor, a brick or
+
+block wall, a checker or chess board, and a fabric pattern. The following pictures are also examples of tessellations.
+
+Notice the hexagon (cubes, first tessellation) and the quadrilaterals fit together perfectly. If we keep adding more,
+
+they will entirely cover the plane with no gaps or overlaps.
+
+We are only going to worry about tessellating regular polygons. To tessellate a shape, it must be able to exactly
+
+surround a point, or the sum of the angles around each point in a tessellation must be 360◦. The only regular
+
+polygons with this feature are equilateral triangles, squares, and regular hexagons.
+
+Example A
+
+Draw a tessellation of equilateral triangles.
+
+In an equilateral triangle each angle is 60◦. Therefore, six triangles will perfectly fit around each point.
+
+714
+
+www.ck12.org Chapter 12. Rigid Transformations
+
+Extending the pattern, we have:
+
+Example B
+
+Does a regular pentagon tessellate?
+
+First, recall that there are 540◦ in a pentagon. Each angle in a regular pentagon is 540◦÷ 5 = 108◦. From this, we
+
+know that a regular pentagon will not tessellate by itself because 108◦ times 2 or 3 does not equal 360◦.
+
+Example C
+
+How many squares will fit around one point?
+
+First, recall how many degrees are in a circle, and then figure out how many degrees are in each angle of a square.
+
+There are 360◦ in a circle and 90◦ in each interior angle of a square, so 36090 = 4 squares will fit around one point.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136600
+
+Tessellations CK-12
+
+->
+
+715
+www.ck12.org Chapter 12. Rigid Transformations
+Extending the pattern, we have:
+Example B
+Does a regular pentagon tessellate?
+First, recall that there are 540◦ in a pentagon. Each angle in a regular pentagon is 540◦÷ 5 = 108◦. From this, we
+know that a regular pentagon will not tessellate by itself because 108◦ times 2 or 3 does not equal 360◦.
+Example C
+How many squares will fit around one point?
+First, recall how many degrees are in a circle, and then figure out how many degrees are in each angle of a square.
+There are 360◦ in a circle and 90◦ in each interior angle of a square, so 36090 = 4 squares will fit around one point.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136600
+Tessellations CK-12
+->
+715
+12.7. Tessellations www.ck12.org
+Guided Practice
+1. How many regular hexagons will fit around one point?
+2. Does a regular octagon tessellate?
+3. Tessellations can also be much more complicated. Check out http://www.mathsisfun.com/geometry/tessellation.
+html to see other tessellations and play with the Tessellation Artist, which has a link at the bottom of the page.
+Answers:
+1. First, recall how many degrees are in a circle, and then figure out how many degrees are in each angle of a regular
+hexagon. There are 360◦ in a circle and 120◦ in each interior angle of a hexagon, so 360120 = 3 hexagons will fit around
+one point.
+2. First, recall that there are 1080◦ in a pentagon. Each angle in a regular pentagon is 1080◦÷8 = 135◦. From this,
+we know that a regular octagon will not tessellate by itself because 135◦ does not go evenly into 360◦.
+Explore More
+1. Tessellate a square. Add color to your design.
+2. What is an example of a tessellated square in real life?
+3. Tessellate a regular hexagon. Add color to your design.
+4. You can also tessellate two regular polygons together. Try tessellating a regular hexagon and an equilateral
+triangle. First, determine how many of each fit around a point and then repeat the pattern. Add color to your
+design.
+5. Does a regular dodecagon (12-sided shape) tessellate? Why of why not?
+6. Does a kite tessellate? Why or why not?
+Do the following figures tessellate?
+7.
+8.
+716
+www.ck12.org Chapter 12. Rigid Transformations
+9.
+10.
+11.
+12.
+717
+12.7. Tessellations www.ck12.org
+13.
+14.
+Summary
+This chapter discusses transformations of figures in the two-dimensional space. It begins with an explanation of
+reflection and rotation symmetry. The chapter then branches out to discuss the different types of transformations:
+translation (sliding a figure to a new position), rotation (rotating a figure with respect to an axis), and reflection
+(flipping a figure along a line of symmetry). Now that the different types of basic transformations are discussed,
+the composition of these actions to create a new type of transformation is explored. The chapter wraps up with a
+detailed presentation of tessellations and regular polygons.
+718
+
+
+
+
+
+

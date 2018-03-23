@@ -1,0 +1,240 @@
+4.11 Equilateral Triangles
+
+Here you'll learn the definition of an equilateral triangle as well as an important theorem about equilateral triangles:
+
+Equilateral triangles are always equiangular.
+
+What if you were presented with an equilateral triangle and told that its sides measure x, y, and 8? What could you
+
+conclude about x and y? After completing this Concept, you'll be able to apply important properties about equilateral
+
+triangles to help you solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136761
+
+CK-12 Equilateral Triangles
+
+Watch this video first.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1311
+
+James Sousa: Constructing an Equilateral Triangle
+
+Now watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1312
+
+James Sousa: Equilateral Triangles Theorem
+
+Finally, watch this video.
+
+227
+
+4.11. Equilateral Triangles www.ck12.org
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1313
+
+James Sousa: Using the Properties of Equilateral Triangles
+
+Guidance
+
+All sides in an equilateral triangle have the same length. One important property of equilateral triangles is that
+
+all of their angles are congruent (and thus 60◦ each). This is called the Equilateral Triangle Theorem and can be
+
+derived from the Base Angles Theorem.
+
+Equilateral Triangle Theorem: All equilateral triangles are also equiangular. Furthermore, all equiangular trian-
+
+gles are also equilateral.
+
+If AB∼= BC ∼= AC, then 6 A∼= 6 B∼= 6 C. Conversely, if 6 A∼= 6 B∼= 6 C, then AB∼= BC ∼= AC.
+
+Example A
+
+Find the value of x.
+
+Solution: Because this is an equilateral triangle 3x−1 = 11. Solve for x.
+
+3x−1 = 11
+
+3x = 12
+
+x = 4
+
+Example B
+
+Find the values of x and y.
+
+228
+4.11. Equilateral Triangles www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1313
+James Sousa: Using the Properties of Equilateral Triangles
+Guidance
+All sides in an equilateral triangle have the same length. One important property of equilateral triangles is that
+all of their angles are congruent (and thus 60◦ each). This is called the Equilateral Triangle Theorem and can be
+derived from the Base Angles Theorem.
+Equilateral Triangle Theorem: All equilateral triangles are also equiangular. Furthermore, all equiangular trian-
+gles are also equilateral.
+If AB∼= BC ∼= AC, then 6 A∼= 6 B∼= 6 C. Conversely, if 6 A∼= 6 B∼= 6 C, then AB∼= BC ∼= AC.
+Example A
+Find the value of x.
+Solution: Because this is an equilateral triangle 3x−1 = 11. Solve for x.
+3x−1 = 11
+3x = 12
+x = 4
+Example B
+Find the values of x and y.
+228
+www.ck12.org Chapter 4. Triangles and Congruence
+The markings show that this is an equilateral triangle since all sides are congruent. This means all sides must equal
+10. We have x = 10 and y+3 = 10 which means that y = 7.
+Example C
+Two sides of an equilateral triangle are 2x+5 units and x+13 units. How long is each side of this triangle?
+The two given sides must be equal because this is an equilateral triangle. Write and solve the equation for x.
+2x+5 = x+13
+x = 8
+To figure out how long each side is, plug in 8 for x in either of the original expressions. 2(8)+5 = 21. Each side is
+21 units.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136762
+CK-12 Equilateral Triangles
+->
+Guided Practice
+1. Find the measure of y.
+2. Fill in the proof:
+Given: Equilateral4RST with
+RT ∼= ST ∼= RS
+Prove: 4RST is equiangular
+229
+4.11. Equilateral Triangles www.ck12.org
+TABLE 4.22:
+Statement Reason
+1. 1. Given
+2. 2. Base Angles Theorem
+3. 3. Base Angles Theorem
+4. 4. Transitive PoC
+5. 4RST is equiangular 5.
+3. True or false: All equilateral triangles are isosceles triangles.
+Answers:
+1. The markings show that all angles are congruent. Since all three angles must add up to 180◦ this means that each
+angle must equal 60◦. Write and solve an equation:
+8y+4 = 60
+8y = 56
+y = 7
+2.
+TABLE 4.23:
+Statement Reason
+1. RT ∼= ST ∼= RS 1. Given
+2. 6 R∼= 6 S 2. Base Angles Theorem
+3. 6 T ∼= 6 R 3. Base Angles Theorem
+4. 6 T ∼= 6 S 4. Transitive PoC
+5. 4RST is equiangular 5. Definition of equiangular.
+3. This statement is true. The definition of an isosceles triangle is a triangle with at least two congruent sides. Since
+all equilateral triangles have three congruent sides, they fit the definition of an isosceles triangle.
+Explore More
+The following triangles are equilateral triangles. Solve for the unknown variables.
+230
+www.ck12.org Chapter 4. Triangles and Congruence
+1.
+2.
+3.
+4.
+231
+4.11. Equilateral Triangles www.ck12.org
+5.
+6.
+7.
+8.
+232
+www.ck12.org Chapter 4. Triangles and Congruence
+9.
+10.
+11.
+12.
+233
+4.11. Equilateral Triangles www.ck12.org
+13.
+14.
+15. Find the measures of x and y.
+Summary
+This chapter begins by showing that the sum of the angles in a triangle is a constant. From the Triangle Sum Theorem,
+theorems related to the exterior angles of a triangle are developed. The definition of congruency is presented and
+from that foundation the chapter presents other important theorems related to congruent triangles, such as the Third
+Angle Theorem and the SSS, SAS, ASA, AAS and HL Triangle Congruency Theorems. Isosceles triangles and
+equilateral triangles are compared and explored.
+234
+4.11. Equilateral Triangles www.ck12.org
+
+13.
+
+14.
+
+15. Find the measures of x and y.
+
+Summary
+
+This chapter begins by showing that the sum of the angles in a triangle is a constant. From the Triangle Sum Theorem,
+
+theorems related to the exterior angles of a triangle are developed. The definition of congruency is presented and
+
+from that foundation the chapter presents other important theorems related to congruent triangles, such as the Third
+
+Angle Theorem and the SSS, SAS, ASA, AAS and HL Triangle Congruency Theorems. Isosceles triangles and
+
+equilateral triangles are compared and explored.
+
+234
+
+www.ck12.org Chapter 5. Triangle Relationships
+
+CHAPTER 5 Triangle Relationships
+
+Chapter Outline
+
+5.1 MIDSEGMENT THEOREM
+
+5.2 PERPENDICULAR BISECTORS
+
+5.3 ANGLE BISECTORS IN TRIANGLES
+
+5.4 MEDIANS
+
+5.5 ALTITUDES
+
+5.6 COMPARING ANGLES AND SIDES IN TRIANGLES
+
+5.7 TRIANGLE INEQUALITY THEOREM
+
+5.8 INDIRECT PROOF IN ALGEBRA AND GEOMETRY
+
+Introduction
+
+In this chapter we will explore the properties of midsegments, perpendicular bisectors, angle bisectors, medians,
+
+and altitudes. Next, we will look at the relationship of the sides of a triangle and how the sides of one triangle can
+
+compare to another.
+
+235

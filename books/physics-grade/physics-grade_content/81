@@ -1,0 +1,73 @@
+6.4 Standing Waves and Boundary Conditions
+
+6.4.1 Reflection of a Transverse Wave from a Fixed End
+
+We have seen that when a pulse meets a fixed endpoint, the pulse is reflected, but it is inverted.
+
+Since a transverse wave is a series of pulses, a transverse wave meeting a fixed endpoint is also
+
+reflected and the reflected wave is inverted. That means that the peaks and troughs are swapped
+
+around.
+
+reflected wave
+
+wall wall
+
+Figure 6.3: Reflection of a transverse wave from a fixed end.
+
+6.4.2 Reflection of a Transverse Wave from a Free End
+
+If transverse waves are reflected from an end, which is free to move, the waves sent down the
+
+string are reflected but do not suffer a phase shift as shown in Figure 6.4.
+
+6.4.3 Standing Waves
+
+What happens when a reflected transverse wave meets an incident transverse wave? When two
+
+waves move in opposite directions, through each other, interference takes place. If the two waves
+
+have the same frequency and wavelength then standing waves are generated.
+
+Standing waves are so-called because they appear to be standing still.
+
+118
+
+CHAPTER 6. TRANSVERSE WAVES - GRADE 10 6.4
+
+reflected wave
+
+pole pole
+
+Figure 6.4: Reflection of a transverse wave from a free end.
+
+Activity :: Investigation : Creating Standing Waves
+
+Tie a rope to a fixed object such that the tied end does not move. Continuously
+
+move the free end up and down to generate firstly transverse waves and later standing
+
+waves.
+
+We can now look closely how standing waves are formed. Figure 6.5 shows a reflected wave
+
+meeting an incident wave.
+
+Figure 6.5: A reflected wave (solid line) approaches the incident wave (dashed line).
+
+When they touch, both waves have an amplitude of zero:
+
+Figure 6.6: A reflected wave (solid line) meets the incident wave (dashed line).
+
+If we wait for a short time the ends of the two waves move past each other and the waves
+
+overlap. To find the resultant wave, we add the two together.
+
+Figure 6.7: A reflected wave (solid line) overlaps slightly with the incident wave (dashed line).
+
+In this picture, we show the two waves as dotted lines and the sum of the two in the overlap
+
+region is shown as a solid line:
+
+119

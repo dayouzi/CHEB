@@ -1,0 +1,384 @@
+23.2 Work
+
+Definition: Work
+
+When a force exerted on an object causes it to move, work is done on the object (except if
+
+the force and displacement are at right angles to each other).
+
+This means that in order for work to be done, an object must be moved a distance d by a force
+
+F , such that there is some non-zero component of the force in the direction of the
+
+displacement. Work is calculated as:
+
+W = F ·∆x cos θ. (23.1)
+
+513
+
+23.2 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+
+where F is the applied force, ∆x is the displacement of the object and θ is the angle between
+
+the applied force and the direction of motion.
+
+F
+
+θ ∆x
+
+F cos θ
+
+Figure 23.1: The force F causes the object to be displaced by ∆x at angle θ.
+
+It is very important to note that for work to be done there must be a component of the applied
+
+force in the direction of motion. Forces perpendicular to the direction of motion do no work.
+
+For example work is done on the object in Figure 23.2,
+
+F
+
+∆x
+
+F
+
+(a) (b)
+
+Figure 23.2: (a) The force F causes the object to be displaced by ∆x in the same direction as
+
+the force. θ = 180◦ and cos θ = 1. Work is done in this situation. (b) A force F is applied to
+
+the object. The object is displaced by ∆y at right angles to the force. θ = 90◦ and cos θ = 0.
+
+Work is not done in this situation.
+
+Activity :: Investigation : Is work done?
+
+Decide whether on not work is done in the following situations. Remember that
+
+for work to be done a force must be applied in the direction of motion and there
+
+must be a displacement. Give reasons for your answer.
+
+1. Max applies a force to a wall and becomes tired.
+
+2. A book falls off a table and free falls to the ground.
+
+3. A rocket accelerates through space.
+
+4. A waiter carries a tray full of meals above his head by one arm straight across
+
+the room at constant speed. (Careful! This is a very difficult question.)
+
+514
+
+∆y
+23.2 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+where F is the applied force, ∆x is the displacement of the object and θ is the angle between
+the applied force and the direction of motion.
+F
+θ ∆x
+F cos θ
+Figure 23.1: The force F causes the object to be displaced by ∆x at angle θ.
+It is very important to note that for work to be done there must be a component of the applied
+force in the direction of motion. Forces perpendicular to the direction of motion do no work.
+For example work is done on the object in Figure 23.2,
+F
+∆x
+F
+(a) (b)
+Figure 23.2: (a) The force F causes the object to be displaced by ∆x in the same direction as
+the force. θ = 180◦ and cos θ = 1. Work is done in this situation. (b) A force F is applied to
+the object. The object is displaced by ∆y at right angles to the force. θ = 90◦ and cos θ = 0.
+Work is not done in this situation.
+Activity :: Investigation : Is work done?
+Decide whether on not work is done in the following situations. Remember that
+for work to be done a force must be applied in the direction of motion and there
+must be a displacement. Give reasons for your answer.
+1. Max applies a force to a wall and becomes tired.
+2. A book falls off a table and free falls to the ground.
+3. A rocket accelerates through space.
+4. A waiter carries a tray full of meals above his head by one arm straight across
+the room at constant speed. (Careful! This is a very difficult question.)
+514
+∆y
+CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12 23.2
+Important: The Meaning of θ The angle θ is the angle between the force vector and the
+displacement vector. In the following situations, θ = 0◦.
+F
+F
+F
+∆x ∆x
+∆x
+As with all physical quantities, work must have units. Following from the definition, work is
+measured in N·m. The name given to this combination of S.I. units is the joule (symbol J).
+Definition: Joule
+1 joule is the work done when an object is moved 1 m under the application of a force of
+1 N in the direction of motion.
+The work done by an object can be positive or negative. Since force (F‖) and displacement (s)
+are both vectors, the result of the above equation depends on their directions:
+• If F‖ acts in the same direction as the motion then positive work is being done. In this
+case the object on which the force is applied gains energy.
+• If the direction of motion and F‖ are opposite, then negative work is being done. This
+means that energy is transferred in the opposite direction. For example, if you try to push
+a car uphill by applying a force up the slope and instead the car rolls down the hill you
+are doing negative work on the car. Alternatively, the car is doing positive work on you!
+Important: The everyday use of the word "work" differs from the physics use. In physics,
+only the component of the applied force that is parallel to the motion does work on an
+object. So, for example, a person holding up a heavy book does no work on the book.
+Worked Example 149: Calculating Work Done I
+Question: If you push a box 20 m forward by applying a force of 15 N in the
+forward direction, what is the work you have done on the box?
+Answer
+Step 1 : Analyse the question to determine what information is provided
+• The force applied is F=15 N.
+• The distance moved is s=20 m.
+• The applied force and distance moved are in the same direction. Therefore,
+F‖=15 N.
+These quantities are all in the correct units, so no unit conversions are required.
+Step 2 : Analyse the question to determine what is being asked
+• We are asked to find the work done on the box. We know from the definition
+that work done is W = F‖s
+515
+23.2 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+Step 3 : Next we substitute the values and calculate the work done
+W = F‖s
+= (15 N)(20 m)
+= 300 J
+Remember that the answer must be positive as the applied force and the motion
+are in the same direction (forwards). In this case, you (the pusher) lose energy,
+while the box gains energy.
+Worked Example 150: Calculating Work Done II
+Question: What is the work done by you on a car, if you try to push the car up a
+hill by applying a force of 40 N directed up the slope, but it slides downhill 30 cm?
+Answer
+Step 1 : Analyse the question to determine what information is provided
+• The force applied is F=40 N
+• The distance moved is s=30 cm. This is expressed in the wrong units so we
+must convert to the proper S.I. units (meters):
+100 cm = 1m
+1
+1 cm = m
+100
+∴ 30× 11 cm = 30× m
+100
+30
+= m
+100
+= 0,3m
+• The applied force and distance moved are in opposite directions. Therefore, if
+we take s=0.3 m, then F‖=-40 N.
+Step 2 : Analyse the question to determine what is being asked
+• We are asked to find the work done on the car by you. We know that work
+done is W = F‖s
+Step 3 : Substitute the values and calculate the work done
+Again we have the applied force and the distance moved so we can proceed with
+calculating the work done:
+W = F‖s
+= (−40N)(0.3m)
+= −12J
+Note that the answer must be negative as the applied force and the motion are in
+opposite directions. In this case the car does work on the person trying to push.
+What happens when the applied force and the motion are not parallel? If there is an angle
+between the direction of motion and the applied force then to determine the work done we
+have to calculate the component of the applied force parallel to the direction of motion. Note
+that this means a force perpendicular to the direction of motion can do no work.
+516
+CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12 23.2
+Worked Example 151: Calculating Work Done III
+Question: Calculate the work done on a box, if it is pulled 5 m along the ground
+by applying a force of F=10 N at an angle of 60◦ to the horizontal.
+F
+60◦
+Answer
+Step 1 : Analyse the question to determine what information is provided
+• The force applied is F=10 N
+• The distance moved is s=5 m along the ground
+• The angle between the applied force and the motion is 60◦
+These quantities are in the correct units so we do not need to perform any unit
+conversions.
+Step 2 : Analyse the question to determine what is being asked
+• We are asked to find the work done on the box.
+Step 3 : Calculate the component of the applied force in the direction of
+motion
+Since the force and the motion are not in the same direction, we must first
+calculate the component of the force in the direction of the motion.
+F
+F‖
+60◦
+F||
+From the force diagram we see that the component of the applied force parallel to
+the ground is
+F|| = F · cos(60◦)
+= 10N · cos(60◦)
+= 5N
+Step 4 : Substitute and calculate the work done
+Now we can calculate the work done on the box:
+W = F‖s
+= (5N)(5m)
+= 25 J
+Note that the answer is positive as the component of the force F‖ is in the same
+direction as the motion.
+Exercise: Work
+517
+23.2 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+1. A 10 N force is applied to push a block across a friction free surface for a
+displacement of 5.0 m to the right. The block has a weight of 20 N.
+Determine the work done by the following forces: normal force, weight,
+applied force.
+N
+Fapp
+Fg
+2. A 10 N frictional force slows a moving block to a stop after a displacement of
+5.0 m to the right. The block has a weight of 20 N. Determine the work done
+by the following forces: normal force, weight, frictional force.
+N
+Ffriction
+Fg
+3. A 10 N force is applied to push a block across a frictional surface at constant
+speed for a displacement of 5.0 m to the right. The block has a weight of
+20 N and the frictional force is 10 N. Determine the work done by the
+following forces: normal force, weight, frictional force.
+N
+Ffriction Fapp
+Fg
+4. A 20 N object is sliding at constant speed across a friction free surface for a
+displacement of 5 m to the right. Determine if there is any work done.
+N
+Fg
+5. A 20 N object is pulled upward at constant speed by a 20 N force for a
+vertical displacement of 5 m. Determine if there is any work done.
+T
+Fg
+6. Before beginning its descent, a roller coaster is always pulled up the first hill to
+a high initial height. Work is done on the roller coaster to achieve this initial
+height. A coaster designer is considering three different incline angles of the
+hill at which to drag the 2 000 kg car train to the top of the 60 m high hill. In
+each case, the force applied to the car will be applied parallel to the hill. Her
+critical question is: which angle would require the least work? Analyze the
+data, determine the work done in each case, and answer this critical question.
+Angle of Incline Applied Force Distance Work
+35◦ 1.1× 104 N 100 m
+45◦ 1.3× 104 N 90 m
+55◦ 1.5× 104 N 80 m
+7. Big Bertha carries a 150 N suitcase up four flights of stairs (a total height of
+12 m) and then pushes it with a horizontal force of 60 N at a constant speed
+of 0.25 m·s−1 for a horizontal distance of 50 m on a frictionless surface. How
+much work does Big Bertha do on the suitcase during this entire trip?
+518
+23.2 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+
+1. A 10 N force is applied to push a block across a friction free surface for a
+
+displacement of 5.0 m to the right. The block has a weight of 20 N.
+
+Determine the work done by the following forces: normal force, weight,
+
+applied force.
+
+N
+
+Fapp
+
+Fg
+
+2. A 10 N frictional force slows a moving block to a stop after a displacement of
+
+5.0 m to the right. The block has a weight of 20 N. Determine the work done
+
+by the following forces: normal force, weight, frictional force.
+
+N
+
+Ffriction
+
+Fg
+
+3. A 10 N force is applied to push a block across a frictional surface at constant
+
+speed for a displacement of 5.0 m to the right. The block has a weight of
+
+20 N and the frictional force is 10 N. Determine the work done by the
+
+following forces: normal force, weight, frictional force.
+
+N
+
+Ffriction Fapp
+
+Fg
+
+4. A 20 N object is sliding at constant speed across a friction free surface for a
+
+displacement of 5 m to the right. Determine if there is any work done.
+
+N
+
+Fg
+
+5. A 20 N object is pulled upward at constant speed by a 20 N force for a
+
+vertical displacement of 5 m. Determine if there is any work done.
+
+T
+
+Fg
+
+6. Before beginning its descent, a roller coaster is always pulled up the first hill to
+
+a high initial height. Work is done on the roller coaster to achieve this initial
+
+height. A coaster designer is considering three different incline angles of the
+
+hill at which to drag the 2 000 kg car train to the top of the 60 m high hill. In
+
+each case, the force applied to the car will be applied parallel to the hill. Her
+
+critical question is: which angle would require the least work? Analyze the
+
+data, determine the work done in each case, and answer this critical question.
+
+Angle of Incline Applied Force Distance Work
+
+35◦ 1.1× 104 N 100 m
+
+45◦ 1.3× 104 N 90 m
+
+55◦ 1.5× 104 N 80 m
+
+7. Big Bertha carries a 150 N suitcase up four flights of stairs (a total height of
+
+12 m) and then pushes it with a horizontal force of 60 N at a constant speed
+
+of 0.25 m·s−1 for a horizontal distance of 50 m on a frictionless surface. How
+
+much work does Big Bertha do on the suitcase during this entire trip?
+
+518
+
+CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12 23.3
+
+8. A mother pushes down on a pram with a force of 50 N at an angle of 30◦.
+
+The pram is moving on a frictionless surface. If the mother pushes the pram
+
+for a horizontal distance of 30 m, how much does she do on the pram?
+
+Fapp
+
+θ
+
+b
+
+9. How much work is done by an applied force to raise a 2 000 N lift 5 floors
+
+vertically at a constant speed? Each floor is 5 m high.
+
+10. A student with a mass of 60 kg runs up three flights of stairs in 15 s, covering
+
+a vertical distance of 10 m. Determine the amount of work done by the
+
+student to elevate her body to this height. Assume that her speed is constant.
+
+11. (NOTE TO SELF: exercises are needed.)
+

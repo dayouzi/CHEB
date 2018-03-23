@@ -1,0 +1,219 @@
+11.5. Pyramids www.ck12.org
+
+11.5 Pyramids
+
+Here you'll learn what a pyramid is and how to find its volume and surface area.
+
+What if you were given a solid three-dimensional figure with one base and lateral faces that meet at a common
+
+vertex? How could you determine how much two-dimensional and three-dimensional space that figure occupies?
+
+After completing this Concept, you'll be able to find the surface area and volume of a pyramid.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136779
+
+Pyramids CK-12
+
+Guidance
+
+A pyramid is a solid with one base and lateral faces that meet at a common vertex. The edges between the lateral
+
+faces are lateral edges. The edges between the base and the lateral faces are base edges.
+
+A regular pyramid is a pyramid where the base is a regular polygon. All regular pyramids also have a slant height,
+
+which is the height of a lateral face. A non-regular pyramid does not have a slant height.
+
+630
+
+www.ck12.org Chapter 11. Surface Area and Volume
+
+Surface Area
+
+Surface area is a two-dimensional measurement that is the total area of all surfaces that bound a solid. The basic
+
+unit of area is the square unit. For pyramids, we will need to use the slant height, which is labeled l, to find the area
+
+of each triangular face.
+
+Surface Area of a Regular Pyramid: If B is the area of the base, and n is the number of triangles, then SA =
+
+B+ 12 nbl.
+
+The net shows the surface area of a pyramid. If you ever forget the formula, use the net.
+
+Volume
+
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+
+cubic unit.
+
+Volume of a Pyramid: V = 13 Bh where B is the area of the base.
+
+Example A
+
+Find the slant height of the square pyramid.
+
+The slant height is the hypotenuse of the right triangle formed by the height and half the base length. Use the
+
+Pythagorean Theorem.
+
+631
+www.ck12.org Chapter 11. Surface Area and Volume
+Surface Area
+Surface area is a two-dimensional measurement that is the total area of all surfaces that bound a solid. The basic
+unit of area is the square unit. For pyramids, we will need to use the slant height, which is labeled l, to find the area
+of each triangular face.
+Surface Area of a Regular Pyramid: If B is the area of the base, and n is the number of triangles, then SA =
+B+ 12 nbl.
+The net shows the surface area of a pyramid. If you ever forget the formula, use the net.
+Volume
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+cubic unit.
+Volume of a Pyramid: V = 13 Bh where B is the area of the base.
+Example A
+Find the slant height of the square pyramid.
+The slant height is the hypotenuse of the right triangle formed by the height and half the base length. Use the
+Pythagorean Theorem.
+631
+11.5. Pyramids www.ck12.org
+82 +242 = l2
+√640 = l
+2
+√
+l = 640 = 8 10
+Example B
+Find the surface area of the pyramid from Example A.
+( (1 ) √ ) √The total surface area of the four triangular faces is 4 2 bl = 2(16) 8 10 = 256 √10. To find the total surface
+area, we also need the area of the base, which is 162 = 256. The total surface area is 256 10+256≈ 1065.54 units2.
+Example C
+Find the volume of the pyramid.
+V = 13(12
+2)12 = 576 units3
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136780
+Pyramids CK-12
+->
+632
+www.ck12.org Chapter 11. Surface Area and Volume
+Guided Practice
+1. Find the surface area of the regular triangular pyramid.
+2. If the lateral surface area of a regular square pyramid is 72 f t2 and the base edge is equal to the slant height. What
+is the length of the base edge?
+3. Find the height and then volume of the pyramid.
+4. Find the volume of the pyramid with a right triangle as its base.
+5. A rectangular pyramid has a base area of 56 cm2 and a volume of 224 cm3. What is the height of the pyramid?
+Answers:
+1. "Regular" tells us the base is an equilateral triangle. Let's draw it and find its area.
+633
+11.5. Pyramids www.ck12.org
+√ √
+B = 12 ·8 ·4 3 = 16 3
+The surfa√ce area is: √
+SA = 16 3+ 12 ·3 ·8 ·18 = 16 3+216≈ 243.71
+2. In the formula for surface area, the lateral surface area is 12 nbl. We know that n = 4 and b = l. Let's solve for b.
+1
+nbl = 72 f t2
+2
+1
+(4)b2 = 72
+2
+2b2 = 72
+b2 = 36
+b = 6 f eet
+3. In this example, we are given the slant height. Use the Pythagorean Theorem.
+72 +h2 = 252
+h2 = 576
+h = 24
+V = 13(14
+2)(24) = 1568 units3.
+4. The base of the pyramid is a right triangle. The area of the base is 12(14)(8) = 56 units
+2.
+V = 13(56)(17)≈ 317.33 units3
+5. Use the formula for volume and plug in the information we were given. Then solve for the height.
+1
+V = Bh
+3
+1
+224 = ·56h
+3
+12 = h
+Explore More
+Fill in the blanks about the diagram to the left.
+634
+www.ck12.org Chapter 11. Surface Area and Volume
+1. x is the ___________.
+2. The slant height is ________.
+3. y is the ___________.
+4. The height is ________.
+5. The base is _______.
+6. The base edge is ________.
+For questions 7-8, sketch each of the following solids and answer the question. Your drawings should be to scale,
+but not one-to-one. Leave your answer in simplest radical form.
+7. Draw a square pyramid with an edge length of 9 in and a 12 in height. Find the slant height.
+8. Draw an equilateral triangle pyramid with an edge length of 6 cm and a height of 6 cm. What is the height of
+the base?
+Find the slant height, l, of one lateral face in each pyramid. Round your answer to the nearest hundredth.
+9.
+10.
+Find the surface area and volume of the regular pyramid. Round your answers to the nearest hundredth.
+11.
+12.
+635
+11.5. Pyramids www.ck12.org
+13.
+14.
+15.
+16.
+17. A regular tetrahedron has four equilateral triangles as its faces.
+a. Find the height of one of the faces if the edge length is 6 units.
+b. Find the area of one face.
+c. Find the total surface area of the regular tetrahedron.
+18. If the surface area of a square pyramid is 40 f t2 and the base edge is 4 ft, what is the slant height?
+19. If the lateral area of a square pyramid is 800 in2 and the slant height is 16 in, what is the length of the base
+edge?
+20. If the lateral area of a regular triangle pyramid is 252 in2 and the base edge is 8 in, what is the slant height?
+21. The volume of a square pyramid is 72 square inches and the base edge is 4 inches. What is the height?
+22. The volume of a triangle pyramid is 170 in3 and the base area is 34 in2. What is the height of the pyramid?
+636
+11.5. Pyramids www.ck12.org
+
+13.
+
+14.
+
+15.
+
+16.
+
+17. A regular tetrahedron has four equilateral triangles as its faces.
+
+a. Find the height of one of the faces if the edge length is 6 units.
+
+b. Find the area of one face.
+
+c. Find the total surface area of the regular tetrahedron.
+
+18. If the surface area of a square pyramid is 40 f t2 and the base edge is 4 ft, what is the slant height?
+
+19. If the lateral area of a square pyramid is 800 in2 and the slant height is 16 in, what is the length of the base
+
+edge?
+
+20. If the lateral area of a regular triangle pyramid is 252 in2 and the base edge is 8 in, what is the slant height?
+
+21. The volume of a square pyramid is 72 square inches and the base edge is 4 inches. What is the height?
+
+22. The volume of a triangle pyramid is 170 in3 and the base area is 34 in2. What is the height of the pyramid?
+
+636
+
+www.ck12.org Chapter 11. Surface Area and Volume
+

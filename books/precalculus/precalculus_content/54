@@ -1,0 +1,44 @@
+7.5 MORE TRIGONOMETRIC EQUATIONS
+Solving Trigonometric Equations by Using Identities ! Equations 
+with Trigonometric Functions of Multiples of Angles 
+In this section we solve trigonometric equations by first using identities to simplify the
+equation. We also solve trigonometric equations in which the terms contain multiples of
+angles.
+! Solving Trigonometric Equations by Using Identities
+In the next two examples we use trigonometric identities to express a trigonometric equa-
+tion in a form in which it can be factored. 
+E X A M P L E  1 Using a Trigonometric Identity 
+Solve the equation 1 ! sin u " 2 cos2 u.
+S O L U T I O N We first need to rewrite this equation so that it contains only one trigono-
+metric function. To do this, we use a trigonometric identity:
+ 1 ! sin u " 2 cos2 u
+ 1 ! sin u " 211 # sin2 u 2 Given equationPythagorean identity
+ 2 sin2 u !
+ 12 sin u # 1 2 1 sin u # 1 " 0sin u ! 1 2 Put all terms on one side" 0 Factor
+ 2 sin u # 1 " 0 or  sin u ! 1 " 0 Set each factor equal to 0 
+1
+ sin u " or  sin u " #1 Solve for sin u
+2
+p 5p 3p Solve for u in the 
+ u " ,  or  u "
+6 6 2 interval 30, 2p 2
+Because sine has period 2p, we get all the solutions of the equation by adding integer
+multiples of 2p to these solutions. Thus the solutions are
+p 5p 3p
+u " ! 2kp u " ! 2kp u " ! 2kp
+6 6 2
+where k is any integer.
+S E C T I O N  7 . 5 | More Trigonometric Equations 525
+cos u " 0 or  2 sin u # 1 " 0 Set each factor equal to 0
+1
+ sin u " Solve for sin u
+2
+p 3p p 5p
+u " ,  or u " ,  Solve for u in 30, 2p 2
+2 2 6 6
+Both sine and cosine have period 2p, so we get all the solutions of the equation by adding
+integer multiples of 2p to these solutions. Thus the solutions are 
+p 3p p 5p
+u " ! 2kp u " ! 2kp u " ! 2kp u " ! 2kp
+2 2 6 6
+where k is any integer.

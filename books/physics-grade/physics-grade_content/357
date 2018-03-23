@@ -1,0 +1,22 @@
+21.5.2 What is a frame of reference?
+
+Definition: Frame of Reference
+
+A frame of reference is the point of view from which a system is observed.
+
+In practical terms, a frame of reference is a set of axes (specifying directions) with an origin.
+
+An observer can then measure the position and motion of all points in a system, as well as the
+
+orientation of objects in the system relative to the frame of reference.
+
+There are two types of reference frames: inertial and non-inertial. An inertial frame of
+
+reference travels at a constant velocity, which means that Newton's first law (inertia) holds
+
+true. A non-inertial frame of reference, such as a moving car or a rotating carousel, accelerates.
+
+Therefore, Newton's first law does not hold true in a non-inertial reference frame, as objects
+
+appear to accelerate without the appropriate forces.
+

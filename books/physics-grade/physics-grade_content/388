@@ -1,0 +1,271 @@
+24.2 The Doppler Effect with Sound and Ultrasound
+
+As seen in the introduction, there are two situations which lead to the Doppler Effect:
+
+1. When the source moves relative to the observer, for example the pitch of a car hooter as
+
+it passes by.
+
+2. When the observer moves relative to the source, for example the pitch of a radio on the
+
+pavement as you drive by.
+
+Definition: Doppler Effect
+
+The Doppler effect is the apparent change in frequency and wavelength of a wave when the
+
+observer and the source of the wave move relative to each other.
+
+We experience the Doppler effect quite often in our lives, without realising that it is science
+
+taking place. The changing sound of a taxi hooter or ambulance as it drives past are examples
+
+of this as you have seen in the introduction.
+
+The question is how does the Doppler effect take place. Let us consider a source of sound
+
+waves with a constant frequency and amplitude. The sound waves can be drawn as concentric
+
+circles where each circle represents another wavefront, like in figure 24.1 below.
+
+The sound source is the dot in the middle and is stationary. For the Doppler effect to take
+
+place, the source must be moving. Let's consider the following situation: The source (dot)
+
+emits one peak (represented by a circle) that moves away from the source at the same rate in
+
+all directions.
+
+533
+
+24.2 CHAPTER 24. DOPPLER EFFECT - GRADE 12
+
+Figure 24.1: Stationary sound source
+
+2
+
+1
+
+−2 −1 1 2
+
+−1
+
+−2
+
+As this peak moves away, the source also moves and then emits the second peak. Now the two
+
+circles are not concentric any more, but on the one side they are closer together and on the
+
+other side they are further apart. This is shown in the next diagram.
+
+2
+
+1
+
+−2 −1 1 2
+
+−1
+
+−2
+
+If the source continues moving at the same speed in the same direction (i.e. with the same
+
+velocity which you will learn more about later). then the distance between peaks on the right
+
+of the source is the constant. The distance between peaks on the left is also constant but they
+
+are different on the left and right.
+
+534
+24.2 CHAPTER 24. DOPPLER EFFECT - GRADE 12
+Figure 24.1: Stationary sound source
+2
+1
+−2 −1 1 2
+−1
+−2
+As this peak moves away, the source also moves and then emits the second peak. Now the two
+circles are not concentric any more, but on the one side they are closer together and on the
+other side they are further apart. This is shown in the next diagram.
+2
+1
+−2 −1 1 2
+−1
+−2
+If the source continues moving at the same speed in the same direction (i.e. with the same
+velocity which you will learn more about later). then the distance between peaks on the right
+of the source is the constant. The distance between peaks on the left is also constant but they
+are different on the left and right.
+534
+CHAPTER 24. DOPPLER EFFECT - GRADE 12 24.2
+2
+1
+−2 −1 1 2
+−1
+−2
+This means that the time between peaks on the right is less so the frequency is higher. It is
+higher than on the left and higher than if the source were not moving at all.
+On the left hand side the peaks are further apart than on the right and further apart than if the
+source were at rest - this means the frequency is lower.
+When a car appoaches you, the sound waves that reach you have a shorter wavelength and a
+higher frequency. You hear a higher sound. When the car moves away from you, the sound
+waves that reach you have a longer wavelength and lower frequency. You hear a lower sound.
+This change in frequency can be calculated by using:
+v ± vL
+fL = f ( 4 1
+v ∓ S 2 . )vS
+where fL is the frequency perceived by the listener,
+fS is the frequency of the source,
+v is the speed of the waves,
+vL the speed of the listener and
+vS the speed of the source.
+Worked Example 157: The Doppler Effect for Sound
+Question: The siren of an ambulance has a frequency of 700 Hz. You are
+standing on the pavement. If the ambulance drives past you at a speed of 20
+m·s−1, what frequency will you hear, when
+a) the ambulance is approaching you
+b) the ambulance is driving away from you
+Take the speed of sound to be 340 m·s−1.
+Answer
+Step 1 : Determine how to appoach the problem based on what is given
+v ± vL
+fL = f
+v ∓ SvS
+fs = 700Hz
+v = 340m · s−1
+vL = 0
+vS = −20m · s−1 for (a) and
+vS = 20m · s−1 for (b)
+Step 2 : Determine fL when ambulance is appoaching
+535
+24.2 CHAPTER 24. DOPPLER EFFECT - GRADE 12
+340 + 0
+fL = (7 0
+340− 0 )20
+= 743,75Hz
+Step 3 : Determine fL when ambulance has passed
+340 + 0
+fL = (700)
+340 + 20
+= 661,11Hz
+Worked Example 158: The Doppler Effect for Sound 2
+Question: What is the frequency heard by a person driving at 15 m·s−1 toward a
+factory whistle that is blowing at a frequency of 800 Hz. Assume that the speed of
+sound is 340 m·s−1.
+Answer
+Step 1 : Determine how to approach the problem based on what is given
+We can use
+v ± vL
+fL = f
+v ∓ SvS
+with:
+v = 340,6m · s−1
+vL = +15m · s−1
+vS = 0m · s−1
+fS = 800 Hz
+fL = ?
+The listener is moving towards the source, so vL is positive.
+Step 2 : Calculate the frequency
+v ± vL
+fL = f
+v ∓ SvS
+340,6m · s−1 + 15m · s−1
+= (800 H
+340,6m · z)s−1 + 0m · s−1
+= 835 Hz
+Step 3 : Write the final answer
+The driver hears a frequency of 835 Hz.
+Itneterreessttinigng Radar-based speed-traps use the Doppler Effect. The radar gun emits radio
+FFacctt waves of a specific frequency. When the car is standing still, the waves reflected
+waves are the same frequency as the waves emitted by the radar gun. When
+the car is moving the Doppler frequency shift can be used to determine the
+speed of the car.
+536
+24.2 CHAPTER 24. DOPPLER EFFECT - GRADE 12
+
+340 + 0
+
+fL = (7 0
+
+340− 0 )20
+
+= 743,75Hz
+
+Step 3 : Determine fL when ambulance has passed
+
+340 + 0
+
+fL = (700)
+
+340 + 20
+
+= 661,11Hz
+
+Worked Example 158: The Doppler Effect for Sound 2
+
+Question: What is the frequency heard by a person driving at 15 m·s−1 toward a
+
+factory whistle that is blowing at a frequency of 800 Hz. Assume that the speed of
+
+sound is 340 m·s−1.
+
+Answer
+
+Step 1 : Determine how to approach the problem based on what is given
+
+We can use
+
+v ± vL
+
+fL = f
+
+v ∓ SvS
+
+with:
+
+v = 340,6m · s−1
+
+vL = +15m · s−1
+
+vS = 0m · s−1
+
+fS = 800 Hz
+
+fL = ?
+
+The listener is moving towards the source, so vL is positive.
+
+Step 2 : Calculate the frequency
+
+v ± vL
+
+fL = f
+
+v ∓ SvS
+
+340,6m · s−1 + 15m · s−1
+
+= (800 H
+
+340,6m · z)s−1 + 0m · s−1
+
+= 835 Hz
+
+Step 3 : Write the final answer
+
+The driver hears a frequency of 835 Hz.
+
+Itneterreessttinigng Radar-based speed-traps use the Doppler Effect. The radar gun emits radio
+
+FFacctt waves of a specific frequency. When the car is standing still, the waves reflected
+
+waves are the same frequency as the waves emitted by the radar gun. When
+
+the car is moving the Doppler frequency shift can be used to determine the
+
+speed of the car.
+
+536
+
+CHAPTER 24. DOPPLER EFFECT - GRADE 12 24.3
+

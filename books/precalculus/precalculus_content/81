@@ -1,0 +1,108 @@
+11.4 SHIFTED CONICS
+Shifting Graphs of Equations ! Shifted Ellipses ! Shifted Parabolas !
+Shifted Hyperbolas ! The General Equation of a Shifted Conic
+In the preceding sections we studied parabolas with vertices at the origin and ellipses and
+hyperbolas with centers at the origin. We restricted ourselves to these cases because these
+equations have the simplest form. In this section we consider conics whose vertices and cen-
+ters are not necessarily at the origin, and we determine how this affects their equations.
+! Shifting Graphs of Equations
+In Section 2.5 we studied transformations of functions that have the effect of shifting their
+graphs. In general, for any equation in x and y, if we replace x by x # h or by x ! h, the
+graph of the new equation is simply the old graph shifted horizontally; if y is replaced by
+y # k or by y ! k, the graph is shifted vertically. The following box gives the details.
+SHIFTING GRAPHS OF EQUATIONS
+If h and k are positive real numbers, then replacing x by x # h or by x ! h and 
+replacing y by y # k or by y ! k has the following effect(s) on the graph of any
+equation in x and y.
+Replacement How the graph is shifted
+1. x replaced by x # h Right h units
+2. x replaced by x ! h Left h units
+3. y replaced by y # k Upward k units
+4. y replaced by y ! k Downward k units
+! Shifted Ellipses
+Let's apply horizontal and vertical shifting to the ellipse with equation
+x 2 y 2 
+2 ! b 2
+" 1
+a  
+whose graph is shown in Figure 1. If we shift it so that its center is at the point 1h, k 2 in-
+stead of at the origin, then its eq1uationx # h 2 becom2 1 esy # k 2 2
+a 2
+! 1
+ b 2
+"
+ 
+y (x-h)™
+a™ +
+(y-k)™
+b™ =1
+b (h, k)
+x™
+a™ + 
+y
+b  
+™
+™  =1 a
+b ™ (x, y) k
+(0, 0) a x
+h
+F I G U R E  1 Shifted (x-h, y-k)ellipse
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 1 . 4 | Shifted Conics 751
+E X A M P L E  1 | Sketching the Graph of a Shifted Ellipse
+Sketch a graph of the ellipse 1x ! 1 2 2 1y # 2 2 2
+! " 1
+4 9
+and determine the coordinates of the foci.
+S O L U T I O N The elli1psex ! 1 2 2 1y # 2 2 2
+4 1! " 19 Shifted ellipseis shifted so that its center is at #1,  2 2 . It is obtained from the ellipse
+x2 y 2 
+! " 1
+4 9 Ellipse with center at origin
+by shifting it left 1 unit and upward 2 units. The endpoints of the minor and major axes
+of the ellipse with center at the origin are 12, 0 2 , 1#2, 0 2 , 10, 3 2 , 10, #3 2 . We apply the
+y required shifts to these points to obtain the corresponding points on the shifted ellipse:
+ 12, 0 2  !  12 # 1, 0 ! 2 2 "
+ 1#2, 0 2  !  1#2 # 1, 0 ! 2 2 11," 1 2 2(_1, 5) #3, 
+3 22 2 10, 3 2  !  10 # 1, 3 ! 2 2 " 1#1, 5
+ 10, #3 2  !  10 # 1, #3 ! 2 2 " 1#1, #1 2
+(_3, 2) (_1, 2) (1, 2) This helps us sketch the graph in Figure 2.
+2 To find the foci of the shifted ellipse, we first find the foci of the ellipse with center at
+0 x the oA rigin  " 9 b 2 4 c 2 9 4 50, &1. Si5Bnce a 2 and  " , we have  " # " , so . So the fociare . Shifting left 1 unit and upward 2 units, we get
+(_1, _1)
+A A0, 15B !  A0 # 1, 15 ! 2B " A#1, 2 ! 1
+c " 15
+5B
+0, #15B !  A0 # 1, #15 ! 2B " A#1, 2 # 15B
+F1 I G U R2E  2x ! 1 2 1y # 2 2 2 Thus the foci of the shifted ellipse are
+! " 1
+4 9 A#1, 2 ! 15B  and  A#1, 2 # 15B
+S E C T I O N  1 1 . 4 | Shifted Conics 751
+E X A M P L E  1 | Sketching the Graph of a Shifted Ellipse
+Sketch a graph of the ellipse 1x ! 1 2 2 1y # 2 2 2
+! " 1
+4 9
+and determine the coordinates of the foci.
+S O L U T I O N The elli1psex ! 1 2 2 1y # 2 2 2
+4 1! " 19 Shifted ellipseis shifted so that its center is at #1,  2 2 . It is obtained from the ellipse
+x2 y 2 
+! " 1
+4 9 Ellipse with center at origin
+by shifting it left 1 unit and upward 2 units. The endpoints of the minor and major axes
+of the ellipse with center at the origin are 12, 0 2 , 1#2, 0 2 , 10, 3 2 , 10, #3 2 . We apply the
+y required shifts to these points to obtain the corresponding points on the shifted ellipse:
+ 12, 0 2  !  12 # 1, 0 ! 2 2 "
+ 1#2, 0 2  !  1#2 # 1, 0 ! 2 2 11," 1 2 2(_1, 5) #3, 
+3 22 2 10, 3 2  !  10 # 1, 3 ! 2 2 " 1#1, 5
+ 10, #3 2  !  10 # 1, #3 ! 2 2 " 1#1, #1 2
+(_3, 2) (_1, 2) (1, 2) This helps us sketch the graph in Figure 2.
+2 To find the foci of the shifted ellipse, we first find the foci of the ellipse with center at
+0 x the oA rigin  " 9 b 2 4 c 2 9 4 50, &1. Si5Bnce a 2 and  " , we have  " # " , so . So the fociare . Shifting left 1 unit and upward 2 units, we get
+(_1, _1)
+A A0, 15B !  A0 # 1, 15 ! 2B " A#1, 2 ! 1
+c " 15
+5B
+0, #15B !  A0 # 1, #15 ! 2B " A#1, 2 # 15B
+F1 I G U R2E  2x ! 1 2 1y # 2 2 2 Thus the foci of the shifted ellipse are
+! " 1
+4 9 A#1, 2 ! 15B  and  A#1, 2 # 15B

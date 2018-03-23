@@ -1,0 +1,269 @@
+4.7. SAS Triangle Congruence www.ck12.org
+
+4.7 SAS Triangle Congruence
+
+Here you'll learn how to prove that triangles are congruent given information only about two of their sides and the
+
+angle between those two sides.
+
+What if you were given two triangles and provided with only two of their side lengths and the measure of the angle
+
+between those two sides? How could you determine if the two triangles were congruent? After completing this
+
+Concept, you'll be able to use the Side-Angle-Side (SAS) shortcut to prove triangle congruency.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136749
+
+CK-12
+
+Watch the portions of the following two videos that deal with SAS triangle congruence.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1303
+
+James Sousa: Introduction to Congruent Triangles
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1304
+
+James Sousa: Determining If Two Triangles are Congruent
+
+Finally, watch this video.
+
+200
+
+www.ck12.org Chapter 4. Triangles and Congruence
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1305
+
+James Sousa: Example 1: Prove Two Triangles are Congruent
+
+Guidance
+
+If two sides and the included angle in one triangle are congruent to two sides and the included angle in another
+
+triangle, then the two triangles are congruent. (When an angle is between two given sides of a polygon it is called
+
+an included angle.)
+
+AC ∼= XZ, BC ∼= Y Z, and 6 C ∼= 6 Z, then4ABC ∼=4XY Z.
+
+This is called the Side-Angle-Side (SAS) Postulate and it is a shortcut for proving that two triangles are congruent.
+
+The placement of the word Angle is important because it indicates that the angle you are given is between the two
+
+sides.
+
+6 B would be the included angle for sides AB and BC.
+
+Example A
+
+What additional piece of information do you need to show that these two triangles are congruent using the SAS
+
+Postulate?
+
+201
+www.ck12.org Chapter 4. Triangles and Congruence
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1305
+James Sousa: Example 1: Prove Two Triangles are Congruent
+Guidance
+If two sides and the included angle in one triangle are congruent to two sides and the included angle in another
+triangle, then the two triangles are congruent. (When an angle is between two given sides of a polygon it is called
+an included angle.)
+AC ∼= XZ, BC ∼= Y Z, and 6 C ∼= 6 Z, then4ABC ∼=4XY Z.
+This is called the Side-Angle-Side (SAS) Postulate and it is a shortcut for proving that two triangles are congruent.
+The placement of the word Angle is important because it indicates that the angle you are given is between the two
+sides.
+6 B would be the included angle for sides AB and BC.
+Example A
+What additional piece of information do you need to show that these two triangles are congruent using the SAS
+Postulate?
+201
+4.7. SAS Triangle Congruence www.ck12.org
+a) 6 ABC ∼= 6 LKM
+b) AB∼= LK
+c) BC ∼= KM
+d) 6 BAC ∼= 6 KLM
+For the SAS Postulate, you need the side on the other side of the angle. In 4ABC, that is BC and in 4LKM that is
+KM. The answer is c.
+Example B
+Write a two-column proof to show that the two triangles are congruent.
+Given: C is the midpoint of AE and DB
+Prove: 4ACB∼=4ECD
+TABLE 4.6:
+Statement Reason
+1. C is the midpoint of AE and DB 1. Given
+2. AC ∼=CE, BC ∼=CD 2. Definition of a midpoint
+3. 6 ACB∼= 6 DCE 3. Vertical Angles Postulate
+4. 4ACB∼=4ECD 4. SAS Postulate
+Example C
+Is the pair of triangles congruent? If so, write the congruence statement and why.
+While the triangles have two pairs of sides and one pair of angles that are congruent, the angle is not in the same place
+in both triangles. The first triangle fits with SAS, but the second triangle is SSA. There is not enough information
+for us to know whether or not these triangles are congruent.
+202
+www.ck12.org Chapter 4. Triangles and Congruence
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136750
+CK-12
+->
+Guided Practice
+1. Is the pair of triangles congruent? If so, write the congruence statement and why.
+2. State the additional piece of information needed to show that each pair of triangles is congruent.
+3. Fill in the blanks in the proof below.
+Given:
+AB∼= DC, BE ∼=CE
+Prove: 4ABE ∼=4ACE
+TABLE 4.7:
+Statement Reason
+1. 1.
+2. 6 AEB∼= 6 DEC 2.
+3. 4ABE ∼=4ACE 3.
+203
+4.7. SAS Triangle Congruence www.ck12.org
+Answers:
+1. The pair of triangles is congruent by the SAS postulate. 4CAB∼=4QRS.
+2. We know that one pair of sides and one pair of angles are congruent from the diagram. In order to know that the
+triangles are congruent by SAS we need to know that the pair of sides on the other side of the angle are congruent.
+So, we need to know that EF ∼= BA.
+3.
+TABLE 4.8:
+Statement Reason
+1. AB∼= DC, BE ∼=CE 1. Given
+2. 6 AEB∼= 6 DEC 2. Vertical Angle Theorem
+3. 4ABE ∼=4ACE 3. SAS postulate
+Explore More
+Are the pairs of triangles congruent? If so, write the congruence statement and why.
+1.
+2.
+3.
+State the additional piece of information needed to show that each pair of triangles is congruent by SAS.
+4.
+5.
+204
+www.ck12.org Chapter 4. Triangles and Congruence
+6.
+Fill in the blanks in the proofs below.
+7. Given:
+• B is a midpoint of DC
+• AB⊥ DC
+Prove: 4ABD∼=4ABC
+TABLE 4.9:
+Statement Reason
+1. B is a midpoint of DC,AB⊥ DC 1.
+2. 2. Definition of a midpoint
+3. 6 ABD and 6 ABC are right angles 3.
+4. 4. All right angles are ∼=
+5. 5.
+6. 4ABD∼=4ABC 6.
+8. Given:
+• AB is an angle bisector of 6 DAC
+• AD∼= AC
+Prove: 4ABD∼=4ABC
+TABLE 4.10:
+Statement Reason
+1. 1.
+2. 6 DAB∼= 6 BAC 2.
+205
+4.7. SAS Triangle Congruence www.ck12.org
+TABLE 4.10: (continued)
+Statement Reason
+3. 3. Reflexive PoC
+4. 4ABD∼=4ABC 4.
+9. Given:
+• B is the midpoint of DE and AC
+• 6 ABE is a right angle
+Prove: 4ABE ∼=4CBD
+TABLE 4.11:
+Statement Reason
+1. 1. Given
+2. DB∼= BE, AB∼= BC 2.
+3. 3. Definition of a Right Angle
+4. 4. Vertical Angle Theorem
+5. 4ABE ∼=4CBD 5.
+10. Given:
+• DB is the angle bisector of 6 ADC
+• AD∼= DC
+Prove: 4ABD∼=4CBD
+TABLE 4.12:
+Statement Reason
+1. 1.
+2. 6 ADB∼= 6 BDC 2.
+3. 3.
+4. 4ABD∼=4CBD 4.
+206
+4.7. SAS Triangle Congruence www.ck12.org
+
+TABLE 4.10: (continued)
+
+Statement Reason
+
+3. 3. Reflexive PoC
+
+4. 4ABD∼=4ABC 4.
+
+9. Given:
+
+• B is the midpoint of DE and AC
+
+• 6 ABE is a right angle
+
+Prove: 4ABE ∼=4CBD
+
+TABLE 4.11:
+
+Statement Reason
+
+1. 1. Given
+
+2. DB∼= BE, AB∼= BC 2.
+
+3. 3. Definition of a Right Angle
+
+4. 4. Vertical Angle Theorem
+
+5. 4ABE ∼=4CBD 5.
+
+10. Given:
+
+• DB is the angle bisector of 6 ADC
+
+• AD∼= DC
+
+Prove: 4ABD∼=4CBD
+
+TABLE 4.12:
+
+Statement Reason
+
+1. 1.
+
+2. 6 ADB∼= 6 BDC 2.
+
+3. 3.
+
+4. 4ABD∼=4CBD 4.
+
+206
+
+www.ck12.org Chapter 4. Triangles and Congruence
+

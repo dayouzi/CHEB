@@ -1,0 +1,293 @@
+12.3.8 Forces in equilibrium
+
+At the beginning of this chapter it was mentioned that resultant forces cause objects to accelerate
+
+in a straight line. If an object is stationary or moving at constant velocity then either,
+
+• no forces are acting on the object, or
+
+• the forces acting on that object are exactly balanced.
+
+In other words, for stationary objects or objects moving with constant velocity, the resultant
+
+force acting on the object is zero. Additionally, if there is a perpendicular moment of force, then
+
+the object will rotate. You will learn more about moments of force later in this chapter.
+
+Therefore, in order for an object not to move or to be in equilibrium, the sum of the forces
+
+(resultant force) must be zero and the sum of the moments of force must be zero.
+
+Definition: Equilibrium
+
+An object in equilibrium has both the sum of the forces acting on it and the sum of the
+
+moments of the forces equal to zero.
+
+If a resultant force acts on an object then that object can be brought into equilibrium by applying
+
+an additional force that exactly balances this resultant. Such a force is called the equilibrant
+
+and is equal in magnitude but opposite in direction to the original resultant force acting on the
+
+object.
+
+Definition: Equilibrant
+
+The equilibrant of any number of forces is the single force required to produce equilibrium,
+
+and is equal in magnitude but opposite in direction to the resultant force.
+
+276
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+
+F1
+
+Resultant of F3
+
+F1 and F2 Equilibrant of
+
+F1 and F2
+
+F2
+
+In the figure the resultant of F1 and F2 is shown. The equilibrant of F1 and F2 is then the
+
+vector opposite in direction to this resultant with the same magnitude (i.e. F3).
+
+• F1, F2 and F3 are in equilibrium
+
+• F3 is the equilibrant of F1 and F2
+
+• F1 and F2 are kept in equilibrium by F3
+
+As an example of an object in equilibrium, consider an object held stationary by two ropes in the
+
+arrangement below:
+
+50◦ 40◦
+
+Rope 1 Rope 2
+
+Let us draw a free body diagram for the object. In the free body diagram the object is drawn as
+
+a dot and all forces acting on the object are drawn in the correct directions starting from that
+
+dot. In this case, three forces are acting on the object.
+
+50◦
+
+40◦
+
+T1
+
+T2
+
+b
+
+Fg
+
+Each rope exerts a force on the object in the direction of the rope away from the object. These
+
+tension forces are represented by T1 and T2. Since the object has mass, it is attracted towards
+
+the centre of the Earth. This weight is represented in the force diagram as Fg.
+
+Since the object is stationary, the resultant force acting on the object is zero. In other words the
+
+three force vectors drawn tail-to-head form a closed triangle:
+
+277
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+F1
+Resultant of F3
+F1 and F2 Equilibrant of
+F1 and F2
+F2
+In the figure the resultant of F1 and F2 is shown. The equilibrant of F1 and F2 is then the
+vector opposite in direction to this resultant with the same magnitude (i.e. F3).
+• F1, F2 and F3 are in equilibrium
+• F3 is the equilibrant of F1 and F2
+• F1 and F2 are kept in equilibrium by F3
+As an example of an object in equilibrium, consider an object held stationary by two ropes in the
+arrangement below:
+50◦ 40◦
+Rope 1 Rope 2
+Let us draw a free body diagram for the object. In the free body diagram the object is drawn as
+a dot and all forces acting on the object are drawn in the correct directions starting from that
+dot. In this case, three forces are acting on the object.
+50◦
+40◦
+T1
+T2
+b
+Fg
+Each rope exerts a force on the object in the direction of the rope away from the object. These
+tension forces are represented by T1 and T2. Since the object has mass, it is attracted towards
+the centre of the Earth. This weight is represented in the force diagram as Fg.
+Since the object is stationary, the resultant force acting on the object is zero. In other words the
+three force vectors drawn tail-to-head form a closed triangle:
+277
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+40◦
+T2
+50◦
+Fg
+T1
+Worked Example 82: Equilibrium
+Question: A car engine of weight 2000 N is lifted by means of a chain and pulley
+system. The engine is initially suspended by the chain, hanging stationary. Then,
+the engine is pulled sideways by a mechanic, using a rope. The engine is held in such
+a position that the chain makes an angle of 30◦ with the vertical. In the questions
+that follow, the masses of the chain and the rope can be ignored.
+30◦
+chain chain
+rope
+engine
+engine
+initial final
+1. Draw a free body representing the forces acting on the engine in the initial
+situation.
+2. Determine the tension in the chain initially.
+3. Draw a free body diagram representing the forces acting on the engine in the
+final situation.
+4. Determine the magnitude of the applied force and the tension in the chain in
+the final situations.
+Answer
+Step 1 : Initial free body diagram for the engine
+There are only two forces acting on the engine initially: the tension in the chain,
+Tchain and the weight of the engine, Fg.
+278
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+40◦
+
+T2
+
+50◦
+
+Fg
+
+T1
+
+Worked Example 82: Equilibrium
+
+Question: A car engine of weight 2000 N is lifted by means of a chain and pulley
+
+system. The engine is initially suspended by the chain, hanging stationary. Then,
+
+the engine is pulled sideways by a mechanic, using a rope. The engine is held in such
+
+a position that the chain makes an angle of 30◦ with the vertical. In the questions
+
+that follow, the masses of the chain and the rope can be ignored.
+
+30◦
+
+chain chain
+
+rope
+
+engine
+
+engine
+
+initial final
+
+1. Draw a free body representing the forces acting on the engine in the initial
+
+situation.
+
+2. Determine the tension in the chain initially.
+
+3. Draw a free body diagram representing the forces acting on the engine in the
+
+final situation.
+
+4. Determine the magnitude of the applied force and the tension in the chain in
+
+the final situations.
+
+Answer
+
+Step 1 : Initial free body diagram for the engine
+
+There are only two forces acting on the engine initially: the tension in the chain,
+
+Tchain and the weight of the engine, Fg.
+
+278
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+
+Tchain
+
+b
+
+Fg
+
+Step 2 : Determine the tension in the chain
+
+The engine is initially stationary, which means that the resultant force on the engine
+
+is zero. There are also no moments of force. Thus the tension in the chain exactly
+
+balances the weight of the engine. The tension in the chain is:
+
+Tchain = Fg
+
+= 2000N
+
+Step 3 : Final free body diagram for the engine
+
+There are three forces acting on the engine finally: The tension in the chain, the
+
+applied force and the weight of the engine.
+
+Fapplied
+
+30◦
+
+Fg
+
+Tchain
+
+30◦
+
+Step 4 : Calculate the magnitude of the applied force and the tension in the
+
+chain in the final situation
+
+Since no method was specified let us calculate the magnitudes algebraically. Since
+
+the triangle formed by the three forces is a right-angle triangle this is easily done:
+
+Fapplied
+
+= tan 30◦
+
+Fg
+
+Fapplied = (2000) tan30
+
+◦
+
+= 1 155N
+
+and
+
+Tchain 1
+
+=
+
+Fg cos 30◦
+
+2000
+
+Tchain =
+
+cos 30◦
+
+= 2 309N
+

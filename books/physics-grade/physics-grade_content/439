@@ -1,0 +1,287 @@
+28.4.2 Inductance
+
+An inductor is a passive electrical device used in electrical circuits for its property of
+
+inductance. An inductor is usually made as a coil (or solenoid) of conducting material, typically
+
+copper wire, wrapped around a core either of air or of ferromagnetic material.
+
+Electrical current through the conductor creates a magnetic flux proportional to the current. A
+
+change in this current creates a change in magnetic flux that, in turn, generates an emf that
+
+acts to oppose this change in current.
+
+Inductance (measured in henries, symbol H) is a measure of the generated emf for a unit
+
+change in current. For example, an inductor with an inductance of 1 H produces an emf of 1 V
+
+when the current through the inductor changes at the rate of 1 A·s−1.
+
+The inductance of an inductor is determined by several factors:
+
+• the shape of the coil; a short, fat coil has a higher inductance than one that is thin and
+
+tall.
+
+• the material that conductor is wrapped around.
+
+• how the conductor is wound; winding in opposite directions will cancel out the
+
+inductance effect, and you will have only a resistor.
+
+586
+
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.4
+
+The inductance of a solenoid is defined by:
+
+L = µ0AN
+
+2
+
+l
+
+where µ0 is the permeability of the core material (in this case air), A is the cross-sectional area
+
+of the solenoid, N is the number of turns and l is the length of the solenoid.
+
+Definition: Permeability
+
+Permeability is the property of a material which describes the magnetisation developed in
+
+that material when excited by a source.
+
+Itneterreessttinigng The permeability of free space is 4πx10−7 henry per metre.
+
+FFacctt
+
+Worked Example 177: Inductance I
+
+Question:
+
+Answer
+
+Determine the inductance of a coil with a core material of air. A cross-sectional
+
+area of 0,3m2, with 1000 turns and a length of 0,1 m
+
+Step 1 : Determine how to approach the problem
+
+We are calculating inductance, so we use the equation:
+
+µ0AN
+
+2
+
+L =
+
+l
+
+The permeability is that for free space:4πx10−7 henry per metre.
+
+Step 2 : Solve the problem
+
+µ0AN
+
+2
+
+L =
+
+l
+
+(4πtextrmx10−7)(0,3)(1000)
+
+=
+
+0,1
+
+= 3,8x10−3 H/m
+
+Step 3 : Write the final answer
+
+The inductance of the coil is 3,8x10−3 H/m.
+
+Worked Example 178: Inductance II
+
+Question: Calculate the inductance of a 5 cm long solenoid with a diameter of 4
+
+mm and 2000 turns.
+
+Answer
+
+Again this is an inductance problem, so we use the same formula as the worked
+
+example above.
+
+587
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.4
+The inductance of a solenoid is defined by:
+L = µ0AN
+2
+l
+where µ0 is the permeability of the core material (in this case air), A is the cross-sectional area
+of the solenoid, N is the number of turns and l is the length of the solenoid.
+Definition: Permeability
+Permeability is the property of a material which describes the magnetisation developed in
+that material when excited by a source.
+Itneterreessttinigng The permeability of free space is 4πx10−7 henry per metre.
+FFacctt
+Worked Example 177: Inductance I
+Question:
+Answer
+Determine the inductance of a coil with a core material of air. A cross-sectional
+area of 0,3m2, with 1000 turns and a length of 0,1 m
+Step 1 : Determine how to approach the problem
+We are calculating inductance, so we use the equation:
+µ0AN
+2
+L =
+l
+The permeability is that for free space:4πx10−7 henry per metre.
+Step 2 : Solve the problem
+µ0AN
+2
+L =
+l
+(4πtextrmx10−7)(0,3)(1000)
+=
+0,1
+= 3,8x10−3 H/m
+Step 3 : Write the final answer
+The inductance of the coil is 3,8x10−3 H/m.
+Worked Example 178: Inductance II
+Question: Calculate the inductance of a 5 cm long solenoid with a diameter of 4
+mm and 2000 turns.
+Answer
+Again this is an inductance problem, so we use the same formula as the worked
+example above.
+587
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.4
+
+The inductance of a solenoid is defined by:
+
+L = µ0AN
+
+2
+
+l
+
+where µ0 is the permeability of the core material (in this case air), A is the cross-sectional area
+
+of the solenoid, N is the number of turns and l is the length of the solenoid.
+
+Definition: Permeability
+
+Permeability is the property of a material which describes the magnetisation developed in
+
+that material when excited by a source.
+
+Itneterreessttinigng The permeability of free space is 4πx10−7 henry per metre.
+
+FFacctt
+
+Worked Example 177: Inductance I
+
+Question:
+
+Answer
+
+Determine the inductance of a coil with a core material of air. A cross-sectional
+
+area of 0,3m2, with 1000 turns and a length of 0,1 m
+
+Step 1 : Determine how to approach the problem
+
+We are calculating inductance, so we use the equation:
+
+µ0AN
+
+2
+
+L =
+
+l
+
+The permeability is that for free space:4πx10−7 henry per metre.
+
+Step 2 : Solve the problem
+
+µ0AN
+
+2
+
+L =
+
+l
+
+(4πtextrmx10−7)(0,3)(1000)
+
+=
+
+0,1
+
+= 3,8x10−3 H/m
+
+Step 3 : Write the final answer
+
+The inductance of the coil is 3,8x10−3 H/m.
+
+Worked Example 178: Inductance II
+
+Question: Calculate the inductance of a 5 cm long solenoid with a diameter of 4
+
+mm and 2000 turns.
+
+Answer
+
+Again this is an inductance problem, so we use the same formula as the worked
+
+example above.
+
+587
+
+28.5 CHAPTER 28. ELECTRODYNAMICS - GRADE 12
+
+4 mm
+
+r = = 2 mm = 0,002 m
+
+2
+
+A = πr2 = π × 0,0022
+
+µ 20AN
+
+L =
+
+l
+
+4π × 10−7 × 0,0022 × π × 20002
+
+=
+
+0,05
+
+= 0,00126 H
+
+= 1,26 mH
+
+An inductor in an AC circuit also has a reactance, XL that is defined by:
+
+XL = 2πfL
+
+where L is the inductance and f is the frequency of the AC.
+
+If we examine the equation for the reactance of an inductor, we see that inductive reactance
+
+increases with increasing frequency. Therefore, when the frequency is low, the inductive
+
+reactance is very low. This is why an inductor allows the flow of DC and low frequency AC
+
+because its reactance decreases with decreasing frequency.
+
+When the frequency is high, the inductive reactance is high. This is why an inductor blocks the
+
+flow of high frequency AC because its reactance increases with increasing frequency.
+

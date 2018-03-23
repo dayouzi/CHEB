@@ -1,0 +1,182 @@
+11.7 Spheres
+
+Here you'll learn what a sphere is and how to find its volume and surface area.
+
+What if you were given a solid figure consisting of the set of all points, in three-dimensional space, that are
+
+equidistant from a point? How could you determine how much two-dimensional and three-dimensional space that
+
+figure occupies? After completing this Concept, you'll be able to find the surface area and volume of a sphere.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136771
+
+Spheres CK-12
+
+Guidance
+
+A sphere is the set of all points, in three-dimensional space, which are equidistant from a point. The radius has one
+
+endpoint on the sphere and the other endpoint at the center of that sphere. The diameter of a sphere must contain
+
+the center.
+
+A great circle is the largest circular cross-section in a sphere. The circumference of a sphere is the circumference
+
+of a great circle. Every great circle divides a sphere into two congruent hemispheres.
+
+643
+
+11.7. Spheres www.ck12.org
+
+Surface Area
+
+Surface area is a two-dimensional measurement that is the total area of all surfaces that bound a solid. The basic
+
+unit of area is the square unit. The best way to understand the surface area of a sphere is to watch the link by Russell
+
+Knightley, http://www.rkm.com.au/ANIMATIONS/animation-Sphere-Surface-Area-Derivation.html
+
+Surface Area of a Sphere: SA = 4pir2.
+
+Volume
+
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+
+cubic unit. To see an animation of the volume of a sphere, see http://www.rkm.com.au/ANIMATIONS/animation-S
+
+phere-Volume-Derivation.html by Russell Knightley.
+
+Volume of a Sphere: V = 43pir
+
+3.
+
+Example A
+
+The circumference of a sphere is 26pi f eet. What is the radius of the sphere?
+
+The circumference is referring to the circumference of a great circle. Use C = 2pir.
+
+2pir = 26pi
+
+r = 13 f t.
+
+Example B
+
+Find the surface area of a sphere with a radius of 14 feet.
+
+Use the formula.
+
+SA = 4pi(14)2
+
+= 784pi f t2
+
+644
+11.7. Spheres www.ck12.org
+Surface Area
+Surface area is a two-dimensional measurement that is the total area of all surfaces that bound a solid. The basic
+unit of area is the square unit. The best way to understand the surface area of a sphere is to watch the link by Russell
+Knightley, http://www.rkm.com.au/ANIMATIONS/animation-Sphere-Surface-Area-Derivation.html
+Surface Area of a Sphere: SA = 4pir2.
+Volume
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+cubic unit. To see an animation of the volume of a sphere, see http://www.rkm.com.au/ANIMATIONS/animation-S
+phere-Volume-Derivation.html by Russell Knightley.
+Volume of a Sphere: V = 43pir
+3.
+Example A
+The circumference of a sphere is 26pi f eet. What is the radius of the sphere?
+The circumference is referring to the circumference of a great circle. Use C = 2pir.
+2pir = 26pi
+r = 13 f t.
+Example B
+Find the surface area of a sphere with a radius of 14 feet.
+Use the formula.
+SA = 4pi(14)2
+= 784pi f t2
+644
+www.ck12.org Chapter 11. Surface Area and Volume
+Example C
+Find the volume of a sphere with a radius of 6 m.
+Use the formula for volume:
+4
+V = pi63
+3
+4
+= pi(216)
+3
+= 288pi m3
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136772
+Spheres CK-12
+->
+Guided Practice
+1. Find the surface area of the figure below, a hemisphere with a circular base added.
+2. The surface area of a sphere is 100pi in2. What is the radius?
+3. A sphere has a volume of 14,137.167 f t3. What is the radius?
+Answers:
+1. Use the formula for surface area.
+1
+SA = pir2 + 4pir2
+2
+= pi(62)+2pi(62)
+= 36pi+72pi= 108pi cm2
+2. Use the formula for surface area.
+645
+11.7. Spheres www.ck12.org
+SA = 4pir2
+100pi= 4pir2
+25 = r2
+5 = r
+3. Use the formula for volume, plug in the given volume and solve for the radius, r.
+4
+V = pir3
+3
+4
+14,137.167 = pir3
+3
+3 ·14,137.167 = r3
+4pi
+3375≈ r3
+At this point, you will need to take the cubed root of 3375. Your calculator might have a button that looks like √3 ,
+1
+or you can do 3375 3 .
+√3
+3375 = 15≈ r
+.
+Explore More
+1. Are there any cross-sections of a sphere that are not a circle? Explain your answer.
+2. List all the parts of a sphere that are the same as a circle.
+3. List any parts of a sphere that a circle does not have.
+Find the surface area and volume of a sphere with: (Leave your answer in terms of pi)
+4. a radius of 8 in.
+5. a diameter of 18 cm.
+6. a radius of 20 ft.
+7. a diameter of 4 m.
+8. a radius of 15 ft.
+9. a diameter of 32 in.
+10. a circumference of 26pi cm.
+11. a circumference of 50pi yds.
+12. The surface area of a sphere is 121pi in2. What is the radius?
+13. The volume of a sphere is 47916pi m3. What is the radius?
+14. The surface area of a sphere is 4pi f t2. What is the volume?
+15. The volume of a sphere is 36pi mi3. What is the surface area?
+16. Find the radius of the sphere that has a volume of 335 cm3. Round your answer to the nearest hundredth.
+17. Find the radius of the sphere that has a surface area 225pi f t2.
+Find the surface area and volume of the following shape. Leave your answers in terms of pi.
+646
+www.ck12.org Chapter 11. Surface Area and Volume
+18.
+647
+www.ck12.org Chapter 11. Surface Area and Volume
+
+18.
+
+647
+

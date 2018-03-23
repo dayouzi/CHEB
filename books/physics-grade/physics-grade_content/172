@@ -1,0 +1,34 @@
+11.4.2 Compass Directions N
+
+Another common method of expressing direc-
+
+tions is to use the points of a compass: North, W E
+
+South, East, and West.
+
+S
+
+If a vector does not point exactly in one
+
+of the compass directions, then we use an angle.
+
+For example, we can have a vector pointing 40◦
+
+North of West. Start with the vector pointing
+
+along the West direction:
+
+Then rotate the vector towards the north
+
+until there is a 40◦ angle between the vector
+
+and the West.
+
+The direction of this vector can also be described
+
+40◦
+
+as: W 40◦ N (West 40◦ North); or N 50◦ W
+
+(North 50◦ West)
+

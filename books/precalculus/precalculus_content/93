@@ -1,0 +1,129 @@
+13.2 FINDING LIMITS ALGEBRAICALLY
+Limit Laws ! Applying the Limit Laws ! Finding Limits Using Algebra and
+the Limit Laws ! Using Left- and Right-Hand Limits
+In Section 13.1 we used calculators and graphs to guess the values of limits, but we saw
+that such methods don't always lead to the correct answer. In this section we use algebraic
+methods to find limits exactly.
+! Limit Laws
+We use the following properties of limits, called the Limit Laws, to calculate limits.
+LIMIT L AWS
+Suppose that c is a constant and that the following limits exist:
+lim f 1x 2  and  lim g1x 2
+x!a x!a 
+Then
+1. lim 3f 1x 2 # g1x 2 4 $ lim f 1x 2 # lim g1x 2 Limit of a Sum
+x!a
+2. lim 3f 1x 2 x!a x!a " g1x 2 4 $ lim f 1x 2 " Limit of a Difference
+x!a x!a 
+3. lim 3cf 1x 2 4 lim g1x 2x!a $ c lim f 1x 2 Limit of a Constant Multiple
+x!a x!a  
+4. lim 3f 1x 2g1x 2 4 $ lim f 1x 2 # lim g1x 2 Limit of a Product
+x!a x!a x!a 
+f 1 lx 2 im
+lim 
+x!a g1 $x 2 f 1x 2x!a 5.  if lim g1x 2 ! 0 Limit of a Quotientlim g1x 2 x!a  
+x!a 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 2 | Finding Limits Algebraically 849
+These five laws can be stated verbally as follows:
+Limit of a Sum 1. The limit of a sum is the sum of the limits.
+Limit of a Difference 2. The limit of a difference is the difference of the limits.
+Limit of a Constant Multiple 3. The limit of a constant times a function is the constant times the limit of the 
+function.
+Limit of a Product 4. The limit of a product is the product of the limits.
+Limit of a Quotient 5. The limit of a quotient is the quotient of the limits (provided that the limit of the
+denominator is not 0).
+g1 Ix 2t's easy to believe that these properties are true. Fof 1r x 2instan# 1ce f 1x 2x 2, if is close to L andis close to M, it is reasonable to conclude that is close to L # M. This
+gives us an intuitive basis for believing that Law 1 is true.
+If we use Law 4 (Limit of a Product) repeatedly with g1 gx 2 $ f 1x 2 , we obtain the fol-
+lowing Law 6 for the limit of a power. A similar law holds for roots.
+LIMIT L AWS
+6. lim 3f 1x 2 4 n $ 3 lim f 1x 2 4 n
+x!a
+lim1n f 1x 2 $ 1x!a n lim f 1x 2 where n is a positive integer Limit of a Power7. where n is a positive integer Limit of a Root
+x!a x!a 
+[If n is even, we assume that limx!a f 1x 2 ( 0.] 
+In words, these laws say the following:
+Limit of a Power 6. The limit of a power is the power of the limit.
+Limit of a Root 7. The limit of a root is the root of the limit.
+E X A M P L E  1 Using the Limit Laws
+Use the Limit Laws and the graphs of f and g in Figure 1 to evaluate the following limits
+if they exist.
+(a) lim 3f 1x 2 # 5g1x 2 4 (b) lim 3f 1x 2g1x 2 4
+x!"2 x!1
+(c) f 1x 2lim 2 (d) lim 3f 1x 2 4 3x!2 g1x x!1
+y
+f
+1
+0 1 x
+g
+F I G U R E  1
+S O L U T I O N
+(a) From the graphs of f and g we see that
+lim f 1x 2 $ 1  and  lim g1x 2 $ "1
+x!"2 x!"2
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 2 | Finding Limits Algebraically 849
+These five laws can be stated verbally as follows:
+Limit of a Sum 1. The limit of a sum is the sum of the limits.
+Limit of a Difference 2. The limit of a difference is the difference of the limits.
+Limit of a Constant Multiple 3. The limit of a constant times a function is the constant times the limit of the 
+function.
+Limit of a Product 4. The limit of a product is the product of the limits.
+Limit of a Quotient 5. The limit of a quotient is the quotient of the limits (provided that the limit of the
+denominator is not 0).
+g1 Ix 2t's easy to believe that these properties are true. Fof 1r x 2instan# 1ce f 1x 2x 2, if is close to L andis close to M, it is reasonable to conclude that is close to L # M. This
+gives us an intuitive basis for believing that Law 1 is true.
+If we use Law 4 (Limit of a Product) repeatedly with g1 gx 2 $ f 1x 2 , we obtain the fol-
+lowing Law 6 for the limit of a power. A similar law holds for roots.
+LIMIT L AWS
+6. lim 3f 1x 2 4 n $ 3 lim f 1x 2 4 n
+x!a
+lim1n f 1x 2 $ 1x!a n lim f 1x 2 where n is a positive integer Limit of a Power7. where n is a positive integer Limit of a Root
+x!a x!a 
+[If n is even, we assume that limx!a f 1x 2 ( 0.] 
+In words, these laws say the following:
+Limit of a Power 6. The limit of a power is the power of the limit.
+Limit of a Root 7. The limit of a root is the root of the limit.
+E X A M P L E  1 Using the Limit Laws
+Use the Limit Laws and the graphs of f and g in Figure 1 to evaluate the following limits
+if they exist.
+(a) lim 3f 1x 2 # 5g1x 2 4 (b) lim 3f 1x 2g1x 2 4
+x!"2 x!1
+(c) f 1x 2lim 2 (d) lim 3f 1x 2 4 3x!2 g1x x!1
+y
+f
+1
+0 1 x
+g
+F I G U R E  1
+S O L U T I O N
+(a) From the graphs of f and g we see that
+lim f 1x 2 $ 1  and  lim g1x 2 $ "1
+x!"2 x!"2
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+850 C H A P T E R  1 3 | Limits: A Preview of Calculus
+Therefore we have
+ lim 3f 1x 2 # 5g1x 2 4 $ lim f 1x 2 # lim 35g1x 2 4 Limit of a Sum
+x!"2 x!"2 x!"2
+ $ lim f 1x 2 # 5 lim g1x 2
+x!"2 2 x!"2 $ 1 5 " $ "4
+limxS1 f 1x 2 # 1
+Limit of a Constant Multiple
+1
+(b) We see that $ 2. But limxS1 g1x 2 does not exist because the 
+left- and right-hand limits are different:
+lim g1x 2 $ "2   lim g1x 2 $ "1
+x!1" # x!1  
+So we can't use Law 4 (Limit of a Product). The given limit does not exist, since
+the left-hand limit is not equal to the right-hand limit.
+(c) The graphs show that
+lim f 1x 2 ! 1.4  and  lim g1x 2 $ 0
+x!2 x!2  
+Because the limit of the denominator is 0, we can't use Law 5 (Limit of a Quo-
+tient). The given limit does not exist because the denominator approaches 0 while
+the numerator approaches a nonzero number.
+(d) Since limxS1 f 1x 2 $ 2
+ lim 3 , wf 1 ex 2 4use Law 6 3 $ 3 lim f 1to x 2g4et3 Limit of a Power
+x!1 x!1 
+ $ 23 $ 8

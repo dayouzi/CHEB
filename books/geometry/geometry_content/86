@@ -1,0 +1,215 @@
+8.9. Trigonometry Word Problems www.ck12.org
+
+8.9 Trigonometry Word Problems
+
+Here you'll learn how to solve word problems using the trigonometric ratios.
+
+What if you placed a ladder 10 feet from a haymow whose floor is 20 feet from the ground? How tall would the
+
+ladder need to be to reach the haymow's floor if it forms a 30◦ angle with the ground? After completing this Concept,
+
+you'll be able to solve angle of elevation and angle of depression word problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136658
+
+CK-12 Foundation: Trigonometry Word Problems
+
+First watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1369
+
+James Sousa: Solving Right Triangles - The Basics
+
+Then watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1370
+
+James Sousa: Solving Right Triangles - Applications
+
+Guidance
+
+One application of the trigonometric ratios is to find lengths that you cannot measure. Very frequently, angles of
+
+depression and elevation are used in these types of problems.
+
+Angle of Depression: The angle measured down from the horizon or a horizontal line.
+
+452
+
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+
+Angle of Elevation: The angle measured up from the horizon or a horizontal line.
+
+Example A
+
+A math student is standing 25 feet from the base of the Washington Monument. The angle of elevation from her
+
+horizontal line of sight is 87.4◦. If her "eye height" is 5 ft, how tall is the monument?
+
+We can find the height of the monument by using the tangent ratio.
+
+h
+
+tan87.4◦ =
+
+25
+
+h = 25 · tan87.4◦ = 550.54
+
+Adding 5 ft, the total height of the Washington Monument is 555.54 ft.
+
+Example B
+
+A 25 foot tall flagpole casts a 42 foot shadow. What is the angle that the sun hits the flagpole?
+
+453
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+Angle of Elevation: The angle measured up from the horizon or a horizontal line.
+Example A
+A math student is standing 25 feet from the base of the Washington Monument. The angle of elevation from her
+horizontal line of sight is 87.4◦. If her "eye height" is 5 ft, how tall is the monument?
+We can find the height of the monument by using the tangent ratio.
+h
+tan87.4◦ =
+25
+h = 25 · tan87.4◦ = 550.54
+Adding 5 ft, the total height of the Washington Monument is 555.54 ft.
+Example B
+A 25 foot tall flagpole casts a 42 foot shadow. What is the angle that the sun hits the flagpole?
+453
+8.9. Trigonometry Word Problems www.ck12.org
+Draw a picture. The angle that the sun hits the flagpole is x◦. We need to use the inverse tangent ratio.
+42
+tanx =
+25
+tan−1
+42 ≈ 59.2◦ = x
+25
+Example C
+Elise is standing on top of a 50 foot building and sees her friend, Molly. If Molly is 30 feet away from the base of
+the building, what is the angle of depression from Elise to Molly? Elise's eye height is 4.5 feet.
+Because of parallel lines, the angle of depression is equal to the angle at Molly, or x◦. We can use the inverse tangent
+ratio.
+( )
+tan−1
+54.5
+= 61.2◦ = x
+30
+454
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136659
+CK-12 Foundation: Trigonometry Word Problems
+->
+Guided Practice
+1. Mark is flying a kite and realizes that 300 feet of string are out. The angle of the string with the ground is 42.5◦.
+How high is Mark's kite above the ground?
+2. A 20 foot ladder rests against a wall. The base of the ladder is 7 feet from the wall. What angle does the ladder
+make with the ground?
+3. A 20 foot ladder rests against a wall. The ladder makes a 55◦ angle with the ground. How far from the wall is the
+base of the ladder?
+Answers
+1. It might help to draw a picture. Then write and solve a trig equation.
+x
+sin42.5◦ =
+300
+300 · sin42.5◦ = x
+x≈ 202.7
+The kite is about 202.7 feet off of the ground.
+2. It might help to draw a picture.
+7
+cosx =
+20
+x = cos−1
+7
+20
+x≈ 69.5◦
+.
+3. It might help to draw a picture.
+x
+cos55◦ =
+20
+20 · cos55◦ = x
+x≈ 11.5 f t
+.
+455
+8.9. Trigonometry Word Problems www.ck12.org
+Explore More
+1. Kristin is swimming in the ocean and notices a coral reef below her. The angle of depression is 35◦ and the
+depth of the ocean, at that point is 250 feet. How far away is she from the reef?
+2. The Leaning Tower of Piza currently "leans" at a 4◦ angle and has a vertical height of 55.86 meters. How tall
+was the tower when it was originally built?
+Use what you know about right triangles to solve for the missing angle. If needed, draw a picture. Round all answers
+to the nearest tenth of a degree.
+3. A 75 foot building casts an 82 foot shadow. What is the angle that the sun hits the building?
+4. Over 2 miles (horizontal), a road rises 300 feet (vertical). What is the angle of elevation?
+5. A boat is sailing and spots a shipwreck 650 feet below the water. A diver jumps from the boat and swims 935
+feet to reach the wreck. What is the angle of depression from the boat to the shipwreck?
+6. Standing 100 feet from the base of a building, Sam measures the angle to the top of the building from his eye
+height to be 50◦. If his eyes are 6 feet above the ground, how tall is the building?
+7. Over 4 miles (horizontal), a road rises 200 feet (vertical). What is the angle of elevation?
+8. A 90 foot building casts an 110 foot shadow. What is the angle that the sun hits the building?
+9. Luke is flying a kite and realizes that 400 feet of string are out. The angle of the string with the ground is 50◦.
+How high is Luke's kite above the ground?
+10. An 18 foot ladder rests against a wall. The base of the ladder is 10 feet from the wall. What angle does the
+ladder make with the ground?
+456
+8.9. Trigonometry Word Problems www.ck12.org
+
+Explore More
+
+1. Kristin is swimming in the ocean and notices a coral reef below her. The angle of depression is 35◦ and the
+
+depth of the ocean, at that point is 250 feet. How far away is she from the reef?
+
+2. The Leaning Tower of Piza currently "leans" at a 4◦ angle and has a vertical height of 55.86 meters. How tall
+
+was the tower when it was originally built?
+
+Use what you know about right triangles to solve for the missing angle. If needed, draw a picture. Round all answers
+
+to the nearest tenth of a degree.
+
+3. A 75 foot building casts an 82 foot shadow. What is the angle that the sun hits the building?
+
+4. Over 2 miles (horizontal), a road rises 300 feet (vertical). What is the angle of elevation?
+
+5. A boat is sailing and spots a shipwreck 650 feet below the water. A diver jumps from the boat and swims 935
+
+feet to reach the wreck. What is the angle of depression from the boat to the shipwreck?
+
+6. Standing 100 feet from the base of a building, Sam measures the angle to the top of the building from his eye
+
+height to be 50◦. If his eyes are 6 feet above the ground, how tall is the building?
+
+7. Over 4 miles (horizontal), a road rises 200 feet (vertical). What is the angle of elevation?
+
+8. A 90 foot building casts an 110 foot shadow. What is the angle that the sun hits the building?
+
+9. Luke is flying a kite and realizes that 400 feet of string are out. The angle of the string with the ground is 50◦.
+
+How high is Luke's kite above the ground?
+
+10. An 18 foot ladder rests against a wall. The base of the ladder is 10 feet from the wall. What angle does the
+
+ladder make with the ground?
+
+456
+
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+

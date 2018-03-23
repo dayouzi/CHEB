@@ -1,0 +1,22 @@
+2.8.1 Two other useful conversions
+
+Very often in Science you need to convert speed and temperature. The following two rules will
+
+help you do this:
+
+Converting speed
+
+When converting km·h−1 to m·s−1you divide by 3,6. For example 72 km·h−1 ÷ 3,6 = 20 m·s−1.
+
+When converting m·s−1to km·h−1, you multiply by 3,6. For example 30 m·s−1×3,6 = 108 km·h−1.
+
+Converting temperature
+
+Converting between the kelvin and celsius temperature scales is easy. To convert from celsius
+
+to kelvin add 273. To convert from kelvin to celsius subtract 273. Representing the kelvin
+
+temperature by TK and the celsius temperature by ToC ,
+
+TK = ToC + 273
+

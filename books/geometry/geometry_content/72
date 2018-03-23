@@ -1,0 +1,178 @@
+7.9 Parallel Lines and Transversals
+
+Here you'll learn how to use the Triangle Proportionality Theorem, which states that if a line that is parallel to one
+
+side of a triangle intersects the other two sides, then it divides those sides proportionally.
+
+What if you were looking at a map that showed four parallel streets (A, B, C, and D) cut by two avenues, or
+
+transversals, (1 and 2)? How could you determine the distance you would have to travel down Avenue 2 to reach
+
+Street C from Street B given the distance down Avenue 1 from Street A to Street B, the distance down Avenue 1
+
+from Street B to C, and the distance down Avenue 2 from Street A to B? After completing this Concept, you'll be
+
+able to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136697
+
+CK-12 Foundation: Parallel Lines and Transversals
+
+Guidance
+
+The Triangle Proportionality Theorem states that if a line parallel to one side of a triangle intersects the other two
+
+sides, then it divides those sides proportionally. We can extend this theorem to a situation outside of triangles where
+
+we have multiple parallel lines cut by transverals.
+
+Theorem: If two or more parallel lines are cut by two transversals, then they divide the transversals proportionally.
+
+If l ‖ m ‖ n, then ab = cd or ac = bd .
+
+Note that this theorem works for any number of parallel lines with any number of transversals. When this happens,
+
+all corresponding segments of the transversals are proportional.
+
+Example A
+
+Find a.
+
+377
+
+7.9. Parallel Lines and Transversals www.ck12.org
+
+The three lines are marked parallel, so to solve, set up a proportion.
+
+a 9
+
+=
+
+20 15
+
+180 = 15a
+
+a = 12
+
+Example B
+
+Find b.
+
+To solve, set up a proportion.
+
+12 b
+
+=
+
+9.6 24
+
+288 = 9.6b
+
+b = 30
+
+Example C
+
+Find the value of x that makes the lines parallel.
+
+378
+7.9. Parallel Lines and Transversals www.ck12.org
+The three lines are marked parallel, so to solve, set up a proportion.
+a 9
+=
+20 15
+180 = 15a
+a = 12
+Example B
+Find b.
+To solve, set up a proportion.
+12 b
+=
+9.6 24
+288 = 9.6b
+b = 30
+Example C
+Find the value of x that makes the lines parallel.
+378
+www.ck12.org Chapter 7. Similarity
+To solve, set up a proportion and solve for x.
+5 3.75
+= → ( x 4 = ( . 5
+2x− − 5 2 − ) 8 3 7 )8 4
+10x−20 = 30
+10x = 50
+x = 5
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136698
+CK-12 Foundation: Parallel Lines and Transversals
+->
+Guided Practice
+1. Find a,b, and c.
+2. Below is a street map of part of Washington DC. R Street, Q Street, and O Street are parallel and 7th Street is
+perpendicular to all three. All the measurements are given on the map. What are x and y?
+379
+7.9. Parallel Lines and Transversals www.ck12.org
+3. Find the value of a in the diagram below:
+Answers:
+1. Line up the segments that are opposite each other.
+a 2 2 4 2 3
+= = =
+9 3 3 b 3 c
+3a = 18 2b = 12 2c = 9
+a = 6 b = 6 c = 4.5
+2. To find x and y, you need to set up a proportion using the parallel lines.
+2640 1320 1980
+= =
+x 2380 y
+From this, x = 4760 f t and y = 3570 f t.
+3. Set up a proportion using the parallel lines and solve the equation for a.
+380
+www.ck12.org Chapter 7. Similarity
+8 a
+=
+20 15
+15 ·8 = 20a
+120 = 20a
+a = 6
+Explore More
+Find the value of each variable in the pictures below.
+1.
+2.
+3.
+4.
+381
+7.9. Parallel Lines and Transversals www.ck12.org
+5.
+The street map shows part of New Orleans. Burgundy St., Dauphine St. and Royal St. are parallel to each other. If
+Spain St. is perpendicular to all three, find the indicated distances.
+6. What is the distance between points A and B?
+7. What is the distance between points C and D?
+8. What is the distance between points A and D?
+Using the diagram, answer the questions.
+9. What is the value of w?
+10. What is the value of x?
+11. What is the value of y?
+12. What is the length of AB?
+13. What is the length of AC?
+382
+www.ck12.org Chapter 7. Similarity
+Using the diagram, fill in the blank.
+14. If b is one-third d, then a is ____________________.
+15. If c is two times a, then b is ____________________.
+383
+www.ck12.org Chapter 7. Similarity
+
+Using the diagram, fill in the blank.
+
+14. If b is one-third d, then a is ____________________.
+
+15. If c is two times a, then b is ____________________.
+
+383
+

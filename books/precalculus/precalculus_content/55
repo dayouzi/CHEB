@@ -1,0 +1,26 @@
+8POLAR COORDINATES AND PARAMETRIC EQUATIONS
+8.1 Polar Coordinates In Section 1.8 we learned how to graph points in rectangular coordinates. In
+this chapter we study a different way of locating points in the plane, called po-
+8.2 Graphs of Polar Equations lar coordinates. Using rectangular coordinates is like describing a location in a
+8.3 Polar Form of Complex city by saying that it's at the corner of 2nd Street and 4th Avenue; these direc-
+Numbers; De Moivre's Theorem tions would help a taxi driver find the location. But we may also describe this
+same location "as the crow flies"; we can say that it's 1.5 miles northeast of
+8.4 Plane Curves and Parametric City Hall. So instead of specifying the location with respect to a grid of streets
+Equations
+and avenues, we specify it by giving its distance and direction from a fixed 
+FOCUS ON MODELING reference point. That's what we do in the polar coordinate system. In polar 
+The Path of a Projectile coordinates the location of a point is given by an ordered pair of numbers: the
+distance of the point from the origin (or pole) and the angle from the positive
+x-axis. 
+Why do we study different coordinate systems? It's because certain curves
+are more naturally described in one coordinate system rather than another. For
+example, in rectangular coordinates lines and parabolas have simple equations,
+but equations of circles are rather complicated. We'll see that in polar coordi-
+nates circles have very simple equations.
+541
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+© Image copyright Andy Z., 2009. 
+Used under license from Shutterstock.com
+C H A P T E R
+542 C H A P T E R  8 | Polar Coordinates and Parametric Equations
+8POLAR COORDINATES AND PARAMETRIC EQUATIONS

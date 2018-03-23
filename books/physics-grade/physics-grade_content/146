@@ -1,0 +1,176 @@
+10.2.2 Potential Difference and Parallel Resistors
+
+When resistors are connected in parallel the start and end points for all the resistors are the same.
+
+These points have the same potential energy and so the potential difference between them is the
+
+same no matter what is put in between them. You can have one, two or many resistors between
+
+the two points, the potential difference will not change. You can ignore whatever components
+
+are between two points in a circuit when calculating the difference between the two points.
+
+Look at the following circuit diagrams. The battery is the same in all cases, all that changes is
+
+more resistors are added between the points marked by the black dots. If we were to measure
+
+the potential difference between the two dots in these circuits we would get the same answer for
+
+all three cases.
+
+b b b
+
+b b b
+
+Lets look at two resistors in parallel more closely. When you construct a circuit you use wires and
+
+you might think that measuring the voltage in different places on the wires will make a difference.
+
+This is not true. The potential difference or voltage measurement will only be different if you
+
+measure a different set of components. All points on the wires that have no circuit components
+
+between them will give you the same measurements.
+
+All three of the measurements shown in the picture below will give you the same voltages. The
+
+different measurement points on the left have no components between them so there is no change
+
+in potential energy. Exactly the same applies to the different points on the right. When you
+
+measure the potential difference between the points on the left and right you will get the same
+
+answer.
+
+V = 5 V
+
+V
+
+b
+
+b
+
+A B zoom
+
+ing in
+
+: A B
+
+b b
+
+E C D F
+
+b
+
+b
+
+E F
+
+C D
+
+V
+
+V = 5 V
+
+V
+
+V = 5 V
+
+193
+
+10.2 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.2
+
+Definition: Potential Difference
+
+Electrical potential difference as the difference in electrical potential energy per unit charge
+
+between two points. The units of potential difference are the volt (V).
+
+The units are volt (V), which is the same as joule per coulomb, the amount of work done per
+
+unit charge. Electrical potential difference is also called voltage.
+
+10.2.2 Potential Difference and Parallel Resistors
+
+When resistors are connected in parallel the start and end points for all the resistors are the same.
+
+These points have the same potential energy and so the potential difference between them is the
+
+same no matter what is put in between them. You can have one, two or many resistors between
+
+the two points, the potential difference will not change. You can ignore whatever components
+
+are between two points in a circuit when calculating the difference between the two points.
+
+Look at the following circuit diagrams. The battery is the same in all cases, all that changes is
+
+more resistors are added between the points marked by the black dots. If we were to measure
+
+the potential difference between the two dots in these circuits we would get the same answer for
+
+all three cases.
+
+b b b
+
+b b b
+
+Lets look at two resistors in parallel more closely. When you construct a circuit you use wires and
+
+you might think that measuring the voltage in different places on the wires will make a difference.
+
+This is not true. The potential difference or voltage measurement will only be different if you
+
+measure a different set of components. All points on the wires that have no circuit components
+
+between them will give you the same measurements.
+
+All three of the measurements shown in the picture below will give you the same voltages. The
+
+different measurement points on the left have no components between them so there is no change
+
+in potential energy. Exactly the same applies to the different points on the right. When you
+
+measure the potential difference between the points on the left and right you will get the same
+
+answer.
+
+V = 5 V
+
+V
+
+b
+
+b
+
+A B zoom
+
+ing in
+
+: A B
+
+b b
+
+E C D F
+
+b
+
+b
+
+E F
+
+C D
+
+V
+
+V = 5 V
+
+V
+
+V = 5 V
+
+193
+
+10.2 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+

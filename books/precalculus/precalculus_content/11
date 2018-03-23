@@ -1,0 +1,93 @@
+1.11 MAKING MODELS USING VARIATION
+Direct Variation ! Inverse Variation ! Joint Variation
+When scientists talk about a mathematical model for a real-world phenomenon, they of-
+ten mean an equation that describes the relationship between two quantities. For instance,
+the model might describe how the population of an animal species varies with time or how
+the pressure of a gas varies as its temperature changes. In this section we study a kind of
+modeling called variation.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+Water pressure increases with depth
+S E C T I O N  1 . 1 1 | Making Models Using Variation 119
+" Direct Variation
+Two types of mathematical models occur so often that they are given special names. The
+first is called direct variation and occurs when one quantity is a constant multiple of the
+other, so we use an equation of the form y " kx to model this dependence.
+y DIRECT VARIATION
+k y=kx If the quantities x and y are related by an equation(k>0)
+y " kx
+for some constant k ' 0, we say that y varies directly as x, or y is directly pro-
+portional to x, or simply y is proportional to x. The constant k is called the con-
+stant of proportionality.
+0 1 x
+F I G U R E  1 Recall that the graph of an equation of the form y " mx $ b is a line with slope m and
+y-intercept b. So the graph of an equation y " kx that describes direct variation is a line
+with slope k and y-intercept 0 (see Figure 1).
+E X A M P L E  1 | Direct Variation
+During a thunderstorm you see the lightning before you hear the thunder because light
+travels much faster than sound. The distance between you and the storm varies directly as
+the time interval between the lightning and the thunder.
+(a) Suppose that the thunder from a storm 5400 ft away takes 5 s to reach you. 
+Determine the constant of proportionality, and write the equation for the variation.
+(b) Sketch the graph of this equation. What does the constant of proportionality represent?
+(c) If the time interval between the lightning and thunder is now 8 s, how far away is
+the storm?
+S O L U T I O N
+(a) Let d be the distance from you to the storm, and let t be the length of the time inter-
+val. We are given that d varies directly as t, so
+d " kt
+where k is a constant. To find k, we use the fact that t " 5 when d " 5400. 
+Substituting these values in the 
+ 5400 " k1eq5 2uation, we get Substitute
+d 5400
+ k " 5 " 1080 Solve for k
+6000 Substituting this value of k in the equation for d, we obtain
+4000 d=1080t d " 1080t
+2000 as the equation for d as a function of t.
+(b) The graph of the equation d " 1080t is a line through the origin with slope 1080 
+0 2 4 6 8 t and is shown in Figure 2. The constant k " 1080 is the approximate speed of sound
+(in ft/s).
+F I G U R E  2 (c) When t " 8, we have
+d " 1080 # 8 " 8640
+So the storm is 8640 ft ! 1.6 mi away.
+S E C T I O N  1 . 1 1 | Making Models Using Variation 119
+" Direct Variation
+Two types of mathematical models occur so often that they are given special names. The
+first is called direct variation and occurs when one quantity is a constant multiple of the
+other, so we use an equation of the form y " kx to model this dependence.
+y DIRECT VARIATION
+k y=kx If the quantities x and y are related by an equation(k>0)
+y " kx
+for some constant k ' 0, we say that y varies directly as x, or y is directly pro-
+portional to x, or simply y is proportional to x. The constant k is called the con-
+stant of proportionality.
+0 1 x
+F I G U R E  1 Recall that the graph of an equation of the form y " mx $ b is a line with slope m and
+y-intercept b. So the graph of an equation y " kx that describes direct variation is a line
+with slope k and y-intercept 0 (see Figure 1).
+E X A M P L E  1 | Direct Variation
+During a thunderstorm you see the lightning before you hear the thunder because light
+travels much faster than sound. The distance between you and the storm varies directly as
+the time interval between the lightning and the thunder.
+(a) Suppose that the thunder from a storm 5400 ft away takes 5 s to reach you. 
+Determine the constant of proportionality, and write the equation for the variation.
+(b) Sketch the graph of this equation. What does the constant of proportionality represent?
+(c) If the time interval between the lightning and thunder is now 8 s, how far away is
+the storm?
+S O L U T I O N
+(a) Let d be the distance from you to the storm, and let t be the length of the time inter-
+val. We are given that d varies directly as t, so
+d " kt
+where k is a constant. To find k, we use the fact that t " 5 when d " 5400. 
+Substituting these values in the 
+ 5400 " k1eq5 2uation, we get Substitute
+d 5400
+ k " 5 " 1080 Solve for k
+6000 Substituting this value of k in the equation for d, we obtain
+4000 d=1080t d " 1080t
+2000 as the equation for d as a function of t.
+(b) The graph of the equation d " 1080t is a line through the origin with slope 1080 
+0 2 4 6 8 t and is shown in Figure 2. The constant k " 1080 is the approximate speed of sound
+(in ft/s).
+F I G U R E  2 (c) When t " 8, we have
+d " 1080 # 8 " 8640
+So the storm is 8640 ft ! 1.6 mi away.

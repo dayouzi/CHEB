@@ -1,0 +1,184 @@
+12.3 Geometric Translations
+
+Here you'll learn what a translation is and how to find translation rules.
+
+What if you were given the coordinates of a quadrilateral and you were asked to move that quadrilateral 3 units to
+
+the left and 2 units down? What would its new coordinates be? After completing this Concept, you'll be able to
+
+translate a figure like this one in the coordinate plane.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136593
+
+Transformation: Translation CK-12
+
+Guidance
+
+A transformation is an operation that moves, flips, or otherwise changes a figure to create a new figure. A rigid
+
+transformation (also known as an isometry or congruence transformation) is a transformation that does not
+
+change the size or shape of a figure.
+
+The rigid transformations are translations (discussed here), reflections (discussed elsewhere), and rotations (dis-
+
+cussed elsewhere). The new figure created by a transformation is called the image. The original figure is called the
+
+preimage. If the preimage is A, then the image would be A′, said "a prime." If there is an image of A′, that would be
+
+labeled A′′, said "a double prime."
+
+A translation is a transformation that moves every point in a figure the same distance in the same direction. For
+
+example, this transformation moves the parallelogram to the right 5 units and up 3 units. It is written (x,y)→
+
+(x+5,y+3).
+
+673
+
+12.3. Geometric Translations www.ck12.org
+
+Example A
+
+Graph square S(1,2),Q(4,1),R(5,4) and E(2,5). Find the image after the translation (x,y)→ (x−2,y+3). Then,
+
+graph and label the image.
+
+We are going to move the square to the left 2 and up 3.
+
+(x,y)→ (x−2,y+3)
+
+S(1,2)→ S′(−1,5)
+
+Q(4,1)→ Q′(2,4)
+
+R(5,4)→ R′(3,7)
+
+E(2,5)→ E ′(0,8)
+
+Example B
+
+Find the translation rule for4T RI to4T ′R′I′.
+
+Look at the movement from T to T ′. The translation rule is (x,y)→ (x+6,y−4).
+
+674
+12.3. Geometric Translations www.ck12.org
+Example A
+Graph square S(1,2),Q(4,1),R(5,4) and E(2,5). Find the image after the translation (x,y)→ (x−2,y+3). Then,
+graph and label the image.
+We are going to move the square to the left 2 and up 3.
+(x,y)→ (x−2,y+3)
+S(1,2)→ S′(−1,5)
+Q(4,1)→ Q′(2,4)
+R(5,4)→ R′(3,7)
+E(2,5)→ E ′(0,8)
+Example B
+Find the translation rule for4T RI to4T ′R′I′.
+Look at the movement from T to T ′. The translation rule is (x,y)→ (x+6,y−4).
+674
+www.ck12.org Chapter 12. Rigid Transformations
+Example C
+Show4T RI ∼=4T ′R′I′ from Example B.
+Use the distance formula to find all the lengths of the sides of the two triangles.
+4T RI√ 4T ′R′I′√ √
+T R =√ (−3−2)2 +(3−6)2 = 34 T ′R′
+√
+= (3−8)2 +(−1−2)2 = 34
+√ √ √
+RI = √(2− (−2))2 +(6−8)2 = 20 R′I′ = (8−4)2 +(2−4)2 = 20√ √ √
+T I = (−3− (−2))2 +(3−8)2 = 26 T ′I′ = (3−4)2 +(−1−4)2 = 26
+Since all three pairs of corresponding sides are congruent, the two triangles are congruent by SSS.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136594
+Transformation: Translation CK-12
+->
+Guided Practice
+1. Triangle4ABC has coordinates A(3,−1),B(7,−5) and C(−2,−2). Translate4ABC to the left 4 units and up 5
+units. Determine the coordinates of4A′B′C′.
+675
+12.3. Geometric Translations www.ck12.org
+Use the translation (x,y)→ (x+2,y−5) for questions 2-4.
+2. What is the image of A(−6,3)?
+3. What is the image of B(4,8)?
+4. What is the image of C(5,−3)?
+Answers:
+1. Graph4ABC. To translate4ABC, subtract 4 from each x value and add 5 to each y value of its coordinates.
+A(3,−1)→ (3−4,−1+5) = A′(−1,4)
+B(7,−5)→ (7−4,−5+5) = B′(3,0)
+C(−2,−2)→ (−2−4,−2+5) =C′(−6,3)
+The rule would be (x,y)→ (x−4,y+5).
+2. A′(−4,−2)
+3. B′(6,3)
+4. C′(7,−8)
+Explore More
+Use the translation (x,y)→ (x+5,y−9) for questions 1-7.
+1. What is the image of A(−1,3)?
+2. What is the image of B(2,5)?
+3. What is the image of C(4,−2)?
+4. What is the image of A′?
+5. What is the preimage of D′(12,7)?
+6. What is the image of A′′?
+7. Plot A,A′,A′′, and A′′′ from the questions above. What do you notice?
+The vertices of4ABC are A(−6,−7),B(−3,−10) and C(−5,2). Find the vertices of4A′B′C′, given the translation
+rules below.
+8. (x,y)→ (x−2,y−7)
+9. (x,y)→ (x+11,y+4)
+676
+www.ck12.org Chapter 12. Rigid Transformations
+10. (x,y)→ (x,y−3)
+11. (x,y)→ (x−5,y+8)
+12. (x,y)→ (x+1,y)
+13. (x,y)→ (x+3,y+10)
+In questions 14-17,4A′B′C′ is the image of4ABC. Write the translation rule.
+14.
+15.
+16.
+17.
+Use the triangles from #17 to answer questions 18-20.
+677
+12.3. Geometric Translations www.ck12.org
+18. Find the lengths of all the sides of4ABC.
+19. Find the lengths of all the sides of4A′B′C′.
+20. What can you say about4ABC and4A′B′C′? Can you say this for any translation?
+21. If4A′B′C′ was the preimage and4ABC was the image, write the translation rule for #14.
+22. If4A′B′C′ was the preimage and4ABC was the image, write the translation rule for #15.
+23. Find the translation rule that would move A to A′(0,0), for #16.
+24. The coordinates of 4DEF are D(4,−2),E(7,−4) and F(5,3). Translate 4DEF to the right 5 units and up
+11 units. Write the translation rule.
+25. The coordinates of quadrilateral QUAD are Q(−6,1),U(−3,7),A(4,−2) and D(1,−8). Translate QUAD to
+the left 3 units and down 7 units. Write the translation rule.
+678
+12.3. Geometric Translations www.ck12.org
+
+18. Find the lengths of all the sides of4ABC.
+
+19. Find the lengths of all the sides of4A′B′C′.
+
+20. What can you say about4ABC and4A′B′C′? Can you say this for any translation?
+
+21. If4A′B′C′ was the preimage and4ABC was the image, write the translation rule for #14.
+
+22. If4A′B′C′ was the preimage and4ABC was the image, write the translation rule for #15.
+
+23. Find the translation rule that would move A to A′(0,0), for #16.
+
+24. The coordinates of 4DEF are D(4,−2),E(7,−4) and F(5,3). Translate 4DEF to the right 5 units and up
+
+11 units. Write the translation rule.
+
+25. The coordinates of quadrilateral QUAD are Q(−6,1),U(−3,7),A(4,−2) and D(1,−8). Translate QUAD to
+
+the left 3 units and down 7 units. Write the translation rule.
+
+678
+
+www.ck12.org Chapter 12. Rigid Transformations
+

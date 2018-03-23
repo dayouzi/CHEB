@@ -1,0 +1,107 @@
+S E C T I O N  1 2 . 5 | Mathematical Induction 815
+Consider the polynomial
+p1n 2 This leads naturally to the following question: Is it true that for every natural number n, the! n2 " n # sum of the first n odd numbers is n2? Could this remarkable property be true? We could try
+1 2 p1
+4
+n 21Here are some values of : a few more numbers and find that the pattern persists for the first 6, 7, 8, 9, and 10 odd num-
+p1
+p1 ! 41 p12 2 ! 43 bers. At this point we feel quite sure that this is always true, so we make a conjecture:3
+p15 22 The sum of the first n odd numbers is n2! 47 p1 2 5! 61 p146 2 ! 3 .! 71 Since we know that the nth odd number is 2n " 1, we can write this statement more pre-
+p17 2 ! 83 p18 2 ! 97 cisely as
+All the values s
+p1o n 2far are prime num- 1 # 3 # 5 # 2. . . # 12n " 1 2 ! nbers. In fact, if you keep going, youwill find that is prime for all nat- It is important to realize that this is still a conjecture. We cannot conclude by checking a
+ural numbers up to n ! 40. It might finite number of cases that a property is true for all numbers (there are infinitely many).
+seem reasonable at this point to conjec- To see this more clearly, suppose someone tells us that he has added up the first trillion
+ture that p1n 2 is prime for every natural odd numbers and found that they do not add up to 1 trillion squared. What would you tell
+numb
+p141 2er n. But that conjecture would be this person? It would be silly to say that you're sure it's true because you have alreadytoo hasty, because it is easily seen that checked the first five cases. You could, however, take out paper and pencil and start check-is not prime. This illustrates that
+we cannot be certain of the truth of ing it yourself, but this task would probably take the rest of your life. The tragedy woulda
+statement no matter ho be that after completing this task, you would still not be sure of the truth of the conjec-w many special
+cases we check. We need a convincing ture! Do you see why?
+argument-a proof-to determine the Herein lies the power of mathematical proof. A proof is a clear argument that demon-
+truth of a statement. strates the truth of a statement beyond doubt.
+! Mathematical Induction
+Let's consider a special kind of proof called mathematical induction. Here is how it
+works: Suppose we have a statement that says something about all natural numbers n. For
+example, for any natu
+P1raln 2 number n, let P1n 2 be the following statement:: The sum of the first n odd numbers is n2
+Since this statement is about all natural numbers, it contains infinitely many statements;
+we will call them P(1), P(2), . . . .
+ P11 2 : The sum of the first 1 odd number is 12.
+ P1
+ P12 23 2 : The sum of the first 2 odd numbers is 22.: The sum of the first 3 odd numbers is 32.
+. .
+. .
+. .
+How can we prove all of these statements at once? Mathematical induction is a clever way
+of doing just that.
+The crux of the idea is this: Suppose we can prove that whenever one of these state-
+ments is true, then the one following it in the list is als
+For every k, if P1k 2  is true, then P1o true.k # 1 2 In other words, is true.
+This is called the induction step because it leads us from the truth of one statement to the
+truth of the next. Now suppose that we c
+P1an1 2  also prove that is true.
+The induction step now leads us
+P 1 2  is true, so P12 2  is true
+P11
+ through the following chain of statements:
+2 2 . is true, so P13 2  is true
+P13 2  is true, so P14 2 . is true.
+. .
+. .
+. .
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+816 C H A P T E R  1 2 | Sequences and Series
+So we see that if both the induction step and P11 2 are proved, then statement P1n 2 is
+proved for all n. Here is a summary of this important method of proof.
+PRINCIPLE OF MATHEMATIC AL INDUCTION
+For each natural number n, let P1n 2 be a statement depending on n. Suppose that
+the fo
+P1 ll1 2owing two conditions are satisfied.1. is true.
+2. For e
+P1ve P kn 2 ry natural number k, if 1 2 is true then P1k # 1 2 is true.Then is true for all natural numbers n.
+To apply this principle, there are two steps:
+Step 1 Prove that P11 2 is true.
+Step 2 Assume that P1k 2 is true, and use this assu2mption to prove that P1k # 1 2 is true.Notice th
+P1at in S P kk # 1 2tep 2 we do not prove that 1k is trP1ue P 2k 2 . We only show that if 1 istrue, then is also true. The assumption that is true is called the induction
+hypothesis.
+We now use mathematical induction to prove that the conjecture that we made at the
+beginning of this section is true.
+E X A M P L E  1 | A Proof by Mathematical Induction
+Prove that for all natural numbers n,
+5 # . . . # 12n " 1 2 ! n2
+P1n 2 1 # 3 #S O L U T I O N Let denote th
+P1 e statement 1 # 12n " 1 2 ! n2
+P1k 2 P1
+# #   #
+1 2 32 5 . . . .Step 1 We need to show that is true. But 1 is simply the statement that 1 ! 12,
+which is of course true.
+Step 2 We assume that is true. Thus our induction hypothesis is
+1 # 3 # 5 # . . .
+P1 # 12kk # 1 2 " 1 2 ! k2We want to use this to show that 
+3 1 # 3 # 5 # .
+P1n 2 . 4 P1
+ . . # 1
+k # 1 22k " 1 2 # 321
+is true, that is,
+k # 1 2 " 1 4 ! 1k # 1 22
+Note that we get by substituting k # 1 for each n in the statement
+We start with the left side and use the induction hypothesis to obtain the
+right side of the equation:
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+©1979 National Council of Teachers of Mathematics.
+Used by permission. Courtesy of Andrejs Dunkels, Sweden.
+S E C T I O N  1 2 . 5 | Mathematical Induction 817
+1 # 3 # 5 # . . . # 12k " 1 2 # 321k # 1 2 " 1 4
+ ! 31 # 3 # 5 # . . . # 12k " 1 2 4 # 321k # 1 2 " 1 4
+This equals k 2 by the induction
+ ! k 2hypothesis  #
+# 3321k # 1 2
+Group the first k terms
+" 1 4
+ ! k 2 2k # 2 " 1 4 Induction hypothesisDistributive Property
+ ! k 
+ ! 1 2 # 2kk # 1 2 # 1 Simplify2 Factor
+Thus P1k # 1 2 follows from P1k 2 , and this completes the induction step.
+Hav
+P1 inn 2g proved Steps 1 and 2, we conclude by the Principle of Mathematical Inductionthat is true for all natural numbers n.

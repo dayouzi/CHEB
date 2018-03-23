@@ -1,0 +1,239 @@
+9.12. Circles in the Coordinate Plane www.ck12.org
+
+9.12 Circles in the Coordinate Plane
+
+Here you'll learn how to find the standard equation for circles given their radius and center. You'll also graph circles
+
+in the coordinate plane.
+
+What if you were given the length of the radius of a circle and the coordinates of its center? How could you write
+
+the equation of the circle in the coordinate plane? After completing this Concept, you'll be able to write the standard
+
+equation of a circle.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136547
+
+Graphing Circles CK-12
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1324
+
+James Sousa: Write the Standard Form of a Circle
+
+Guidance
+
+Recall that a circle is the set of all points in a plane that are the same distance from the center. This definition can be
+
+used to find an equation of a circle in the coordinate plane.
+
+542
+
+www.ck12.org Chapter 9. Circles
+
+Let's start with the circle centered at (0, 0). If (x,y) is a point on the circle, then the distance from the center to this
+
+point would be the radius, r. x is the horizontal distance and y is the vertical distance. This forms a right triangle.
+
+From the Pythagorean Theorem, the equation of a circle centered at the origin is x2 + y2 = r2.
+
+The center does not always have to be on (0, 0). If it is not, then we label the center (h,k). We would then use the
+
+Distance Formula to find the length of the radius.
+
+√
+
+r = (x−h)2 +(y− k)2
+
+If you square both sides of this equation, then you would have the standard equation of a circle. The standard
+
+equation of a circle with center (h,k) and radius r is r2 = (x−h)2 +(y− k)2.
+
+Example A
+
+Graph x2 + y2 = 9.
+
+The center is (0, 0). Its radius is the square root of 9, or 3. Plot the center, plot the points that are 3 units to the right,
+
+left, up, and down from the center and then connect these four points to form a circle.
+
+Example B
+
+Find the equation of the circle below.
+
+543
+www.ck12.org Chapter 9. Circles
+Let's start with the circle centered at (0, 0). If (x,y) is a point on the circle, then the distance from the center to this
+point would be the radius, r. x is the horizontal distance and y is the vertical distance. This forms a right triangle.
+From the Pythagorean Theorem, the equation of a circle centered at the origin is x2 + y2 = r2.
+The center does not always have to be on (0, 0). If it is not, then we label the center (h,k). We would then use the
+Distance Formula to find the length of the radius.
+√
+r = (x−h)2 +(y− k)2
+If you square both sides of this equation, then you would have the standard equation of a circle. The standard
+equation of a circle with center (h,k) and radius r is r2 = (x−h)2 +(y− k)2.
+Example A
+Graph x2 + y2 = 9.
+The center is (0, 0). Its radius is the square root of 9, or 3. Plot the center, plot the points that are 3 units to the right,
+left, up, and down from the center and then connect these four points to form a circle.
+Example B
+Find the equation of the circle below.
+543
+9.12. Circles in the Coordinate Plane www.ck12.org
+First locate the center. Draw in the horizontal and vertical diameters to see where they intersect.
+From this, we see that the center is (-3, 3). If we count the units from the center to the circle on either of these
+diameters, we find r = 6. Plugging this into the equation of a circle, we get: (x− (−3))2 + (y− 3)2 = 62 or
+(x+3)2 +(y−3)2 = 36.
+Example C
+Determine if the following points are on (x+1)2 +(y−5)2 = 50.
+a) (8, -3)
+b) (-2, -2)
+Plug in the points for x and y in (x+1)2 +(y−5)2 = 50.
+a)
+(8+1)2 +(−3−5)2 = 50
+92 +(−8)2 = 50
+81+64 6= 50
+(8, -3) is not on the circle
+b)
+(−2+1)2 +(−2−5)2 = 50
+(−1)2 +(−7)2 = 50
+1+49 = 50
+544
+www.ck12.org Chapter 9. Circles
+(-2, -2) is on the circle
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136548
+Graphing Circles CK-12
+->
+Guided Practice
+Find the center and radius of the following circles.
+1. (x−3)2 +(y−1)2 = 25
+2. (x+2)2 +(y−5)2 = 49
+3. Find the equation of the circle with center (4, -1) and which passes through (-1, 2).
+Answers:
+1. Rewrite the equation as (x−3)2 +(y−1)2 = 52. The center is (3, 1) and r = 5.
+2. Rewrite the equation as (x− (−2))2 +(y−5)2 = 72. The center is (-2, 5) and r = 7.
+Keep in mind that, due to the minus signs in the formula, the coordinates of the center have the opposite signs of
+what they may initially appear to be.
+3. First plug in the center to the standard equation.
+(x−4)2 +(y− (−1))2 = r2
+(x−4)2 +(y+1)2 = r2
+Now, plug in (-1, 2) for x and y and solve for r.
+(−1−4)2 +(2+1)2 = r2
+(−5)2 +(3)2 = r2
+25+9 = r2
+34 = r2
+Substituting in 34 for r2, the equation is (x−4)2 +(y+1)2 = 34.
+Explore More
+Find the center and radius of each circle. Then, graph each circle.
+1. (x+5)2 +(y−3)2 = 16
+545
+9.12. Circles in the Coordinate Plane www.ck12.org
+2. x2 +(y+8)2 = 4
+3. (x−7)2 +(y−10)2 = 20
+4. (x+2)2 + y2 = 8
+Find the equation of the circles below.
+5.
+6.
+7.
+8.
+546
+www.ck12.org Chapter 9. Circles
+9. Is (-7, 3) on (x+1)2 +(y−6)2 = 45?
+10. Is (9, -1) on (x−2)2 +(y−2)2 = 60?
+11. Is (-4, -3) on (x+3)2 +(y−3)2 = 37?
+12. Is (5, -3) on (x+1)2 +(y−6)2 = 45?
+Find the equation of the circle with the given center and point on the circle.
+13. center: (2, 3), point: (-4, -1)
+14. center: (10, 0), point: (5, 2)
+15. center: (-3, 8), point: (7, -2)
+16. center: (6, -6), point: (-9, 4)
+Summary
+This chapter begins with vocabulary associated with the parts of circles. It then branches into theorems about tangent
+lines; properties of arcs and central angles; and theorems about chords and how to apply them. Inscribed angles and
+inscribed quadrilaterals and their properties are explored. Angles on, inside, and outside a circle are presented
+in detail and the subsequent relationships are used in problem solving. Relationships among chords, secants, and
+tangents are discovered and applied. The chapter ends with the connection between algebra and geometry as the
+equations of circles are discussed.
+547
+www.ck12.org Chapter 9. Circles
+
+9. Is (-7, 3) on (x+1)2 +(y−6)2 = 45?
+
+10. Is (9, -1) on (x−2)2 +(y−2)2 = 60?
+
+11. Is (-4, -3) on (x+3)2 +(y−3)2 = 37?
+
+12. Is (5, -3) on (x+1)2 +(y−6)2 = 45?
+
+Find the equation of the circle with the given center and point on the circle.
+
+13. center: (2, 3), point: (-4, -1)
+
+14. center: (10, 0), point: (5, 2)
+
+15. center: (-3, 8), point: (7, -2)
+
+16. center: (6, -6), point: (-9, 4)
+
+Summary
+
+This chapter begins with vocabulary associated with the parts of circles. It then branches into theorems about tangent
+
+lines; properties of arcs and central angles; and theorems about chords and how to apply them. Inscribed angles and
+
+inscribed quadrilaterals and their properties are explored. Angles on, inside, and outside a circle are presented
+
+in detail and the subsequent relationships are used in problem solving. Relationships among chords, secants, and
+
+tangents are discovered and applied. The chapter ends with the connection between algebra and geometry as the
+
+equations of circles are discussed.
+
+547
+
+www.ck12.org
+
+CHAPTER 10 Perimeter and Area
+
+Chapter Outline
+
+10.1 AREA AND PERIMETER OF RECTANGLES
+
+10.2 AREA OF A PARALLELOGRAM
+
+10.3 AREA AND PERIMETER OF TRIANGLES
+
+10.4 AREA OF COMPOSITE SHAPES
+
+10.5 AREA AND PERIMETER OF TRAPEZOIDS
+
+10.6 AREA AND PERIMETER OF RHOMBUSES AND KITES
+
+10.7 AREA AND PERIMETER OF SIMILAR POLYGONS
+
+10.8 CIRCUMFERENCE
+
+10.9 ARC LENGTH
+
+10.10 AREA OF A CIRCLE
+
+10.11 AREA OF SECTORS AND SEGMENTS
+
+Introduction
+
+Now that we have explored triangles, quadrilaterals, polygons, and circles, we are going to learn how to find the
+
+perimeter and area of each.
+
+548

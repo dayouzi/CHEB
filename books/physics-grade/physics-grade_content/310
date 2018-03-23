@@ -1,0 +1,230 @@
+18.5 Motion of a charged particle in a magnetic field
+
+When a charged particle moves through a magnetic field it experiences a force. For a particle
+
+that is moving at right angles to the magnetic field, the force is given by:
+
+F = qvB
+
+where q is the charge on the particle, v is the velocity of the particle and B is the magnetic
+
+field through which the particle is moving.
+
+425
+
+18.5 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+
+⊙ ⊙ ⊙ ⊙ ⊙
+
+v
+
+⊙ ⊙ ⊙ ⊙ ⊙
+
+bq q b
+
+F v F
+
+⊙ ⊙ ⊙ ⊙ ⊙
+
+⊙ ⊙ ⊙ ⊙ ⊙
+
+Worked Example 123: Charged particle moving in a magnetic field
+
+Question: An electron travels at 150m.s−1 at right angles to a magnetic field of
+
+80 000 T. What force is exerted on the electron?
+
+Answer
+
+Step 1 : Determine what is required
+
+We are required to determine the force on a moving charge in a magnetic field
+
+Step 2 : Determine how to approach the problem
+
+We can use the formula:
+
+F = qvB
+
+Step 3 : Determine what is given
+
+We are given
+
+• q = 1,6× 10−19C (The charge on an electron)
+
+• v = 150m.s−1
+
+• B = 80 000T
+
+Step 4 : Determine the force
+
+F = qvB
+
+= (1,6× 10−19C)(150m.s−1)(80 000T)
+
+= 1,92× 10−12N
+
+Important: The direction of the force exerted on a charged particle moving through a
+
+magnetic field is determined by using the Right Hand Rule.
+
+Point your fingers in the direction of the velocity of the charge and turn them (as if turning
+
+a screwdriver) towards the direction of the magnetic field. Your thumb will point in the
+
+direction of the force. If the charge is negative, the direction of the force will be opposite
+
+to the direction of your thumb.
+
+CHAPTER 18. ELECTROMAGNETISM - GRADE 11 18.5
+
+Similarly, a transformer designed to output less than it takes in across the input coil is called a
+
+step-down transformer. A step-down transformer has more windings on the primary coil than
+
+on the primary coil. This means that:
+
+Np > Ns
+
+We use a step-up transformer to increase the voltage from the primary coil to the secondary
+
+coil. It is used at power stations to increase the voltage for the transmission lines. A step-down
+
+transformer decreases the voltage from the primary coil to the secondary coil. It is particularly
+
+used to decrease the voltage from the transmission lines to a voltage which can be used in
+
+factories and in homes.
+
+Transformer technology has made long-range electric power distribution practical. Without the
+
+ability to efficiently step voltage up and down, it would be cost-prohibitive to construct power
+
+systems for anything but close-range (within a few kilometres) use.
+
+As useful as transformers are, they only work with AC, not DC. This is because the
+
+phenomenon of mutual inductance relies on changing magnetic fields, and direct current (DC)
+
+can only produce steady magnetic fields, transformers simply will not work with direct current.
+
+Of course, direct current may be interrupted (pulsed) through the primary winding of a
+
+transformer to create a changing magnetic field (as is done in automotive ignition systems to
+
+produce high-voltage spark plug power from a low-voltage DC battery), but pulsed DC is not
+
+that different from AC. Perhaps more than any other reason, this is why AC finds such
+
+widespread application in power systems.
+
+18.4.1 Real-world applications
+
+Transformers are very important in the supply of electricity nationally. In order to reduce energy
+
+losses due to heating, electrical energy is transported from power stations along power lines at
+
+high voltage and low current. Transformers are used to step the voltage up from the power
+
+station to the power lines, and step it down from the power lines to buildings where it is needed.
+
+Exercise: Transformers
+
+1. Draw a sketch of the main features of a transformer
+
+2. Use Faraday's Law to explain how a transformer works in words and pictures.
+
+3. Use the equation for Faraday's Law to derive an expression involving the ratio
+
+between the voltages and number of windings in the primary and secondary
+
+coils.
+
+4. If we have Np = 100 and Ns = 50 and we connect the primary winding to a
+
+230 V, 50Hz supply then calculate the voltage on the secondary winding.
+
+5. State the difference between a step-up and a step-down transformer in both
+
+structure and function.
+
+6. Give an example of the use of transformers.
+
+18.5 Motion of a charged particle in a magnetic field
+
+When a charged particle moves through a magnetic field it experiences a force. For a particle
+
+that is moving at right angles to the magnetic field, the force is given by:
+
+F = qvB
+
+where q is the charge on the particle, v is the velocity of the particle and B is the magnetic
+
+field through which the particle is moving.
+
+425
+
+18.5 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+
+⊙ ⊙ ⊙ ⊙ ⊙
+
+v
+
+⊙ ⊙ ⊙ ⊙ ⊙
+
+bq q b
+
+F v F
+
+⊙ ⊙ ⊙ ⊙ ⊙
+
+⊙ ⊙ ⊙ ⊙ ⊙
+
+Worked Example 123: Charged particle moving in a magnetic field
+
+Question: An electron travels at 150m.s−1 at right angles to a magnetic field of
+
+80 000 T. What force is exerted on the electron?
+
+Answer
+
+Step 1 : Determine what is required
+
+We are required to determine the force on a moving charge in a magnetic field
+
+Step 2 : Determine how to approach the problem
+
+We can use the formula:
+
+F = qvB
+
+Step 3 : Determine what is given
+
+We are given
+
+• q = 1,6× 10−19C (The charge on an electron)
+
+• v = 150m.s−1
+
+• B = 80 000T
+
+Step 4 : Determine the force
+
+F = qvB
+
+= (1,6× 10−19C)(150m.s−1)(80 000T)
+
+= 1,92× 10−12N
+
+Important: The direction of the force exerted on a charged particle moving through a
+
+magnetic field is determined by using the Right Hand Rule.
+
+Point your fingers in the direction of the velocity of the charge and turn them (as if turning
+
+a screwdriver) towards the direction of the magnetic field. Your thumb will point in the
+
+direction of the force. If the charge is negative, the direction of the force will be opposite
+
+to the direction of your thumb.
+

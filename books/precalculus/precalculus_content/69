@@ -1,0 +1,63 @@
+10.2 SYSTEMS OF LINEAR EQUATIONS IN SEVERAL VARIABLES
+Solving a Linear System ! The Number of Solutions of a Linear System !
+Modeling Using Linear Systems
+A linear equation in n variables is an equation that can be put in the form
+a1x1 " a2x2 " p " anxn ! c
+where a1, a2, . . . , an and c are real numbers, and x 1, x 2, . . . , x n are the variables. If we
+have only three or four variables, we generally use x, y, z, and „ instead of x 1, x 2, x 3, and 
+x 4. Such equations are called linear because if we have just two variables, the equation is
+a1x " a2y ! c, which is the equation of a line. Here are some examples of equations in
+three variables that illustrate the difference between linear and nonlinear equations.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 0 . 2 | Systems of Linear Equations in Several Variables 641
+Linear equations Nonlinear equations
+6x1 # 3x2 " 1 Not linear because it containsthe square and the square 5x3 ! 10 x2 " 3y # 1z ! 5 root of a variable
+x " y " z ! 2„ # 12 x1x2 " 6x3 ! #6 Not linear because it contains 
+a product of variables
+In this section we study systems of linear equations in three or more variables.
+! Solving a Linear System
+The following are two examples of systems of linear equations in three variables. The sec-
+ond system is in triangular form; that is, the variable x doesn't appear in the second
+equation, andc the variables x and y do not appear in the third equation.A system of linear equations A system in triangular formx # 2y #   z ! 1 cx # 2y # z ! 1#x " 3y " 3z ! 4 y " 2z ! 5
+2x # 3y "   z ! 10 z ! 3
+It's easy to solve a system that is in triangular form by using back-substitution. So our
+goal in this section is to start with a system of linear equations and change it to a system
+in triangular form that has the same solutions as the original system. We begin by show-
+ing how to use back-substitution to solve a system that is already in triangular form.
+E X A M P L E  1 | Solving a Triangular System Using Back-Substitution
+Solve the system using bacck-substitution:x # 2y #  z !  1 Equation 1y " 2z ! 5 Equation 2
+z ! 3 Equation 3
+S O L U T I O N From the last equation we know that z ! 3. We back-substitute this into
+the second equation an
+ y " 21d 3 2solve for y.! 5 Back-substitute z = 3 into Equation 2
+ y ! #1 Solve for y
+Then we back-sub
+ x # 21#1 2stitut# 1e 3 2y ! #1 and z ! 3 into the first equation and solve for x.! 1 Back-substitute y = -1 and z = 3 into Equation 1
+x ! 2 Solve for x
+The solution o1f the system is 2, #1, 3 2 x ! 2, y !#1, z ! 3. We can also write the solution as theordered triple .
+S E C T I O N  1 0 . 2 | Systems of Linear Equations in Several Variables 641
+Linear equations Nonlinear equations
+6x1 # 3x2 " 1 Not linear because it containsthe square and the square 5x3 ! 10 x2 " 3y # 1z ! 5 root of a variable
+x " y " z ! 2„ # 12 x1x2 " 6x3 ! #6 Not linear because it contains 
+a product of variables
+In this section we study systems of linear equations in three or more variables.
+! Solving a Linear System
+The following are two examples of systems of linear equations in three variables. The sec-
+ond system is in triangular form; that is, the variable x doesn't appear in the second
+equation, andc the variables x and y do not appear in the third equation.A system of linear equations A system in triangular formx # 2y #   z ! 1 cx # 2y # z ! 1#x " 3y " 3z ! 4 y " 2z ! 5
+2x # 3y "   z ! 10 z ! 3
+It's easy to solve a system that is in triangular form by using back-substitution. So our
+goal in this section is to start with a system of linear equations and change it to a system
+in triangular form that has the same solutions as the original system. We begin by show-
+ing how to use back-substitution to solve a system that is already in triangular form.
+E X A M P L E  1 | Solving a Triangular System Using Back-Substitution
+Solve the system using bacck-substitution:x # 2y #  z !  1 Equation 1y " 2z ! 5 Equation 2
+z ! 3 Equation 3
+S O L U T I O N From the last equation we know that z ! 3. We back-substitute this into
+the second equation an
+ y " 21d 3 2solve for y.! 5 Back-substitute z = 3 into Equation 2
+ y ! #1 Solve for y
+Then we back-sub
+ x # 21#1 2stitut# 1e 3 2y ! #1 and z ! 3 into the first equation and solve for x.! 1 Back-substitute y = -1 and z = 3 into Equation 1
+x ! 2 Solve for x
+The solution o1f the system is 2, #1, 3 2 x ! 2, y !#1, z ! 3. We can also write the solution as theordered triple .

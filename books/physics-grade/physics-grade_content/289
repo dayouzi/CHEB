@@ -1,0 +1,56 @@
+17.4 Electrical potential energy and potential
+
+The electrical potential energy of a charge is the energy it has because of its position relative
+
+to other charges that it interacts with. The potential energy of a charge Q1 relative to a
+
+charge Q2 a distance r away is calculated by:
+
+kQ1Q2
+
+U =
+
+r
+
+Worked Example 116: Electrical potential energy 1
+
+Question: What is the electric potential energy of a 7nC charge that is 2 cm from
+
+a 20nC?
+
+Answer
+
+Step 1 : Determine what is required
+
+We need to calculate the electric potential energy (U).
+
+Step 2 : Determine what is given
+
+We are given both charges and the distance between them.
+
+Step 3 : Determine how to approach the problem
+
+We will use the equation:
+
+kQ1Q2
+
+U =
+
+r
+
+Step 4 : Solve the problem
+
+kQ1Q2
+
+U =
+
+r
+
+(8.99× 109)(7× 10−9)(20× 10−9)
+
+=
+
+(0,02)
+
+= 6,29× 10−5J
+

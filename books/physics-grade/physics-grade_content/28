@@ -1,0 +1,263 @@
+3.4 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+Question: James walks 2 km away from home in 30 minutes. He then turns around
+and walks back home along the same path, also in 30 minutes. Calculate James'
+average speed and average velocity.
+2 km
+Answer
+Step 1 : Identify what information is given and what is asked for
+The question explicitly gives
+• the distance and time out (2 km in 30 minutes)
+• the distance and time back (2 km in 30 minutes)
+Step 2 : Check that all units are SI units.
+The information is not in SI units and must therefore be converted.
+To convert km to m, we know that:
+1 km = 1 000 m
+∴ 2 km = 2 000 m (multiply both sides by 2, because we want to convert 2 km to m.)
+Similarly, to convert 30 minutes to seconds,
+1 min = 60s
+∴ 30 min = 1 800 s (multiply both sides by 30)
+Step 3 : Determine James' displacement and distance.
+James started at home and returned home, so his displacement is 0 m.
+∆x = 0 m
+James walked a total distance of 4 000 m (2 000 m out and 2 000 m back).
+d = 4 000 m
+Step 4 : Determine his total time.
+James took 1 800 s to walk out and 1 800 s to walk back.
+∆t = 3 600 s
+Step 5 : Determine his average speed
+d
+s =
+∆t
+4 000 m
+=
+3 600 s
+= 1,11 m · s−1
+Step 6 : Determine his average velocity
+∆x
+v =
+∆t
+0 m
+=
+3 600 s
+= 0 m · s−1
+Worked Example 6: Instantaneous Speed and Velocity
+32
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.4
+N
+Question: A man runs around a circular track of radius 100 m. It takes him 120 s
+to complete a revolution of the track. If he runs at constant speed, calculate: W E
+1. his speed,
+b
+2. his instantaneous velocity at point A, A S
+3. his instantaneous velocity at point B, Direction the man runs
+100 m
+b
+4. his average velocity between points A and B, B
+5. his average speed during a revolution.
+6. his average velocity during a revolution.
+Answer
+Step 1 : Decide how to approach the problem
+To determine the man's speed we need to know the distance he travels and how
+long it takes. We know it takes 120 s to complete one revolution of the track.(A
+revolution is to go around the track once.)
+33
+3.4 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+Step 2 : Determine the distance travelled
+What distance is one revolution of the track? We know the track is a circle and we
+know its radius, so we can determine the distance around the circle. We start with
+the equation for the circumference of a circle
+C = 2πr
+= 2π(100m)
+= 628,32m
+Therefore, the distance the man covers in one revolution is 628,32 m.
+Step 3 : Determine the speed
+d
+We know that speed is distance covered per unit s = ∆t
+time. So if we divide the distance covered by the 628,32m
+time it took we will know how much distance was = 120 s
+covered for every unit of time. No direction is = 5,24m · s−1
+used here because speed is a scalar.
+Step 4 : Determine the instantaneous velocity at A
+b
+A
+Consider the point A in the diagram.
+We know which way the man is running around Direction the man runs
+the track and we know his speed. His velocity
+at point A will be his speed (the magnitude of
+the velocity) plus his direction of motion (the
+direction of his velocity). The instant that he
+arrives at A he is moving as indicated in the
+diagram.
+b
+His velocity will be 5,24 m·s−1West. A
+Step 5 : Determine the instantaneous velocity at B
+Direction the man runs
+Consider the point B in the diagram. bB
+We know which way the man is running around
+the track and we know his speed. His velocity
+at point B will be his speed (the magnitude of
+the velocity) plus his direction of motion (the
+direction of his velocity). The instant that he
+arrives at B he is moving as indicated in the
+diagram.
+His velocity will be 5,24 m·s−1South.
+bB
+34
+3.4 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+Step 2 : Determine the distance travelled
+
+What distance is one revolution of the track? We know the track is a circle and we
+
+know its radius, so we can determine the distance around the circle. We start with
+
+the equation for the circumference of a circle
+
+C = 2πr
+
+= 2π(100m)
+
+= 628,32m
+
+Therefore, the distance the man covers in one revolution is 628,32 m.
+
+Step 3 : Determine the speed
+
+d
+
+We know that speed is distance covered per unit s = ∆t
+
+time. So if we divide the distance covered by the 628,32m
+
+time it took we will know how much distance was = 120 s
+
+covered for every unit of time. No direction is = 5,24m · s−1
+
+used here because speed is a scalar.
+
+Step 4 : Determine the instantaneous velocity at A
+
+b
+
+A
+
+Consider the point A in the diagram.
+
+We know which way the man is running around Direction the man runs
+
+the track and we know his speed. His velocity
+
+at point A will be his speed (the magnitude of
+
+the velocity) plus his direction of motion (the
+
+direction of his velocity). The instant that he
+
+arrives at A he is moving as indicated in the
+
+diagram.
+
+b
+
+His velocity will be 5,24 m·s−1West. A
+
+Step 5 : Determine the instantaneous velocity at B
+
+Direction the man runs
+
+Consider the point B in the diagram. bB
+
+We know which way the man is running around
+
+the track and we know his speed. His velocity
+
+at point B will be his speed (the magnitude of
+
+the velocity) plus his direction of motion (the
+
+direction of his velocity). The instant that he
+
+arrives at B he is moving as indicated in the
+
+diagram.
+
+His velocity will be 5,24 m·s−1South.
+
+bB
+
+34
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.4
+
+Step 6 : Determine the average velocity between A and B
+
+To determine the average velocity between A and B, we need the change in displace-
+
+ment between A and B and the change in time between A and B. The displacement
+
+from A and B can be calculated by using the Theorem of Pythagoras:
+
+(∆x)2 = 1002 + 1002
+
+= 20000
+
+∆x = 141,42135... m A
+
+The time for a full revolution is 120 s, therefore ∆x
+
+the time for a 14 of a revolution is 30 s.
+
+100 m
+
+∆x
+
+vAB =
+
+∆t
+
+141,42... B 100 Om
+
+=
+
+30 s
+
+= 4.71 m · s−1
+
+Velocity is a vector and needs a direction.
+
+Triangle AOB is isosceles and therefore angle BAO = 45◦.
+
+The direction is between west and south and is therefore southwest.
+
+The final answer is: v = 4.71 m·s−1, southwest.
+
+Step 7 : Determine his average speed during a revolution
+
+Because he runs at a constant rate, we know that his speed anywhere around the
+
+track will be the same. His average speed is 5,24 m·s−1.
+
+Step 8 : Determine his average velocity over a complete revolution
+
+Important: Remember - displacement can be zero even when distance travelled is not!
+
+To calculate average velocity we need his total displacement and his total time. His
+
+displacement is zero because he ends up where he started. His time is 120 s. Using
+
+these we can calculate his average velocity:
+
+∆x
+
+v =
+
+∆t
+
+0 m
+
+=
+
+120 s
+
+= 0 s
+

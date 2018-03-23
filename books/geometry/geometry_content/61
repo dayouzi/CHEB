@@ -1,0 +1,196 @@
+6.7 Kites
+
+Here you'll learn what a kite is and what properties it possesses.
+
+What if you were told that WIND is a kite and you are given information about some of its angles or its diagonals?
+
+How would you find the measure of its other angles or its sides? After completing this Concept, you'll be able to
+
+find the value of a kite's unknown angles and sides.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136709
+
+CK-12 Kites
+
+Guidance
+
+A kite is a quadrilateral with two distinct sets of adjacent congruent sides. It looks like a kite that flies in the air.
+
+From the definition, a kite could be concave. If a kite is concave, it is called a dart. The word distinct in the
+
+definition means that the two pairs of congruent sides have to be different. This means that a square or a rhombus is
+
+not a kite.
+
+The angles between the congruent sides are called vertex angles. The other angles are called non-vertex angles. If
+
+we draw the diagonal through the vertex angles, we would have two congruent triangles.
+
+321
+
+6.7. Kites www.ck12.org
+
+Facts about Kites
+
+1) The non-vertex angles of a kite are congruent.
+
+If KIT E is a kite, then 6 K ∼= 6 T .
+
+2) The diagonal through the vertex angles is the angle bisector for both angles.
+
+If KIT E is a kite, then 6 KEI ∼= 6 IET and 6 KIE ∼= 6 EIT .
+
+3) Kite Diagonals Theorem: The diagonals of a kite are perpendicular.
+
+4KET and4KIT are isosceles triangles, so EI is the perpendicular bisector of KT (Isosceles Triangle Theorem).
+
+Example A
+
+Find the missing measures in the kites below.
+
+a)
+
+322
+6.7. Kites www.ck12.org
+Facts about Kites
+1) The non-vertex angles of a kite are congruent.
+If KIT E is a kite, then 6 K ∼= 6 T .
+2) The diagonal through the vertex angles is the angle bisector for both angles.
+If KIT E is a kite, then 6 KEI ∼= 6 IET and 6 KIE ∼= 6 EIT .
+3) Kite Diagonals Theorem: The diagonals of a kite are perpendicular.
+4KET and4KIT are isosceles triangles, so EI is the perpendicular bisector of KT (Isosceles Triangle Theorem).
+Example A
+Find the missing measures in the kites below.
+a)
+322
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+b)
+Answer:
+a) The two angles left are the non-vertex angles, which are congruent.
+130◦+60◦+ x+ x = 360◦
+2x = 170◦
+x = 85◦ Both angles are 85◦.
+b) The other non-vertex angle is also 94◦. To find the fourth angle, subtract the other three angles from 360◦.
+90◦+94◦+94◦+ x = 360◦
+x = 82◦
+Example B
+Use the Pythagorean Theorem to find the lengths of the sides of the kite.
+Recall that the Pythagorean Theorem says a2 + b2 = c2, where c is the hypotenuse. In this kite, the sides are the
+hypotenuses.
+323
+6.7. Kites www.ck12.org
+62 +52 = h2 122 +52 = j2
+36+25 = h2 144+25 = j2
+61 = h2 169 = j2√
+61 = h 13 = j
+Example C
+Prove that the non-vertex angles of a kite are congruent.
+Given: KIT E with KE ∼= T E and KI ∼= T I
+Prove: 6 K ∼= 6 T
+TABLE 6.11:
+Statement Reason
+1. KE ∼= T E and KI ∼= T I 1. Given
+2. EI ∼= EI 2. Reflexive PoC
+3. 4EKI ∼=4ET I 3. SSS
+4. 6 K ∼= 6 T 4. CPCTC
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136710
+CK-12 Kites
+->
+Guided Practice
+KIT E is a kite.
+324
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+Find:
+1. m6 KIS
+2. m6 IST
+3. m6 SIT
+Answers:
+1. m6 KIS = 25◦ by the Triangle Sum Theorem (remember that 6 KSI is a right angle because the diagonals are
+perpendicular.)
+2. m6 IST = 90◦ because the diagonals are perpendicular.
+3. m6 SIT = 25◦ because it is congruent to 6 KIS.
+Explore More
+For questions 1-6, find the value of the missing variable(s). All figures are kites.
+1.
+2.
+3.
+4.
+5.
+325
+6.7. Kites www.ck12.org
+6.
+For questions 7-11, find the value of the missing variable(s).
+7.
+8.
+9.
+10.
+11.
+12. Fill in the blanks to the proof below.
+Given: KE ∼= T E and KI ∼= T I
+Prove: EI is the angle bisector of 6 KET and 6 KIT
+326
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+TABLE 6.12:
+Statement Reason
+1. KE ∼= T E and KI ∼= T I 1.
+2. EI ∼= EI 2.
+3. 4EKI ∼=4ET I 3.
+4. 4. CPCTC
+5. EI is the angle bisector of 6 KET and 6 KIT 5.
+13. Fill in the blanks to the proof below.
+Given: EK ∼= ET ,KI ∼= IT
+Prove: KT⊥EI
+TABLE 6.13:
+Statement Reason
+1. KE ∼= T E and KI ∼= T I 1.
+2. 2. Definition of isosceles triangles
+3. EI is the angle bisector of 6 KET and 6 KIT 3.
+4. 4. Isosceles Triangle Theorem
+5. KT⊥EI 5.
+327
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+
+TABLE 6.12:
+
+Statement Reason
+
+1. KE ∼= T E and KI ∼= T I 1.
+
+2. EI ∼= EI 2.
+
+3. 4EKI ∼=4ET I 3.
+
+4. 4. CPCTC
+
+5. EI is the angle bisector of 6 KET and 6 KIT 5.
+
+13. Fill in the blanks to the proof below.
+
+Given: EK ∼= ET ,KI ∼= IT
+
+Prove: KT⊥EI
+
+TABLE 6.13:
+
+Statement Reason
+
+1. KE ∼= T E and KI ∼= T I 1.
+
+2. 2. Definition of isosceles triangles
+
+3. EI is the angle bisector of 6 KET and 6 KIT 3.
+
+4. 4. Isosceles Triangle Theorem
+
+5. KT⊥EI 5.
+
+327
+

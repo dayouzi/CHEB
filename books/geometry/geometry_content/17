@@ -1,0 +1,247 @@
+2.4 Converse, Inverse, and Contrapositive
+
+Here you'll learn how to write the converse, inverse, and contrapositive of any conditional statement. You'll also
+
+learn what a biconditional statement is.
+
+What if you were given a conditional statement like "If I walk to school, then I will be late"? How could you
+
+rearrange and/or negate this statement to form new conditional statements? After completing this Concept, you'll be
+
+able to write the converse, inverse, and contrapositive of a conditional statement like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136611
+
+CK-12 Converse, Inverse and Contrapositive of a Conditional Statement
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1377
+
+James Sousa: Converse, Contrapositive, and Inverse of an If-Then Statement
+
+Guidance
+
+Consider the statement: If the weather is nice, then I'll wash the car. We can rewrite this statement using letters to
+
+represent the hypothesis and conclusion.
+
+p = the weather is nice q = I'll wash the car
+
+Now the statement is: If p, then q, which can also be written as p→ q.
+
+We can also make the negations, or "nots," of p and q. The symbolic version of "not p" is ∼ p.
+
+∼ p = the weather is not nice ∼ q = I won't wash the car
+
+Using these "nots" and switching the order of p and q, we can create three new statements.
+
+77
+
+2.4. Converse, Inverse, and Contrapositive www.ck12.org
+
+Converse q→ p I︸f    I    w     a   s︷h︷ t  h    e    c    a ︸r, t︸h   e   n      t h    e     w     e︷a︷t  h    e   r    i  s    n   i  c   ︸e .
+
+q
+
+Inverse ∼ p→∼ q I︸f    t  h   e     w     e   a   t  h ︷e︷r   i  s     n   o    t   n    i  c  ︸e, t︸h   e   pn     I    w     o    n   '  t︷︷w   a   s   h     t  h   e     c   a  ︸r .
+
+∼p ∼q
+
+Contrapositive ∼ q→∼ p I︸f    I    d    o   n    '  t    w︷︷a  s   h     t  h   e     c   a  ︸r, t︸h   e   n     t  h    e     w     e   a  ︷th︷e   r    i  s     n   o   t    n    i  c  ︸e .
+
+∼q ∼p
+
+If the "if-then" statement is true, then the contrapositive is also true. The contrapositive is logically equivalent to the
+
+original statement. The converse and inverse may or may not be true. When the original statement and converse are
+
+both true then the statement is a biconditional statement. In other words, if p→ q is true and q→ p is true, then
+
+p↔ q (said "p if and only if q").
+
+Example A
+
+If n > 2, then n2 > 4.
+
+a) Find the converse, inverse, and contrapositive.
+
+b) Determine if the statements from part a are true or false. If they are false, find a counterexample.
+
+The original statement is true.
+
+Converse : If n2 > 4, then n > 2.
+
+False. If n2 = 9,n =−3 or 3. (−3)2 = 9
+
+Inverse : If n≤ 2, then n2 ≤ 4.
+
+False. If n =−3, then n2 = 9.
+
+Contrapositive : If n2 ≤ 4, then n≤ 2. √ √
+
+True. The only n2 ≤ 4 is 1 or 4. 1 =±1 and 4 =±2, which are both less than or equal to 2.
+
+Example B
+
+If I am at Disneyland, then I am in California.
+
+a) Find the converse, inverse, and contrapositive.
+
+b) Determine if the statements from part a are true or false. If they are false, find a counterexample.
+
+The original statement is true.
+
+Converse : If I am in California, then I am at Disneyland.
+
+False. I could be in San Francisco.
+
+Inverse : If I am not at Disneyland, then I am not in California.
+
+False. Again, I could be in San Francisco.
+
+Contrapositive : If I am not in California, then I am not at Disneyland.
+
+True. If I am not in the state, I couldn't be at Disneyland.
+
+Notice for the converse and inverse we can use the same counterexample.
+
+78
+2.4. Converse, Inverse, and Contrapositive www.ck12.org
+Converse q→ p I︸f    I    w     a   s︷h︷ t  h    e    c    a ︸r, t︸h   e   n      t h    e     w     e︷a︷t  h    e   r    i  s    n   i  c   ︸e .
+q
+Inverse ∼ p→∼ q I︸f    t  h   e     w     e   a   t  h ︷e︷r   i  s     n   o    t   n    i  c  ︸e, t︸h   e   pn     I    w     o    n   '  t︷︷w   a   s   h     t  h   e     c   a  ︸r .
+∼p ∼q
+Contrapositive ∼ q→∼ p I︸f    I    d    o   n    '  t    w︷︷a  s   h     t  h   e     c   a  ︸r, t︸h   e   n     t  h    e     w     e   a  ︷th︷e   r    i  s     n   o   t    n    i  c  ︸e .
+∼q ∼p
+If the "if-then" statement is true, then the contrapositive is also true. The contrapositive is logically equivalent to the
+original statement. The converse and inverse may or may not be true. When the original statement and converse are
+both true then the statement is a biconditional statement. In other words, if p→ q is true and q→ p is true, then
+p↔ q (said "p if and only if q").
+Example A
+If n > 2, then n2 > 4.
+a) Find the converse, inverse, and contrapositive.
+b) Determine if the statements from part a are true or false. If they are false, find a counterexample.
+The original statement is true.
+Converse : If n2 > 4, then n > 2.
+False. If n2 = 9,n =−3 or 3. (−3)2 = 9
+Inverse : If n≤ 2, then n2 ≤ 4.
+False. If n =−3, then n2 = 9.
+Contrapositive : If n2 ≤ 4, then n≤ 2. √ √
+True. The only n2 ≤ 4 is 1 or 4. 1 =±1 and 4 =±2, which are both less than or equal to 2.
+Example B
+If I am at Disneyland, then I am in California.
+a) Find the converse, inverse, and contrapositive.
+b) Determine if the statements from part a are true or false. If they are false, find a counterexample.
+The original statement is true.
+Converse : If I am in California, then I am at Disneyland.
+False. I could be in San Francisco.
+Inverse : If I am not at Disneyland, then I am not in California.
+False. Again, I could be in San Francisco.
+Contrapositive : If I am not in California, then I am not at Disneyland.
+True. If I am not in the state, I couldn't be at Disneyland.
+Notice for the converse and inverse we can use the same counterexample.
+78
+www.ck12.org Chapter 2. Reasoning and Proof
+Example C
+Rewrite as a biconditional statement: Any two points are collinear.
+This statement can be rewritten as:
+Two points are on the same line if and only if they are collinear. Replace the "if-then" with "if and only if" in the
+middle of the statement.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136612
+CK-12 Converse, Inverse and Contrapositive of a Conditional Statement
+->
+Guided Practice
+1. Any two points are collinear.
+a) Find the converse, inverse, and contrapositive.
+b) Determine if the statements from part a are true or false. If they are false, find a counterexample.
+2. The following is a true statement:
+m6 ABC > 90◦ if and only if 6 ABC is an obtuse angle.
+Determine the two true statements within this biconditional.
+3. p : x < 10 q : 2x < 50
+a) Is p→ q true? If not, find a counterexample.
+b) Is q→ p true? If not, find a counterexample.
+c) Is ∼ p→∼ q true? If not, find a counterexample.
+d) Is ∼ q→∼ p true? If not, find a counterexample.
+Answers
+1. First, change the statement into an "if-then" statement:
+If two points are on the same line, then they are collinear.
+Converse : If two points are collinear, then they are on the same line. True.
+Inverse : If two points are not on the same line, then they are not collinear. True.
+Contrapositive : If two points are not collinear, then they do not lie on the same line. True.
+2. Statement 1: If m 6 ABC > 90◦, then 6 ABC is an obtuse angle.
+Statement 2: If 6 ABC is an obtuse angle, then m6 ABC > 90◦.
+3. a) If x < 10, then 2x < 50. True.
+79
+2.4. Converse, Inverse, and Contrapositive www.ck12.org
+b) If 2x < 50, then x < 10. False, x = 15
+c) If x≥ 10, then 2x≥ 50. False, x = 15
+d) If 2x≥ 50, then x≥ 10. True, x≥ 25
+Explore More
+For questions 1-4, use the statement:
+If AB = 5 and BC = 5, then B is the midpoint of AC.
+1. Is this a true statement? If not, what is a counterexample?
+2. Find the converse of this statement. Is it true?
+3. Find the inverse of this statement. Is it true?
+4. Find the contrapositive of this statement. Which statement is it the same as?
+Find the converse of each true if-then statement. If the converse is true, write the biconditional statement.
+5. An acute angle is less than 90◦.
+6. If you are at the beach, then you are sun burnt.
+7. If x > 4, then x+3 > 7.
+For questions 8-10, determine the two true conditional statements from the given biconditional statements.
+8. A U.S. citizen can vote if and only if he or she is 18 or more years old.
+9. A whole number is prime if and only if its factors are 1 and itself.
+10. 2x = 18 if and only if x = 9.
+80
+2.4. Converse, Inverse, and Contrapositive www.ck12.org
+
+b) If 2x < 50, then x < 10. False, x = 15
+
+c) If x≥ 10, then 2x≥ 50. False, x = 15
+
+d) If 2x≥ 50, then x≥ 10. True, x≥ 25
+
+Explore More
+
+For questions 1-4, use the statement:
+
+If AB = 5 and BC = 5, then B is the midpoint of AC.
+
+1. Is this a true statement? If not, what is a counterexample?
+
+2. Find the converse of this statement. Is it true?
+
+3. Find the inverse of this statement. Is it true?
+
+4. Find the contrapositive of this statement. Which statement is it the same as?
+
+Find the converse of each true if-then statement. If the converse is true, write the biconditional statement.
+
+5. An acute angle is less than 90◦.
+
+6. If you are at the beach, then you are sun burnt.
+
+7. If x > 4, then x+3 > 7.
+
+For questions 8-10, determine the two true conditional statements from the given biconditional statements.
+
+8. A U.S. citizen can vote if and only if he or she is 18 or more years old.
+
+9. A whole number is prime if and only if its factors are 1 and itself.
+
+10. 2x = 18 if and only if x = 9.
+
+80
+
+www.ck12.org Chapter 2. Reasoning and Proof
+

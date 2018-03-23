@@ -1,0 +1,210 @@
+4.8 ASA and AAS Triangle Congruence
+
+Here you'll learn how to prove that triangles are congruent given information only about two of their angles and one
+
+of their sides.
+
+What if you were given two triangles and provided with only the measure of two of their angles and one of their side
+
+lengths? How could you determine if the two triangles were congruent? After completing this Concept, you'll be
+
+able to use the Angle-Side-Angle (ASA) and Angle-Angle-Side (AAS) shortcuts to prove triangle congruency.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136751
+
+CK-12 ASA and AAS Triangle Congruence
+
+Watch the portions of the following two videos that deal with ASA and AAS triangle congruence.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1303
+
+James Sousa: Introduction to Congruent Triangles
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1304
+
+James Sousa: Determining If Two Triangles are Congruent
+
+Finally, watch this video.
+
+207
+
+4.8. ASA and AAS Triangle Congruence www.ck12.org
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1317
+
+James Sousa: Example 2: Prove Two Triangles are Congruent
+
+Guidance
+
+If two angles and one side in one triangle are congruent to the corresponding two angles and one side in another
+
+triangle, then the two triangles are congruent. This idea encompasses two triangle congruence shortcuts: Angle-
+
+Side-Angle and Angle-Angle-Side.
+
+Angle-Side-Angle (ASA) Congruence Postulate: If two angles and the included side in one triangle are congruent
+
+to two angles and the included side in another triangle, then the two triangles are congruent.
+
+Angle-Angle-Side (AAS) Congruence Theorem: If two angles and a non-included side in one triangle are congru-
+
+ent to two angles and the corresponding non-included side in another triangle, then the triangles are congruent.
+
+The placement of the word Side is important because it indicates where the side that you are given is in relation to
+
+the angles. The pictures below help to show the difference between the two shortcuts.
+
+ASA
+
+AAS
+
+Example A
+
+What information do you need to prove that these two triangles are congruent using the ASA Postulate?
+
+208
+4.8. ASA and AAS Triangle Congruence www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1317
+James Sousa: Example 2: Prove Two Triangles are Congruent
+Guidance
+If two angles and one side in one triangle are congruent to the corresponding two angles and one side in another
+triangle, then the two triangles are congruent. This idea encompasses two triangle congruence shortcuts: Angle-
+Side-Angle and Angle-Angle-Side.
+Angle-Side-Angle (ASA) Congruence Postulate: If two angles and the included side in one triangle are congruent
+to two angles and the included side in another triangle, then the two triangles are congruent.
+Angle-Angle-Side (AAS) Congruence Theorem: If two angles and a non-included side in one triangle are congru-
+ent to two angles and the corresponding non-included side in another triangle, then the triangles are congruent.
+The placement of the word Side is important because it indicates where the side that you are given is in relation to
+the angles. The pictures below help to show the difference between the two shortcuts.
+ASA
+AAS
+Example A
+What information do you need to prove that these two triangles are congruent using the ASA Postulate?
+208
+www.ck12.org Chapter 4. Triangles and Congruence
+a) AB∼=UT
+b) AC ∼=UV
+c) BC ∼= TV
+d) 6 B∼= 6 T
+For ASA, we need the side between the two given angles, which is AC and UV . The answer is b.
+Example B
+Write a 2-column proof.
+Given: 6 C ∼= 6 E, AC ∼= AE
+Prove: 4ACF ∼=4AEB
+TABLE 4.13:
+Statement Reason
+1. 6 C ∼= 6 E, AC ∼= AE 1. Given
+2. 6 A∼= 6 A 2. Reflexive PoC
+3. 4ACF ∼=4AEB 3. ASA
+Example C
+What information do you need to prove that these two triangles are congruent using:
+a) ASA?
+b) AAS?
+Solution:
+a) For ASA, we need the angles on the other side of EF and QR. 6 F ∼= 6 Q
+b) For AAS, we would need the other angle. 6 G∼= 6 P
+209
+4.8. ASA and AAS Triangle Congruence www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136752
+CK-12 ASA and AAS Triangle Congruence
+->
+Guided Practice
+1. Can you prove that the following triangles are congruent? Why or why not?
+2. Write a 2-column proof.
+Given: BD is an angle bisector of 6 CDA, 6 C ∼= 6 A
+Prove: 4CBD∼= 6 ABD
+3. Write a 2-column proof.
+Given: AB||ED, 6 C ∼= 6 F, AB∼= ED
+Prove: AF ∼=CD
+Answers:
+210
+www.ck12.org Chapter 4. Triangles and Congruence
+1. We cannot show the triangles are congruent because KL and ST are not corresponding, even though they are
+congruent. To determine if KL and ST are corresponding, look at the angles around them, 6 K and 6 L and 6 S and
+6 T . 6 K has one arc and 6 L is unmarked. 6 S has two arcs and 6 T is unmarked. In order to use AAS, 6 S needs to be
+congruent to 6 K.
+2.
+TABLE 4.14:
+Statement Reason
+1. BD is an angle bisector of 6 CDA, 6 C ∼= 6 A 1. Given
+2. 6 CDB∼= 6 ADB 2. Definition of an Angle Bisector
+3. DB∼= DB 3. Reflexive PoC
+4. 4CBD∼=4ABD 4. AAS
+3.
+TABLE 4.15:
+Statement Reason
+1. AB||ED, 6 C ∼= 6 F, AB∼= ED 1. Given
+2. 6 ABE ∼= 6 DEB 2. Alternate Interior Angles Theorem
+3. 4ABF ∼=4DEC 3. ASA
+4. AF ∼=CD 4. CPCTC (Corresponding Parts of Congruent Trian-
+gles are Congruent)
+Explore More
+For questions 1-3, determine if the triangles are congruent. If they are, write the congruence statement and which
+congruence postulate or theorem you used.
+1.
+2.
+3.
+211
+4.8. ASA and AAS Triangle Congruence www.ck12.org
+For questions 4-8, use the picture and the given information below.
+Given: DB⊥ AC, DB is the angle bisector of 6 CDA
+4. From DB⊥ AC, which angles are congruent and why?
+5. Because DB is the angle bisector of 6 CDA, what two angles are congruent?
+6. From looking at the picture, what additional piece of information are you given? Is this enough to prove the
+two triangles are congruent?
+7. Write a 2-column proof to prove4CDB∼=4ADB, using #4-6.
+8. What would be your reason for 6 C ∼= 6 A?
+For questions 9-13, use the picture and the given information.
+Given: LP||NO, LP∼= NO
+9. From LP||NO, which angles are congruent and why?
+10. From looking at the picture, what additional piece of information can you conclude?
+11. Write a 2-column proof to prove4LMP∼=4OMN.
+12. What would be your reason for LM ∼= MO?
+13. Fill in the blanks for the proof below. Use the given from above. Prove: M is the midpoint of PN.
+TABLE 4.16:
+Statement Reason
+1. LP||NO, LP∼= NO 1. Given
+2. 2. Alternate Interior Angles
+3. 3. ASA
+4. LM ∼= MO 4.
+5. M is the midpoint of PN. 5.
+Determine the additional piece of information needed to show the two triangles are congruent by the given postulate.
+14. AAS
+212
+www.ck12.org Chapter 4. Triangles and Congruence
+15. ASA
+16. ASA
+17. AAS
+213
+www.ck12.org Chapter 4. Triangles and Congruence
+
+15. ASA
+
+16. ASA
+
+17. AAS
+
+213
+

@@ -1,0 +1,141 @@
+13.5 AREAS
+The Area Problem ! Definition of Area
+We have seen that limits are needed to compute the slope of a tangent line or an instanta-
+neous rate of change. Here we will see that they are also needed to find the area of a re-
+gion with a curved boundary. The problem of finding such areas has consequences far be-
+yond simply finding area. (See Focus on Modeling, page 884.)
+! The Area Problem
+One of the central problems in 
+y $ f 1cax 2lculus is the area problem: Find the area of the region Sthat lies under the curve from a to b. This means that S, illustrated in Figure 1,
+is bounded by the graph of a function f (where f 1x 2 ' 0), the vertical lines x $ a and 
+x $ b, and the x-axis.
+y
+y=Ï
+x=a
+S x=b
+0 a b x
+F I G U R E  1
+In trying to solve the area problem, we have to ask ourselves: What is the meaning of
+the word area? This question is easy to answer for regions with straight sides. For a rec-
+tangle, the area is defined as the product of the length and the width. The area of a trian-
+gle is half the base times the height. The area of a polygon is found by dividing it into tri-
+angles (as in Figure 2) and adding the areas of the triangles.
+A¤ A‹
+„ h A⁄ A›
+l b
+F I G U R E  2 A=l„ A= 1  2 bh A=A⁄+A¤+A‹+A›
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 5 | Areas 873
+However, it is not so easy to find the area of a region with curved sides. We all have an
+intuitive idea of what the area of a region is. But part of the area problem is to make this
+intuitive idea precise by giving an exact definition of area.
+Recall that in defining a tangent, we first approximated the slope of the tangent line by
+slopes of secant lines, and then we took the limit of these approximations. We pursue a
+similar idea for areas. We first approximate the region S by rectangles, and then we take
+the limit of the areas of these rectangles as we increase the number of rectangles. The fol-
+lowing example illustrates the procedure.
+E X A M P L E  1 Estimating an Area Using Rectangles
+Use rectangles to estimate the area under the parabola y $ x2 from 0 to 1 (the parabolic
+region S illustrated in Figure 3).
+y
+(1, 1)
+y=≈
+S
+0 1
+F I G U R E  3 x
+S O L U T I O N We first notice that the area of S must be somewhere between 0 and 1 be-
+cause S is contained in a square with side length 1, but we can certainly do better than that.
+Suppose we divide S into four strips S1, S2, S3, and S4 by drawing the vertical lines
+x $ 1 14, x $ 2, and x $ 34 as in Figure 4(a). We can approximate each strip by a rectangle
+whose base is the same as the strip and whose height is the same as the right edge of the
+strip (see Figure 4(b)). In other words, the heights of these rectangles are the values of the
+function f 1x 2 $ x2 at the right endpoints of the subintervals 30, 1 1 1  4 4 , 3 4,  2 4 , 3 1 3 32,  4 4 , and 3 4,  1 4 .
+y y
+(1, 1) (1, 1)
+y=≈ y=≈
+S›
+S¤
+S⁄ S‹
+0 1 1 3 1 x 0 1 1 3 1 x
+4 2 4 4 2 4
+F I G U R E  4 (a) (b)
+Each rectangle has width 1 A14B2, A12B2, A34B2, and 124, and the heights are . If we let R4 be
+y the sum of the areas of th
+(1, 1) R 1 1 14 $ 4 # Ae4Bse approx2 # 4 # A12Bimating rectangles, we get2 # 14 # A34B2 # 14 # 12 $ 1532 $ 0.46875
+y=≈ From Figure 4(b) we see that the area A of S is less than R4, so
+A % 0.46875
+Instead of using the rectangles in Figure 4(b), we could use the smaller rectangles in Fig-
+ure 5 whose heights are the values of f at the left endpoints of the subintervals. (The leftmost
+0 1 1 3 rectangle has collapsed because its height is 0.) The sum of the areas of these approximating1 x
+4 2 4 rectangles is
+L4 $ 14 # 02 # 14 # A14B2 # 14 # A12B2 # 14 # A34B2 $ 7F I G U R E  5 32 $ 0.21875
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 5 | Areas 873
+However, it is not so easy to find the area of a region with curved sides. We all have an
+intuitive idea of what the area of a region is. But part of the area problem is to make this
+intuitive idea precise by giving an exact definition of area.
+Recall that in defining a tangent, we first approximated the slope of the tangent line by
+slopes of secant lines, and then we took the limit of these approximations. We pursue a
+similar idea for areas. We first approximate the region S by rectangles, and then we take
+the limit of the areas of these rectangles as we increase the number of rectangles. The fol-
+lowing example illustrates the procedure.
+E X A M P L E  1 Estimating an Area Using Rectangles
+Use rectangles to estimate the area under the parabola y $ x2 from 0 to 1 (the parabolic
+region S illustrated in Figure 3).
+y
+(1, 1)
+y=≈
+S
+0 1
+F I G U R E  3 x
+S O L U T I O N We first notice that the area of S must be somewhere between 0 and 1 be-
+cause S is contained in a square with side length 1, but we can certainly do better than that.
+Suppose we divide S into four strips S1, S2, S3, and S4 by drawing the vertical lines
+x $ 1 14, x $ 2, and x $ 34 as in Figure 4(a). We can approximate each strip by a rectangle
+whose base is the same as the strip and whose height is the same as the right edge of the
+strip (see Figure 4(b)). In other words, the heights of these rectangles are the values of the
+function f 1x 2 $ x2 at the right endpoints of the subintervals 30, 1 1 1  4 4 , 3 4,  2 4 , 3 1 3 32,  4 4 , and 3 4,  1 4 .
+y y
+(1, 1) (1, 1)
+y=≈ y=≈
+S›
+S¤
+S⁄ S‹
+0 1 1 3 1 x 0 1 1 3 1 x
+4 2 4 4 2 4
+F I G U R E  4 (a) (b)
+Each rectangle has width 1 A14B2, A12B2, A34B2, and 124, and the heights are . If we let R4 be
+y the sum of the areas of th
+(1, 1) R 1 1 14 $ 4 # Ae4Bse approx2 # 4 # A12Bimating rectangles, we get2 # 14 # A34B2 # 14 # 12 $ 1532 $ 0.46875
+y=≈ From Figure 4(b) we see that the area A of S is less than R4, so
+A % 0.46875
+Instead of using the rectangles in Figure 4(b), we could use the smaller rectangles in Fig-
+ure 5 whose heights are the values of f at the left endpoints of the subintervals. (The leftmost
+0 1 1 3 rectangle has collapsed because its height is 0.) The sum of the areas of these approximating1 x
+4 2 4 rectangles is
+L4 $ 14 # 02 # 14 # A14B2 # 14 # A12B2 # 14 # A34B2 $ 7F I G U R E  5 32 $ 0.21875
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+874 C H A P T E R  1 3 | Limits: A Preview of Calculus
+We see that the area of S is larger than L4, so we have lower and upper estimates for A:
+0.21875 % A % 0.46875
+We can repeat this procedure with a larger number of strips. Figure 6 shows what hap-
+pens when we divide the region S into eight strips of equal width. By computing the sum
+of the1  arR8 2eas of the smaller rectangles 1L8 2 and the sum of the areas of the larger rectan-gles , we obtain better lower and upper estimates for A:
+0.2734375 % A % 0.3984375
+So one possible answer to the question is to say that the true area of S lies somewhere be-
+tween 0.2734375 and 0.3984375.
+y y
+(1, 1) (1, 1)
+y=≈
+y=≈
+0 1 1 0 1 1
+8 x 8 x
+(a) Using left endpoints (b)  Using right endpoints
+F I G U R E  6 Approximating S with eight rectangles
+We could obtain better estimates by increasing the number of strips. The table 
+n Ln Rn in the margin shows the results of similar calculations (with a computer) using n rectan-
+10 0.2850000 0.3850000 gles whose heights are found with left endpoints 1Ln2 or right endpoints 1Rn2. In particu-
+20 0.3087500 0.3587500 lar, we see by using 50 strips that the area lies between 0.3234 and 0.3434. With 1000
+30 0.3168519 0.3501852 strips we narrow it down even more: A lies between 0.3328335 and 0.3338335. A good
+50 0.3234000 0.3434000 estimate is obtained by averaging these numbers: A ! 0.3333335.
+100 0.3283500 0.3383500

@@ -1,0 +1,129 @@
+17.6 Capacitor as a circuit device
+
+17.6.1 A capacitor in a circuit
+
+When a capacitor is connected in a DC circuit, current will flow until the capacitor is fully
+
+charged. After that, no further current will flow. If the charged capacitor is connected to
+
+another circuit with no source of emf in it, the capacitor will discharge through the circuit,
+
+creating a potential difference for a short time. This is useful, for example, in a camera flash.
+
+Initially, the electrodes have no net charge. A voltage source is applied to charge a capacitor.
+
+The voltage source creates an electric field, causing the electrons to move. The charges move
+
+around the circuit stopping at the left electrode. Here they are unable to travel across the
+
+dielectric, since electrons cannot travel through an insulator. The charge begins to accumulate,
+
+and an electric field forms pointing from the left electrode to the right electrode. This is the
+
+opposite direction of the electric field created by the voltage source. When this electric field is
+
+equal to the electric field created by the voltage source, the electrons stop moving. The
+
+capacitor is then fully charged, with a positive charge on the left electrode and a negative
+
+charge on the right electrode.
+
+If the voltage is removed, the capacitor will discharge. The electrons begin to move because in
+
+the absence of the voltage source, there is now a net electric field. This field is due to the
+
+imbalance of charge on the electrodes-the field across the dielectric. Just as the electrons
+
+flowed to the positive electrode when the capacitor was being charged, during discharge, the
+
+electrons flow to negative electrode. The charges cancel, and there is no longer an electric field
+
+across the dielectric.
+
+406
+
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.7
+
+17.6.2 Real-world applications: capacitors
+
+Capacitors are used in many different types of circuitry. In car speakers, capacitors are often
+
+used to aid the power supply when the speaker require more power than the car battery can
+
+provide. Capacitors are also used to in processing electronic signals in circuits, such as
+
+smoothing voltage spikes due to inconsistent voltage sources. This is important for protecting
+
+sensitive electronic compoments in a circuit.
+
+17.7 Summary
+
+1. Objects can be positively, negatively charged or neutral.
+
+2. Charged objects feel a force with a magnitude:
+
+Q1Q2
+
+F = k
+
+r2
+
+3. The force is attractive for unlike charges and repulsive for like charges.
+
+4. A test charge is +1C
+
+5. Electric fields start on positive charges and end on negative charges
+
+6. The electric field is constant between equally charged parallel plates
+
+7. A charge in an electric field, just like a mass under gravity, has potential energy which is
+
+related to the work to move it.
+
+8. A capacitor is a device that stores charge in a circuit.
+
+17.8 Exercises - Electrostatics
+
+1. Two charges of +3nC and −5nC are separated by a distance of 40cm. What is the
+
+electrostatic force between the two charges?
+
+2. Two insulated metal spheres carrying charges of +6nC and −10nC are separated by a
+
+distance of 20 mm.
+
+A What is the electrostatic force between the spheres?
+
+B The two spheres are touched and then separated by a distance of 60mm. What are
+
+the new charges on the spheres?
+
+C What is new electrostatic force between the spheres at this distance?
+
+3. The electrostatic force between two charged spheres of +3nC and +4nC respectively is
+
+0,04N. What is the distance between the spheres?
+
+4. Calculate the potential difference between two parallel plates if it takes 5000J of energy
+
+to move 25C of charge between the plates?
+
+5. Draw the electric field pattern lines between:
+
+A two equal positive point charges.
+
+B two equal negative point charges.
+
+6. Calculate the electric field between the plates of a capacitor if the plates are 20mm apart
+
+and the potential difference between the plates is 300V.
+
+7. Calculate the electrical potential energy of a 6nC charge that is 20cm from a 10nC
+
+charge.
+
+8. What is the capacitance of a capacitor if it has a charge of 0,02C on each of its plates
+
+when the potential difference between the plates is 12V?
+
+407

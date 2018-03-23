@@ -1,0 +1,155 @@
+6.6 Trapezoids
+
+Here you'll learn what a trapezoid is and what properties it possesses.
+
+What if you were told that the polygonABCD is an isosceles trapezoid and that one of its base angles measures 38◦?
+
+What can you conclude about its other base angle? After completing this Concept, you'll be able to find the value
+
+of a trapezoid's unknown angles and sides.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136715
+
+CK-12 Trapezoids
+
+Guidance
+
+A trapezoid is a quadrilateral with exactly one pair of parallel sides.
+
+An isosceles trapezoid is a trapezoid where the non-parallel sides are congruent.
+
+The base angles of an isosceles trapezoid are congruent. If ABCD is an isosceles trapezoid, then 6 A ∼= 6 B and
+
+6 C ∼= 6 D.
+
+315
+
+6.6. Trapezoids www.ck12.org
+
+The converse is also true. If a trapezoid has congruent base angles, then it is an isosceles trapezoid. The diagonals
+
+of an isosceles trapezoid are also congruent. The midsegment (of a trapezoid) is a line segment that connects the
+
+midpoints of the non-parallel sides:
+
+There is only one midsegment in a trapezoid. It will be parallel to the bases because it is located halfway between
+
+them.
+
+Midsegment Theorem: The length of the midsegment of a trapezoid is the average of the lengths of the bases.
+
+If EF is the midsegment, then EF = AB+CD2 .
+
+Example A
+
+Look at trapezoid T RAP below. What is m6 A?
+
+T RAP is an isosceles trapezoid. m6 R = 115◦ also.
+
+To find m 6 A, set up an equation.
+
+316
+6.6. Trapezoids www.ck12.org
+The converse is also true. If a trapezoid has congruent base angles, then it is an isosceles trapezoid. The diagonals
+of an isosceles trapezoid are also congruent. The midsegment (of a trapezoid) is a line segment that connects the
+midpoints of the non-parallel sides:
+There is only one midsegment in a trapezoid. It will be parallel to the bases because it is located halfway between
+them.
+Midsegment Theorem: The length of the midsegment of a trapezoid is the average of the lengths of the bases.
+If EF is the midsegment, then EF = AB+CD2 .
+Example A
+Look at trapezoid T RAP below. What is m6 A?
+T RAP is an isosceles trapezoid. m6 R = 115◦ also.
+To find m 6 A, set up an equation.
+316
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+115◦+115◦+m6 A+m6 P = 360◦
+230◦+2m6 A = 360◦ → m6 A = m6 P
+2m6 A = 130◦
+m6 A = 65◦
+Notice that m6 R+m 6 A= 115◦+65◦= 180◦. These angles will always be supplementary because of the Consecutive
+Interior Angles Theorem.
+Example B
+Is ZOID an isosceles trapezoid? How do you know?
+40◦ 6= 35◦, ZOID is not an isosceles trapezoid.
+Example C
+Find x. All figures are trapezoids with the midsegment marked as indicated.
+a)
+b)
+c)
+317
+6.6. Trapezoids www.ck12.org
+Answer:
+a) x is the average of 12 and 26. 12+262 =
+38
+2 = 19
+b) 24 is the average of x and 35.
+x+35
+= 24
+2
+x+35 = 48
+x = 13
+c) 20 is the average of 5x−15 and 2x−8.
+5x−15+2x−8
+= 20
+2
+7x−23 = 40
+7x = 63
+x = 9
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136716
+CK-12 Trapezoids
+->
+Guided Practice
+T RAP an isosceles trapezoid.
+Find:
+1. m6 T PA
+2. m6 PT R
+3. m6 PZA
+4. m6 ZRA
+318
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+Answers:
+1. 6 T PZ ∼= 6 RAZ so m 6 T PA = 20◦+35◦ = 55◦.
+2. 6 T PA is supplementary with 6 PT R, so m6 PT R = 125◦.
+3. By the Triangle Sum Theorem, 35◦+35◦+m 6 PZA = 180◦, so m6 PZA = 110◦.
+4. Since m6 PZA = 110◦, m6 RZA = 70◦ because they form a linear pair. By the Triangle Sum Theorem, m6 ZRA =
+90◦.
+Explore More
+1. Can the parallel sides of a trapezoid be congruent? Why or why not?
+For questions 2-8, find the length of the midsegment or missing side.
+2.
+3.
+4.
+5.
+6.
+7.
+Find the value of the missing variable(s).
+319
+6.6. Trapezoids www.ck12.org
+8.
+Find the lengths of the diagonals of the trapezoids below to determine if it is isosceles.
+9. A(−3,2),B(1,3),C(3,−1),D(−4,−2)
+10. A(−3,3),B(2,−2),C(−6,−6),D(−7,1)
+320
+6.6. Trapezoids www.ck12.org
+
+8.
+
+Find the lengths of the diagonals of the trapezoids below to determine if it is isosceles.
+
+9. A(−3,2),B(1,3),C(3,−1),D(−4,−2)
+
+10. A(−3,3),B(2,−2),C(−6,−6),D(−7,1)
+
+320
+
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+

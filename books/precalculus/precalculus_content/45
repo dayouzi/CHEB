@@ -1,0 +1,173 @@
+6.3 TRIGONOMETRIC FUNCTIONS OF ANGLES
+Trigonometric Functions of Angles ! Evaluating Trigonometric Functions 
+at Any Angle ! Trigonometric Identities ! Areas of Triangles
+In the preceding section we defined the trigonometric ratios for acute angles. Here we ex-
+tend the trigonometric ratios to all angles by defining the trigonometric functions of an-
+gles. With these functions we can solve practical problems that involve angles that are not
+necessarily acute.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+452 C H A P T E R  6 | Trigonometric Functions: Right Triangle Approach
+! Trigonometric Functions of Angles
+Let POQ be a right triangle with acute angle u as shown in Figure 1(a). Place u in stan-
+dard position as shown in Figure 1(b).
+P y P (x, y)
+opposite
+hypotenuse r y
+Q ¨
+¨ x
+O adjacent
+O Q x
+(a) (b)
+F I G U R E  1
+Then P " P1x, y 2 is a point on the terminal side of u. In triangle POQ, the opposite side
+y has length y and the adjacent side has length x. Using the Pythagorean Theorem, we see
+P(x, y) that the hypotenuse has length r " 2x2 $ y2. So
+r ¨ y x ysin u "    cos u "    tan u "
+r r x
+0 x The other trigonometric ratios can be found in the same way.
+These observations allow us to extend the trigonometric ratios to any angle. We define
+F I G U R E  2 the trigonometric functions of angles as follows (see Figure 2).
+DEFINITION OF THE TRIGONOMETRIC FUNCTIONS
+Let u be an angle in standard position and let 
+r " 2 P1x, y 2 be a point on the terminalside. If x2 $ y2 is the distance from the origin to the point P1x, y 2 , then
+y x y
+sin u " cos u " tan u "  1x ) 0 2
+r r x
+r r x
+csc u " y 1y ) 0 2 sec u "  1x ) 0 2 cot u " y 1y ) 0 2y x
+P'(x', y')
+P(x, y) Since division by 0 is an undefined operation, certain trigonometric functions are notdefined for certain angles. For example, tan 90! " y/x is undefined because x " 0. The
+angles for which the trigonometric functions may be undefined are the angles for which
+either the x- or y-coordinate of a point on the terminal side of the angle is 0. These are
+¨ quadrantal angles-angles that are coterminal with the coordinate axes.
+O Q Q' x It is a crucial fact that the values of the trigonometric functions do not depend on the
+choice of the point P1x, y 2 . This is because if P¿ 1x¿, y¿ 2 is any other point on the terminal
+F I G U R E  3 side, as in Figure 3, then triangles POQ and P(OQ( are similar.
+! Evaluating Trigonometric Functions at Any Angle
+From the definition we see that the values of the trigonometric functions are all positive
+if the angle u has its terminal side in Quadrant I. This is because x and y are positive in
+this quadrant. [Of course, r is always positive, since it is simply the distance from the ori-
+gin to the point P1x, y 2 .] If the terminal side of u is in Quadrant II, however, then x is 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+452 C H A P T E R  6 | Trigonometric Functions: Right Triangle Approach
+! Trigonometric Functions of Angles
+Let POQ be a right triangle with acute angle u as shown in Figure 1(a). Place u in stan-
+dard position as shown in Figure 1(b).
+P y P (x, y)
+opposite
+hypotenuse r y
+Q ¨
+¨ x
+O adjacent
+O Q x
+(a) (b)
+F I G U R E  1
+Then P " P1x, y 2 is a point on the terminal side of u. In triangle POQ, the opposite side
+y has length y and the adjacent side has length x. Using the Pythagorean Theorem, we see
+P(x, y) that the hypotenuse has length r " 2x2 $ y2. So
+r ¨ y x ysin u "    cos u "    tan u "
+r r x
+0 x The other trigonometric ratios can be found in the same way.
+These observations allow us to extend the trigonometric ratios to any angle. We define
+F I G U R E  2 the trigonometric functions of angles as follows (see Figure 2).
+DEFINITION OF THE TRIGONOMETRIC FUNCTIONS
+Let u be an angle in standard position and let 
+r " 2 P1x, y 2 be a point on the terminalside. If x2 $ y2 is the distance from the origin to the point P1x, y 2 , then
+y x y
+sin u " cos u " tan u "  1x ) 0 2
+r r x
+r r x
+csc u " y 1y ) 0 2 sec u "  1x ) 0 2 cot u " y 1y ) 0 2y x
+P'(x', y')
+P(x, y) Since division by 0 is an undefined operation, certain trigonometric functions are notdefined for certain angles. For example, tan 90! " y/x is undefined because x " 0. The
+angles for which the trigonometric functions may be undefined are the angles for which
+either the x- or y-coordinate of a point on the terminal side of the angle is 0. These are
+¨ quadrantal angles-angles that are coterminal with the coordinate axes.
+O Q Q' x It is a crucial fact that the values of the trigonometric functions do not depend on the
+choice of the point P1x, y 2 . This is because if P¿ 1x¿, y¿ 2 is any other point on the terminal
+F I G U R E  3 side, as in Figure 3, then triangles POQ and P(OQ( are similar.
+! Evaluating Trigonometric Functions at Any Angle
+From the definition we see that the values of the trigonometric functions are all positive
+if the angle u has its terminal side in Quadrant I. This is because x and y are positive in
+this quadrant. [Of course, r is always positive, since it is simply the distance from the ori-
+gin to the point P1x, y 2 .] If the terminal side of u is in Quadrant II, however, then x is 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 6.3 | Trigonometric Functions of Angles 453
+Relationship to the Trigonometric
+Functions of Real Numbers
+You may have already studied the trigonometric Now, by the definition of the trigonometric
+functions defined using the unit circle (Chapter 5). functions of the real number t we have
+To see how they relate to the trigonometric func-
+sin t " y
+tions of an angle, let's start with the unit circle in
+the coordinate plane. cos t " x
+By the definition of the trigonometric functions of
+y the angle u we have
+P(x, y) opp y
+sin u " " " y
+t hyp 1
+0 1 x adj xcos u " " " x
+hyp 1
+If u is measured in radians, then u" t. (See the
+figure below.) Comparing the two ways of defining
+P(x, y) is the terminal the trigonometric functions, we see that they are
+point determined by t. identical. In other words, as functions, they assign
+identical values to a given real number. (The real
+Let P 1x, y 2 be the terminal point determined by an number is the radian measure of u in one case or
+arc of length t on the unit circle. Then t subtends the length t of an arc in the other.)
+an angle u at the center of the circle. If we drop a
+perpendicular from P onto the point Q on the y
+x-axis, then triangle *OPQ is a right triangle with P(x, y)
+legs of length x and y, as shown in the figure.
+t
+¨
+y 0 1 x
+P(x, y)
+r y
+¨
+0 x 1 x The radian measure
+of angle ¨ is t.
+Why then do we study trigonometry in two dif-
+Triangle OPQ ferent ways? Because different applications require is
+a right triangle. that we view the trigonometric functions differ-
+ently. (See Focus on Modeling, pages 427, 489, and
+533, and Sections 6.2, 6.5, and 6.6.)
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+454 C H A P T E R  6 | Trigonometric Functions: Right Triangle Approach
+The following mnemonic device can be negative and y is positive. Thus, in Quadrant II the functions sin u and csc u are positive,
+used to remember which trigonometric and all the other trigonometric functions have negative values. You can check the other en-
+functions are positive in each quadrant: tries in the following table.
+All of them, Sine, Tangent, or Cosine.
+y
+SIGNS OF THE TRIGONOMETRIC FUNCTIONS
+Sine All Quadrant Positive Functions Negative Functions
+x I all none
+II sin, csc cos, sec, tan, cot
+Tangent Cosine
+III tan, cot sin, csc, cos, sec
+IV cos, sec sin, csc, tan, cot
+You can remember this as "All 
+Students Take Calculus."
+We now turn our attention to finding the values of the trigonometric functions for an-
+gles that are not acute.
+E X A M P L E  1 Finding Trigonometric Functions of Angles
+Find (a) cos 135 ! and (b) tan 390 !.
+S O L U T I O N
+(a) From Figure 4 we see that cos 135 ! " #x/r. But cos 45! " x/r, and since
+cos 45° " 12/2, we have 12
+cos 135 ° " # 
+2
+(b) The angles 390! and 30! are coterminal. From Figure 5 it's clear that
+tan 390 ! " tan 30 ! and, since tan 30 ° " 131/3, we have3
+tan 390° "
+3
+y y
+(_x, y) (x, y)y (x, y) y
+r r
+135* 390*
+45* 30*
+_x 0
+0
+x x
+x x
+F I G U R E  4 F I G U R E  5

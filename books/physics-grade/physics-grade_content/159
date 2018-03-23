@@ -1,0 +1,22 @@
+10.5.1 Voltmeter
+
+A voltmeter is an instrument for measuring the voltage between two points in an electric circuit.
+
+In analogy with a water circuit, a voltmeter is like a meter designed to measure pressure difference.
+
+Since one is interested in measuring the voltage between two points in a circuit, a voltmeter
+
+must be connected in parallel with the portion of the circuit on which the measurement is made.
+
+V
+
+Figure 10.3: A voltmeter should be connected in parallel in a circuit.
+
+Figure 10.3 shows a voltmeter connected in parallel with a battery. One lead of the voltmeter is
+
+connected to one end of the battery and the other lead is connected to the opposite end. The
+
+voltmeter may also be used to measure the voltage across a resistor or any other component of
+
+a circuit that has a voltage drop.
+

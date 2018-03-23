@@ -1,0 +1,183 @@
+7.8. Triangle Proportionality www.ck12.org
+
+7.8 Triangle Proportionality
+
+Here you'll learn how to apply both the Triangle Proportionality Theorem, which states that if a line that is parallel
+
+to one side of a triangle intersects the other two sides, then it divides those sides proportionally, and its converse.
+
+What if you were given a triangle with a line segment drawn through it from one side to the other? How could you
+
+use information about the triangle's side lengths to determine if that line segment is parallel to the third side? After
+
+completing this Concept, you'll be able to answer questions like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136687
+
+CK-12 Foundation: Triangle Proportionality
+
+First watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1354
+
+James Sousa: Triangle Proportionality Theorem
+
+Now watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1355
+
+James Sousa: Using the Triangle Proportionality Theorem to Solve for Unknown Values
+
+Guidance
+
+Think about a midsegment of a triangle. A midsegment is parallel to one side of a triangle and divides the other two
+
+sides into congruent halves. The midsegment divides those two sides proportionally. But what about another line
+
+372
+
+www.ck12.org Chapter 7. Similarity
+
+that is parallel, but does not divide the other two sides into congruent halves? In fact, such a line will still divide the
+
+sides proportionally. This is called the Triangle Proportionality Theorem.
+
+Triangle Proportionality Theorem: If a line parallel to one side of a triangle intersects the other two sides, then it
+
+divides those sides proportionally.
+
+If DE‖AC, then BDDA = BEEC . ( DABD = ECBE is also a true proportion.)
+
+The converse of this theorem is also true.
+
+Triangle Proportionality Theorem Converse: If a line divides two sides of a triangle proportionally, then it is
+
+parallel to the third side.
+
+If BDDA =
+
+BE
+
+EC , then DE‖AC.
+
+Example A
+
+A triangle with its midsegment is drawn below. What is the ratio that the midsegment divides the sides into?
+
+The midsegment splits the sides evenly. The ratio would be 8:8 or 10:10, which both reduce to 1:1.
+
+Example B
+
+In the diagram below, EB‖CD. Find BC.
+
+To solve, set up a proportion.
+
+373
+www.ck12.org Chapter 7. Similarity
+that is parallel, but does not divide the other two sides into congruent halves? In fact, such a line will still divide the
+sides proportionally. This is called the Triangle Proportionality Theorem.
+Triangle Proportionality Theorem: If a line parallel to one side of a triangle intersects the other two sides, then it
+divides those sides proportionally.
+If DE‖AC, then BDDA = BEEC . ( DABD = ECBE is also a true proportion.)
+The converse of this theorem is also true.
+Triangle Proportionality Theorem Converse: If a line divides two sides of a triangle proportionally, then it is
+parallel to the third side.
+If BDDA =
+BE
+EC , then DE‖AC.
+Example A
+A triangle with its midsegment is drawn below. What is the ratio that the midsegment divides the sides into?
+The midsegment splits the sides evenly. The ratio would be 8:8 or 10:10, which both reduce to 1:1.
+Example B
+In the diagram below, EB‖CD. Find BC.
+To solve, set up a proportion.
+373
+7.8. Triangle Proportionality www.ck12.org
+10 BC
+= −→ 15(BC) = 120
+15 12
+BC = 8
+Example C
+Is DE‖CB?
+If the ratios are equal, then the lines are parallel.
+6 8 1
+= =
+18 24 3
+Because the ratios are equal, DE‖CB.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136688
+CK-12 Foundation: Triangle Proportionality
+->
+Guided Practice
+Use the diagram to answers questions 1-5. DB‖FE.
+1. Name the similar triangles. Write the similarity statement.
+2. BEEC =
+?
+FC
+3. ECCB =
+CF
+?
+374
+www.ck12.org Chapter 7. Similarity
+4. DB? =
+BC
+EC
+5. FC+?FC =
+?
+FE
+Answers:
+1. 4DBC ∼4FEC
+2. DF
+3. DC
+4. FE
+5. DF; DB
+Explore More
+Use the diagram to answer questions 1-7. AB‖DE.
+1. Find BD.
+2. Find DC.
+3. Find DE.
+4. Find AC.
+5. What is BD : DC?
+6. What is DC : BC?
+7. Why BD : DC 6= DC : BC?
+Use the given lengths to determine if AB‖DE.
+8.
+375
+7.8. Triangle Proportionality www.ck12.org
+9.
+10.
+11.
+12.
+13.
+376
+7.8. Triangle Proportionality www.ck12.org
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+376
+
+www.ck12.org Chapter 7. Similarity
+

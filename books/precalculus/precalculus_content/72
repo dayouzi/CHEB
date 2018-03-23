@@ -1,0 +1,38 @@
+10.5 INVERSES OF MATRICES AND MATRIX EQUATIONS
+The Inverse of a Matrix ! Finding the Inverse of a 2 $ 2 Matrix ! Finding
+the Inverse of an n $ n Matrix ! Matrix Equations ! Modeling with Matrix
+Equations
+In the preceding section we saw that when the dimensions are appropriate, matrices can
+be added, subtracted, and multiplied. In this section we investigate division of matrices.
+With this operation we can solve equations that involve matrices.
+! The Inverse of a Matrix
+First, we define identity matrices, which play the same role for matrix multiplication as the
+number 1 does for ordinary multiplication of numbers; that is, 1 ( a! a ( 1 ! a for all num-
+bers a. A square matrix is one that has the same number of rows as columns. The main di-
+agonal of a square matrix consists of the entries whose row and column numbers are the
+same. These entries stretch diagonally down the matrix, from top left to bottom right.
+IDENTIT Y MATRIX
+The identity matrix In is the n $ n matrix for which each main diagonal entry is 
+a 1 and for which all other entries are 0.
+Thus the 2 $ 2, 3B $ 3, aRnd 4 $ 4 ideCntity matrices areI2 ! I3 ! I4 ! D1 0 0 01 0 01 0 0 1 0S 0 1 0 0T0 1 0 0 1 0
+0 0 1
+0 0 0 1
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 0 . 5 | Inverses of Matrices and Matrix Equations 673
+Identity matrices behave like the number 1 in the sense that
+A ( In ! A and In ( B ! B
+whenever these products are defined. 
+E X A M P L E  1 | Identity Matrices
+The following matrix products show how multiplying a matrix by an identity matrix of
+the appropriate dimension leaves the matrix unchanged.
+C c 1 0 d  c 3 5 6 d 3 5 6 !  c d0 1 #1 2 7#1 7 1212 1 3S  C1 0 00S #1 2 7#1 7 120 1  !  C 12 1 3S
+#2 0 7 0 0 1 #2 0 7
+S E C T I O N  1 0 . 5 | Inverses of Matrices and Matrix Equations 673
+Identity matrices behave like the number 1 in the sense that
+A ( In ! A and In ( B ! B
+whenever these products are defined. 
+E X A M P L E  1 | Identity Matrices
+The following matrix products show how multiplying a matrix by an identity matrix of
+the appropriate dimension leaves the matrix unchanged.
+C c 1 0 d  c 3 5 6 d 3 5 6 !  c d0 1 #1 2 7#1 7 1212 1 3S  C1 0 00S #1 2 7#1 7 120 1  !  C 12 1 3S
+#2 0 7 0 0 1 #2 0 7

@@ -1,0 +1,14 @@
+11.3.1 Mathematical Representation
+
+There are many ways of writing the symbol for a vector. Vectors are denoted by symbols with an
+
+arrow pointing to the right above it. For example, ~a, ~v and F~ represent the vectors acceleration,
+
+velocity and force, meaning they have both a magnitude and a direction.
+
+Sometimes just the magnitude of a vector is needed. In this case, the arrow is omitted. In other
+
+words, F denotes the magnitude of vector F~ . |F~ | is another way of representing the magnitude
+
+of a vector.
+

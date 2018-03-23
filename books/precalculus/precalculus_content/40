@@ -1,0 +1,76 @@
+5.5 INVERSE TRIGONOMETRIC FUNCTIONS AND THEIR GRAPHS
+The Inverse Sine Function ! The Inverse Cosine Function ! The Inverse 
+Tangent Function ! The Inverse Secant, Cosecant, and Cotangent Functions
+We study applications of inverse Recall from Section 2.7 that the inverse of a function f is a function f#1 that reverses the rule
+trigonometric functions to triangles of f. For a function to have an inverse, it must be one-to-one. Since the trigonometric func-
+in Sections 6.4-6.6. tions are not one-to-one, they do not have inverses. It is possible, however, to restrict the do-
+mains of the trigonometric functions in such a way that the resulting functions are one-to-one.
+! The Inverse Sine Function
+Let's3 first consider the sine function. There are many ways to restrict the domain of sine so thatthe new function is one-to-one. A natural way to do this is to restrict the domain to the inter-val #p/2, p/2 4 . The reason for this choice is that sine is one-to-one on this interval and
+moreover attains each of the values in its range on this interval. From Figure 1 we see that sine
+is one-to-one on this restricted domain (by the Horizontal Line Test) and so has an inverse. 
+y y
+1 _pi 12
+_2pi _pi 0 pi 2pi x 0 pi x
+_1 2
+F I G U R E  1 Graphs of the sine func-
+tion and the restricted sine function y=ß x y=sin x
+pi
+, _ 2 ≤x≤
+pi
+2
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  5 . 5 | Inverse Trigonometric Functions and Their Graphs 407
+y We can now define an inverse sine function on this restricted domain. The graph of
+pi y=sin-¡x y " sin#1 x is shown in Figure 2; it is obtained by reflecting the graph of y " sin x,
+2 #p/2 - x - p/2, in the line y " x.
+DEFINITION OF THE INVERSE SINE FUNCTION
+_1 0 1 x T3 he inverse sine function is the function sin#1 with domain #p/2, p/2 4 3#1, 1 4 and rangedefined by
+_pi sin
+#1 x " y 3  sin y " x
+2
+The inverse sine function is also called arcsine, denoted by arcsin.
+F I G U R E  2 Graph of y " sin#1 x
+Thus, y " sin#1 x is the number in the interval 3#p/2, p/2 4 whose sine is x. In other
+words sin1sin#1 , x 2 " x. In fact, from the general properties of inverse functions studied
+in Section 2.7, we have the following cancellation properties. 
+sin1sin#1 x 2 " x #1 - x - 1
+p p
+sin#11sin x 2 for" x for # - x -
+2 2
+E X A M P L E  1 Evaluating the Inverse Sine Function
+Find each value.
+(a) 1sin#1 1 (b) # b sin#1 3sin#1 a (c)  
+2 2 2
+S O L U T I O N  
+(a) The number in the interval 3#p/2, p/2 4 whose sine is 12 is p/6. Thus, " p/6
+/2, p/2 4 sin#1 1 2 .(b) The number in the interval 
+2 2 3#p whose sine is #12 is #p/6. Thus,sin#11#1 " #p/6.
+(c) Since 3 % 1 sin#1 2 , it is not in the domain of x, so sin#1 3 2 is not defined.
+S E C T I O N  5 . 5 | Inverse Trigonometric Functions and Their Graphs 407
+y We can now define an inverse sine function on this restricted domain. The graph of
+pi y=sin-¡x y " sin#1 x is shown in Figure 2; it is obtained by reflecting the graph of y " sin x,
+2 #p/2 - x - p/2, in the line y " x.
+DEFINITION OF THE INVERSE SINE FUNCTION
+_1 0 1 x T3 he inverse sine function is the function sin#1 with domain #p/2, p/2 4 3#1, 1 4 and rangedefined by
+_pi sin
+#1 x " y 3  sin y " x
+2
+The inverse sine function is also called arcsine, denoted by arcsin.
+F I G U R E  2 Graph of y " sin#1 x
+Thus, y " sin#1 x is the number in the interval 3#p/2, p/2 4 whose sine is x. In other
+words sin1sin#1 , x 2 " x. In fact, from the general properties of inverse functions studied
+in Section 2.7, we have the following cancellation properties. 
+sin1sin#1 x 2 " x #1 - x - 1
+p p
+sin#11sin x 2 for" x for # - x -
+2 2
+E X A M P L E  1 Evaluating the Inverse Sine Function
+Find each value.
+(a) 1sin#1 1 (b) # b sin#1 3sin#1 a (c)  
+2 2 2
+S O L U T I O N  
+(a) The number in the interval 3#p/2, p/2 4 whose sine is 12 is p/6. Thus, " p/6
+/2, p/2 4 sin#1 1 2 .(b) The number in the interval 
+2 2 3#p whose sine is #12 is #p/6. Thus,sin#11#1 " #p/6.
+(c) Since 3 % 1 sin#1 2 , it is not in the domain of x, so sin#1 3 2 is not defined.

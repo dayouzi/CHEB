@@ -1,0 +1,79 @@
+1.7 INEQUALITIES
+Solving Linear Inequalities ! Solving Nonlinear Inequalities ! Absolute
+Value Inequalities ! Modeling with Inequalities
+Some problems in algebra lead to inequalities instead of equations. An inequality looks
+just like an equation, except that in the place of the equal sign is one of the symbols, !,
+", #, or $. Here is an example of an inequality:
+4x % 7 # 19
+The table in the margin shows that some numbers satisfy the inequality and some num-
+x 4x ! 7 # 19 bers don't.
+1 11 # 19 ! To solve an inequality that contains a variable means to find all values of the variable
+2 15 # 19 ! that make the inequality true. Unlike an equation, an inequality generally has infinitely
+3 19 # 19 ! many solutions, which form an interval or a union of intervals on the real line. The 
+4 23 # 19 " following illustration shows how an inequality differs from its corresponding equation:
+5 27 # 19 "
+Solution Graph
+Equation: 4x % 7 & 19 x & 3 0 3
+Inequality: 4x % 7 # 19 x # 3 0 3
+To solve inequalities, we use the following rules to isolate the variable on one side of
+the inequality sign. These rules tell us when two inequalities are equivalent (the symbol
+3 means "is equivalent to"). In these rules the symbols A, B, and C stand for real num-
+bers or algebraic expressions. Here we state the rules for inequalities involving the sym-
+bol #, but they apply to all four inequality symbols.
+RULES FOR INEQUALITIES
+Rule Description
+1. A # B 3  A % C # B % C Adding the same quantity to each side of an inequality gives
+an equivalent inequality.
+2. A # B 3  A ' C # B ' C Subtracting the same quantity from each side of an inequal-
+ity gives an equivalent inequality.
+3. If C " 0, then A # B 3  CA # CB Multiplying each side of an inequality by the same positive
+quantity gives an equivalent inequality.
+4. If C ! 0, then A # B 3  CA $ CB Multiplying each side of an inequality by the same negative
+quantity reverses the direction of the inequality.
+5. If A " 0 and B " 0, Taking reciprocals of each side of an inequality involving 
+1 1
+then A # B 3  $ positive quantities reverses the direction of the inequality.A B
+6. If A # B and C # D, Inequalities can be added.
+then A % C # B % D
+Pay special attention to Rules 3 and 4. Rule 3 says that we can multiply (or divide) each
+side of an inequality by a positive number, but Rule 4 says that if we multiply each side
+of an inequality by a negative number, then we reverse the direction of the inequality. For
+example, if we start with the inequality
+3 ! 5
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+74 C H A P T E R  1 | Fundamentals
+and multiply by 2, we get
+6 ! 10
+but if we multiply by '2, we get
+'6 " '10
+" Solving Linear Inequalities
+An inequality is linear if each term is constant or a multiple of the variable. To solve a
+linear inequality, we isolate the variable on one side of the inequality sign.
+E X A M P L E  1 Solving a Linear Inequality
+Solve the inequality 3x ! 9x % 4 and sketch the solution set.
+S O L U T I O N
+ 3x ! 9x % 4 Given inequality
+ 3x ' 9x ! 9x % 4 ' 9x Subtract 9x
+ '6x ! 4
+Multiplying by the negative number '1 " A'16 6B 14 2 ' 1 1'1 6B 1'6x 2 SimplifyMultiply by  6 and reverse inequality
+reverses the direction of the inequality.
+ x " '2 3 Simplify
+The solution set consists of aAll numb 23' 2 3, q Bers greater than ' . In other words the solution of_ 23 0 the inequality is the interval . It is graphed in Figure 1.
+74 C H A P T E R  1 | Fundamentals
+and multiply by 2, we get
+6 ! 10
+but if we multiply by '2, we get
+'6 " '10
+" Solving Linear Inequalities
+An inequality is linear if each term is constant or a multiple of the variable. To solve a
+linear inequality, we isolate the variable on one side of the inequality sign.
+E X A M P L E  1 Solving a Linear Inequality
+Solve the inequality 3x ! 9x % 4 and sketch the solution set.
+S O L U T I O N
+ 3x ! 9x % 4 Given inequality
+ 3x ' 9x ! 9x % 4 ' 9x Subtract 9x
+ '6x ! 4
+Multiplying by the negative number '1 " A'16 6B 14 2 ' 1 1'1 6B 1'6x 2 SimplifyMultiply by  6 and reverse inequality
+reverses the direction of the inequality.
+ x " '2 3 Simplify
+The solution set consists of aAll numb 23' 2 3, q Bers greater than ' . In other words the solution of_ 23 0 the inequality is the interval . It is graphed in Figure 1.

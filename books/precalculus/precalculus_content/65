@@ -1,0 +1,145 @@
+9.5 THE CROSS PRODUCT
+The Cross Product ! Properties of the Cross Product ! Area 
+of a Parallelogram ! Volume of a Parallelepiped
+In this section we define an operation on vectors that allows us to find a vector which is
+perpendicular to two given vectors.
+! The Cross Product
+Given two vectors a $ 8a1, a2, a39 and b $ 8b1  
+c $ 8 , b2, b39 we often need to find a vector c per-pendicular to both a and b. If we write c1, c2, c39 then a # c $ 0 and b # c $ 0, so 
+ a1c1 ! a2c2 ! a3c3 $ 0
+ b1c1 ! b2c2 ! b3c3 $ 0
+You 
+c $ 8can check that one of the solutiona2b3 % a3b2, a3b1 % a1b3, a1b2 % a2b19s of this system of equations is the vector. This vector is called the cross product of a
+and b and is denoted by a * b.
+THE CROSS PRODUCT
+If a $ 8a1, a2, a39 and b $ 8b1, b2, b39 are three-dimensional vectors, then the cross
+product of a and b is the vector 
+a * b $ 8a2b3 % a3b2,  a3b1 % a1b3,  a1b2 % a2b19
+The cross product a * b of two vectors a and b, unlike the dot product, is a vector (not
+a scalar). For this reason it is also called the vector product. Note that a * b is defined
+only when a and b are vectors in three dimensions.
+Determinants and their properties are To help us remember the definition of the cross product, we use the notation of deter-
+studied in Section 10.7. minants. A determinant of order t` wo is da b ` efined by $ ad % bc
+c d
+For example,
+` 2 1 ` $ 214 2 % 11%6 2 $ 14
+%6 4
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  9 . 5 | The Cross Product 611
+A determinant of order three is defined in terms of second-order determinants as
+† a1 a2 a3b 31 b2 b3 † b$ 2 ba1 `  ` % a2 ` b1 b3  ` b! 1a3 ` b2 `
+c2 c3 c1 c3 c1 c2
+c1 c2 c3
+Observe that each term on the right side of the above equation involves a number ai in the
+first row of the determinant, and ai is multiplied by the second-order determinant obtained
+from the left side by deleting the row and column in which ai appears. Notice also the mi-
+nus sign in the second term. For example,
+WILLIAM ROWAN HAMILTON
+3 1 3 0
+ † 1 2 %1(1805-1865) was an Irish mathemati-cian and physicist. He was raised by his 3 0 1 † $ 1 ` 0 1 ` % 2 `  
+uncle (a linguist) who noticed that 2 %5 2
+` ! 1%1 2 `  
+%5 4 `
+%5 4 42
+Hamilton had a remarkable ability to
+learn languages. When he was five
+ $ 110 % 4 2 % 216 % 1%5 2 2 ! 1%1 2 112 % 0 2 $ %38
+years old, he could read Latin, Greek,
+and Hebrew. At age eight he added We can write the definition of the cross product using determinants as
+French and Italian, and by age ten he
+had mastered Arabic and Sanskrit. k
+Hamilton was also a calculating a a
+prodigy and competed in contests of  † i ja1 a2 a3 † $ ` 2 3 ` i % ` a1 a3 ` j a! ` a1 2 ` kb b
+mental arithmetic. He entered Trinity b 2
+b 1 b3 b1 b2
+1 b
+3
+2 b3
+College in Dublin, Ireland, where he
+studied science; he was appointed Pro-  $ 1a2b3 % a3b2 2 i ! 1a3b1 % a1b3 2j ! 1a1b2 % a2b1 2k
+fessor of Astronomy there while still an
+undergraduate. Although the first row of the above determinant consists of vectors, we expand it as if it
+Hamilton made many contributions were an ordinary determinant of order 3. The symbolic formula given by the above de-
+to mathematics and physics, but he is terminant is probably the easiest way to remember and compute cross products.
+best known for his invention of quater-
+nions. Hamilton knew that we can multi-
+ply vectors in the plane by considering E X A M P L E  1 Finding a Cross Product 
+them as complex numbers. He was look-
+ing for a similar multiplication for points If a $ 80, %1, 39 and b $ 82, 0, %19, find a * b. 
+in space. After thinking about this prob-
+lem for over 20 years he discovered the S O L U T I O N We use the formula above to find the cross product of a and b:
+solution in a flash of insight while walk-
+ing near Brougham Bridge in Dublin: He i k
+realized that a fourth dimension is
+needed to make the multiplication  a * b $ † j0 %1 3 †
+work. He carved the formula for his 2 0 %1
+quaternions into the bridge, where it
+still stands. Later, the American mathe-
+matician Josiah Willard Gibbs extracted ` 0 3 0 $ ` %1 3 ` i %  ` j 1! ` % ` k0 %1 2 %1 2 0
+the dot product and cross product of
+vectors from the properties of quater-
+ $ 11 % 0 2 i % 10 % 6 2 j ! 10 % 1%2 2 2k
+nion multiplication. Quaternions are
+used today in computer graphics be-
+ $ i ! 6 j ! 2 k
+cause of their ability to easily describe
+special rotations. So the desired vector is i ! 6 j ! 2 k.
+S E C T I O N  9 . 5 | The Cross Product 611
+A determinant of order three is defined in terms of second-order determinants as
+† a1 a2 a3b 31 b2 b3 † b$ 2 ba1 `  ` % a2 ` b1 b3  ` b! 1a3 ` b2 `
+c2 c3 c1 c3 c1 c2
+c1 c2 c3
+Observe that each term on the right side of the above equation involves a number ai in the
+first row of the determinant, and ai is multiplied by the second-order determinant obtained
+from the left side by deleting the row and column in which ai appears. Notice also the mi-
+nus sign in the second term. For example,
+WILLIAM ROWAN HAMILTON
+3 1 3 0
+ † 1 2 %1(1805-1865) was an Irish mathemati-cian and physicist. He was raised by his 3 0 1 † $ 1 ` 0 1 ` % 2 `  
+uncle (a linguist) who noticed that 2 %5 2
+` ! 1%1 2 `  
+%5 4 `
+%5 4 42
+Hamilton had a remarkable ability to
+learn languages. When he was five
+ $ 110 % 4 2 % 216 % 1%5 2 2 ! 1%1 2 112 % 0 2 $ %38
+years old, he could read Latin, Greek,
+and Hebrew. At age eight he added We can write the definition of the cross product using determinants as
+French and Italian, and by age ten he
+had mastered Arabic and Sanskrit. k
+Hamilton was also a calculating a a
+prodigy and competed in contests of  † i ja1 a2 a3 † $ ` 2 3 ` i % ` a1 a3 ` j a! ` a1 2 ` kb b
+mental arithmetic. He entered Trinity b 2
+b 1 b3 b1 b2
+1 b
+3
+2 b3
+College in Dublin, Ireland, where he
+studied science; he was appointed Pro-  $ 1a2b3 % a3b2 2 i ! 1a3b1 % a1b3 2j ! 1a1b2 % a2b1 2k
+fessor of Astronomy there while still an
+undergraduate. Although the first row of the above determinant consists of vectors, we expand it as if it
+Hamilton made many contributions were an ordinary determinant of order 3. The symbolic formula given by the above de-
+to mathematics and physics, but he is terminant is probably the easiest way to remember and compute cross products.
+best known for his invention of quater-
+nions. Hamilton knew that we can multi-
+ply vectors in the plane by considering E X A M P L E  1 Finding a Cross Product 
+them as complex numbers. He was look-
+ing for a similar multiplication for points If a $ 80, %1, 39 and b $ 82, 0, %19, find a * b. 
+in space. After thinking about this prob-
+lem for over 20 years he discovered the S O L U T I O N We use the formula above to find the cross product of a and b:
+solution in a flash of insight while walk-
+ing near Brougham Bridge in Dublin: He i k
+realized that a fourth dimension is
+needed to make the multiplication  a * b $ † j0 %1 3 †
+work. He carved the formula for his 2 0 %1
+quaternions into the bridge, where it
+still stands. Later, the American mathe-
+matician Josiah Willard Gibbs extracted ` 0 3 0 $ ` %1 3 ` i %  ` j 1! ` % ` k0 %1 2 %1 2 0
+the dot product and cross product of
+vectors from the properties of quater-
+ $ 11 % 0 2 i % 10 % 6 2 j ! 10 % 1%2 2 2k
+nion multiplication. Quaternions are
+used today in computer graphics be-
+ $ i ! 6 j ! 2 k
+cause of their ability to easily describe
+special rotations. So the desired vector is i ! 6 j ! 2 k.

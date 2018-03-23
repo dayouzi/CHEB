@@ -1,0 +1,20 @@
+20.4.3 Unbiased
+
+In a p-n junction, without an external applied voltage (no bias), an equilibrium condition is
+
+reached in which a potential difference is formed across the junction.
+
+P-type is where you have more "holes"; N-type is where you have more electrons in the
+
+material. Initially, when you put them together to form a junction, holes near the junction
+
+tends to "move" across to the N-region, while the electrons in the N-region drift across to the
+
+p-region to "fill" some holes. This current will quickly stop as the potential barrier is built up
+
+by the migrated charges. So in steady state no current flows.
+
+Then now when you put a potential different across the terminals you have two cases: forward
+
+biased and reverse biased.
+

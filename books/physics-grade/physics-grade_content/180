@@ -1,0 +1,470 @@
+11.7.1 Graphical Techniques
+
+Graphical techniques involve drawing accurate scale diagrams to denote individual vectors and
+
+their resultants. We next discuss the two primary graphical techniques, the head-to-tail technique
+
+and the parallelogram method.
+
+218
+
+CHAPTER 11. VECTORS 11.7
+
+The Head-to-Tail Method
+
+In describing the mathematical properties of vectors we used displacements and the head-to-tail
+
+graphical method of vector addition as an illustration. The head-to-tail method of graphically
+
+adding vectors is a standard method that must be understood.
+
+Method: Head-to-Tail Method of Vector Addition
+
+1. Choose a scale and include a reference direction.
+
+2. Choose any of the vectors and draw it as an arrow in the correct direction and of the
+
+correct length - remember to put an arrowhead on the end to denote its direction.
+
+3. Take the next vector and draw it as an arrow starting from the arrowhead of the first vector
+
+in the correct direction and of the correct length.
+
+4. Continue until you have drawn each vector - each time starting from the head of the
+
+previous vector. In this way, the vectors to be added are drawn one after the other head-
+
+to-tail.
+
+5. The resultant is then the vector drawn from the tail of the first vector to the head of the
+
+last. Its magnitude can be determined from the length of its arrow using the scale. Its
+
+direction too can be determined from the scale diagram.
+
+Worked Example 50: Head-to-Tail Addition I
+
+Question: A ship leaves harbour H and sails 6 km north to port A. From here
+
+the ship travels 12 km east to port B, before sailing 5,5 km south-west to port
+
+C. Determine the ship's resultant displacement using the head-to-tail technique of
+
+vector addition.
+
+Answer
+
+Step 1 : Draw a rough sketch of the situation
+
+Its easy to understand the problem if we first draw a quick sketch. The rough sketch
+
+should include all of the information given in the problem. All of the magnitudes
+
+of the displacements are shown and a compass has been included as a reference
+
+direction. In a rough sketch one is interested in the approximate shape of the vector
+
+diagram.
+
+12 km
+
+A B
+
+45◦
+
+5,5 km
+
+6 km
+
+N
+
+C
+
+W E
+
+S
+
+H
+
+Step 2 : Choose a scale and include a reference direction.
+
+The choice of scale depends on the actual question - you should choose a scale such
+
+that your vector diagram fits the page.
+
+It is clear from the rough sketch that choosing a scale where 1 cm represents 2 km
+
+(scale: 1 cm = 2 km) would be a good choice in this problem. The diagram will then
+
+take up a good fraction of an A4 page. We now start the accurate construction.
+
+Step 3 : Choose any of the vectors to be summed and draw it as an arrow
+
+in the correct direction and of the correct length - remember to put an
+
+arrowhead on the end to denote its direction.
+
+Starting at the harbour H we draw the first vector 3 cm long in the direction north.
+
+219
+CHAPTER 11. VECTORS 11.7
+The Head-to-Tail Method
+In describing the mathematical properties of vectors we used displacements and the head-to-tail
+graphical method of vector addition as an illustration. The head-to-tail method of graphically
+adding vectors is a standard method that must be understood.
+Method: Head-to-Tail Method of Vector Addition
+1. Choose a scale and include a reference direction.
+2. Choose any of the vectors and draw it as an arrow in the correct direction and of the
+correct length - remember to put an arrowhead on the end to denote its direction.
+3. Take the next vector and draw it as an arrow starting from the arrowhead of the first vector
+in the correct direction and of the correct length.
+4. Continue until you have drawn each vector - each time starting from the head of the
+previous vector. In this way, the vectors to be added are drawn one after the other head-
+to-tail.
+5. The resultant is then the vector drawn from the tail of the first vector to the head of the
+last. Its magnitude can be determined from the length of its arrow using the scale. Its
+direction too can be determined from the scale diagram.
+Worked Example 50: Head-to-Tail Addition I
+Question: A ship leaves harbour H and sails 6 km north to port A. From here
+the ship travels 12 km east to port B, before sailing 5,5 km south-west to port
+C. Determine the ship's resultant displacement using the head-to-tail technique of
+vector addition.
+Answer
+Step 1 : Draw a rough sketch of the situation
+Its easy to understand the problem if we first draw a quick sketch. The rough sketch
+should include all of the information given in the problem. All of the magnitudes
+of the displacements are shown and a compass has been included as a reference
+direction. In a rough sketch one is interested in the approximate shape of the vector
+diagram.
+12 km
+A B
+45◦
+5,5 km
+6 km
+N
+C
+W E
+S
+H
+Step 2 : Choose a scale and include a reference direction.
+The choice of scale depends on the actual question - you should choose a scale such
+that your vector diagram fits the page.
+It is clear from the rough sketch that choosing a scale where 1 cm represents 2 km
+(scale: 1 cm = 2 km) would be a good choice in this problem. The diagram will then
+take up a good fraction of an A4 page. We now start the accurate construction.
+Step 3 : Choose any of the vectors to be summed and draw it as an arrow
+in the correct direction and of the correct length - remember to put an
+arrowhead on the end to denote its direction.
+Starting at the harbour H we draw the first vector 3 cm long in the direction north.
+219
+11.7 CHAPTER 11. VECTORS
+A
+6 km
+H
+Step 4 : Take the next vector and draw it as an arrow starting from the head
+of the first vector in the correct direction and of the correct length.
+Since the ship is now at port A we draw the second vector 6 cm long starting from
+point A in the direction east.
+12 km B
+A
+N
+6 km
+W E
+S
+H
+Step 5 : Take the next vector and draw it as an arrow starting from the head
+of the second vector in the correct direction and of the correct length.
+Since the ship is now at port B we draw the third vector 2,25 cm long starting from
+this point in the direction south-west. A protractor is required to measure the angle
+of 45◦.
+12 km B
+A
+45◦
+5,5 km
+C N
+6 km
+W E
+S
+H
+Step 6 : The resultant is then the vector drawn from the tail of the first
+vector to the head of the last. Its magnitude can be determined from the
+length of its arrow using the scale. Its direction too can be determined from
+the scale diagram.
+As a final step we draw the resultant displacement from the starting point (the
+harbour H) to the end point (port C). We use a ruler to measure the length of this
+arrow and a protractor to determine its direction.
+6 cm = 12 km B
+A
+2,25 cm = 5,5 km
+C N
+3 cm = 6 km
+4,6 c
+m =
+9,2 k
+m
+W E
+? S
+H
+Step 7 : Apply the scale conversion
+We now use the scale to convert the length of the resultant in the scale diagram to
+the actual displacement in the problem. Since we have chosen a scale of 1 cm =
+2 km in this problem the resultant has a magnitude of 9,2 km. The direction can
+be specified in terms of the angle measured either as 072,3◦ east of north or on a
+bearing of 072,3◦.
+220
+CHAPTER 11. VECTORS 11.7
+Step 8 : Quote the final answer
+The resultant displacement of the ship is 9,2 km on a bearing of 072,3◦.
+Worked Example 51: Head-to-Tail Graphical Addition II
+Question: A man walks 40 m East, then 30 m North.
+1. What was the total distance he walked?
+2. What is his resultant displacement?
+Answer
+Step 1 : Draw a rough sketch
+res
+ult
+an
+t
+30 m
+N
+W E
+S
+40 m
+Step 2 : Determine the distance that the man traveled
+In the first part of his journey he traveled 40 m and in the second part he traveled
+30 m. This gives us a total distance traveled of 40 m + 30 m = 70 m.
+Step 3 : Determine his resultant displacement
+The man's resultant displacement is the vector from where he started to where he
+ended. It is the vector sum of his two separate displacements. We will use the
+head-to-tail method of accurate construction to find this vector.
+Step 4 : Choose a suitable scale
+A scale of 1 cm represents 10 m (1 cm = 10 m) is a good choice here. Now we can
+begin the process of construction.
+Step 5 : Draw the first vector to scale
+We draw the first displacement as an arrow 4 cm long in an eastwards direction.
+N
+W E
+S
+4 cm = 40 m
+Step 6 : Draw the second vector to scale
+Starting from the head of the first vector we draw the second vector as an arrow
+3 cm long in a northerly direction.
+3 cm = 30 m
+N
+W E
+S
+4 cm = 40 m
+Step 7 : Determine the resultant vector
+Now we connect the starting point to the end point and measure the length and
+direction of this arrow (the resultant).
+221
+11.7 CHAPTER 11. VECTORS
+50
+m
+=
+cm 3 cm = 30 m N
+5
+W E
+?
+S
+4 cm = 40 m
+Step 8 : Find the direction
+To find the direction you measure the angle between the resultant and the 40 m
+vector. You should get about 37◦.
+Step 9 : Apply the scale conversion
+Finally we use the scale to convert the length of the resultant in the scale diagram to
+the actual magnitude of the resultant displacement. According to the chosen scale
+1 cm = 10 m. Therefore 5 cm represents 50 m. The resultant displacement is then
+50 m 37◦ north of east.
+The Parallelogram Method
+The parallelogram method is another graphical technique of finding the resultant of two vectors.
+Method: The Parallelogram Method
+1. Choose a scale and a reference direction.
+2. Choose either of the vectors to be added and draw it as an arrow of the correct length in
+the correct direction.
+3. Draw the second vector as an arrow of the correct length in the correct direction from the
+tail of the first vector.
+4. Complete the parallelogram formed by these two vectors.
+5. The resultant is then the diagonal of the parallelogram. The magnitude can be determined
+from the length of its arrow using the scale. The direction too can be determined from
+the scale diagram.
+Worked Example 52: Parallelogram Method of Vector Addition I
+Question: A force of F1 = 5N is applied to a block in a horizontal direction.
+A second force F2 = 4N is applied to the object at an angle of 30
+◦ above the
+horizontal.
+4N
+=
+F2
+30◦
+F1 = 5N
+Determine the resultant force acting on the block using the parallelogram method
+of accurate construction.
+Answer
+Step 1 : Firstly make a rough sketch of the vector diagram
+4N
+30◦
+5N
+222
+11.7 CHAPTER 11. VECTORS
+
+50
+
+m
+
+=
+
+cm 3 cm = 30 m N
+
+5
+
+W E
+
+?
+
+S
+
+4 cm = 40 m
+
+Step 8 : Find the direction
+
+To find the direction you measure the angle between the resultant and the 40 m
+
+vector. You should get about 37◦.
+
+Step 9 : Apply the scale conversion
+
+Finally we use the scale to convert the length of the resultant in the scale diagram to
+
+the actual magnitude of the resultant displacement. According to the chosen scale
+
+1 cm = 10 m. Therefore 5 cm represents 50 m. The resultant displacement is then
+
+50 m 37◦ north of east.
+
+The Parallelogram Method
+
+The parallelogram method is another graphical technique of finding the resultant of two vectors.
+
+Method: The Parallelogram Method
+
+1. Choose a scale and a reference direction.
+
+2. Choose either of the vectors to be added and draw it as an arrow of the correct length in
+
+the correct direction.
+
+3. Draw the second vector as an arrow of the correct length in the correct direction from the
+
+tail of the first vector.
+
+4. Complete the parallelogram formed by these two vectors.
+
+5. The resultant is then the diagonal of the parallelogram. The magnitude can be determined
+
+from the length of its arrow using the scale. The direction too can be determined from
+
+the scale diagram.
+
+Worked Example 52: Parallelogram Method of Vector Addition I
+
+Question: A force of F1 = 5N is applied to a block in a horizontal direction.
+
+A second force F2 = 4N is applied to the object at an angle of 30
+
+◦ above the
+
+horizontal.
+
+4N
+
+=
+
+F2
+
+30◦
+
+F1 = 5N
+
+Determine the resultant force acting on the block using the parallelogram method
+
+of accurate construction.
+
+Answer
+
+Step 1 : Firstly make a rough sketch of the vector diagram
+
+4N
+
+30◦
+
+5N
+
+222
+
+CHAPTER 11. VECTORS 11.7
+
+Step 2 : Choose a suitable scale
+
+In this problem a scale of 1 cm = 1 N would be appropriate, since then the vector
+
+diagram would take up a reasonable fraction of the page. We can now begin the
+
+accurate scale diagram.
+
+Step 3 : Draw the first scaled vector
+
+Let us draw F1 first. According to the scale it has length 5 cm.
+
+5 cm
+
+Step 4 : Draw the second scaled vector
+
+Next we draw F2. According to the scale it has length 4 cm. We make use of a
+
+protractor to draw this vector at 30◦ to the horizontal.
+
+4 N
+
+=
+
+4 c
+
+m
+
+30◦
+
+5 cm = 5 N
+
+Step 5 : Determine the resultant vector
+
+Next we complete the parallelogram and draw the diagonal.
+
+4 N Resul
+
+tant
+
+?
+
+5 N
+
+The resultant has a measured length of 8,7 cm.
+
+Step 6 : Find the direction
+
+We use a protractor to measure the angle between the horizontal and the resultant.
+
+We get 13,3◦.
+
+Step 7 : Apply the scale conversion
+
+Finally we use the scale to convert the measured length into the actual magnitude.
+
+Since 1 cm = 1 N, 8,7 cm represents 8,7 N. Therefore the resultant force is 8,7 N
+
+at 13,3◦ above the horizontal.
+
+The parallelogram method is restricted to the addition of just two vectors. However, it is arguably
+
+the most intuitive way of adding two forces acting at a point.
+

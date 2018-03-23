@@ -1,0 +1,58 @@
+7.1 TRIGONOMETRIC IDENTITIES
+Simplifying Trigonometric Expressions ! Proving Trigonometric Identities
+We begin by listing some of the basic trigonometric identities. We studied most of these
+in Chapters 5 and 6; you are asked to prove the cofunction identities in Exercise 102.
+FUNDAMENTAL TRIGONOMETRIC IDENTITIES
+Reciprocal Identities
+1 1 1
+csc x "   sec x "   cot x "
+sin x cos x tan x
+sin x cos x
+tan x "   cot x "
+cos x sin x
+Pythagorean Identities
+sin2 x ! cos2 x " 1   tan2 x ! 1 " sec2 x   1 ! cot2 x " csc2 x
+Even-Odd Identities
+sin1#x 2 " #sin x   cos1#x 2 " cos x   tan1#x 2 " #tan x
+Cofunction Identities
+p p
+sin a # u b " cos u  tan a p # u b " cot u  sec a # u b " csc u
+2 2 2
+# u b " sin u  cot a pcos a p # u b " tan u  csc a p # u b " sec u
+2 2 2
+! Simplifying Trigonometric Expressions
+Identities enable us to write the same expression in different ways. It is often possible to
+rewrite a complicated-looking expression as a much simpler one. To simplify algebraic
+expressions, we used factoring, common denominators, and the Special Product Formu-
+las. To simplify trigonometric expressions, we use these same techniques together with
+the fundamental trigonometric identities.
+E X A M P L E  1 Simplifying a Trigonometric Expression
+Simplify the expression cos t ! tan t sin t.
+S O L U T I O N We start by rewriting the expression in terms of sine and cosine:
+ t ! a sin t cos t ! tan t sin t " cos b  sin t Reciprocal identity
+cos t
+cos2 2 t ! sin  t
+ " Common denominator
+cos t
+1
+ " Pythagorean identity
+cos t
+ " sec t Reciprocal identity
+S E C T I O N  7 . 1 | Trigonometric Identities 495
+E X A M P L E  2 Simplifying by Combining Fractions
+sin u cos u
+Simplify the expression ! .
+cos u 1 ! sin u
+S O L U T I O N We combine the fractions by using a common denominator:
+sin u cos u sin u 11 ! sin u 2 ! cos2 u
+ ! " Common denominator
+cos u 1 ! sin u cos u 11 ! sin u 2
+sin u ! sin2 u ! cos2 u
+ " Distribute sin u
+cos u 11 ! sin u 2
+sin u ! 1
+ " 
+cos u 11 ! sin u 2 Pythagorean identity
+1 Cancel and use reciprocal
+ " " sec u
+cos u identity

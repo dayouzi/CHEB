@@ -1,0 +1,56 @@
+4.4 LAWS OF LOGARITHMS
+Laws of Logarithms ! Expanding and Combining Logarithmic Expressions
+! Change of Base Formula
+In this section we study properties of logarithms. These properties give logarithmic func-
+tions a wide range of applications, as we will see in Section 4.6.
+! Laws of Logarithms
+Since logarithms are exponents, the Laws of Exponents give rise to the Laws of
+Logarithms.
+L AWS OF LOGARITHMS
+Let a be a positive number, with a # 1. Let A, B, and C be any real numbers with A " 0 and B " 0.
+Law Description
+1. loga1AB 2 ! loga A & l
+A
+loga a b oga B The logarithm of a product of numbers is the sum of the logarithms of the numbers.2. gB a A $ loga B The logarithm of a quotient of numbers is the difference of the logarithms of the
+numbers.
+3. loga1
+! l
+AC 2 o! C loga A The logarithm of a power of a number is the exponent times the logarithm of the number.
+P R O O F We make use of the property logaax ! x from Section 4.3.
+Law 1 Let loga A ! u and loga B ! √. When written in exponential form, these equa-
+tions become
+au ! A  and √  a ! B
+Thus u loga1AB 2 ! loga1a a√ 2 ! loga1au&√ 2
+ ! u & √ ! loga A & loga B
+Law 2 Using Law 1, we have
+A
+loga A ! loga c a b B d A! log a b & l gB a o  BB a
+A
+so loga a b ! logB a A $ loga B
+Law 3 Let loga A ! u. Then au ! A, so
+log Ca1A 2 ! log Ca1au 2 ! loga1auC 2 ! uC ! C loga A "
+E X A M P L E  1 Using the Laws of Logarithms 
+to Evaluate Expressions
+Evaluate each expression.
+(a) log4 2 & log4 32
+(b) log2 80 $ log2 5
+(c) $ 1 3 log 8
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+326 C H A P T E R  4 | Exponential and Logarithmic Functions
+S O L U T I O N
+(a)  log4 2 & log4 32 ! log412 # 32 2 Law 1
+ ! log4 64 ! 3
+log2A  80  log2 80 $ log2 5 ! 5 B Because 64 = 43(b) Law 2
+ ! log2 16 ! 4 Because 16 = 24
+(c) /3 $ 1 3 log 8 ! log 8$1
+ ! logA12B Law 3Property of negative exponents
+ ! $0.301 Calculator
+326 C H A P T E R  4 | Exponential and Logarithmic Functions
+S O L U T I O N
+(a)  log4 2 & log4 32 ! log412 # 32 2 Law 1
+ ! log4 64 ! 3
+log2A  80  log2 80 $ log2 5 ! 5 B Because 64 = 43(b) Law 2
+ ! log2 16 ! 4 Because 16 = 24
+(c) /3 $ 1 3 log 8 ! log 8$1
+ ! logA12B Law 3Property of negative exponents
+ ! $0.301 Calculator

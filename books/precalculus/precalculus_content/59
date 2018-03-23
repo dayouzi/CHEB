@@ -1,0 +1,83 @@
+8.4 PLANE CURVES AND PARAMETRIC EQUATIONS
+Plane Curves and Parametric Equations ! Eliminating the Parameter !
+Finding Parametric Equations for a Curve ! Using Graphing Devices to Graph
+Parametric Curves
+So far, we have described a curve by giving an equation (in rectangular or polar coordi-
+nates) that the coordinates of all the points on the curve must satisfy. But not all curves in
+the plane can be described in this way. In this section we study parametric equations,
+which are a general method for describing any curve.
+! Plane Curves and Parametric Equations
+We can think of a curve as the path of a point moving in the plane; the x- and 
+y-coordinates of the point are then functions of time. This idea leads to the following
+definition.
+PL ANE CURVES AND PARAMETRIC EQUATIONS
+If f and g are functions defined on an interval I, then the set of points 1f 1t 2 , g1t 22
+is a plane curve. The equations
+x % f 1t 2   y % g1t 2
+where t # I, are parametric equations for the curve, with parameter t.
+E X A M P L E  1 Sketching a Plane Curve
+Sketch the curve defined by the parametric equations
+x % t2 " 3t   y % t " 1
+S O L U T1 I O N For every value of t, we get a point on the curve. For example, if t % 0,then x % 0 and y % "1, so the corresponding point is x, y 2 10, "1 2 . In Figure 1 we plot thepoints determined by the values of t shown in the following table.
+t x y t=5
+y t=4
+"2 10 "3 t=3
+"1 4 "2 t=2
+0 0 "1 1
+1 "2 0
+2 t=1 5 10 x"2 1
+3 0 2
+4 4 3 t=0 t=_1
+5 10 4 t=_2
+F I G U R E  1
+As t increases, a particle whose position is given by the parametric equations moves
+along the curve in the direction of the arrows.
+S E C T I O N  8 . 4 | Plane Curves and Parametric Equations 565
+If we replace t by "t in Example 1, we obtain the parametric equations
+x % t2 ! 3t   y % "t " 1
+The graph of these parametric equations (see Figure 2) is the same as the curve in Figure 1,
+but traced out in the opposite direction. On the other hand, if we replace t by 2t in Example
+1, we obtain the parametric equations
+x % 4t2 " 6t   y % 2t " 1
+The graph of these parametric equations (see Figure 3) is again the same, but is traced out
+"twice as fast." Thus, a parametrization contains more information than just the shape of
+the curve; it also indicates how the curve is being traced out.
+MARIA GAETANA AGNESI (1718-
+1799) is famous for having written Insti- t=_5
+tuzioni Analitiche, one of the first calcu- y t=_4 y t=2
+lus textbooks. t=_3
+Maria was born into a wealthy family
+in Milan, Italy, the oldest of 21 children. t=_2 t=1
+She was a child prodigy,mastering many 1 1
+languages at an early age, including
+Latin,Greek,and Hebrew.At the age of t=_1 5 10 x 5 10 x
+20 she published a series of essays on t=0 t=0
+philosophy and natural science.After
+t=1
+Maria's mother died,she took on the task t=2 t=_1
+of educating her brothers. In 1748 Ag-
+nesi published her famous textbook,
+which she originally wrote as a text for F I G U R E  2 x % t
+2 ! 3t, y % "t " 1 F I G U R E  3 x % 4t2 " 6t, y % 2t " 1
+tutoring her brothers.The book com-
+piled and explained the mathematical
+knowledge of the day. It contains many ! Eliminating the Parameter
+carefully chosen examples,one of which
+is the curve now known as the"witch of Often a curve given by parametric equations can also be represented by a single rectan-
+Agnesi"(see Exercise 64, page 571).One gular equation in x and y. The process of finding this equation is called eliminating the pa-
+review calls her book an"exposition by
+examples rather than by theory." The rameter. One way to do this is to solve for t in one equation, then substitute into the other.
+book gained Agnesi immediate recogni-
+tion.Pope Benedict XIV appointed her to E X A M P L E  2 Eliminating the Parameter
+a position at the University of Bologna,
+writing, "we have had the idea that you Eliminate the parameter in the parametric equations of Example 1.
+should be awarded the well-known chair
+of mathematics,by which it comes of it- S O L U T I O N First we solve for t in the simpler equation, then we substitute into the
+self that you should not thank us but we other equation. From the equation y % t " 1, we get t % y ! 1. Substituting into the equa-
+you." This appointment was an ex- tion for x, we get
+tremely high honor for a woman,since
+very few women then were even al- x % t2 " 3t % 1y ! 1 2 2 " 31y ! 1 2 % y2 " y " 2
+lowed to attend university.Just two
+years later,Agnesi's father died,and she Thus the curve in Example 1 has the rectangular equation x % y2 " y " 2, so it is a
+left mathematics completely.She be- parabola.
+came a nun and devoted the rest of her

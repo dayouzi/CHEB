@@ -1,0 +1,186 @@
+11.6 Cones
+
+Here you'll learn what a cone is and how to find its volume and surface area.
+
+What if you were given a three-dimensional solid figure with a circular base and sides that taper up towards a
+
+vertex? How could you determine how much two-dimensional and three-dimensional space that figure occupies?
+
+After completing this Concept, you'll be able to find the surface area and volume of a cone.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136777
+
+Cones CK-12
+
+Guidance
+
+A cone is a solid with a circular base and sides that taper up towards a vertex. A cone is generated from rotating a
+
+right triangle, around one leg. A cone has a slant height.
+
+Surface Area
+
+Surface area is a two-dimensional measurement that is the total area of all surfaces that bound a solid. The basic
+
+unit of area is the square unit. For the surface area of a cone we need the sum of the area of the base and the area of
+
+the sides.
+
+Surface Area of a Right Cone: SA = pir2 +pirl.
+
+637
+
+11.6. Cones www.ck12.org
+
+Area of the base: pir2
+
+Area of the sides: pirl
+
+Volume
+
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+
+cubic unit.
+
+Volume of a Cone: V = 13pir
+
+2h.
+
+Example A
+
+What is the surface area of the cone?
+
+First, we need to find the slant height. Use the Pythagorean Theorem.
+
+l2 = 92 +212
+
+= 8√1+441
+
+l = 522≈ 22.85
+
+The total surface area, then, is SA = pi92 +pi(9)(22.85)≈ 900.54 units2.
+
+638
+11.6. Cones www.ck12.org
+Area of the base: pir2
+Area of the sides: pirl
+Volume
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+cubic unit.
+Volume of a Cone: V = 13pir
+2h.
+Example A
+What is the surface area of the cone?
+First, we need to find the slant height. Use the Pythagorean Theorem.
+l2 = 92 +212
+= 8√1+441
+l = 522≈ 22.85
+The total surface area, then, is SA = pi92 +pi(9)(22.85)≈ 900.54 units2.
+638
+www.ck12.org Chapter 11. Surface Area and Volume
+Example B
+Find the volume of the cone.
+First, we need the height. Use the Pythagorean Theorem.
+52 +h2 = 1√5
+2
+√
+h = 200(= 10 21 √ )
+V = (52) 10 2 pi≈ 370.24 units3
+3
+Example C
+Find the volume of the cone.
+We can use the same volume formula. Find the radius.
+1
+V = pi(32)(6) = 18pi≈ 56.55 units3
+3
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136778
+639
+11.6. Cones www.ck12.org
+Cones CK-12
+->
+Guided Practice
+1. The surface area of a cone is 36pi and the radius is 4 units. What is the slant height?
+2. The volume of a cone is 484pi cm3 and the height is 12 cm. What is the radius?
+3. Find the surface area and volume of the right cone. Round your answers to 2 decimal places.
+Answers:
+1. Plug what you know into the formula for the surface area of a cone and solve for l.
+36pi= pi42 +pi4l
+36 = 16+4l When each term has a pi, they cancel out.
+20 = 4l
+5 = l
+2. Plug what you know to the volume formula.
+1
+484pi= pir2(12)
+3
+121 = r2
+11 cm = r
+3. First we need to find the radius. Use the Pythagorean Theorem.
+r2 +402 = 412
+r2 = 81
+r = 9
+Now use the formulas to find surface area and volume. Use the pi button on your calculator to help approximate your
+answer at the end.
+640
+www.ck12.org Chapter 11. Surface Area and Volume
+SA = pir2 +pirl
+SA = 81pi+369pi
+SA = 450pi
+SA = 1413.72
+Now for volume:
+1
+V = pir2h
+3
+1
+V = pi(92)(40)
+3
+V = 1080pi
+V = 3392.92
+Explore More
+Use the cone to fill in the blanks.
+1. v is the ___________.
+2. The height of the cone is ______.
+3. x is a __________ and it is the ___________ of the cone.
+4. w is the _____________ ____________.
+Sketch the following solid and answer the question. Your drawing should be to scale, but not one-to-one. Leave
+your answer in simplest radical form.
+5. Draw a right cone with a radius of 5 cm and a height of 15 cm. What is the slant height?
+Find the slant height, l, of one lateral face in the cone. Round your answer to the nearest hundredth.
+6.
+641
+11.6. Cones www.ck12.org
+Find the surface area and volume of the right cones. Round your answers to 2 decimal places.
+7.
+8.
+9. If the lateral surface area of a cone is 30pi cm2 and the radius is 5 cm, what is the slant height?
+10. If the surface area of a cone is 105pi cm2 and the slant height is 8 cm, what is the radius?
+11. If the volume of a cone is 30pi cm3 and the radius is 5 cm, what is the height?
+12. If the volume of a cone is 105pi cm3 and the height is 35 cm, what is the radius?
+642
+11.6. Cones www.ck12.org
+
+Find the surface area and volume of the right cones. Round your answers to 2 decimal places.
+
+7.
+
+8.
+
+9. If the lateral surface area of a cone is 30pi cm2 and the radius is 5 cm, what is the slant height?
+
+10. If the surface area of a cone is 105pi cm2 and the slant height is 8 cm, what is the radius?
+
+11. If the volume of a cone is 30pi cm3 and the radius is 5 cm, what is the height?
+
+12. If the volume of a cone is 105pi cm3 and the height is 35 cm, what is the radius?
+
+642
+
+www.ck12.org Chapter 11. Surface Area and Volume
+

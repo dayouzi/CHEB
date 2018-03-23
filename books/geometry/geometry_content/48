@@ -1,0 +1,237 @@
+5.3. Angle Bisectors in Triangles www.ck12.org
+
+5.3 Angle Bisectors in Triangles
+
+Here you'll learn what an angle bisector is as well as the Angle Bisector Theorem, which states that if a point is on
+
+the bisector of an angle, then the point is equidistant from the sides of the angle.
+
+−→
+
+What if you were told that GJ is the angle bisector of 6 FGH? How would you find the length of FJ given the length
+
+of HJ? After completing this Concept, you'll be able to use the Angle Bisector Theorem to solve problems like this
+
+one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136662
+
+CK-12 Angle Bisectors
+
+First watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1287
+
+James Sousa: Introduction to Angle Bisectors
+
+Next watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1288
+
+James Sousa: Proof of the Angle Bisector Theorem
+
+Then watch this video.
+
+250
+
+www.ck12.org Chapter 5. Triangle Relationships
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1289
+
+James Sousa: Proof of the Angle Bisector Theorem Converse
+
+Finally, watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1290
+
+James Sousa: Solving For Unknown Values Using Angle Bisectors
+
+Guidance
+
+An angle bisector cuts an angle exactly in half. One important property of angle bisectors is that if a point is on
+
+the bisector of an angle, then the point is equidistant from the sides of the angle. This is called the Angle Bisector
+
+Theorem.
+
+−→ −→ −→
+
+In other words, if BD bisects 6 ABC, BA⊥ FD, and, BC ⊥ DG then FD = DG.
+
+The converse of this theorem is also true.
+
+Angle Bisector Theorem Converse: If a point is in the interior of an angle and equidistant from the sides, then it
+
+lies on the bisector of that angle.
+
+When we construct angle bisectors for the angles of a triangle, they meet in one point. This point is called the
+
+incenter of the triangle.
+
+251
+www.ck12.org Chapter 5. Triangle Relationships
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1289
+James Sousa: Proof of the Angle Bisector Theorem Converse
+Finally, watch this video.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1290
+James Sousa: Solving For Unknown Values Using Angle Bisectors
+Guidance
+An angle bisector cuts an angle exactly in half. One important property of angle bisectors is that if a point is on
+the bisector of an angle, then the point is equidistant from the sides of the angle. This is called the Angle Bisector
+Theorem.
+−→ −→ −→
+In other words, if BD bisects 6 ABC, BA⊥ FD, and, BC ⊥ DG then FD = DG.
+The converse of this theorem is also true.
+Angle Bisector Theorem Converse: If a point is in the interior of an angle and equidistant from the sides, then it
+lies on the bisector of that angle.
+When we construct angle bisectors for the angles of a triangle, they meet in one point. This point is called the
+incenter of the triangle.
+251
+5.3. Angle Bisectors in Triangles www.ck12.org
+Example A
+Is Y on the angle bisector of 6 XWZ?
+If Y is on the angle bisector, then XY = Y Z and both segments need to be perpendicular to the sides of the angle.
+From the markings we know XY ⊥−−→WX and ZY ⊥−→WZ. Second, XY =Y Z = 6. So, yes, Y is on the angle bisector of
+6 XWZ.
+Example B
+−→
+MO is the angle bisector of 6 LMN. Find the measure of x.
+LO = ON by the Angle Bisector Theorem.
+4x−5 = 23
+4x = 28
+x = 7
+Example C
+−→
+AB is the angle bisector of 6 CAD. Solve for the missing variable.
+252
+www.ck12.org Chapter 5. Triangle Relationships
+CB = BD by the Angle Bisector Theorem, so we can set up and solve an equation for x.
+x+7 = 2(3x−4)
+x+7 = 6x−8
+15 = 5x
+x = 3
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136663
+CK-12 Angle Bisectors
+->
+Guided Practice
+−→
+1. AB is the angle bisector of 6 CAD. Solve for the missing variable.
+−→
+2. Is there enough information to determine if AB is the angle bisector of 6 CAD? Why or why not?
+253
+5.3. Angle Bisectors in Triangles www.ck12.org
+3. A 108◦ angle is bisected. What are the measures of the resulting angles?
+Answers:
+1.CB = BD by the Angle Bisector Theorem, so x = 6.
+2. No because B is not necessarily equidistant from AC and AD. We do not know if the angles in the diagram are
+right angles.
+3. We know that to bisect means to cut in half, so each of the resulting angles will be half of 108. The measure of
+each resulting angle is 54◦.
+Explore More
+−→
+For questions 1-4, AB is the angle bisector of 6 CAD. Solve for the missing variable.
+1.
+2.
+3.
+4.
+−→
+Is there enough information to determine if AB is the angle bisector of 6 CAD? Why or why not?
+5.
+254
+www.ck12.org Chapter 5. Triangle Relationships
+6.
+7. In what type of triangle will all angle bisectors pass through vertices of the triangle?
+8. What is another name for the angle bisectors of the vertices of a square?
+9. Draw in the angle bisectors of the vertices of a square. How many triangles do you have? What type of
+triangles are they?
+10. Fill in the blanks in the Angle Bisector Theorem Converse.
+−→ −→
+Given: AD∼= DC, such that AD and DC are the shortest distances to BA and BC
+−→
+Prove: BD bisects 6 ABC
+TABLE 5.2:
+Statement Reason
+1. 1.
+2. 2. The shortest distance from a point to a line is
+perpendicular.
+3. 6 DAB and 6 DCB are right angles 3.
+4. 6 DAB∼= 6 DCB 4.
+5. BD∼= BD 5.
+6. 4ABD∼=4CBD 6.
+7. −→ 7. CPCTC
+8. BD bisects 6 ABC 8.
+255
+www.ck12.org Chapter 5. Triangle Relationships
+
+6.
+
+7. In what type of triangle will all angle bisectors pass through vertices of the triangle?
+
+8. What is another name for the angle bisectors of the vertices of a square?
+
+9. Draw in the angle bisectors of the vertices of a square. How many triangles do you have? What type of
+
+triangles are they?
+
+10. Fill in the blanks in the Angle Bisector Theorem Converse.
+
+−→ −→
+
+Given: AD∼= DC, such that AD and DC are the shortest distances to BA and BC
+
+−→
+
+Prove: BD bisects 6 ABC
+
+TABLE 5.2:
+
+Statement Reason
+
+1. 1.
+
+2. 2. The shortest distance from a point to a line is
+
+perpendicular.
+
+3. 6 DAB and 6 DCB are right angles 3.
+
+4. 6 DAB∼= 6 DCB 4.
+
+5. BD∼= BD 5.
+
+6. 4ABD∼=4CBD 6.
+
+7. −→ 7. CPCTC
+
+8. BD bisects 6 ABC 8.
+
+255
+

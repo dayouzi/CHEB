@@ -1,0 +1,214 @@
+6.1. Interior Angles in Convex Polygons www.ck12.org
+
+6.1 Interior Angles in Convex Polygons
+
+Here you'll learn how to find the measure of an interior angle of a convex polygon based on the number of sides the
+
+polygon has.
+
+What if you were given an equiangular seven-sided convex polygon? How could you determine the measure of its
+
+interior angles? After completing this Concept, you'll be able to use the Polygon Sum Formula to solve problems
+
+like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136705
+
+CK-12 Interior Angles in Convex Polygons
+
+Watch the first half of this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1267
+
+James Sousa: Angles of Convex Polygons
+
+Guidance
+
+The interior angle of a polygon is one of the angles on the inside, as shown in the picture below. A polygon has the
+
+same number of interior angles as it does sides.
+
+The sum of the interior angles in a polygon depends on the number of sides it has. The Polygon Sum Formula
+
+states that for any n−gon, the interior angles add up to (n−2)×180◦.
+
+282
+
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+
+→ n = 8
+
+(8−2)×180◦
+
+6×180◦
+
+1080◦
+
+Once you know the sum of the interior angles in a polygon it is easy to find the measure of ONE interior angle if
+
+the polygon is regular: all sides are congruent and all angles are congruent. Just divide the sum of the angles by the
+
+number of sides.
+
+Regular Polygon Interior Angle Formula: For any equiangular n−gon, the measure of each angle is (n−2)×180◦n .
+
+In the picture below, if all eight angles are congruent then each angle is (8−2)×180
+
+◦
+
+8 =
+
+6×180◦
+
+8 =
+
+1080◦
+
+8 = 135
+
+◦.
+
+Example A
+
+The interior angles of a polygon add up to 1980◦. How many sides does it have?
+
+Use the Polygon Sum Formula and solve for n.
+
+(n−2)×180◦ = 1980◦
+
+180◦n−360◦ = 1980◦
+
+180◦n = 2340◦
+
+n = 13
+
+The polygon has 13 sides.
+
+283
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+→ n = 8
+(8−2)×180◦
+6×180◦
+1080◦
+Once you know the sum of the interior angles in a polygon it is easy to find the measure of ONE interior angle if
+the polygon is regular: all sides are congruent and all angles are congruent. Just divide the sum of the angles by the
+number of sides.
+Regular Polygon Interior Angle Formula: For any equiangular n−gon, the measure of each angle is (n−2)×180◦n .
+In the picture below, if all eight angles are congruent then each angle is (8−2)×180
+◦
+8 =
+6×180◦
+8 =
+1080◦
+8 = 135
+◦.
+Example A
+The interior angles of a polygon add up to 1980◦. How many sides does it have?
+Use the Polygon Sum Formula and solve for n.
+(n−2)×180◦ = 1980◦
+180◦n−360◦ = 1980◦
+180◦n = 2340◦
+n = 13
+The polygon has 13 sides.
+283
+6.1. Interior Angles in Convex Polygons www.ck12.org
+Example B
+How many degrees does each angle in an equiangular nonagon have?
+First we need to find the sum of the interior angles; set n = 9.
+(9−2)×180◦ = 7×180◦ = 1260◦
+"Equiangular" tells us every angle is equal. So, each angle is 1260
+◦
+9 = 140
+◦.
+Example C
+An interior angle in a regular polygon is 135◦. How many sides does this polygon have?
+Here, we will set the Regular Polygon Interior Angle Formula equal to 135◦ and solve for n.
+(n−2)×180◦
+= 135◦
+n
+180◦n−360◦ = 135◦n
+−360◦ =−45◦n
+n = 8 The polygon is an octagon.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136706
+CK-12 Interior Angles in Convex Polygons
+->
+Guided Practice
+1. Find the measure of x.
+2. The interior angles of a pentagon are x◦,x◦,2x◦,2x◦, and 2x◦. What is x?
+3. What is the sum of the interior angles in a 100-gon?
+284
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+Answers:
+1. From the Polygon Sum Formula we know that a quadrilateral has interior angles that sum to (4−2)×180◦= 360◦.
+Write an equation and solve for x.
+89◦+(5x−8)◦+(3x+4)◦+51◦ = 360◦
+8x = 224
+x = 28
+2. From the Polygon Sum Formula we know that a pentagon has interior angles that sum to (5−2)×180◦ = 540◦.
+Write an equation and solve for x.
+x◦+ x◦+2x◦+2x◦+2x◦ = 540◦
+8x = 540
+x = 67.5
+3. Use the Polygon Sum Formula. (100−2)×180◦ = 17,640◦.
+Explore More
+1. Fill in the table.
+TABLE 6.1:
+# of sides Sum of the Interior An- Measure of Each Inte-
+gles rior Angle in a Regular
+n−gon
+3 60◦
+4 360◦
+5 540◦ 108◦
+6 120◦
+7
+8
+9
+10
+11
+12
+2. What is the sum of the angles in a 15-gon?
+3. What is the sum of the angles in a 23-gon?
+4. The sum of the interior angles of a polygon is 4320◦. How many sides does the polygon have?
+5. The sum of the interior angles of a polygon is 3240◦. How many sides does the polygon have?
+6. What is the measure of each angle in a regular 16-gon?
+7. What is the measure of each angle in an equiangular 24-gon?
+8. Each interior angle in a regular polygon is 156◦. How many sides does it have?
+9. Each interior angle in an equiangular polygon is 90◦. How many sides does it have?
+285
+6.1. Interior Angles in Convex Polygons www.ck12.org
+For questions 10-18, find the value of the missing variable(s).
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+286
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+17.
+18.
+19. The interior angles of a hexagon are x◦,(x+1)◦,(x+2)◦,(x+3)◦,(x+4)◦, and (x+5)◦. What is x?
+287
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+
+17.
+
+18.
+
+19. The interior angles of a hexagon are x◦,(x+1)◦,(x+2)◦,(x+3)◦,(x+4)◦, and (x+5)◦. What is x?
+
+287
+

@@ -1,0 +1,207 @@
+2.5 Conjectures and Counterexamples
+
+Here you'll learn how to make educated guesses, or conjectures, based on patterns. You'll also learn how to disprove
+
+conjectures with counterexamples.
+
+Suppose you were given a mathematical pattern like h = −16/t2. What if you wanted to make an educated
+
+guess, or conjecture, about h? After completing this Concept, you'll be able to make such a guess and provide
+
+counterexamples that disprove incorrect guesses.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136618
+
+CK-12 Conjectures and Counterexamples
+
+Watch the final part of this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1373
+
+James Sousa: Counterexamples
+
+Guidance
+
+A conjecture is an "educated guess" that is based on examples in a pattern. A counterexample is an example that
+
+disproves a conjecture.
+
+Example A
+
+Here's an algebraic equation and a table of values for n and t.
+
+t = (n−1)(n−2)(n−3)
+
+81
+
+2.5. Conjectures and Counterexamples www.ck12.org
+
+TABLE 2.1:
+
+n (n−1)(n−2)(n−3) t
+
+1 (0)(−1)(−2) 0
+
+2 (1)(0)(−1) 0
+
+3 (2)(1)(0) 0
+
+After looking at the table, Pablo makes this conjecture:
+
+The value of (n−1)(n−2)(n−3) is 0 for any number n.
+
+Is this a true conjecture?
+
+This is not a valid conjecture. If Pablo were to continue the table to n = 4, he would have see that (n−1)(n−2)(n−
+
+3) = (4−1)(4−2)(4−3) = (3)(2)(1) = 6
+
+In this example n = 4 is the counterexample.
+
+Example B
+
+Arthur is making figures for an art project. He drew polygons and some of their diagonals.
+
+From these examples, Arthur made this conjecture:
+
+If a convex polygon has n sides, then there are n−2 triangles formed when diagonals are drawn from any vertex of
+
+the polygon.
+
+Is Arthur's conjecture correct? Or, can you find a counterexample?
+
+The conjecture appears to be correct. If Arthur draws other polygons, in every case he will be able to draw n− 2
+
+triangles if the polygon has n sides.
+
+Notice that we have not proved Arthur's conjecture, but only found several examples that hold true. So, at this
+
+point, we say that the conjecture is true.
+
+Example C
+
+Give a counterexample to this statement: Every prime number is an odd number.
+
+The only counterexample is the number 2: an even number (not odd) that is prime.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136619
+
+82
+2.5. Conjectures and Counterexamples www.ck12.org
+TABLE 2.1:
+n (n−1)(n−2)(n−3) t
+1 (0)(−1)(−2) 0
+2 (1)(0)(−1) 0
+3 (2)(1)(0) 0
+After looking at the table, Pablo makes this conjecture:
+The value of (n−1)(n−2)(n−3) is 0 for any number n.
+Is this a true conjecture?
+This is not a valid conjecture. If Pablo were to continue the table to n = 4, he would have see that (n−1)(n−2)(n−
+3) = (4−1)(4−2)(4−3) = (3)(2)(1) = 6
+In this example n = 4 is the counterexample.
+Example B
+Arthur is making figures for an art project. He drew polygons and some of their diagonals.
+From these examples, Arthur made this conjecture:
+If a convex polygon has n sides, then there are n−2 triangles formed when diagonals are drawn from any vertex of
+the polygon.
+Is Arthur's conjecture correct? Or, can you find a counterexample?
+The conjecture appears to be correct. If Arthur draws other polygons, in every case he will be able to draw n− 2
+triangles if the polygon has n sides.
+Notice that we have not proved Arthur's conjecture, but only found several examples that hold true. So, at this
+point, we say that the conjecture is true.
+Example C
+Give a counterexample to this statement: Every prime number is an odd number.
+The only counterexample is the number 2: an even number (not odd) that is prime.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136619
+82
+www.ck12.org Chapter 2. Reasoning and Proof
+CK-12 Conjectures and Counterexamples
+->
+Guided Practice
+A car salesman sold 5 used cars to five different couples. He noticed that each couple was under 30 years old. The
+following day, he sold a new, luxury car to a couple in their 60's. The salesman determined that only younger couples
+by used cars.
+1. Is the salesman's conjecture logical? Why or why not?
+2. Can you think of a counterexample?
+Answers:
+1. It is logical based on his experiences, but is not true.
+2. A counterexample would be a couple that is 30 years old or older buying a used car.
+Explore More
+Give a counterexample for each of the following statements.
+1. If n is a whole number, then n2 > n.
+2. All numbers that end in 1 are prime numbers.
+3. All positive fractions are between 0 and 1.
+4. Any three points that are coplanar are also collinear.
+5. All girls like ice cream.
+6. All high school students are in choir.
+7. For any angle there exists a complementary angle.
+8. All teenagers can drive.
+9. If n is an integer, then n > 0.
+10. All equations have integer solutions.
+83
+www.ck12.org Chapter 2. Reasoning and Proof
+
+CK-12 Conjectures and Counterexamples
+
+->
+
+Guided Practice
+
+A car salesman sold 5 used cars to five different couples. He noticed that each couple was under 30 years old. The
+
+following day, he sold a new, luxury car to a couple in their 60's. The salesman determined that only younger couples
+
+by used cars.
+
+1. Is the salesman's conjecture logical? Why or why not?
+
+2. Can you think of a counterexample?
+
+Answers:
+
+1. It is logical based on his experiences, but is not true.
+
+2. A counterexample would be a couple that is 30 years old or older buying a used car.
+
+Explore More
+
+Give a counterexample for each of the following statements.
+
+1. If n is a whole number, then n2 > n.
+
+2. All numbers that end in 1 are prime numbers.
+
+3. All positive fractions are between 0 and 1.
+
+4. Any three points that are coplanar are also collinear.
+
+5. All girls like ice cream.
+
+6. All high school students are in choir.
+
+7. For any angle there exists a complementary angle.
+
+8. All teenagers can drive.
+
+9. If n is an integer, then n > 0.
+
+10. All equations have integer solutions.
+
+83
+

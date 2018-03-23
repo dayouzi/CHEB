@@ -1,0 +1,185 @@
+6.5. Parallelogram Classification www.ck12.org
+
+6.5 Parallelogram Classification
+
+Here you'll learn what properties differentiate the three special parallelograms: rhombuses, rectangles, and squares.
+
+What if you were given a parallelogram and information about its diagonals? How could you use that information
+
+to classify the parallelogram as a rectangle, rhombus, and/or square? After completing this Concept, you'll be able
+
+to further classify a parallelogram based on its diagonals, angles, and sides.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136717
+
+CK-12 Classifying Parallelograms
+
+Guidance
+
+Rectangles, rhombuses (also called rhombi) and squares are all more specific versions of parallelograms, also called
+
+special parallelograms.
+
+• A quadrilateral is a rectangle if and only if it has four right (congruent) angles.
+
+ABCD is a rectangle if and only if 6 A∼= 6 B∼= 6 C ∼= 6 D.
+
+• A quadrilateral is a rhombus if and only if it has four congruent sides.
+
+ABCD is a rhombus if and only if AB∼= BC ∼=CD∼= AD.
+
+308
+
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+
+• A quadrilateral is a square if and only if it has four right angles and four congruent sides. By definition, a
+
+square is a rectangle and a rhombus.
+
+ABCD is a square if and only if 6 A∼= 6 B∼= 6 C ∼= 6 D and AB∼= BC ∼=CD∼= AD.
+
+You can always show that a parallelogram is a rectangle, rhombus, or square by using the definitions of these shapes.
+
+There are some additional ways to prove parallelograms are rectangles and rhombuses, shown below:
+
+1) A parallelogram is a rectangle if the diagonals are congruent.
+
+ABCD is parallelogram. If AC ∼= BD, then ABCD is also a rectangle.
+
+2) A parallelogram is a rhombus if the diagonals are perpendicular.
+
+ABCD is a parallelogram. If AC ⊥ BD, then ABCD is also a rhombus.
+
+3) A parallelogram is a rhombus if the diagonals bisect each angle.
+
+ABCD is a parallelogram. If AC bisects 6 BAD and 6 BCD and BD bisects 6 ABC and 6 ADC, then ABCD is also a
+
+rhombus.
+
+309
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+• A quadrilateral is a square if and only if it has four right angles and four congruent sides. By definition, a
+square is a rectangle and a rhombus.
+ABCD is a square if and only if 6 A∼= 6 B∼= 6 C ∼= 6 D and AB∼= BC ∼=CD∼= AD.
+You can always show that a parallelogram is a rectangle, rhombus, or square by using the definitions of these shapes.
+There are some additional ways to prove parallelograms are rectangles and rhombuses, shown below:
+1) A parallelogram is a rectangle if the diagonals are congruent.
+ABCD is parallelogram. If AC ∼= BD, then ABCD is also a rectangle.
+2) A parallelogram is a rhombus if the diagonals are perpendicular.
+ABCD is a parallelogram. If AC ⊥ BD, then ABCD is also a rhombus.
+3) A parallelogram is a rhombus if the diagonals bisect each angle.
+ABCD is a parallelogram. If AC bisects 6 BAD and 6 BCD and BD bisects 6 ABC and 6 ADC, then ABCD is also a
+rhombus.
+309
+6.5. Parallelogram Classification www.ck12.org
+Example A
+What typed of parallelogram are the figures below?
+a)
+b)
+Answer:
+a) All sides are congruent and one angle is 135◦, so the angles are not congruent. This is a rhombus.
+b) All four angles are congruent but the sides are not. This is a rectangle.
+Example B
+Is a rhombus SOMETIMES, ALWAYS, or NEVER a square? Explain why.
+A rhombus has four congruent sides and a square has four congruent sides and angles. Therefore, a rhombus is a
+square when it has congruent angles. This means a rhombus is SOMETIMES a square.
+Example C
+List everything you know about the square SQRE.
+A square has all the properties of a parallelogram, rectangle and rhombus.
+310
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+TABLE 6.10:
+Properties of a Parallelogram Properties of a Rhombus Properties of a Rectangle
+• SQ‖ER • SQ∼= ER∼= SE ∼= QR • m 6 SER = m6 SQR =
+m 6 QSE = m6 QRE = 90◦
+• SE‖QR • SR⊥ QE
+• 6 SEQ ∼= 6 QER ∼= 6 SQE ∼= • SR∼= QE
+6 EQR
+• 6 QSR ∼= 6 RSE ∼= 6 QRS ∼= • SA∼= AR∼= QA∼= AE
+6 SRE
+All the bisected angles are 45◦.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136718
+CK-12 Classifying Parallelograms
+->
+Guided Practice
+1. Is a rectangle SOMETIMES, ALWAYS, or NEVER a parallelogram? Explain why.
+2. Is a rhombus SOMETIMES, ALWAYS, or NEVER equiangular? Explain why.
+3. Is a quadrilateral SOMETIMES, ALWAYS, or NEVER a pentagon? Explain why.
+Answers:
+1. A rectangle has two sets of parallel sides, so it is ALWAYS a parallelogram.
+2. Any quadrilateral, including a rhombus, is only equiangular if all its angles are 90◦. This means a rhombus is
+SOMETIMES equiangular, only when it is a square.
+3. A quadrilateral has four sides, so it will NEVER be a pentagon with five sides.
+Explore More
+1. RACE is a rectangle. Find:
+311
+6.5. Parallelogram Classification www.ck12.org
+a. RG
+b. AE
+c. AC
+d. EC
+e. m6 RAC
+2. DIAM is a rhombus. Find:
+a. MA
+b. MI
+c. DA
+d. m6 DIA
+e. m6 MOA
+3. CUBE is a square. Find:
+a. m6 UCE
+b. m6 EY B
+c. m6 UBY
+d. m6 UEB
+For questions 4-15, determine if the quadrilateral is a parallelogram, rectangle, rhombus, square or none.
+312
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+313
+6.5. Parallelogram Classification www.ck12.org
+13.
+14.
+15.
+For questions 16-19 determine if the following are ALWAYS, SOMETIME, or NEVER true. Explain your reasoning.
+16. A rectangle is a rhombus.
+17. A square is a parallelogram.
+18. A parallelogram is regular.
+19. A square is a rectangle.
+314
+6.5. Parallelogram Classification www.ck12.org
+
+13.
+
+14.
+
+15.
+
+For questions 16-19 determine if the following are ALWAYS, SOMETIME, or NEVER true. Explain your reasoning.
+
+16. A rectangle is a rhombus.
+
+17. A square is a parallelogram.
+
+18. A parallelogram is regular.
+
+19. A square is a rectangle.
+
+314
+
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+

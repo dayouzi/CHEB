@@ -1,0 +1,212 @@
+4.10. Isosceles Triangles www.ck12.org
+
+4.10 Isosceles Triangles
+
+Here you'll learn the definition of an isosceles triangle as well as two theorems about isosceles triangles: 1) The
+
+angle bisector of the vertex is the perpendicular bisector of the base; and 2) The base angles are congruent.
+
+What if you were presented with an isosceles triangle and told that its base angles measure x◦ and y◦? What could
+
+you conclude about x and y? After completing this Concept, you'll be able to apply important properties about
+
+isosceles triangles to help you solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136763
+
+CK-12
+
+Watch the first part of this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1308
+
+James Sousa: How To Construct An Isosceles Triangle
+
+Then watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1309
+
+James Sousa: Proof of the Isosceles Triangle Theorem
+
+Finally, watch this video.
+
+220
+
+www.ck12.org Chapter 4. Triangles and Congruence
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1310
+
+James Sousa: Using the Properties of Isosceles Triangles to Determine Values
+
+Guidance
+
+An isosceles triangle is a triangle that has at least two congruent sides. The congruent sides of the isosceles triangle
+
+are called the legs. The other side is called the base. The angles between the base and the legs are called base
+
+angles. The angle made by the two legs is called the vertex angle. One of the important properties of isosceles
+
+triangles is that their base angles are always congruent. This is called the Base Angles Theorem.
+
+For4DEF , if DE ∼= EF , then 6 D∼= 6 F .
+
+Another important property of isosceles triangles is that the angle bisector of the vertex angle is also the perpendicu-
+
+lar bisector of the base. This is called the Isosceles Triangle Theorem. (Note this is ONLY true of the vertex angle.)
+
+The converses of the Base Angles Theorem and the Isosceles Triangle Theorem are both true as well.
+
+Base Angles Theorem Converse: If two angles in a triangle are congruent, then the sides opposite those angles are
+
+also congruent. So for4DEF , if 6 D∼= 6 F , then DE ∼= EF .
+
+Isosceles Triangle Theorem Converse: The perpendicular bisector of the base of an isosceles triangle is also the
+
+angle bisector of the vertex angle. So for isosceles4DEF , if EG⊥ DF and DG∼= GF , then 6 DEG∼= 6 FEG.
+
+221
+www.ck12.org Chapter 4. Triangles and Congruence
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1310
+James Sousa: Using the Properties of Isosceles Triangles to Determine Values
+Guidance
+An isosceles triangle is a triangle that has at least two congruent sides. The congruent sides of the isosceles triangle
+are called the legs. The other side is called the base. The angles between the base and the legs are called base
+angles. The angle made by the two legs is called the vertex angle. One of the important properties of isosceles
+triangles is that their base angles are always congruent. This is called the Base Angles Theorem.
+For4DEF , if DE ∼= EF , then 6 D∼= 6 F .
+Another important property of isosceles triangles is that the angle bisector of the vertex angle is also the perpendicu-
+lar bisector of the base. This is called the Isosceles Triangle Theorem. (Note this is ONLY true of the vertex angle.)
+The converses of the Base Angles Theorem and the Isosceles Triangle Theorem are both true as well.
+Base Angles Theorem Converse: If two angles in a triangle are congruent, then the sides opposite those angles are
+also congruent. So for4DEF , if 6 D∼= 6 F , then DE ∼= EF .
+Isosceles Triangle Theorem Converse: The perpendicular bisector of the base of an isosceles triangle is also the
+angle bisector of the vertex angle. So for isosceles4DEF , if EG⊥ DF and DG∼= GF , then 6 DEG∼= 6 FEG.
+221
+4.10. Isosceles Triangles www.ck12.org
+Example A
+Which two angles are congruent?
+This is an isosceles triangle. The congruent angles are opposite the congruent sides. From the arrows we see that
+6 S∼= 6 U .
+Example B
+If an isosceles triangle has base angles with measures of 47◦, what is the measure of the vertex angle?
+Draw a picture and set up an equation to solve for the vertex angle, v. Remember that the three angles in a triangle
+always add up to 180◦.
+47◦+47◦+ v = 180◦
+v = 180◦−47◦−47◦
+v = 86◦
+Example C
+If an isosceles triangle has a vertex angle with a measure of 116◦, what is the measure of each base angle?
+222
+www.ck12.org Chapter 4. Triangles and Congruence
+Draw a picture and set up and equation to solve for the base angles, b.
+116◦+b+b = 180◦
+2b = 64◦
+b = 32◦
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136764
+CK-12 Isosceles Triangles
+->
+Guided Practice
+1. Find the value of xand the measure of each angle.
+2. Find the measure of x.
+3. True or false: Base angles of an isosceles triangle can be right angles.
+Answers:
+1. The two angles are equal, so set them equal to each other and solve for x.
+(4x+12)◦ = (5x−3)◦
+15 = x
+Substitute x = 15; the base angles are [4(15)+12]◦, or 72◦. The vertex angle is 180◦−72◦−72◦ = 36◦.
+2. The two sides are equal, so set them equal to each other and solve for x.
+223
+4.10. Isosceles Triangles www.ck12.org
+2x−9 = x+5
+x = 14
+3. This statement is false. Because the base angles of an isosceles triangle are congruent, if one base angle is a right
+angle then both base angles must be right angles. It is impossible to have a triangle with two right (90◦) angles. The
+Triangle Sum Theorem states that the sum of the three angles in a triangle is 180◦. If two of the angles in a triangle
+are right angles, then the third angle must be 0◦ and the shape is no longer a triangle.
+Explore More
+Find the measures of x and/or y.
+1.
+2.
+3.
+4.
+5.
+Determine if the following statements are true or false.
+6. Base angles of an isosceles triangle are congruent.
+7. Base angles of an isosceles triangle are complementary.
+8. Base angles of an isosceles triangle can be equal to the vertex angle.
+9. Base angles of an isosceles triangle are acute.
+224
+www.ck12.org Chapter 4. Triangles and Congruence
+Fill in the proofs below.
+10. Given: Isosceles 4CIS, with base angles 6 C and 6 SIO is the angle bisector of 6 CISProve: IO is the perpen-
+dicular bisector of CS
+TABLE 4.20:
+Statement Reason
+1. 1. Given
+2. 2. Base Angles Theorem
+3. 6 CIO∼= 6 SIO 3.
+4. 4. Reflexive PoC
+5. 4CIO∼=4SIO 5.
+6. CO∼= OS 6.
+7. 7. CPCTC
+8. 6 IOC and 6 IOS are supplementary 8.
+9. 9. Congruent Supplements Theorem
+10. IO is the perpendicular bisector of CS 10.
+11. Given: Isosceles 4ICS with 6 C and 6 SIO is the perpendicular bisector of CSProve: IO is the angle bisector
+of 6 CIS
+TABLE 4.21:
+Statement Reason
+1. 1.
+2. 6 C ∼= 6 S 2.
+3. CO∼= OS 3.
+4. m6 IOC = m6 IOS = 90◦ 4.
+5. 5.
+6. 6. CPCTC
+7. IO is the angle bisector of 6 CIS 7.
+On the x− y plane, plot the coordinates and determine if the given three points make a scalene or isosceles triangle.
+225
+4.10. Isosceles Triangles www.ck12.org
+12. (-2, 1), (1, -2), (-5, -2)
+13. (-2, 5), (2, 4), (0, -1)
+14. (6, 9), (12, 3), (3, -6)
+15. (-10, -5), (-8, 5), (2, 3)
+16. (-1, 2), (7, 2), (3, 9)
+226
+4.10. Isosceles Triangles www.ck12.org
+
+12. (-2, 1), (1, -2), (-5, -2)
+
+13. (-2, 5), (2, 4), (0, -1)
+
+14. (6, 9), (12, 3), (3, -6)
+
+15. (-10, -5), (-8, 5), (2, 3)
+
+16. (-1, 2), (7, 2), (3, 9)
+
+226
+
+www.ck12.org Chapter 4. Triangles and Congruence
+

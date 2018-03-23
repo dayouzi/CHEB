@@ -1,0 +1,62 @@
+3.5 COMPLEX NUMBERS
+Arithmetic Operations on Complex Numbers ! Square Roots of Negative
+Numbers ! Complex Solutions of Quadratic Equations
+In Section 1.5 we saw that if the discriminant of a quadratic equation is negative, the equa-
+tion has no real solution. For example, the equation
+x 2 # 4 ! 0
+has no real solution. If we try to solve this eq
+x ! $1uation, we get x2 ! "4, so"4
+B1 ut this is impossible, since the square of any real number is positive. [For example,"2 2 2 ! 4, a positive number.] Thus, negative numbers don't have real square roots.
+See the note on Cardano (page 274) for To make it possible to solve all quadratic equations, mathematicians invented an ex-
+an example of how complex numbers panded number system, called the complex number system. First they defined the new
+are used to find real solutions of poly- number
+nomial equations. i ! 1"1
+This means that i 2 ! "1. A complex number is then a number of the form a # bi, where
+a and b are real numbers.
+DEFINITION OF COMPLEX NUMBERS
+A complex number is an expression of the form
+a # bi
+where a and b are real numbers and i2 ! "1. The real part of this complex
+number is a and the imaginary part is b. Two complex numbers are equal if and
+only if their real parts are equal and their imaginary parts are equal.
+Note that both the real and imaginary parts of a complex number are real numbers.
+E X A M P L E  1 | Complex Numbers
+The following are examples of complex numbers.
+3 # 4i Real part 3, imaginary part 4
+1 " 2 13 2 "
+2
+2 i Real part , imaginary part  3
+6i Real part 0, imaginary part 6
+"7 Real part "7, imaginary part 0
+S E C T I O N  3 . 5 | Complex Numbers 265
+of the solutions of equations. In fact, imaginary numbers are useful not only in algebra and
+mathematics, but in the other sciences as well. To give just one example, in electrical theory
+the reactance of a circuit is a quantity whose measure is an imaginary number.
+" Arithmetic Operations on Complex Numbers
+Complex numbers are added, subtracted, multiplied, and divided just as we would any
+number of the form a # b 1c. The only difference that we need to keep in mind is that 
+i 2 ! "1. 
+ 1a # bi 2T1hus, the following calculations are valid.c # di 2 ! ac # 1ad # bc 2 i # bdi 2 Multiply and collect like terms
+ ! a
+ ! 1 c # 1ad # bc 2 i # bd1"1 2ac " bd 2 # 1ad # bc 2 i2 !"1i Combine real and imaginary parts
+We therefore define the sum, difference, and product of complex numbers as follows.
+ADDING, SUBTRACTING, AND MULTIPLYING COMPLEX NUMBERS
+Definition Description
+A1 dditiona # bi 2 # 1c # di 2 ! 1a # c 2 # 1b # d 2 i To add complex numbers, add the real parts and the
+imaginary parts.
+S1 ubtractiona # bi 2 " 1c # di 2 ! 1a " c 2 # 1b " d 2 i To subtract complex numbers, subtract the real parts and
+the imaginary parts.
+M1 ultipla # bi 2ica# 1tionc # di 2 ! 1ac " bd 2 # 1ad # bc 2 i Multiply complex numbers like binomials, using 
+i2 ! "1.
+E X A M P L E  2 Adding, Subtracting, and Multiplying 
+Complex Numbers
+Graphing calculators can perform arith- Express the following in the form a # bi.
+metic operations on complex numbers. (a) 113 # 5i3 # 5i 22 1# 14 " 2i 2 (b)4 " 2i 2 13 # 5i 2 " 14 " 2i 2(c) (d) i 23(3+5i)+(4-2i)
+7+3i
+(3+5i)*(4-2i) S O L U T I O N
+22+14i (a) According to
+1 1
+ the definition, we a
+3 # 5i 2 # 14 " 2i 2dd t! 1he real 3 # 4 2parts# 1 and we add the imaginary parts.5 " 2 2 i ! 7 # 3i
+(b) 13 # 5i 2 " 14 " 2i 2 ! 13 " 4 2 # 35 " 1"2 2 4 i ! "1 # 7i(c) 3 # 5i 2 14 " 2i 2 ! 33 # 4 " 51"2 2 4 # 331"2 2 # 5 # 4 4 i ! 22 # 14i
+(d) i 23 2#1 ! i 2 ! 1i 2 11 1 2 i ! 1"1 2 1 i ! 1"1 2 i ! "i

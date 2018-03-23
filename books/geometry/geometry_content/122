@@ -1,0 +1,271 @@
+11.9 Area and Volume of Similar Solids
+
+Here you'll learn that the ratio of the surface areas of similar solids is equal to the square of their scale factor and
+
+that the ratio of their volumes is equal to the cube of their scale factor.
+
+What if you were given two similar square prisms and told what the scale factor of their sides was? How could you
+
+find the ratio of their surface areas and the ratio of their volumes? After completing this Concept, you'll be able to
+
+use the Surface Area Ratio and the Volume Ratio to solve problems like this.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136781
+
+Similar Solids CK-12
+
+Guidance
+
+Two shapes are similar if all their corresponding angles are congruent and all their corresponding sides are propor-
+
+tional. Two solids are similar if they are the same type of solid and their corresponding radii, heights, base lengths,
+
+widths, etc. are proportional.
+
+Surface Areas of Similar Solids
+
+In two dimensions, when two shapes are similar, the ratio of their areas is the square of the scale factor. This
+
+relationship holds in three dimensions as well. (
+
+Surface Area Ratio: If two solids are similar with a scale factor of ab , then the surface areas are in a ratio of
+
+a)2
+
+b .
+
+Volumes of Similar Solids
+
+Just like surface area, volumes of similar solids have a relationship that is related to the scale factor(.
+
+Volume Ratio: If two solids are similar with a scale factor of ab , then the volumes are in a ratio of
+
+a)3
+
+b .
+
+Summary
+
+TABLE 11.2:
+
+Ratios Units
+
+Scale Factor ab in, ft, cm, m, etc.
+
+655
+
+11.9. Area and Volume of Similar Solids www.ck12.org
+
+TABLE 11.2: (continued)
+
+R( a(a)
+
+tios Units
+
+Ratio of the Surface Areas
+
+a)2b in2, f t2,cm2,m2, etc.Ratio of the Volumes 3b in3, f t3,cm3,m3, etc.
+
+Example A
+
+Are the two rectangular prisms similar? How do you know?
+
+Match up the corresponding heights, widths, and lengths.
+
+small prism 3 4 5
+
+: = =
+
+large prism 4.5 6 7.5
+
+The congruent ratios tell us the two prisms are similar.
+
+Example B
+
+Two similar cylinders are below. If the ratio of the areas is 16:25, what is the height of the taller cylinder?
+
+√
+
+16
+
+First, we need to take the square root of the area ratio to find the scale factor, = 4 . Set up a pro
+
+25 5
+
+portion to find
+
+h.
+
+4 24
+
+=
+
+5 h
+
+4h = 120
+
+h = 30units
+
+656
+11.9. Area and Volume of Similar Solids www.ck12.org
+TABLE 11.2: (continued)
+R( a(a)
+tios Units
+Ratio of the Surface Areas
+a)2b in2, f t2,cm2,m2, etc.Ratio of the Volumes 3b in3, f t3,cm3,m3, etc.
+Example A
+Are the two rectangular prisms similar? How do you know?
+Match up the corresponding heights, widths, and lengths.
+small prism 3 4 5
+: = =
+large prism 4.5 6 7.5
+The congruent ratios tell us the two prisms are similar.
+Example B
+Two similar cylinders are below. If the ratio of the areas is 16:25, what is the height of the taller cylinder?
+√
+16
+First, we need to take the square root of the area ratio to find the scale factor, = 4 . Set up a pro
+25 5
+portion to find
+h.
+4 24
+=
+5 h
+4h = 120
+h = 30units
+656
+www.ck12.org Chapter 11. Surface Area and Volume
+Example C
+Two spheres have radii in a ratio of 3:4. What is the ratio of their volumes?
+If we cube 3 and 4, we will have the ratio of the volumes. 33 : 43 = 27 : 64.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136782
+Similar Solids CK-12
+->
+Guided Practice
+1. Determine if the two triangular pyramids are similar.
+2. Using the cylinders from Example B, if the area of the smaller cylinder is 1536pi cm2, what is the area of the
+larger cylinder?
+3. If the ratio of the volumes of two similar prisms is 125:8, what is the scale factor?
+4. Two similar triangular prisms are below. If the ratio of the volumes is 343:125, find the missing sides in both
+triangles.
+Answers:
+1. Match up the corresponding parts.
+6
+8 =
+3
+4 =
+12
+16 however,
+8
+12 =
+2
+3 .
+These triangle pyramids are not similar.
+657
+11.9. Area and Volume of Similar Solids www.ck12.org
+2. Set up a proportion using the ratio of the areas, 16:25.
+16 1536pi
+=
+25 A
+16A = 38,400pi
+A = 2400pi cm2
+3√. Take the cube root of 125 and 8 to find the scale factor.3 √
+125 : 3 8 = 5 : 2
+4. The scale factor is 7:5, the cube root of 343:125. With the scale factor, we can now set up several proportions.
+7 7 7 x 7 35 7 z
+= = = 72 + x2 = z2 =
+5 y 5 10 5 w 5 v
+y = 5 x = 14 w = 25 72 +142 = z2
+√ √ √7 7 5 √
+z = 245 = 7 5 = → v = 5 5
+5 v
+Explore More
+Determine if each pair of right solids are similar.
+1.
+2.
+3.
+658
+www.ck12.org Chapter 11. Surface Area and Volume
+4.
+5. Are all cubes similar? Why or why not?
+6. Two prisms have a scale factor of 1:4. What is the ratio of their surface areas?
+7. Two pyramids have a scale factor of 2:7. What is the ratio of their volumes?
+8. Two spheres have radii of 5 and 9. What is the ratio of their volumes?
+9. The surface area of two similar cones is in a ratio of 64:121. What is the scale factor?
+10. The volume of two hemispheres is in a ratio of 125:1728. What is the scale factor?
+11. A cone has a volume of 15pi and is similar to another larger cone. If the scale factor is 5:9, what is the volume
+of the larger cone?
+12. The ratio of the volumes of two similar pyramids is 8:27. What is the ratio of their total surface areas?
+13. The ratio of the volumes of two tetrahedrons is 1000:1. The smaller tetrahedron has a side of length 6 cm.
+What is the side length of the larger tetrahedron?
+14. The ratio of the surface areas of two cubes is 64:225. What is the ratio of the volumes?
+Below are two similar square pyramids with a volume ratio of 8:27. The base lengths are equal to the heights. Use
+this to answer questions 15-18.
+15. What is the scale factor?
+16. What is the ratio of the surface areas?
+17. Find h,x and y.
+18. Find the volume of both pyramids.
+Use the hemispheres below to answer questions 19-20.
+19. Are the two hemispheres similar? How do you know?
+20. Find the ratio of the surface areas and volumes.
+21. The ratio of the surface areas of two similar cylinders is 16:81. What is the ratio of the volumes?
+659
+11.9. Area and Volume of Similar Solids www.ck12.org
+Summary
+This chapter presents three-dimensional geometric figures beginning with polyhedrons, regular polyhedrons, and an
+explanation of Euler's Theorem. Three-dimensional figures represented as cross sections and nets are discussed.
+Then the chapter branches out to the formulas for surface area and volume of prisms, cylinders, pyramids, cones,
+spheres and composite solids. The relationship between similar solids and their surface areas and volumes are
+explored.
+660
+11.9. Area and Volume of Similar Solids www.ck12.org
+
+Summary
+
+This chapter presents three-dimensional geometric figures beginning with polyhedrons, regular polyhedrons, and an
+
+explanation of Euler's Theorem. Three-dimensional figures represented as cross sections and nets are discussed.
+
+Then the chapter branches out to the formulas for surface area and volume of prisms, cylinders, pyramids, cones,
+
+spheres and composite solids. The relationship between similar solids and their surface areas and volumes are
+
+explored.
+
+660
+
+www.ck12.org Chapter 12. Rigid Transformations
+
+CHAPTER 12 Rigid Transformations
+
+Chapter Outline
+
+12.1 REFLECTION SYMMETRY
+
+12.2 ROTATION SYMMETRY
+
+12.3 GEOMETRIC TRANSLATIONS
+
+12.4 ROTATIONS
+
+12.5 REFLECTIONS
+
+12.6 COMPOSITION OF TRANSFORMATIONS
+
+12.7 TESSELLATIONS
+
+Introduction
+
+The final chapter of Geometry transforms a figure by moving, flipping, or rotating it. First, we will look at symmetry,
+
+followed by the different transformations.
+
+661

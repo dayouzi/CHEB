@@ -1,0 +1,36 @@
+2.3 GETTING INFORMATION FROM THE GRAPH OF A FUNCTION
+Values of a Function; Domain and Range ! Increasing and Decreasing 
+Functions ! Local Maximum and Minimum Values of a Function
+Many properties of a function are more easily obtained from a graph than from the rule
+that describes the function. We will see in this section how a graph tells us whether the
+values of a function are increasing or decreasing and also where the maximum and mini-
+mum values of a function are.
+! Values of a Function; Domain and Range
+A complete graph of a function contains all the information about a function, because the
+graph tells us which input values correspond to which output values. To analyze the graph
+of a function, we must keep in mind that the height of the graph is the value of the func-
+tion. So we can read off the values of a function from its graph.
+E X A M P L E  1 | Finding the Values of a Function from a Graph
+T (*F) The function T graphed in Figure 1 gives the temperature between noon and 6:00 P.M. at
+40 a certain weather station.
+30 (a) Find T 112, T 132, and T 152.
+20 (b) Which is larger, T 12 2 or T 14 2?
+10 (c) Find the value(s) of x for which T 1x 2 ! 25.
+(d) Find the value(s) of x for which T 1x 2 # 25.
+0 1 2 3 4 5 6 x S O L U T I O N
+F I G U R E  1 Temperature function (a) T(1) is the temperature at 1:00 P.M. It is represented by the height of the graph
+above the x-axis at x ! 1. Thus, T11 2 ! 25. Similarly, T 132 ! 30 and T 152 ! 20.
+(b) Since the graph is higher at x! 2 than at x! 4, it follows that T 12 2 is larger than T 14 2.
+(c) The height of the graph is 25 when x is 1 and when x is 4. In other words, the tem-
+perature is 25 at 1:00 P.M. and 4:00 P.M.
+(d) The graph is higher than 25 for x between 1 and 4. In other words, the temperature
+was 25 or greater between 1:00 P.M. and 4:00 P.M.
+164 C H A P T E R  2 | Functions
+E X A M P L E  2 | Finding the Domain and Range from a Graph
+(a) Use a graphing calculator to draw the graph of f 1x 2 ! 24 $ x2.
+(b) Find the domain and range of f.
+S O L U T I O N
+(a) The graph is shown in Figure 3.
+Range=[0, 2]
+F I G U R E  3 Graph of f 1x 2 ! 2 _2 0 24 $ x2 Domain=[_2, 2]
+(b) From the graph in Figure 3 we see that the domain is 3$2, 2 4 and the range is 30, 2 4.

@@ -1,0 +1,298 @@
+12.5.8 Conservation of Momentum
+
+In the absence of an external force acting on a system, momentum is conserved.
+
+Definition: Conservation of Linear Momentum
+
+The total linear momentum of an isolated system is constant. An isolated system has no
+
+forces acting on it from the outside.
+
+This means that in an isolated system the total momentum before a collision or explosion is
+
+equal to the total momentum after the collision or explosion.
+
+Consider a simple collision of two billiard balls. The balls are rolling on a frictionless surface and
+
+the system is isolated. So, we can apply conservation of momentum. The first ball has a mass
+
+m1 and an initial velocity vi1. The second ball has a mass m2 and moves towards the first ball
+
+with an initial velocity vi2. This situation is shown in Figure 12.14.
+
+vi1 vi2
+
+m1 m2
+
+Figure 12.14: Before the collision.
+
+The total momentum of the system before the collision, pi is:
+
+pi = m1vi1 +m2vi2
+
+After the two balls collide and move away they each have a different momentum. If the first
+
+ball has a final velocity of vf1 and the second ball has a final velocity of vf2 then we have the
+
+situation shown in Figure 12.15.
+
+vf1 vf2
+
+m1 m2
+
+Figure 12.15: After the collision.
+
+The total momentum of the system after the collision, pf is:
+
+pf = m1vf1 +m2vf2
+
+297
+
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+This system of two balls is isolated since there are no external forces acting on the balls. There-
+
+fore, by the principle of conservation of linear momentum, the total momentum before the
+
+collision is equal to the total momentum after the collision. This gives the equation for the
+
+conservation of momentum in a collision of two objects,
+
+pi = pf
+
+m1vi1 +m2vi2 = m1vf1 +m2vf2
+
+m1 : mass of object 1 (kg)
+
+m2 : mass of object 2 (kg)
+
+vi1 : initial velocity of object 1 (m·s−1+ direction)
+
+vi2 : initial velocity of object 2 (m·s−1+ direction)
+
+vf1 : final velocity of object 1 (m·s−1+ direction)
+
+vf2 : final velocity of object 2 (m·s−1+ direction)
+
+This equation is always true - momentum is always conserved in collisions.
+
+Worked Example 92: Conservation of Momentum 1
+
+Question: A toy car of mass 1 kg moves westwards with a speed of 2 m·s−1. It
+
+collides head-on with a toy train. The train has a mass of 1,5 kg and is moving
+
+at a speed of 1,5 m·s−1eastwards. If the car rebounds at 2,05 m·s−1, calculate the
+
+velocity of the train.
+
+Answer
+
+Step 1 : Draw rough sketch of the situation
+
+BEFORE vi1 = 1,5 m·s−1 vi2 = 2 m·s−1
+
+1,5 kg 1 kg
+
+AFTER vf1 = ? m·s−1 vf2 = 2,05 m·s−1
+
+Step 2 : Choose a frame of reference
+
+We will choose to the east as positive.
+
+Step 3 : Apply the Law of Conservation of momentum
+
+pi = pf
+
+m1vi1 +m2vi2 = m1vf1 +m2vf2
+
+(1,5)(+1,5) + (2)(−2) = (1,5)(vf1) + (2)(2,05)
+
+2,25− 4− 4,1 = 1,5 vf1
+
+5,85 = 1,5 vf1
+
+vf1 = 3,9m · s−1eastwards
+
+298
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+This system of two balls is isolated since there are no external forces acting on the balls. There-
+fore, by the principle of conservation of linear momentum, the total momentum before the
+collision is equal to the total momentum after the collision. This gives the equation for the
+conservation of momentum in a collision of two objects,
+pi = pf
+m1vi1 +m2vi2 = m1vf1 +m2vf2
+m1 : mass of object 1 (kg)
+m2 : mass of object 2 (kg)
+vi1 : initial velocity of object 1 (m·s−1+ direction)
+vi2 : initial velocity of object 2 (m·s−1+ direction)
+vf1 : final velocity of object 1 (m·s−1+ direction)
+vf2 : final velocity of object 2 (m·s−1+ direction)
+This equation is always true - momentum is always conserved in collisions.
+Worked Example 92: Conservation of Momentum 1
+Question: A toy car of mass 1 kg moves westwards with a speed of 2 m·s−1. It
+collides head-on with a toy train. The train has a mass of 1,5 kg and is moving
+at a speed of 1,5 m·s−1eastwards. If the car rebounds at 2,05 m·s−1, calculate the
+velocity of the train.
+Answer
+Step 1 : Draw rough sketch of the situation
+BEFORE vi1 = 1,5 m·s−1 vi2 = 2 m·s−1
+1,5 kg 1 kg
+AFTER vf1 = ? m·s−1 vf2 = 2,05 m·s−1
+Step 2 : Choose a frame of reference
+We will choose to the east as positive.
+Step 3 : Apply the Law of Conservation of momentum
+pi = pf
+m1vi1 +m2vi2 = m1vf1 +m2vf2
+(1,5)(+1,5) + (2)(−2) = (1,5)(vf1) + (2)(2,05)
+2,25− 4− 4,1 = 1,5 vf1
+5,85 = 1,5 vf1
+vf1 = 3,9m · s−1eastwards
+298
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.5
+Worked Example 93: Conservation of Momentum 2
+Question: A helicopter flies at a speed of 275 m·s−1. The pilot fires a missile
+forward out of a gun barrel at a speed of 700 m·s−1. The respective masses of the
+helicopter and the missile are 5000 kg and 50 kg. Calculate the new speed of the
+helicopter immmediately after the missile had been fired.
+Answer
+Step 1 : Draw rough sketch of the situation
+helicopter
+AFTER BEFORE
+vf1 = ? m·s−1 vi1 = 275 m·s−1
+vf2 = 700 m·s−1 5000 kg vi2 = 275 m·s−1
+missile
+50 kg
+Figure 12.16: helicopter and missile
+Step 2 : Analyse the question and list what is given
+m1 = 5000 kg
+m2 = 50 kg
+vi1 = vi2 = 275 m·s−1
+vf1 = ?
+vf2 = 700 m·s−1
+Step 3 : Apply the Law of Conservation of momentum
+The helicopter and missile are connected initially and move at the same velocity. We
+will therefore combine their masses and change the momentum equation as follows:
+pi = pf
+(m1 +m2)vi = m1vf1 +m2vf2
+(5000 + 50)(275) = (5000)(vf1) + (50)(700)
+1388750− 35000 = (5000)(vf1)
+vf1 = 270,75m · s−1
+Note that speed is asked and not velocity, therefore no direction is included in the
+answer.
+Worked Example 94: Conservation of Momentum 3
+Question: A bullet of mass 50 g travelling horizontally at 500 m·s−1strikes a station-
+ary wooden block of mass 2 kg resting on a smooth horizontal surface. The bullet
+goes through the block and comes out on the other side at 200 m·s−1. Calculate
+the speed of the block after the bullet has come out the other side.
+Answer
+Step 1 : Draw rough sketch of the situation
+299
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.5
+
+Worked Example 93: Conservation of Momentum 2
+
+Question: A helicopter flies at a speed of 275 m·s−1. The pilot fires a missile
+
+forward out of a gun barrel at a speed of 700 m·s−1. The respective masses of the
+
+helicopter and the missile are 5000 kg and 50 kg. Calculate the new speed of the
+
+helicopter immmediately after the missile had been fired.
+
+Answer
+
+Step 1 : Draw rough sketch of the situation
+
+helicopter
+
+AFTER BEFORE
+
+vf1 = ? m·s−1 vi1 = 275 m·s−1
+
+vf2 = 700 m·s−1 5000 kg vi2 = 275 m·s−1
+
+missile
+
+50 kg
+
+Figure 12.16: helicopter and missile
+
+Step 2 : Analyse the question and list what is given
+
+m1 = 5000 kg
+
+m2 = 50 kg
+
+vi1 = vi2 = 275 m·s−1
+
+vf1 = ?
+
+vf2 = 700 m·s−1
+
+Step 3 : Apply the Law of Conservation of momentum
+
+The helicopter and missile are connected initially and move at the same velocity. We
+
+will therefore combine their masses and change the momentum equation as follows:
+
+pi = pf
+
+(m1 +m2)vi = m1vf1 +m2vf2
+
+(5000 + 50)(275) = (5000)(vf1) + (50)(700)
+
+1388750− 35000 = (5000)(vf1)
+
+vf1 = 270,75m · s−1
+
+Note that speed is asked and not velocity, therefore no direction is included in the
+
+answer.
+
+Worked Example 94: Conservation of Momentum 3
+
+Question: A bullet of mass 50 g travelling horizontally at 500 m·s−1strikes a station-
+
+ary wooden block of mass 2 kg resting on a smooth horizontal surface. The bullet
+
+goes through the block and comes out on the other side at 200 m·s−1. Calculate
+
+the speed of the block after the bullet has come out the other side.
+
+Answer
+
+Step 1 : Draw rough sketch of the situation
+
+299
+
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+BEFORE AFTER
+
+vi2 = 0 m·s−1(stationary)
+
+50 2 kgg = 0,05 kg
+
+vi1 = 500 m·s−1
+
+vf1 = 200 m·s−1
+
+vf2 = ? m·s−1
+
+Step 2 : Choose a frame of reference
+
+We will choose to the right as positive.
+
+Step 3 : Apply the Law of Conservation of momentum
+
+pi = pf
+
+m1vi1 +m2vi2 = m1vf1 +m2vf2
+
+(0,05)(+500) + (2)(0) = (0,05)(+200) + (2)(vf2)
+
+25 + 0− 10 = 2 vf2
+
+vf2 = 7,5m · s−1in the same direction as the bullet
+

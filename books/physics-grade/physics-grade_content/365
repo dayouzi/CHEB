@@ -1,0 +1,249 @@
+22.2.1 Hooke's Law
+
+Deformation (change of shape) of a solid is caused by a force that can either be compressive or
+
+tensile when applied in one direction (plane). Compressive forces try to compress the object
+
+(make it smaller or more compact) while tensile forces try to tear it apart. We can study these
+
+effects by looking at what happens when you compress or expand a spring.
+
+Hooke's Law describes the relationship between the force applied to a spring and its extension.
+
+Historical Note: Hooke's Law
+
+Hooke's law is named after the seventeenth century physicist Robert Hooke who discovered
+
+it in 1660 (18 July 1635 - 3 March 1703).
+
+Definition: Hooke's Law
+
+In an elastic spring, the extension varies linearly with the force applied.
+
+F = −kx where F is the force in newtons (N), k is the spring constant in N ·m−1 and x
+
+is the extension in metres (m).
+
+503
+
+22.2 CHAPTER 22. MECHANICAL PROPERTIES OF MATTER - GRADE 12
+
+4 b
+
+3 b
+
+2 b
+
+1 b
+
+0
+
+0 0.1 0.2 0.3 0.4
+
+Extension (m)
+
+Figure 22.1: Hooke's Law - the relationship between extension of a spring and the force applied
+
+to it.
+
+Activity :: Experiment : Hooke's Law
+
+Aim:
+
+Verify Hooke's Law.
+
+Apparatus:
+
+• weights
+
+• spring
+
+• ruler
+
+Method:
+
+1. Set up a spring vertically in such a way that you are able to hang weights
+
+from it.
+
+2. Measure the extension of the spring for a range of different weights.
+
+3. Draw a table of force (weight) in newtons and corresponding extension.
+
+4. Draw a graph of force versus extension for your experiment.
+
+Conclusions:
+
+1. What do you observe about the relationship between the applied force and
+
+the extension?
+
+2. Determine the gradient of the graph.
+
+3. Hence, calculate the spring constant for your spring.
+
+Worked Example 146: Hooke's Law I
+
+Question: A spring is extended by 7 cm by a force of 56 N.
+
+Calculate the spring constant for this spring.
+
+Answer
+
+F = −kx
+
+56 = −k.0,07
+
+504
+
+Force (N)
+22.2 CHAPTER 22. MECHANICAL PROPERTIES OF MATTER - GRADE 12
+4 b
+3 b
+2 b
+1 b
+0
+0 0.1 0.2 0.3 0.4
+Extension (m)
+Figure 22.1: Hooke's Law - the relationship between extension of a spring and the force applied
+to it.
+Activity :: Experiment : Hooke's Law
+Aim:
+Verify Hooke's Law.
+Apparatus:
+• weights
+• spring
+• ruler
+Method:
+1. Set up a spring vertically in such a way that you are able to hang weights
+from it.
+2. Measure the extension of the spring for a range of different weights.
+3. Draw a table of force (weight) in newtons and corresponding extension.
+4. Draw a graph of force versus extension for your experiment.
+Conclusions:
+1. What do you observe about the relationship between the applied force and
+the extension?
+2. Determine the gradient of the graph.
+3. Hence, calculate the spring constant for your spring.
+Worked Example 146: Hooke's Law I
+Question: A spring is extended by 7 cm by a force of 56 N.
+Calculate the spring constant for this spring.
+Answer
+F = −kx
+56 = −k.0,07
+504
+Force (N)
+CHAPTER 22. MECHANICAL PROPERTIES OF MATTER - GRADE 12 22.2
+−56
+k =
+0,07
+= −800 N.m−1
+Worked Example 147: Hooke's Law II
+Question: A spring of length 20cm stretches to 24cm when a load of 0,6N is
+applied to it.
+1. Calculate the spring constant for the spring.
+2. Determine the extension of the spring if a load of 0,5N is applied to it.
+Answer
+1.
+x = 24 cm− 20 cm
+= 4 cm
+= 0,04 m
+F = −kx
+0,6 = −k. 0,04
+k = −15 N.m−1
+2.
+F = −kx
+F
+x = −k
+0,5
+=
+15
+= 0,033 m
+= 3,3 cm
+Worked Example 148: Hooke's Law III
+Question: A spring has a spring constant of −400 N.m−1. By how much will it
+stretch if a load of 50 N is applied to it?
+Answer
+F = −kx
+50 = −(−400)x
+505
+CHAPTER 22. MECHANICAL PROPERTIES OF MATTER - GRADE 12 22.2
+
+−56
+
+k =
+
+0,07
+
+= −800 N.m−1
+
+Worked Example 147: Hooke's Law II
+
+Question: A spring of length 20cm stretches to 24cm when a load of 0,6N is
+
+applied to it.
+
+1. Calculate the spring constant for the spring.
+
+2. Determine the extension of the spring if a load of 0,5N is applied to it.
+
+Answer
+
+1.
+
+x = 24 cm− 20 cm
+
+= 4 cm
+
+= 0,04 m
+
+F = −kx
+
+0,6 = −k. 0,04
+
+k = −15 N.m−1
+
+2.
+
+F = −kx
+
+F
+
+x = −k
+
+0,5
+
+=
+
+15
+
+= 0,033 m
+
+= 3,3 cm
+
+Worked Example 148: Hooke's Law III
+
+Question: A spring has a spring constant of −400 N.m−1. By how much will it
+
+stretch if a load of 50 N is applied to it?
+
+Answer
+
+F = −kx
+
+50 = −(−400)x
+
+505
+
+22.2 CHAPTER 22. MECHANICAL PROPERTIES OF MATTER - GRADE 12
+
+50
+
+x =
+
+400
+
+= 0,125 m
+
+= 12,5 cm
+

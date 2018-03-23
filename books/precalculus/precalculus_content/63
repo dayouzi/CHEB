@@ -1,0 +1,101 @@
+9.3 THREE-DIMENSIONAL COORDINATE GEOMETRY
+The Three-Dimensional Rectangular Coordinate System ! Distance Formula
+in Three Dimensions ! The Equation of a Sphere 
+To locate a point in a plane, two numbers are necessary. We know that any point in the
+Cartesian plane can be represented as an ordered pair 1a, b2 of real numbers, where a is
+the x-coordinate and b is the y-coordinate. In three-dimensional space, a third dimension
+is added, so any point in space is represented by an ordered triple 1a, b, c2 of real 
+numbers. 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+598 C H A P T E R  9 | Vectors in Two and Three Dimensions
+! The Three-Dimensional Rectangular Coordinate System
+z To represent points in space, we first choose a fixed point O (the origin) and three directedlines through O that are perpendicular to each other, called the coordinate axes and labeled
+the x-axis, y-axis, and z-axis. Usually we think of the x- and y-axes as being horizontal and
+the z-axis as being vertical, and we draw the orientation of the axes as in Figure 1. 
+The three coordinate axes determine the three coordinate planes illustrated in Figure
+O 2(a). The xy-plane is the plane that contains the x- and y-axes; the yz-plane is the plane
+that contains the y- and z-axes; the xz-plane is the plane that contains the x- and z-axes.
+y These three coordinate planes divide space into eight parts, called octants.
+x
+z
+F I G U R E  1 Coordinate axes z
+ne yz-plane
+xz
+pla right w
+- all
+left 
+wal
+l
+0 0
+y
+xy-p
+x lane y
+x floor
+F I G U R E  2 (a) Coordinate planes (b) Coordinate "walls"
+Because people often have difficulty visualizing diagrams of three-dimensional figures, you
+may find it helpful to do the following (see Figure 2(b)). Look at any bottom corner of a room
+and call the corner the origin. The wall on your left is in the xz-plane, the wall on your right is
+z in the yz-plane, and the floor is in the xy-plane. The x-axis runs along the intersection of thefloor and the left wall; the y-axis runs along the intersection of the floor and the right wall. The
+P(a, b, c) z1-axis rua, b, c 2 ns up from the floor toward the ceiling along the intersection of the two walls.Now any point P in space can be located by a unique ordered triple of real numbers, as shown in Figure 3. The first number a is the x-coordinate of P, the second
+c
+a O number b is the y-coordinate of P, and the third number c is the z-coordinate of P. The set
+of all ordered triples 5 1x, y, z 2  0  x, y, z ! "6 forms the three-dimensional rectangular co-
+x y ordinate system.
+b
+F I G U R E  3 Point P1a, b, c 2 E X A M P L E  1 Plotting Points in Three Dimensions 
+Plot the points 12, 4, 7 2 and 1%4, 3, %5 2 .
+S O L U T I O N The points are plotted in Figure 4. 
+z z
+2 (2, 4, 7) 3
+_4
+0
+7 _5x y
+0 (_4, 3, _5)
+x 4 y
+F I G U R E  4
+598 C H A P T E R  9 | Vectors in Two and Three Dimensions
+! The Three-Dimensional Rectangular Coordinate System
+z To represent points in space, we first choose a fixed point O (the origin) and three directedlines through O that are perpendicular to each other, called the coordinate axes and labeled
+the x-axis, y-axis, and z-axis. Usually we think of the x- and y-axes as being horizontal and
+the z-axis as being vertical, and we draw the orientation of the axes as in Figure 1. 
+The three coordinate axes determine the three coordinate planes illustrated in Figure
+O 2(a). The xy-plane is the plane that contains the x- and y-axes; the yz-plane is the plane
+that contains the y- and z-axes; the xz-plane is the plane that contains the x- and z-axes.
+y These three coordinate planes divide space into eight parts, called octants.
+x
+z
+F I G U R E  1 Coordinate axes z
+ne yz-plane
+xz
+pla right w
+- all
+left 
+wal
+l
+0 0
+y
+xy-p
+x lane y
+x floor
+F I G U R E  2 (a) Coordinate planes (b) Coordinate "walls"
+Because people often have difficulty visualizing diagrams of three-dimensional figures, you
+may find it helpful to do the following (see Figure 2(b)). Look at any bottom corner of a room
+and call the corner the origin. The wall on your left is in the xz-plane, the wall on your right is
+z in the yz-plane, and the floor is in the xy-plane. The x-axis runs along the intersection of thefloor and the left wall; the y-axis runs along the intersection of the floor and the right wall. The
+P(a, b, c) z1-axis rua, b, c 2 ns up from the floor toward the ceiling along the intersection of the two walls.Now any point P in space can be located by a unique ordered triple of real numbers, as shown in Figure 3. The first number a is the x-coordinate of P, the second
+c
+a O number b is the y-coordinate of P, and the third number c is the z-coordinate of P. The set
+of all ordered triples 5 1x, y, z 2  0  x, y, z ! "6 forms the three-dimensional rectangular co-
+x y ordinate system.
+b
+F I G U R E  3 Point P1a, b, c 2 E X A M P L E  1 Plotting Points in Three Dimensions 
+Plot the points 12, 4, 7 2 and 1%4, 3, %5 2 .
+S O L U T I O N The points are plotted in Figure 4. 
+z z
+2 (2, 4, 7) 3
+_4
+0
+7 _5x y
+0 (_4, 3, _5)
+x 4 y
+F I G U R E  4

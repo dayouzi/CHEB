@@ -1,0 +1,310 @@
+8.10 Inverse Trigonometric Ratios
+
+Here you'll learn how to apply the three inverse trigonometric ratios, the inverse sine, the inverse cosine, and the
+
+inverse tangent, to find angle measures.
+
+What if you were told the tangent of 6 Z is 0.6494? How could you find the measure of 6 Z? After completing this
+
+Concept, you'll be able to find angle measures by using the inverse trigonometric ratios.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136660
+
+CK-12 Foundation: The Inverse Trigonometric Ratios
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1368
+
+James Sousa: Introduction to Inverse Trigonometric Functions
+
+Guidance
+
+In mathematics, the word inverse means "undo." For example, addition and subtraction are inverses of each other
+
+because one undoes the other. When we use the inverse trigonometric ratios, we can find acute angle measures as
+
+long as we are given two sides.
+
+Invers(e Tangent: Labeled tan−1, the "-1" means inverse.
+
+tan− b
+
+) ( )
+
+1 6
+
+a = m B and tan
+
+−1 a
+
+b = m6 A.
+
+457
+
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+
+8.10 Inverse Trigonometric Ratios
+
+Here you'll learn how to apply the three inverse trigonometric ratios, the inverse sine, the inverse cosine, and the
+
+inverse tangent, to find angle measures.
+
+What if you were told the tangent of 6 Z is 0.6494? How could you find the measure of 6 Z? After completing this
+
+Concept, you'll be able to find angle measures by using the inverse trigonometric ratios.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136660
+
+CK-12 Foundation: The Inverse Trigonometric Ratios
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1368
+
+James Sousa: Introduction to Inverse Trigonometric Functions
+
+Guidance
+
+In mathematics, the word inverse means "undo." For example, addition and subtraction are inverses of each other
+
+because one undoes the other. When we use the inverse trigonometric ratios, we can find acute angle measures as
+
+long as we are given two sides.
+
+Invers(e Tangent: Labeled tan−1, the "-1" means inverse.
+
+tan− b
+
+) ( )
+
+1 6
+
+a = m B and tan
+
+−1 a
+
+b = m6 A.
+
+457
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+8.10 Inverse Trigonometric Ratios
+Here you'll learn how to apply the three inverse trigonometric ratios, the inverse sine, the inverse cosine, and the
+inverse tangent, to find angle measures.
+What if you were told the tangent of 6 Z is 0.6494? How could you find the measure of 6 Z? After completing this
+Concept, you'll be able to find angle measures by using the inverse trigonometric ratios.
+Watch This
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136660
+CK-12 Foundation: The Inverse Trigonometric Ratios
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1368
+James Sousa: Introduction to Inverse Trigonometric Functions
+Guidance
+In mathematics, the word inverse means "undo." For example, addition and subtraction are inverses of each other
+because one undoes the other. When we use the inverse trigonometric ratios, we can find acute angle measures as
+long as we are given two sides.
+Invers(e Tangent: Labeled tan−1, the "-1" means inverse.
+tan− b
+) ( )
+1 6
+a = m B and tan
+−1 a
+b = m6 A.
+457
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+b) m 6 A = cos−1 0.85≈ 31.8◦
+c) m 6 A = tan−1 0.34≈ 18.8◦
+Example C
+Solve the right triangle.
+To solve this right triangle, we need to find AB,m6 C and m6 B. Use only the values you are given.
+AB: Use the Pythagorean Theorem.
+242 +AB2 = 302
+576+AB2 = 900
+AB2 = 3√24
+AB = 324 = 18
+m6 B: Use the inverse sine ratio.
+( ) 24 4sinB = =30 5
+4
+sin−1 ≈ 53.1◦ = m 6 B
+5
+m6 C: Use the inverse cosine ratio.
+( )
+24 4
+cosC = = −→ 4cos−1 ≈ 36.9◦ = m6 C
+30 5 5
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136661
+CK-12 Foundation: The Inverse Trigonometric Ratios
+->
+459
+8.10. Inverse Trigonometric Ratios www.ck12.org
+Guided Practice
+1. Solve the right triangle.
+2. Solve the right triangle.
+3. When would you use sin and when would you use sin−1?
+Answers:
+1. To solve this right triangle, we need to find AB,BC and m 6 A.
+AB: Use the sine ratio.
+2
+sin62◦
+5
+=
+AB
+25
+AB =
+sin62◦
+AB≈ 28.31
+BC: Use the tangent ratio.
+25
+tan62◦ =
+BC
+25
+BC =
+tan62◦
+BC ≈ 13.30
+m6 A: Use the Triangle Sum Theorem
+62◦+90◦+m6 A = 180◦
+m6 A = 28◦
+2. The two acute angles are congruent, making them both 45◦. This is a 45-45-90 triangle. You can use the
+trigonometric ratios or the special right triangle ratios.
+460
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+Trigonometric Ratios
+1
+tan45◦
+5 15
+= sin45◦ =
+BC AC
+15 15
+BC =
+tan 5◦
+= 15 AC = ≈ 21.21
+4 sin45◦
+45-45-90 Triangle Ratios
+√
+BC = AB = 15,AC = 15 2≈ 21.21
+3. You would use sin when you are given an angle and you are solving for a missing side. You would use sin−1
+when you are given sides and you are solving for a missing angle.
+Explore More
+Use your calculator to find m 6 A to the nearest tenth of a degree.
+1.
+2.
+3.
+4.
+5.
+461
+8.10. Inverse Trigonometric Ratios www.ck12.org
+6.
+Let 6 A be an acute angle in a right triangle. Find m6 A to the nearest tenth of a degree.
+7. sinA = 0.5684
+8. cosA = 0.1234
+9. tanA = 2.78
+10. cos−1 0.9845
+11. tan−1 15.93
+12. sin−1 0.7851
+Solving the following right triangles. Find all missing sides and angles. Round any decimal answers to the nearest
+tenth.
+13.
+14.
+15.
+16.
+17.
+462
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+18.
+19.
+20.
+21.
+Summary
+This chapter begins with a review of how to simplify radicals, an important prerequisite technique for working with
+the Pythagorean Theorem. The Pythagorean Theorem, its converse, and Pythagorean triples are discussed in detail.
+Applications of the Pythagorean Theorem are explored including finding missing lengths in right triangles. The
+chapter then branches out into applications of special right triangles, namely 45-45-90 and 30-60-90. The connection
+between trigonometry and geometry is explored through trigonometric ratios, trigonometry word problems and
+inverse trigonometric ratios at the end of this chapter.
+463
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+
+18.
+
+19.
+
+20.
+
+21.
+
+Summary
+
+This chapter begins with a review of how to simplify radicals, an important prerequisite technique for working with
+
+the Pythagorean Theorem. The Pythagorean Theorem, its converse, and Pythagorean triples are discussed in detail.
+
+Applications of the Pythagorean Theorem are explored including finding missing lengths in right triangles. The
+
+chapter then branches out into applications of special right triangles, namely 45-45-90 and 30-60-90. The connection
+
+between trigonometry and geometry is explored through trigonometric ratios, trigonometry word problems and
+
+inverse trigonometric ratios at the end of this chapter.
+
+463
+
+www.ck12.org
+
+CHAPTER 9 Circles
+
+Chapter Outline
+
+9.1 PARTS OF CIRCLES
+
+9.2 TANGENT LINES
+
+9.3 ARCS IN CIRCLES
+
+9.4 CHORDS IN CIRCLES
+
+9.5 INSCRIBED ANGLES IN CIRCLES
+
+9.6 INSCRIBED QUADRILATERALS IN CIRCLES
+
+9.7 ANGLES ON AND INSIDE A CIRCLE
+
+9.8 ANGLES OUTSIDE A CIRCLE
+
+9.9 SEGMENTS FROM CHORDS
+
+9.10 SEGMENTS FROM SECANTS
+
+9.11 SEGMENTS FROM SECANTS AND TANGENTS
+
+9.12 CIRCLES IN THE COORDINATE PLANE
+
+Introduction
+
+First, we will define all the parts of circles and explore the properties of tangent lines, arcs, inscribed angles, and
+
+chords. Next, we will learn about angles and segments that are formed by chords, tangents and secants. Lastly, we
+
+will place circles in the coordinate plane and find the equation of and graph circles.
+
+464

@@ -1,0 +1,314 @@
+25.2 Colour and Light
+
+Our eyes are sensitive to visible light over a range of wavelengths from 390 nm to 780 nm (1
+
+nm = 1× 10−9 m). The different colours of light we see are related to specific frequencies
+
+(and wavelengths) of visible light. The wavelengths and frequencies are listed in table 25.1.
+
+Colour Wavelength range (nm) Frequency range (Hz)
+
+violet 390 - 455 769 - 659 ×1012
+
+blue 455 - 492 659 - 610 ×1012
+
+green 492 - 577 610 - 520 ×1012
+
+yellow 577 - 597 520 - 503 ×1012
+
+orange 597 - 622 503 - 482 ×1012
+
+red 622 - 780 482 - 385 ×1012
+
+Table 25.1: Colours, wavelengths and frequencies of light in the visible spectrum.
+
+You can see from table 25.1 that violet light has the shortest wavelengths and highest
+
+frequencies while red light has the longest wavelengths and lowest frequencies.
+
+541
+
+25.2 CHAPTER 25. COLOUR - GRADE 12
+
+Worked Example 159: Calculating the frequency of light given the
+
+wavelength
+
+Question: A streetlight emits light with a wavelength of 520 nm.
+
+1. What colour is the light? (Use table 25.1 to determine the colour)
+
+2. What is the frequency of the light?
+
+Answer
+
+Step 1 : What is being asked and what information are we given?
+
+We need to determine the colour and frequency of light with a wavelength of
+
+λ = 520 nm = 520× 10−9 m.
+
+Step 2 : Compare the wavelength of the light to those given in table 25.1
+
+We see from table 25.1 that light with wavelengths between 492 - 577 nm is green.
+
+520 nm falls into this range, therefore the colour of the light is green.
+
+Step 3 : Next we need to calculate the frequency of the light
+
+We know that
+
+c = f × λ
+
+We know c and we are given that λ = 520× 10−9 m. So we can substitute in these
+
+values and solve for the frequency f . (NOTE: Don't forget to always change units
+
+into S.I. units! 1 nm = 1× 10−9 m.)
+
+c
+
+f =
+
+λ
+
+3× 108
+
+=
+
+520× 10−9
+
+= 577× 1012 Hz
+
+The frequency of the green light is 577× 1012 Hz
+
+Worked Example 160: Calculating the wavelength of light given the
+
+frequency
+
+Question: A streetlight also emits light with a frequency of 490×1012 Hz.
+
+1. What colour is the light? (Use table 25.1 to determine the colour)
+
+2. What is the wavelength of the light?
+
+Answer
+
+Step 1 : What is being asked and what information are we given?
+
+We need to find the colour and wavelength of light which has a frequency of
+
+490×1012 Hz and which is emitted by the streetlight.
+
+Step 2 : Compare the wavelength of the light to those given in table 25.1
+
+We can see from table 25.1 that orange light has frequencies between 503 -
+
+482×1012 Hz. The light from the streetlight has f = 490× 1012 Hz which fits into
+
+this range. Therefore the light must be orange in colour.
+
+Step 3 : Next we need to calculate the wavelength of the light
+
+We know that
+
+c = f × λ
+
+We know c = 3× 108 m.s−1 and we are given that f = 490× 1012 Hz. So we can
+
+542
+25.2 CHAPTER 25. COLOUR - GRADE 12
+Worked Example 159: Calculating the frequency of light given the
+wavelength
+Question: A streetlight emits light with a wavelength of 520 nm.
+1. What colour is the light? (Use table 25.1 to determine the colour)
+2. What is the frequency of the light?
+Answer
+Step 1 : What is being asked and what information are we given?
+We need to determine the colour and frequency of light with a wavelength of
+λ = 520 nm = 520× 10−9 m.
+Step 2 : Compare the wavelength of the light to those given in table 25.1
+We see from table 25.1 that light with wavelengths between 492 - 577 nm is green.
+520 nm falls into this range, therefore the colour of the light is green.
+Step 3 : Next we need to calculate the frequency of the light
+We know that
+c = f × λ
+We know c and we are given that λ = 520× 10−9 m. So we can substitute in these
+values and solve for the frequency f . (NOTE: Don't forget to always change units
+into S.I. units! 1 nm = 1× 10−9 m.)
+c
+f =
+λ
+3× 108
+=
+520× 10−9
+= 577× 1012 Hz
+The frequency of the green light is 577× 1012 Hz
+Worked Example 160: Calculating the wavelength of light given the
+frequency
+Question: A streetlight also emits light with a frequency of 490×1012 Hz.
+1. What colour is the light? (Use table 25.1 to determine the colour)
+2. What is the wavelength of the light?
+Answer
+Step 1 : What is being asked and what information are we given?
+We need to find the colour and wavelength of light which has a frequency of
+490×1012 Hz and which is emitted by the streetlight.
+Step 2 : Compare the wavelength of the light to those given in table 25.1
+We can see from table 25.1 that orange light has frequencies between 503 -
+482×1012 Hz. The light from the streetlight has f = 490× 1012 Hz which fits into
+this range. Therefore the light must be orange in colour.
+Step 3 : Next we need to calculate the wavelength of the light
+We know that
+c = f × λ
+We know c = 3× 108 m.s−1 and we are given that f = 490× 1012 Hz. So we can
+542
+CHAPTER 25. COLOUR - GRADE 12 25.2
+substitute in these values and solve for the wavelength λ.
+c
+λ =
+f
+3× 108
+=
+490× 1012
+= 6.122× 10−7 m
+= 612× 10−9 m
+= 612 nm
+Therefore the orange light has a wavelength of 612 nm.
+Worked Example 161: Frequency of Green
+Question: The wavelength of green light ranges between 500 nm an d 565 nm.
+Calculate the range of frequencies that correspond to this range of wavelengths.
+Answer
+Step 1 : Determine how to approach the problem
+Use
+c = f × λ
+to determine f .
+Step 2 : Calculate frequency corresponding to upper limit of wavelength
+range
+c = f × λ
+c
+f =
+λ
+3× 108 m · s−1
+=
+565× 10−9 m
+= 5,31× 1014 Hz
+Step 3 : Calculate frequency corresponding to lower limit of wavelength
+range
+c = f × λ
+c
+f =
+λ
+3× 108 m · s−1
+=
+500× 10−9 m
+= 6,00× 1014 Hz
+Step 4 : Write final answer
+The range of frequencies of green light is 5,31× 1014 Hz to 6,00× 1014 Hz.
+Exercise: Calculating wavelengths and frequencies of light
+1. Calculate the frequency of light which has a wavelength of 400 nm.
+(Remember to use S.I. units)
+543
+CHAPTER 25. COLOUR - GRADE 12 25.2
+
+substitute in these values and solve for the wavelength λ.
+
+c
+
+λ =
+
+f
+
+3× 108
+
+=
+
+490× 1012
+
+= 6.122× 10−7 m
+
+= 612× 10−9 m
+
+= 612 nm
+
+Therefore the orange light has a wavelength of 612 nm.
+
+Worked Example 161: Frequency of Green
+
+Question: The wavelength of green light ranges between 500 nm an d 565 nm.
+
+Calculate the range of frequencies that correspond to this range of wavelengths.
+
+Answer
+
+Step 1 : Determine how to approach the problem
+
+Use
+
+c = f × λ
+
+to determine f .
+
+Step 2 : Calculate frequency corresponding to upper limit of wavelength
+
+range
+
+c = f × λ
+
+c
+
+f =
+
+λ
+
+3× 108 m · s−1
+
+=
+
+565× 10−9 m
+
+= 5,31× 1014 Hz
+
+Step 3 : Calculate frequency corresponding to lower limit of wavelength
+
+range
+
+c = f × λ
+
+c
+
+f =
+
+λ
+
+3× 108 m · s−1
+
+=
+
+500× 10−9 m
+
+= 6,00× 1014 Hz
+
+Step 4 : Write final answer
+
+The range of frequencies of green light is 5,31× 1014 Hz to 6,00× 1014 Hz.
+
+Exercise: Calculating wavelengths and frequencies of light
+
+1. Calculate the frequency of light which has a wavelength of 400 nm.
+
+(Remember to use S.I. units)
+
+543
+
+25.3 CHAPTER 25. COLOUR - GRADE 12
+
+2. Calculate the wavelength of light which has a frequency of 550× 1012 Hz.
+
+3. What colour is light which has a wavelength of 470× 109 m and what is its
+
+frequency?
+
+4. What is the wavelength of light with a frequency of 510× 1012 Hz and what
+
+is its color?
+

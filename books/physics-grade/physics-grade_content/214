@@ -1,0 +1,228 @@
+12.5.3 Change in Momentum
+
+Let us consider a tennis ball (mass = 0,1 g) that is dropped at an initial velocity of 5 m·s−1and
+
+bounces back at a final velocity of 3 m·s−1. As the ball approaches the floor it has a momentum
+
+that we call the momentum before the collision. When it moves away from the floor it has a
+
+different momentum called the momentum after the collision. The bounce on the floor can be
+
+thought of as a collision taking place where the floor exerts a force on the tennis ball to change
+
+its momentum.
+
+The momentum before the bounce can be calculated as follows:
+
+Because momentum and velocity are vectors, we have to choose a direction as positive. For
+
+this example we choose the initial direction of motion as positive, in other words, downwards is
+
+291
+
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+positive.
+
+pbefore = m · vi
+
+= (0,1)(+5)
+
+= 0,5 kg · m · s−1downwards
+
+When the tennis ball bounces back it changes direction. The final velocity will thus have a
+
+negative value. The momentum after the bounce can be calculated as follows:
+
+pafter = m · vf
+
+= (0,1)(−3)
+
+= −0,3 kg · m · s−1
+
+= 0,3 kg · m · s−1upwards
+
+Now let us look at what happens to the momentum of the tennis ball. The momentum changes
+
+during this bounce. We can calculate the change in momentum as follows:
+
+Again we have to choose a direction as positive and we will stick to our initial choice as down-
+
+wards is positive. This means that the final momentum will have a negative number.
+
+∆p = pf − pi
+
+= m · vf −m · vi
+
+= (−0,3)− (0,5)
+
+= −0,8 kg · m · s−1
+
+= 0,8 kg · m · s−1upwards
+
+You will notice that this number is bigger than the previous momenta calculated. This is should
+
+be the case as the ball needed to be stopped and then given momentum to bounce back.
+
+Worked Example 89: Change in Momentum
+
+Question: A rubber ball of mass 0,8 kg is dropped and strikes the floor with an
+
+initial velocity of 6 m·s−1. It bounces back with a final velocity of 4 m·s−1. Calculate
+
+the change in the momentum of the rubber ball caused by the floor.
+
+m = 0,8 kg
+
+6 m·s−1
+
+4 m·s−1
+
+Answer
+
+Step 1 : Identify the information given and what is asked
+
+The question explicitly gives
+
+• the ball's mass (m = 0,8 kg),
+
+• the ball's initial velocity (vi = 6 m·s−1), and
+
+292
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+positive.
+pbefore = m · vi
+= (0,1)(+5)
+= 0,5 kg · m · s−1downwards
+When the tennis ball bounces back it changes direction. The final velocity will thus have a
+negative value. The momentum after the bounce can be calculated as follows:
+pafter = m · vf
+= (0,1)(−3)
+= −0,3 kg · m · s−1
+= 0,3 kg · m · s−1upwards
+Now let us look at what happens to the momentum of the tennis ball. The momentum changes
+during this bounce. We can calculate the change in momentum as follows:
+Again we have to choose a direction as positive and we will stick to our initial choice as down-
+wards is positive. This means that the final momentum will have a negative number.
+∆p = pf − pi
+= m · vf −m · vi
+= (−0,3)− (0,5)
+= −0,8 kg · m · s−1
+= 0,8 kg · m · s−1upwards
+You will notice that this number is bigger than the previous momenta calculated. This is should
+be the case as the ball needed to be stopped and then given momentum to bounce back.
+Worked Example 89: Change in Momentum
+Question: A rubber ball of mass 0,8 kg is dropped and strikes the floor with an
+initial velocity of 6 m·s−1. It bounces back with a final velocity of 4 m·s−1. Calculate
+the change in the momentum of the rubber ball caused by the floor.
+m = 0,8 kg
+6 m·s−1
+4 m·s−1
+Answer
+Step 1 : Identify the information given and what is asked
+The question explicitly gives
+• the ball's mass (m = 0,8 kg),
+• the ball's initial velocity (vi = 6 m·s−1), and
+292
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+positive.
+
+pbefore = m · vi
+
+= (0,1)(+5)
+
+= 0,5 kg · m · s−1downwards
+
+When the tennis ball bounces back it changes direction. The final velocity will thus have a
+
+negative value. The momentum after the bounce can be calculated as follows:
+
+pafter = m · vf
+
+= (0,1)(−3)
+
+= −0,3 kg · m · s−1
+
+= 0,3 kg · m · s−1upwards
+
+Now let us look at what happens to the momentum of the tennis ball. The momentum changes
+
+during this bounce. We can calculate the change in momentum as follows:
+
+Again we have to choose a direction as positive and we will stick to our initial choice as down-
+
+wards is positive. This means that the final momentum will have a negative number.
+
+∆p = pf − pi
+
+= m · vf −m · vi
+
+= (−0,3)− (0,5)
+
+= −0,8 kg · m · s−1
+
+= 0,8 kg · m · s−1upwards
+
+You will notice that this number is bigger than the previous momenta calculated. This is should
+
+be the case as the ball needed to be stopped and then given momentum to bounce back.
+
+Worked Example 89: Change in Momentum
+
+Question: A rubber ball of mass 0,8 kg is dropped and strikes the floor with an
+
+initial velocity of 6 m·s−1. It bounces back with a final velocity of 4 m·s−1. Calculate
+
+the change in the momentum of the rubber ball caused by the floor.
+
+m = 0,8 kg
+
+6 m·s−1
+
+4 m·s−1
+
+Answer
+
+Step 1 : Identify the information given and what is asked
+
+The question explicitly gives
+
+• the ball's mass (m = 0,8 kg),
+
+• the ball's initial velocity (vi = 6 m·s−1), and
+
+292
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.5
+
+• the ball's final velocity (vf = 4 m·s−1)
+
+all in the correct units.
+
+We are asked to calculate the change in momentum of the ball,
+
+∆p = mvf −mvi
+
+We have everything we need to find ∆p. Since the initial momentum is directed
+
+downwards and the final momentum is in the upward direction, we can use the al-
+
+gebraic method of subtraction discussed in the vectors chapter.
+
+Step 2 : Choose a frame of reference
+
+Let us choose down as the positive direction.
+
+Step 3 : Do the calculation and quote the answer
+
+∆p = mvf −mvi
+
+= (0,8)(−4)− (0,8)(+6)
+
+= (−3,2)− (4,8)
+
+= −8
+
+= 8 kg · m · s−1 upwards
+

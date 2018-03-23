@@ -1,0 +1,227 @@
+28.2.1 Electrical generators
+
+AC generator
+
+The principle of rotating a conductor in a magnetic field is used in electricity generators. A
+
+generator converts mechanical energy into electrical energy.
+
+Definition: Generator
+
+A generator converts mechanical energy into electrical energy.
+
+The layout of an AC generator is shown in Figure 28.3. The conductor in the shape of a coil is
+
+connected to a ring. The conductor is then manually rotated in the magnetic field generating
+
+an alternating emf. The slip rings are connected to the load via brushes.
+
+N S
+
+slip ring (front view)
+
+brush
+
+slip ring
+
+load
+
+slip ring
+
+brush
+
+Figure 28.3: Layout of an alternating current generator.
+
+If a machine is constructed to rotate a magnetic field around a set of stationary wire coils with
+
+the turning of a shaft, AC voltage will be produced across the wire coils as that shaft is
+
+rotated, in accordance with Faraday's Law of electromagnetic induction. This is the basic
+
+operating principle of an AC generator.
+
+In an AC generator the two ends of the coil are each attached to a slip ring that makes contact
+
+with brushes as the coil turns. The direction of the current changes with every half turn of the
+
+coil. As one side of the loop moves to the other pole of the magnetic field, the current in it
+
+changes direction. The two slip rings of the AC generator allow the current to change
+
+directions and become alternating current.
+
+580
+
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.2
+
+Itneterreessttinigng AC generators are also known as alternators. They are found in motor cars to
+
+FFacctt charge the car battery.
+
+DC generator
+
+A DC generator is constructed the same way as an AC generator except that there is one slip
+
+ring which is split into two pieces, called a commutator, so the current in the external circuit
+
+does not change direction. The layout of a DC generator is shown in Figure 28.4. The
+
+split-ring commutator accommodates for the change in direction of the current in the loop,
+
+thus creating DC current going through the brushes and out to the circuit.
+
+N S
+
+split ring commutator
+
+brush brush
+
+load
+
+split ring
+
+Figure 28.4: Layout of a direct current generator.
+
+The shape of the emf from a DC generator is shown in Figure 28.5. The emf is not steady but
+
+is more or less the positive halves of a sine wave.
+
+current
+
+1
+
+0 θ or time
+
+180 360 540 720
+
+−1
+
+Figure 28.5: Variation of emf in a DC generator.
+
+AC versus DC generators
+
+The problems involved with making and breaking electrical contact with a moving coil should
+
+be obvious (sparking and heat), especially if the shaft of the generator is revolving at high
+
+speed. If the atmosphere surrounding the machine contains flammable or explosive vapors, the
+
+practical problems of spark-producing brush contacts are even greater.
+
+An AC generator (alternator) does not require brushes and commutators to work, and so is
+
+immune to these problems experienced by DC generators. The benefits of AC over DC with
+
+regard to generator design is also reflected in electric motors. While DC motors require the use
+
+581
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.2
+Itneterreessttinigng AC generators are also known as alternators. They are found in motor cars to
+FFacctt charge the car battery.
+DC generator
+A DC generator is constructed the same way as an AC generator except that there is one slip
+ring which is split into two pieces, called a commutator, so the current in the external circuit
+does not change direction. The layout of a DC generator is shown in Figure 28.4. The
+split-ring commutator accommodates for the change in direction of the current in the loop,
+thus creating DC current going through the brushes and out to the circuit.
+N S
+split ring commutator
+brush brush
+load
+split ring
+Figure 28.4: Layout of a direct current generator.
+The shape of the emf from a DC generator is shown in Figure 28.5. The emf is not steady but
+is more or less the positive halves of a sine wave.
+current
+1
+0 θ or time
+180 360 540 720
+−1
+Figure 28.5: Variation of emf in a DC generator.
+AC versus DC generators
+The problems involved with making and breaking electrical contact with a moving coil should
+be obvious (sparking and heat), especially if the shaft of the generator is revolving at high
+speed. If the atmosphere surrounding the machine contains flammable or explosive vapors, the
+practical problems of spark-producing brush contacts are even greater.
+An AC generator (alternator) does not require brushes and commutators to work, and so is
+immune to these problems experienced by DC generators. The benefits of AC over DC with
+regard to generator design is also reflected in electric motors. While DC motors require the use
+581
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.2
+
+Itneterreessttinigng AC generators are also known as alternators. They are found in motor cars to
+
+FFacctt charge the car battery.
+
+DC generator
+
+A DC generator is constructed the same way as an AC generator except that there is one slip
+
+ring which is split into two pieces, called a commutator, so the current in the external circuit
+
+does not change direction. The layout of a DC generator is shown in Figure 28.4. The
+
+split-ring commutator accommodates for the change in direction of the current in the loop,
+
+thus creating DC current going through the brushes and out to the circuit.
+
+N S
+
+split ring commutator
+
+brush brush
+
+load
+
+split ring
+
+Figure 28.4: Layout of a direct current generator.
+
+The shape of the emf from a DC generator is shown in Figure 28.5. The emf is not steady but
+
+is more or less the positive halves of a sine wave.
+
+current
+
+1
+
+0 θ or time
+
+180 360 540 720
+
+−1
+
+Figure 28.5: Variation of emf in a DC generator.
+
+AC versus DC generators
+
+The problems involved with making and breaking electrical contact with a moving coil should
+
+be obvious (sparking and heat), especially if the shaft of the generator is revolving at high
+
+speed. If the atmosphere surrounding the machine contains flammable or explosive vapors, the
+
+practical problems of spark-producing brush contacts are even greater.
+
+An AC generator (alternator) does not require brushes and commutators to work, and so is
+
+immune to these problems experienced by DC generators. The benefits of AC over DC with
+
+regard to generator design is also reflected in electric motors. While DC motors require the use
+
+581
+
+28.2 CHAPTER 28. ELECTRODYNAMICS - GRADE 12
+
+of brushes to make electrical contact with moving coils of wire, AC motors do not. In fact, AC
+
+and DC motor designs are very similar to their generator counterparts. The AC motor being
+
+dependent upon the reversing magnetic field produced by alternating current through its
+
+stationary coils of wire to rotate the rotating magnet around on its shaft, and the DC motor
+
+being dependent on the brush contacts making and breaking connections to reverse current
+
+through the rotating coil every 1/2 rotation (180 degrees).
+

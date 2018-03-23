@@ -1,0 +1,228 @@
+30.5 The particle nature of electromagnetic radiation
+
+When we talk of electromagnetic radiation as a particle, we refer to photons, which are packets
+
+of energy. The energy of the photon is related to the wavelength of electromagnetic radiation
+
+according to: h is called Planck's constant.
+
+629
+
+30.5 CHAPTER 30. EM RADIATION
+
+Definition: Planck's constant
+
+Planck's constant is a physical constant named after Max Planck.
+
+h = 6,626× 10−34 J · s
+
+The energy of a photon can be calculated using the formula: E = hf or E = h c . Where E is
+
+λ
+
+the energy of the photon in joules (J), h is planck's constant, c is the speed of light, f is the
+
+frequency in hertz (Hz) and λ is the wavelength in metres (m).
+
+Worked Example 187: Calculating the energy of a photon I
+
+Question: Calculate the energy of a photon with a frequency of 3× 1018 Hz
+
+Answer
+
+We use the formula: E = hf
+
+E = hf
+
+= 6,6× 10−34 × 3× 1018
+
+= 2× 10−15 J
+
+Worked Example 188: Calculating the energy of a photon II
+
+Question: What is the energy of an ultraviolet photon with a wavelength of
+
+200 nm?
+
+Answer
+
+Step 1 : Determine what is required and how to approach the problem.
+
+We are required to calculate the energy associated with a photon of ultraviolet
+
+light with a wavelength of 200 nm.
+
+We can use:
+
+c
+
+E = h
+
+λ
+
+Step 2 : Solve the problem
+
+c
+
+E = h
+
+λ
+
+3× 108
+
+= (6,626× 10−34)
+
+200× 10−9
+
+= 9,939× 10−10 J
+
+CHAPTER 30. EM RADIATION 30.5
+
+Step 3 : From the Period (T), we can calculate the frequency (f).
+
+1
+
+f =
+
+T
+
+1
+
+=
+
+6.67× 10−16 s
+
+= 1.5× 1015 Hz
+
+Examples of some uses of electromagnetic waves are shown in Table 30.2.
+
+Table 30.2: Uses of EM waves
+
+Category Uses
+
+gamma rays used to kill the bacteria in marsh-
+
+mallows
+
+X-rays used to image bone structures
+
+ultraviolet light bees can see into the ultraviolet
+
+because flowers stand out more
+
+clearly at this frequency
+
+visible light used by humans to observe the
+
+world
+
+infrared night vision, heat sensors, laser
+
+metal cutting
+
+microwave microwave ovens, radar
+
+radio waves radio, television broadcasts
+
+In theory the spectrum is infinite, although realistically we can only observe wavelengths from a
+
+few hundred kilometers to those of gamma rays due to experimental limitations.
+
+Humans experience electromagnetic waves differently depending on their wavelength. Our eyes
+
+are sensitive to visible light while our skin is sensitive to infrared, and many wavelengths we do
+
+not detect at all.
+
+Exercise: EM Radiation
+
+1. Arrange the following types of EM radiation in order of increasing frequency:
+
+infrared, X-rays, ultraviolet, visible, gamma.
+
+2. Calculate the frequency of an EM wave with a wavelength of 400 nm.
+
+3. Give an example of the use of each type of EM radiation, i.e. gamma rays,
+
+X-rays, ultraviolet light, visible light, infrared, microwave and radio and TV
+
+waves.
+
+30.5 The particle nature of electromagnetic radiation
+
+When we talk of electromagnetic radiation as a particle, we refer to photons, which are packets
+
+of energy. The energy of the photon is related to the wavelength of electromagnetic radiation
+
+according to: h is called Planck's constant.
+
+629
+
+30.5 CHAPTER 30. EM RADIATION
+
+Definition: Planck's constant
+
+Planck's constant is a physical constant named after Max Planck.
+
+h = 6,626× 10−34 J · s
+
+The energy of a photon can be calculated using the formula: E = hf or E = h c . Where E is
+
+λ
+
+the energy of the photon in joules (J), h is planck's constant, c is the speed of light, f is the
+
+frequency in hertz (Hz) and λ is the wavelength in metres (m).
+
+Worked Example 187: Calculating the energy of a photon I
+
+Question: Calculate the energy of a photon with a frequency of 3× 1018 Hz
+
+Answer
+
+We use the formula: E = hf
+
+E = hf
+
+= 6,6× 10−34 × 3× 1018
+
+= 2× 10−15 J
+
+Worked Example 188: Calculating the energy of a photon II
+
+Question: What is the energy of an ultraviolet photon with a wavelength of
+
+200 nm?
+
+Answer
+
+Step 1 : Determine what is required and how to approach the problem.
+
+We are required to calculate the energy associated with a photon of ultraviolet
+
+light with a wavelength of 200 nm.
+
+We can use:
+
+c
+
+E = h
+
+λ
+
+Step 2 : Solve the problem
+
+c
+
+E = h
+
+λ
+
+3× 108
+
+= (6,626× 10−34)
+
+200× 10−9
+
+= 9,939× 10−10 J
+

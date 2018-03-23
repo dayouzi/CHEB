@@ -1,0 +1,318 @@
+16.2 Standing Waves in String Instruments
+
+Let us look at a basic "instrument": a string pulled tight and fixed at both ends. When you
+
+pluck the string, you hear a certain pitch. This pitch is made by a certain frequency. What
+
+causes the string to emit sounds at this pitch?
+
+373
+
+16.2 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+
+You have learned that the frequency of a standing wave depends on the length of the wave.
+
+The wavelength depends on the nodes and anti-nodes. The longest wave that can "fit" on the
+
+string is shown in Figure 16.1. This is called the fundamental or natural frequency of the
+
+string. The string has nodes at both ends. The wavelength of the fundamental is twice the
+
+length of the string.
+
+Now put your finger on the center of the string. Hold it down gently and pluck it. The
+
+standing wave now has a node in the middle of the string. There are three nodes. We can fit a
+
+whole wave between the ends of the string. This means the wavelength is equal to the length
+
+of the string. This wave is called the first harmonic. As we add more nodes, we find the second
+
+harmonic, third harmonic, and so on. We must keep the nodes equally spaced or we will lose
+
+our standing wave.
+
+fundamental frequency
+
+first harmonic
+
+second harmonic
+
+Figure 16.1: Harmonics on a string fixed at both ends.
+
+Activity :: Investigation : Waves on a String Fixed at Both Ends
+
+This chart shows various waves on a string. The string length L is the dashed
+
+line.
+
+1. Fill in the:
+
+• number of nodes
+
+• number of anti-nodes
+
+• wavelength in terms of L
+
+The first and last waves are done for you.
+
+Wave Nodes Antinodes Wavelength
+
+2 1 2L
+
+5 4 L2
+
+2. Use the chart to find a formula for the wavelength in terms of the number of
+
+nodes.
+
+374
+16.2 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+You have learned that the frequency of a standing wave depends on the length of the wave.
+The wavelength depends on the nodes and anti-nodes. The longest wave that can "fit" on the
+string is shown in Figure 16.1. This is called the fundamental or natural frequency of the
+string. The string has nodes at both ends. The wavelength of the fundamental is twice the
+length of the string.
+Now put your finger on the center of the string. Hold it down gently and pluck it. The
+standing wave now has a node in the middle of the string. There are three nodes. We can fit a
+whole wave between the ends of the string. This means the wavelength is equal to the length
+of the string. This wave is called the first harmonic. As we add more nodes, we find the second
+harmonic, third harmonic, and so on. We must keep the nodes equally spaced or we will lose
+our standing wave.
+fundamental frequency
+first harmonic
+second harmonic
+Figure 16.1: Harmonics on a string fixed at both ends.
+Activity :: Investigation : Waves on a String Fixed at Both Ends
+This chart shows various waves on a string. The string length L is the dashed
+line.
+1. Fill in the:
+• number of nodes
+• number of anti-nodes
+• wavelength in terms of L
+The first and last waves are done for you.
+Wave Nodes Antinodes Wavelength
+2 1 2L
+5 4 L2
+2. Use the chart to find a formula for the wavelength in terms of the number of
+nodes.
+374
+CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11 16.2
+You should have found this formula:
+2L
+λ =
+n− 1
+Here, n is the number of nodes. L is the length of the string. The frequency f is:
+v
+f =
+λ
+Here, v is the velocity of the wave. This may seem confusing. The wave is a standing wave, so
+how can it have a velocity? But one standing wave is made up of many waves that travel back
+and forth on the string. Each of these waves has the same velocity. This speed depends on the
+mass and tension of the string.
+Worked Example 105: Harmonics on a String
+Question: We have a standing wave on a string that is 65 cm long. The wave has
+a velocity of 143 m.s−1 Find the frequencies of the fundamental, first, second, and
+third harmonics.
+Answer
+Step 1 : Identify what is given and what is asked:
+L = 65 cm = 0.65 m
+v = 143 m.s−1
+f = ?
+To find the frequency we will use f = vλ
+Step 2 : Find the wavelength for each harmonic:
+To find f we need the wavelength of each harmonic (λ = 2Ln−1 ). The wavelength is
+then substituted into f = v to find the harmonics. Table ?? below shows the
+λ
+calculations.
+Wavelength Frequency
+Nodes
+λ = 2L
+n−1 f =
+v
+λ
+Fundamental frequency fo 2
+2(0,65)
+2−1 = 1,3
+143
+1,3 = 110 Hz
+First harmonic f1 3
+2(0,65)
+3−1 =
+143 = 220 Hz
+Second harmonic f2 4
+2(0,65)
+4−1 =
+143 = 330 Hz
+Third harmonic f3 5
+2(0,65)
+5−1 =
+143 = 440 Hz
+110 Hz is the natural frequency of the A string on a guitar. The third harmonic, at
+440 Hz, is the note that orchestras use for tuning.
+Extension: Guitar
+Guitars use strings with high tension. The length, tension and mass of the
+strings affect the pitches you hear. High tension and short strings make high
+frequencies; Low tension and long strings make low frequencies. When a string is
+first plucked, it vibrates at many frequencies. All of these except the harmonics are
+quickly filtered out. The harmonics make up the tone we hear.
+The body of a guitar acts as a large wooden soundboard. Here is how a
+soundboard works: the body picks up the vibrations of the strings. It then passes
+these vibrations to the air. A sound hole allows the soundboard of the guitar to
+vibrate more freely. It also helps sound waves to get out of the body.
+375
+16.2 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+The neck of the guitar has thin metal bumps on it called frets. Pressing a
+string against a fret shortens the length of that string. This raises the natural
+frequency and the pitch of that string.
+Most guitars use an "equal tempered" tuning of 12 notes per octave. A 6
+string guitar has a range of 4 12 octaves with pitches from 82.407 Hz (low E) to
+2093 kHz (high C). Harmonics may reach over 20 kHz, in the inaudible range.
+headstock
+peg
+fret
+neck
+heel
+rib
+rosette
+hollow wooden body
+b
+b
+b
+bb
+b bridge
+Extension: Piano
+Let us look at another stringed instrument: the piano. The piano has strings
+that you can not see. When a key is pressed, a felt-tipped hammer hits a string
+inside the piano. The pitch depends on the length, tension and mass of the string.
+But there are many more strings than keys on a piano. This is because the short
+and thin strings are not as loud as the long and heavy strings. To make up for this,
+the higher keys have groups of two to four strings each.
+The soundboard in a piano is a large cast iron plate. It picks up vibrations from
+the strings. This heavy plate can withstand over 200 tons of pressure from string
+tension! Its mass also allows the piano to sustain notes for long periods of time.
+The piano has a wide frequency range, from 27,5 Hz (low A) to 4186,0 Hz
+(upper C). But these are just the fundamental frequencies. A piano plays complex,
+rich tones with over 20 harmonics per note. Some of these are out of the range of
+human hearing. Very low piano notes can be heard mostly because of their higher
+harmonics.
+b b
+wooden body
+b
+b keyboard
+b b
+music stand
+b
+b
+soundboard
+b
+b
+b
+b sustain pedal
+b sostuneto pedal
+b damper pedal
+376
+16.2 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+
+The neck of the guitar has thin metal bumps on it called frets. Pressing a
+
+string against a fret shortens the length of that string. This raises the natural
+
+frequency and the pitch of that string.
+
+Most guitars use an "equal tempered" tuning of 12 notes per octave. A 6
+
+string guitar has a range of 4 12 octaves with pitches from 82.407 Hz (low E) to
+
+2093 kHz (high C). Harmonics may reach over 20 kHz, in the inaudible range.
+
+headstock
+
+peg
+
+fret
+
+neck
+
+heel
+
+rib
+
+rosette
+
+hollow wooden body
+
+b
+
+b
+
+b
+
+bb
+
+b bridge
+
+Extension: Piano
+
+Let us look at another stringed instrument: the piano. The piano has strings
+
+that you can not see. When a key is pressed, a felt-tipped hammer hits a string
+
+inside the piano. The pitch depends on the length, tension and mass of the string.
+
+But there are many more strings than keys on a piano. This is because the short
+
+and thin strings are not as loud as the long and heavy strings. To make up for this,
+
+the higher keys have groups of two to four strings each.
+
+The soundboard in a piano is a large cast iron plate. It picks up vibrations from
+
+the strings. This heavy plate can withstand over 200 tons of pressure from string
+
+tension! Its mass also allows the piano to sustain notes for long periods of time.
+
+The piano has a wide frequency range, from 27,5 Hz (low A) to 4186,0 Hz
+
+(upper C). But these are just the fundamental frequencies. A piano plays complex,
+
+rich tones with over 20 harmonics per note. Some of these are out of the range of
+
+human hearing. Very low piano notes can be heard mostly because of their higher
+
+harmonics.
+
+b b
+
+wooden body
+
+b
+
+b keyboard
+
+b b
+
+music stand
+
+b
+
+b
+
+soundboard
+
+b
+
+b
+
+b
+
+b sustain pedal
+
+b sostuneto pedal
+
+b damper pedal
+
+376
+
+CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11 16.3
+

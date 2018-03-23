@@ -1,0 +1,173 @@
+7.4 AA Similarity
+
+Here you'll learn how to determine if triangles are similar using Angle-Angle (AA).
+
+What if you were given a pair of triangles and the angle measures for two of their angles? How could you use this
+
+information to determine if the two triangles are similar? After completing this Concept, you'll be able to use the
+
+AA Similarity Postulate to decide if two triangles are similar.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136683
+
+CK-12 Foundation: AA Similarity
+
+For additional help, first watch this video beginning at the 2:09 mark.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1302
+
+James Sousa: Similar Triangles
+
+Then watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1357
+
+James Sousa: Similar Triangles by AA
+
+Guidance
+
+By definition, two triangles are similar if all their corresponding angles are congruent and their corresponding sides
+
+are proportional. It is not necessary to check all angles and sides in order to tell if two triangles are similar. In fact,
+
+349
+
+7.4. AA Similarity www.ck12.org
+
+if you only know that two pairs of corresponding angles are congruent that is enough information to know that the
+
+triangles are similar. This is called the AA Similarity Postulate.
+
+AA Similarity Postulate: If two angles in one triangle are congruent to two angles in another triangle, then the two
+
+triangles are similar.
+
+If 6 A∼= 6 Y and 6 B∼= 6 Z, then4ABC ∼4Y ZX .
+
+Example A
+
+Determine if the following two triangles are similar. If so, write the similarity statement.
+
+Compare the angles to see if we can use the AA Similarity Postulate. Using the Triangle Sum Theorem, m6 G = 48◦
+
+and m6 M = 30◦ So, 6 F ∼= 6 M, 6 E ∼= 6 L and 6 G∼= 6 N and the triangles are similar. 4FEG∼4MLN.
+
+Example B
+
+Determine if the following two triangles are similar. If so, write the similarity statement.
+
+Compare the angles to see if we can use the AA Similarity Postulate. Using the Triangle Sum Theorem, m 6 C = 39◦
+
+and m6 F = 59◦. m6 C 6= m6 F , So4ABC and4DEF are not similar.
+
+Example C
+
+4LEG∼4MAR by AA. Find GE and MR.
+
+350
+7.4. AA Similarity www.ck12.org
+if you only know that two pairs of corresponding angles are congruent that is enough information to know that the
+triangles are similar. This is called the AA Similarity Postulate.
+AA Similarity Postulate: If two angles in one triangle are congruent to two angles in another triangle, then the two
+triangles are similar.
+If 6 A∼= 6 Y and 6 B∼= 6 Z, then4ABC ∼4Y ZX .
+Example A
+Determine if the following two triangles are similar. If so, write the similarity statement.
+Compare the angles to see if we can use the AA Similarity Postulate. Using the Triangle Sum Theorem, m6 G = 48◦
+and m6 M = 30◦ So, 6 F ∼= 6 M, 6 E ∼= 6 L and 6 G∼= 6 N and the triangles are similar. 4FEG∼4MLN.
+Example B
+Determine if the following two triangles are similar. If so, write the similarity statement.
+Compare the angles to see if we can use the AA Similarity Postulate. Using the Triangle Sum Theorem, m 6 C = 39◦
+and m6 F = 59◦. m6 C 6= m6 F , So4ABC and4DEF are not similar.
+Example C
+4LEG∼4MAR by AA. Find GE and MR.
+350
+www.ck12.org Chapter 7. Similarity
+Set up a proportion to find the missing sides.
+24 MR 24 21
+= =
+32 20 32 GE
+480 = 32MR 24GE = 672
+15 = MR GE = 28
+When two triangles are similar, the corresponding sides are proportional. But, what are the corresponding sides?
+Using the triangles from this example, we see how the sides line up in the diagram to the right.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136684
+CK-12 Foundation: AA Similarity
+->
+Guided Practice
+1.Are the following triangles similar? If so, write the similarity statement.
+351
+7.4. AA Similarity www.ck12.org
+2. Are the triangles similar? If so, write a similarity statement.
+3. Are the triangles similar? If so, write a similarity statement.
+Answers:
+1. Because AE‖CD, 6 A ∼= 6 D and 6 C ∼= 6 E by the Alternate Interior Angles Theorem. By the AA Similarity
+Postulate,4ABE ∼4DBC.
+2. Yes, there are three similar triangles that each have a right angle. DGE ∼ FGD∼ FDE.
+3. By the reflexive property, 6 H ∼= 6 H. Because the horizontal lines are parallel, 6 L ∼= 6 K (corresponding angles).
+So yes, there is a pair of similar triangles. HLI ∼ HKJ.
+Explore More
+Use the diagram to complete each statement.
+352
+www.ck12.org Chapter 7. Similarity
+1. 4SAM ∼4 ______
+2. SA? =
+SM
+? =
+?
+RI
+3. SM = ______
+4. T R = ______
+5. 9? =
+?
+8
+Answer questions 6-9 about trapezoid ABCD.
+6. Name two similar triangles. How do you know they are similar?
+7. Write a true proportion.
+8. Name two other triangles that might not be similar.
+9. If AB = 10,AE = 7, and DC = 22, find AC. Be careful!
+Use the triangles to the left for questions 10-14.
+AB = 20,DE = 15, and BC = k.
+10. Are the two triangles similar? How do you know?
+11. Write an expression for FE in terms of k.
+353
+7.4. AA Similarity www.ck12.org
+12. If FE = 12,, what is k?
+13. Fill in the blanks: If an acute angle of a _______ triangle is congruent to an acute angle in another ________-
+triangle, then the two triangles are _______.
+14. Writing How do congruent triangles and similar triangles differ? How are they the same?
+Are the following triangles similar? If so, write a similarity statement.
+15.
+16.
+17.
+18.
+19.
+354
+www.ck12.org Chapter 7. Similarity
+20.
+21.
+355
+www.ck12.org Chapter 7. Similarity
+
+20.
+
+21.
+
+355
+

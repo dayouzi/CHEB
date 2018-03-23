@@ -1,0 +1,85 @@
+7.3 DOUBLE-ANGLE, HALF-ANGLE, AND PRODUCT-SUM FORMULAS
+Double-Angle Formulas ! Half-Angle Formulas ! Simplifying Expressions
+Involving Inverse Trigonometric Functions ! Product-Sum Formulas
+The identities we consider in this section are consequences of the addition formulas. The
+Double-Angle Formulas allow us to find the values of the trigonometric functions at 2x
+from their values at x. The Half-Angle Formulas relate the values of the trigonometric
+functions at 12 x to their values at x. The Product-Sum Formulas relate products of sines
+and cosines to sums of sines and cosines.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+508 C H A P T E R  7 | Analytic Trigonometry
+! Double-Angle Formulas
+The formulas in the following box are immediate consequences of the addition formulas,
+which we proved in the preceding section.
+DOUBLE-ANGLE FORMUL AS
+Formula for sine:  sin 2x " 2 sin x cos x
+Formulas for cosine: cos 2x " cos2 x # sin2 x
+ " 1 # 2 sin2 x
+ " 2 cos2 x # 1
+2 tan x
+Formula for tangent: tan 2x "
+1 # tan2 x
+The proofs for the formulas for cosine are given here. You are asked to prove the re-
+maining formulas in Exercises 35 and 36.
+P R O O F  O F  D O U B L E - A N G L E  F O R M U L A S  F O R  C O S I N E
+ cos 2x " cos1x ! x 2
+ " cos x cos x # sin x sin x
+ " cos2 x # sin2 x
+The second and third formulas for cos 2x are obtained from the formula we just proved
+and the Pythagorean identity. Substituting cos2x " 1 # sin2x gives
+ cos 2x " cos2 
+ " 1 x # sin2 x1 # sin2 x 2 # sin2 x
+ " 1 # 2 sin2x
+The third formula is obtained in the same way, by substituting sin2x " 1 # cos2x. "
+E X A M P L E  1 Using the Double-Angle Formulas
+If cos x " # 2 3 and x is in Quadrant II, find cos 2x and sin 2x.
+S O L U T I O N Using one of the Double-Angle Formulas for Cosine, we get
+ cos 2x " 2 cos2 x # 1
+2 2 8 1
+ " 2 a# b # 1 " # 1 " # 
+3 9 9
+To use the formula sin 2x " 2 sin x cos x, we n
+sin x " 21 # cos2 x " 2eed to 51 # Afind#23B sin x2 1first. We have" 3
+where we have used the positive square root because sin x is positive in Quadrant II.
+Thus
+ sin 2x " 2 sin x cos x
+ " 2 a 15 b a 2 5# b 41" # 
+3 3 9
+508 C H A P T E R  7 | Analytic Trigonometry
+! Double-Angle Formulas
+The formulas in the following box are immediate consequences of the addition formulas,
+which we proved in the preceding section.
+DOUBLE-ANGLE FORMUL AS
+Formula for sine:  sin 2x " 2 sin x cos x
+Formulas for cosine: cos 2x " cos2 x # sin2 x
+ " 1 # 2 sin2 x
+ " 2 cos2 x # 1
+2 tan x
+Formula for tangent: tan 2x "
+1 # tan2 x
+The proofs for the formulas for cosine are given here. You are asked to prove the re-
+maining formulas in Exercises 35 and 36.
+P R O O F  O F  D O U B L E - A N G L E  F O R M U L A S  F O R  C O S I N E
+ cos 2x " cos1x ! x 2
+ " cos x cos x # sin x sin x
+ " cos2 x # sin2 x
+The second and third formulas for cos 2x are obtained from the formula we just proved
+and the Pythagorean identity. Substituting cos2x " 1 # sin2x gives
+ cos 2x " cos2 
+ " 1 x # sin2 x1 # sin2 x 2 # sin2 x
+ " 1 # 2 sin2x
+The third formula is obtained in the same way, by substituting sin2x " 1 # cos2x. "
+E X A M P L E  1 Using the Double-Angle Formulas
+If cos x " # 2 3 and x is in Quadrant II, find cos 2x and sin 2x.
+S O L U T I O N Using one of the Double-Angle Formulas for Cosine, we get
+ cos 2x " 2 cos2 x # 1
+2 2 8 1
+ " 2 a# b # 1 " # 1 " # 
+3 9 9
+To use the formula sin 2x " 2 sin x cos x, we n
+sin x " 21 # cos2 x " 2eed to 51 # Afind#23B sin x2 1first. We have" 3
+where we have used the positive square root because sin x is positive in Quadrant II.
+Thus
+ sin 2x " 2 sin x cos x
+ " 2 a 15 b a 2 5# b 41" # 
+3 3 9

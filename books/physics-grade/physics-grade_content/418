@@ -1,0 +1,250 @@
+26.6.2 Supersonic Flight
+
+Definition: Supersonic
+
+Supersonic refers to speeds faster than the speed of sound.
+
+If a plane flies at exactly the speed of sound then the waves that it emits in the direction it is
+
+flying won't be able to get away from the plane. It also means that the next sound wave
+
+emitted will be exactly on top of the previous one, look at this picture to see what the
+
+wavefronts would look like:
+
+563
+
+26.6 CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12
+
+shock wave at Mach 1
+
+Sometimes we use the speed of sound as a reference to describe the speed of the object
+
+(aircraft in our discussion).
+
+Definition: Mach Number
+
+The Mach Number is the ratio of the speed of an object to the speed of sound in the
+
+surrounding medium.
+
+Mach number is tells you how many times faster than sound the aircraft is moving.
+
+• Mach Number < 1 : aircraft moving slower than the speed of sound
+
+• Mach Number = 1 : aircraft moving at the speed of sound
+
+• Mach Number > 1 : aircraft moving faster than the speed of sound
+
+To work out the Mach Number divide the speed of the aircraft by the speed of sound.
+
+vaircraft
+
+Mach Number =
+
+vsound
+
+Remember: the units must be the same before you divide.
+
+If the aircraft is moving faster than the speed of sound then the wavefronts look like this:
+
+supersonic shock wave
+
+If the source moves faster than the speed of sound a cone of wave fronts is created. This is
+
+called a Mach cone. From constructive interference we know that two peaks that add together
+
+form a larger peak. In a Mach cone many, many peaks add together to form a very large peak,
+
+this is a sound wave so the large peak is a very very loud sound wave. This sounds like a huge
+
+"boom" and we call the noise a sonic boom.
+
+Worked Example 173: Mach Speed I
+
+Question: An aircraft flies at 1300 km · h−1 and the speed of sound in air is
+
+340 m · s−1. What is the Mach Number of the aircraft?
+
+Answer
+
+Step 1 : Check what you are given
+
+564
+26.6 CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12
+shock wave at Mach 1
+Sometimes we use the speed of sound as a reference to describe the speed of the object
+(aircraft in our discussion).
+Definition: Mach Number
+The Mach Number is the ratio of the speed of an object to the speed of sound in the
+surrounding medium.
+Mach number is tells you how many times faster than sound the aircraft is moving.
+• Mach Number < 1 : aircraft moving slower than the speed of sound
+• Mach Number = 1 : aircraft moving at the speed of sound
+• Mach Number > 1 : aircraft moving faster than the speed of sound
+To work out the Mach Number divide the speed of the aircraft by the speed of sound.
+vaircraft
+Mach Number =
+vsound
+Remember: the units must be the same before you divide.
+If the aircraft is moving faster than the speed of sound then the wavefronts look like this:
+supersonic shock wave
+If the source moves faster than the speed of sound a cone of wave fronts is created. This is
+called a Mach cone. From constructive interference we know that two peaks that add together
+form a larger peak. In a Mach cone many, many peaks add together to form a very large peak,
+this is a sound wave so the large peak is a very very loud sound wave. This sounds like a huge
+"boom" and we call the noise a sonic boom.
+Worked Example 173: Mach Speed I
+Question: An aircraft flies at 1300 km · h−1 and the speed of sound in air is
+340 m · s−1. What is the Mach Number of the aircraft?
+Answer
+Step 1 : Check what you are given
+564
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.6
+We know we are dealing with Mach Number. We are given the speed of sound in
+air, 340 m · s−1, and the speed of the aircraft, 1300 km · h−1. The speed of the
+aircraft is in different units to the speed of sound so we need to convert the units:
+1300km · h−1 = 1300km · h−1
+1300km · h−1 = 1300× 1000m
+3600s
+1300km · h−1 = 361.1 m · s−1
+Step 2 : Applicable principles
+We know that there is a relationship between the Mach Number, the speed of
+sound and the speed of the aircraft:
+vaircraft
+Mach Number =
+vsound
+We can use this relationship to find the Mach Number.
+Step 3 : Substitution
+vaircraft
+Mach Number =
+vsound
+361.1
+Mach Number =
+340
+Mach Number = 1.06
+The Mach Number is 1.06.
+Definition: Sonic Boom
+A sonic boom is the sound heard by an observer as a shockwave passes.
+Exercise: Mach Number
+In this exercise we will determine the Mach Number for the different aircraft in
+the table mentioned above. To help you get started we have calculated the Mach
+Number for the Concord with a speed of sound vsound = 340 ms
+−1.
+For the Condorde we know the speed and we know that:
+vaircraft
+Mach Number =
+vsound
+For the Concorde this means that
+647
+Mach Number =
+340
+= 1.9
+Aircraft speed at altitude (km · h−1) speed at altitude (m · s−1) Mach Number
+Concorde 2 330 647 1.9
+Gripen 2 410 669
+Mirage F1 2 573 990
+Mig 27 1 885 524
+F 15 2 660 739
+F 16 2 414 671
+565
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.6
+
+We know we are dealing with Mach Number. We are given the speed of sound in
+
+air, 340 m · s−1, and the speed of the aircraft, 1300 km · h−1. The speed of the
+
+aircraft is in different units to the speed of sound so we need to convert the units:
+
+1300km · h−1 = 1300km · h−1
+
+1300km · h−1 = 1300× 1000m
+
+3600s
+
+1300km · h−1 = 361.1 m · s−1
+
+Step 2 : Applicable principles
+
+We know that there is a relationship between the Mach Number, the speed of
+
+sound and the speed of the aircraft:
+
+vaircraft
+
+Mach Number =
+
+vsound
+
+We can use this relationship to find the Mach Number.
+
+Step 3 : Substitution
+
+vaircraft
+
+Mach Number =
+
+vsound
+
+361.1
+
+Mach Number =
+
+340
+
+Mach Number = 1.06
+
+The Mach Number is 1.06.
+
+Definition: Sonic Boom
+
+A sonic boom is the sound heard by an observer as a shockwave passes.
+
+Exercise: Mach Number
+
+In this exercise we will determine the Mach Number for the different aircraft in
+
+the table mentioned above. To help you get started we have calculated the Mach
+
+Number for the Concord with a speed of sound vsound = 340 ms
+
+−1.
+
+For the Condorde we know the speed and we know that:
+
+vaircraft
+
+Mach Number =
+
+vsound
+
+For the Concorde this means that
+
+647
+
+Mach Number =
+
+340
+
+= 1.9
+
+Aircraft speed at altitude (km · h−1) speed at altitude (m · s−1) Mach Number
+
+Concorde 2 330 647 1.9
+
+Gripen 2 410 669
+
+Mirage F1 2 573 990
+
+Mig 27 1 885 524
+
+F 15 2 660 739
+
+F 16 2 414 671
+
+565
+
+26.6 CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12
+
+Now calculate the Mach Numbers for the other aircraft in the table.
+
