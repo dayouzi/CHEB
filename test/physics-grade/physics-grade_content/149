@@ -1,0 +1,324 @@
+10.2.5 EMF
+
+When you measure the potential difference across (or between) the terminals of a battery you
+
+are measuring the "electromotive force" (emf) of the battery. This is how much potential energy
+
+the battery has to make charges move through the circuit. This driving potential energy is equal
+
+to the total potential energy drops in the circuit. This means that the voltage across the battery
+
+is equal to the sum of the voltages in the circuit.
+
+We can use this information to solve problems in which the voltages across elements in a circuit
+
+add up to the emf.
+
+EMF = Vtotal
+
+Worked Example 45: Voltages I
+
+What is the voltage across
+
+Question: the resistor in the circuit 2V V1
+
+shown?
+
+Answer
+
+Step 1 : Check what you have and the units
+
+We have a circuit with a battery and one resistor. We know the voltage across the
+
+battery. We want to find that voltage across the resistor.
+
+Vbattery = 2V
+
+Step 2 : Applicable principles
+
+We know that the voltage across the battery must be equal to the total voltage
+
+across all other circuit components.
+
+Vbattery = Vtotal
+
+195
+
+10.2 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+
+There is only one other circuit component, the resistor.
+
+Vtotal = V1
+
+This means that the voltage across the battery is the same as the voltage across the
+
+resistor.
+
+Vbattery = Vtotal = V1
+
+Vbattery = Vtotal = V1
+
+V1 = 2V
+
+Worked Example 46: Voltages II
+
+b
+
+What is the voltage across
+
+Question: the unknown resistor in the 2V V1
+
+circuit shown?
+
+1V
+
+b
+
+Answer
+
+Step 1 : Check what you have and the units
+
+We have a circuit with a battery and two resistors. We know the voltage across the
+
+battery and one of the resistors. We want to find that voltage across the resistor.
+
+Vbattery = 2V
+
+Vresistor = 1V
+
+Step 2 : Applicable principles
+
+We know that the voltage across the battery must be equal to the total voltage
+
+across all other circuit components.
+
+Vbattery = Vtotal
+
+The total voltage in the circuit is the sum of the voltages across the individual
+
+resistors
+
+Vtotal = V1 + Vresistor
+
+Using the relationship between the voltage across the battery and total voltage across
+
+the resistors
+
+Vbattery = Vtotal
+
+Vbattery = V1 + Vresistor
+
+2V = V1 + 1V
+
+V1 = 1V
+
+Worked Example 47: Voltages III
+
+196
+10.2 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+There is only one other circuit component, the resistor.
+Vtotal = V1
+This means that the voltage across the battery is the same as the voltage across the
+resistor.
+Vbattery = Vtotal = V1
+Vbattery = Vtotal = V1
+V1 = 2V
+Worked Example 46: Voltages II
+b
+What is the voltage across
+Question: the unknown resistor in the 2V V1
+circuit shown?
+1V
+b
+Answer
+Step 1 : Check what you have and the units
+We have a circuit with a battery and two resistors. We know the voltage across the
+battery and one of the resistors. We want to find that voltage across the resistor.
+Vbattery = 2V
+Vresistor = 1V
+Step 2 : Applicable principles
+We know that the voltage across the battery must be equal to the total voltage
+across all other circuit components.
+Vbattery = Vtotal
+The total voltage in the circuit is the sum of the voltages across the individual
+resistors
+Vtotal = V1 + Vresistor
+Using the relationship between the voltage across the battery and total voltage across
+the resistors
+Vbattery = Vtotal
+Vbattery = V1 + Vresistor
+2V = V1 + 1V
+V1 = 1V
+Worked Example 47: Voltages III
+196
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.2
+1V
+What is the voltage across
+Question: the unknown resistor in the 7V V1
+circuit shown?
+4V
+Answer
+Step 1 : Check what you have and the units
+We have a circuit with a battery and three resistors. We know the voltage across the
+battery and two of the resistors. We want to find that voltage across the unknown
+resistor.
+Vbattery = 7V
+Vknown = 1V + 4V
+Step 2 : Applicable principles
+We know that the voltage across the battery must be equal to the total voltage
+across all other circuit components.
+Vbattery = Vtotal
+The total voltage in the circuit is the sum of the voltages across the individual
+resistors
+Vtotal = V1 + Vknown
+Using the relationship between the voltage across the battery and total voltage across
+the resistors
+Vbattery = Vtotal
+Vbattery = V1 + Vknown
+7V = V1 + 5V
+V1 = 2V
+Worked Example 48: Voltages IV
+4V
+What is the voltage across
+the parallel resistor combi-
+nation in the circuit shown?
+Question:
+Hint: the rest of the circuit 7V
+is the same as the previous
+1V
+problem.
+Answer
+Step 1 : Quick Answer
+The circuit is the same as the previous example and we know that the voltage
+difference between two points in a circuit does not depend on what is between them
+so the answer is the same as above Vparallel = 2V.
+Step 2 : Check what you have and the units - long answer
+We have a circuit with a battery and three resistors. We know the voltage across
+the battery and two of the resistors. We want to find that voltage across the parallel
+resistors, Vparallel.
+Vbattery = 7V
+197
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.2
+
+1V
+
+What is the voltage across
+
+Question: the unknown resistor in the 7V V1
+
+circuit shown?
+
+4V
+
+Answer
+
+Step 1 : Check what you have and the units
+
+We have a circuit with a battery and three resistors. We know the voltage across the
+
+battery and two of the resistors. We want to find that voltage across the unknown
+
+resistor.
+
+Vbattery = 7V
+
+Vknown = 1V + 4V
+
+Step 2 : Applicable principles
+
+We know that the voltage across the battery must be equal to the total voltage
+
+across all other circuit components.
+
+Vbattery = Vtotal
+
+The total voltage in the circuit is the sum of the voltages across the individual
+
+resistors
+
+Vtotal = V1 + Vknown
+
+Using the relationship between the voltage across the battery and total voltage across
+
+the resistors
+
+Vbattery = Vtotal
+
+Vbattery = V1 + Vknown
+
+7V = V1 + 5V
+
+V1 = 2V
+
+Worked Example 48: Voltages IV
+
+4V
+
+What is the voltage across
+
+the parallel resistor combi-
+
+nation in the circuit shown?
+
+Question:
+
+Hint: the rest of the circuit 7V
+
+is the same as the previous
+
+1V
+
+problem.
+
+Answer
+
+Step 1 : Quick Answer
+
+The circuit is the same as the previous example and we know that the voltage
+
+difference between two points in a circuit does not depend on what is between them
+
+so the answer is the same as above Vparallel = 2V.
+
+Step 2 : Check what you have and the units - long answer
+
+We have a circuit with a battery and three resistors. We know the voltage across
+
+the battery and two of the resistors. We want to find that voltage across the parallel
+
+resistors, Vparallel.
+
+Vbattery = 7V
+
+197
+
+10.3 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+
+Vknown = 1V + 4V
+
+Step 3 : Applicable principles
+
+We know that the voltage across the battery must be equal to the total voltage
+
+across all other circuit components.
+
+Vbattery = Vtotal
+
+The total voltage in the circuit is the sum of the voltages across the individual
+
+resistors
+
+Vtotal = Vparallel + Vknown
+
+Using the relationship between the voltage across the battery and total voltage across
+
+the resistors
+
+Vbattery = Vtotal
+
+Vbattery = Vparallel + Vknown
+
+7V = V1 + 5V
+
+Vparallel = 2V
+

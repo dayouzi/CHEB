@@ -1,0 +1,58 @@
+3.4 REAL ZEROS OF POLYNOMIALS
+Rational Zeros of Polynomials ! Descartes' Rule of Signs and Upper and
+Lower Bounds for Roots ! Using Algebra and Graphing Devices to Solve
+Polynomial Equations
+The Factor Theorem tells us that finding the zeros of a polynomial is really the same thing
+as factoring it into linear factors. In this section we study some algebraic methods that
+help us to find the real zeros of a polynomial and thereby factor the polynomial. We be-
+gin with the rational zeros of a polynomial.
+! Rational Zeros of Polynomials
+To help us understand the next theo
+ P1x 2 ! 1x " 2 2 1rem, lex " 3 2t'1s consix # 4 2der the polynomialFactored form
+ ! x3 " x2 " 14x # 24 Expanded form
+From the factored form we see that the zeros of P are 2, 3, and "4. When the polynomial
+is expanded, the constant 24 is obtained by multiplying 1"2 2 ' 1"3 2 ' 4. This means
+that the zeros of the polynomial are all factors of the constant term. The following gener-
+alizes this observation.
+RATIONAL ZEROS THEOREM
+If the polynomial P1x 2 ! an x n # a   n"1xn"1 . .  # . # a1x # a0 has integer
+coefficients, then every rational zero of P is of the form
+p
+q
+where p is a factor of the constant coefficient a0
+and q is a factor of the leading coefficient an.
+P R O O F If p/q is a rational zero, in lowest terms, of the polynomial P, then we have
+ an a pq b n # an"1 a pq b n"1 # . . . # a1 a pq b # a0 ! 0
+ . .
+ an pn # a pn"1 . Multiply by qn  n"1 q # # a  1pqn"1 # a0qn ! 0
+. .
+ p1an pn"1 # a n 2 . # a  n"1 p " q #  1qn"1 2 ! "a0qn Subtract a0qn
+and factor LHS
+Now p is a factor of the left side, so it must be a factor of the right side as well. Since p/q
+is in lowest terms, p and q have no factor in common, so p must be a factor of a0. A sim-
+ilar proof shows that q is a factor of an. "
+We see from the Rational Zeros Theorem that if the leading coefficient is 1 or "1, then
+the rational zeros must be factors of the constant term.
+E X A M P L E  1 | Using the Rational Zeros Theorem
+Find the rational zeros of P1x 2 ! x3 " 3x # 2.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+254 C H A P T E R  3 | Polynomial and Rational Functions
+S O L U T I O N Since the leading coefficient is 1, any rational zero must be a divisor of the
+constant term 2. So the possible rational zeros are *1 and *2. We test each of these pos-
+sibilities.
+ P11 2 ! 11 2 3 " 311 2 # 2 ! 0
+ P1"1 2 ! 1"1 2 3 " 31
+2 2"1 2 # 2 ! 4 P12 2 ! 12 2 3
+2 2" 313 P1"2 2 ! 1 # 2 ! 4" " 31"2 2 # 2 ! 0
+The rational zeros of P are 1 and "2.
+EVARISTE GALOIS (1811-1832) is
+254 C H A P T E R  3 | Polynomial and Rational Functions
+S O L U T I O N Since the leading coefficient is 1, any rational zero must be a divisor of the
+constant term 2. So the possible rational zeros are *1 and *2. We test each of these pos-
+sibilities.
+ P11 2 ! 11 2 3 " 311 2 # 2 ! 0
+ P1"1 2 ! 1"1 2 3 " 31
+2 2"1 2 # 2 ! 4 P12 2 ! 12 2 3
+2 2" 313 P1"2 2 ! 1 # 2 ! 4" " 31"2 2 # 2 ! 0
+The rational zeros of P are 1 and "2.
+EVARISTE GALOIS (1811-1832) is

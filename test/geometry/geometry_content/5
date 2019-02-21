@@ -1,0 +1,186 @@
+1.5. Angle Measurement www.ck12.org
+
+1.5 Angle Measurement
+
+Here you'll learn how to measure an angle with a protractor and how to apply the Angle Addition Postulate to find
+
+unknown values.
+
+What if you were given the measure of an angle and two unknown quantities that make up that angle? How would
+
+you find the values of those quantities? After completing this Concept, you'll be able to use the Angle Addition
+
+Postulate to evaluate such quantities.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136735
+
+CK-12 Measuring Angles
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1269
+
+James Sousa: Animation of Measuring Angles with a Protractor
+
+Then look at the first part of this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1270
+
+James Sousa: Angle Basics
+
+Guidance
+
+An angle is formed when two rays have the same endpoint. The vertex is the common endpoint of the two rays that
+
+form an angle. The sides are the two rays that form an angle.
+
+26
+
+www.ck12.org Chapter 1. Basics of Geometry
+
+TABLE 1.7:
+
+Label It Say It
+
+6 ABC Angle ABC
+
+6 CBA Angle CBA
+
+−→ −→
+
+The vertex is B and the sides are BA and BC. Always use three letters to name an angle, 6 SIDE-VERTEX-SIDE.
+
+Angles are measured with something called a protractor. A protractor is a measuring device that measures how
+
+"open" an angle is. Angles are measured in degrees and are labeled with a ◦ symbol. For now, angles are always
+
+positive.
+
+There are two sets of measurements, one starting on the left and the other on the right side of the protractor. Both go
+
+around from 0◦ to 180◦. When measuring angles, you can line up one side with 0◦, and see where the other side hits
+
+the protractor. The vertex lines up in the middle of the bottom line.
+
+Note that if you don't line up one side with 0◦, the angle's measure will be the difference of the degrees where the
+
+sides of the angle intersect the protractor.
+
+27
+www.ck12.org Chapter 1. Basics of Geometry
+TABLE 1.7:
+Label It Say It
+6 ABC Angle ABC
+6 CBA Angle CBA
+−→ −→
+The vertex is B and the sides are BA and BC. Always use three letters to name an angle, 6 SIDE-VERTEX-SIDE.
+Angles are measured with something called a protractor. A protractor is a measuring device that measures how
+"open" an angle is. Angles are measured in degrees and are labeled with a ◦ symbol. For now, angles are always
+positive.
+There are two sets of measurements, one starting on the left and the other on the right side of the protractor. Both go
+around from 0◦ to 180◦. When measuring angles, you can line up one side with 0◦, and see where the other side hits
+the protractor. The vertex lines up in the middle of the bottom line.
+Note that if you don't line up one side with 0◦, the angle's measure will be the difference of the degrees where the
+sides of the angle intersect the protractor.
+27
+1.5. Angle Measurement www.ck12.org
+Sometimes you will want to draw an angle that is a specific number of degrees. Follow the steps below to draw a
+50◦ angle with a protractor:
+1. Start by drawing a horizontal line across the page, 2 in long.
+2. Place an endpoint at the left side of your line.
+3. Place the protractor on this point, such that the line passes through the 0◦ mark on the protractor and the endpoint
+is at the center. Mark 50◦ on the appropriate scale.
+4. Remove the protractor and connect the vertex and the 50◦ mark.
+This process can be used to draw any angle between 0◦ and 180◦. See http://www.mathsisfun.com/geometry/protr
+actor-using.html for an animation of this.
+When two smaller angles form to make a larger angle, the sum of the measures of the smaller angles will equal the
+measure of the larger angle. This is called the Angle Addition Postulate. So, if B is on the interior of 6 ADC, then
+m 6 ADC = m6 ADB+m6 BDC
+.
+28
+www.ck12.org Chapter 1. Basics of Geometry
+Example A
+How many angles are in the picture below? Label each one.
+There are three angles with vertex U . It might be easier to see them all if we separate them.
+So, the three angles can be labeled, 6 XUY (or 6 YUX), 6 YUZ (or 6 ZUY ), and 6 XUZ (or 6 ZUX).
+Example B
+Measure the three angles from Example 1, using a protractor.
+Just like in Example A, it might be easier to measure these three angles if we separate them.
+With measurement, we put an m in front of the 6 sign to indicate measure. So, m 6 XUY = 84◦, m6 YUZ = 42◦ and
+m6 XUZ = 126◦.
+Example C
+What is the measure of the angle shown below?
+29
+1.5. Angle Measurement www.ck12.org
+This angle is lined up with 0◦, so where the second side intersects the protractor is the angle measure, which is 50◦.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136736
+CK-12 Measuring Angles
+->
+Guided Practice
+1. What is the measure of the angle shown below?
+2. Use a protractor to measure 6 RST below.
+3. What is m6 QRT in the diagram below?
+30
+www.ck12.org Chapter 1. Basics of Geometry
+Answers
+1. This angle is not lined up with 0◦, so use subtraction to find its measure. It does not matter which scale you use,
+as long as you are consistent.
+Inner scale: 140◦−15◦ = 125◦
+Outer scale: 165◦−40◦ = 125◦
+2. Lining up one side with 0◦ on the protractor, the other side hits 100◦.
+3. Using the Angle Addition Postulate, m 6 QRT = 15◦+30◦ = 45◦.
+Explore More
+1. What is m6 LMN if m 6 LMO = 85◦ and m 6 NMO = 53◦?
+2. If m 6 ABD = 100◦, find x.
+For questions 3-6, determine if the statement is true or false.
+3. For an angle 6 ABC,C is the vertex.
+4. For an angle 6 ABC,AB and BC are the sides.
+5. The m in front of m 6 ABC means measure.
+6. The Angle Addition Postulate says that an angle is equal to the sum of the smaller angles around it.
+For 7-12, draw the angle with the given degree, using a protractor and a ruler.
+7. 55◦
+8. 92◦
+9. 178◦
+10. 5◦
+11. 120◦
+12. 73◦
+For 13-16, use a protractor to determine the measure of each angle.
+13.
+31
+1.5. Angle Measurement www.ck12.org
+14.
+15.
+16.
+Solve for x.
+17. m6 ADC = 56◦
+32
+1.5. Angle Measurement www.ck12.org
+
+14.
+
+15.
+
+16.
+
+Solve for x.
+
+17. m6 ADC = 56◦
+
+32
+
+www.ck12.org Chapter 1. Basics of Geometry
+

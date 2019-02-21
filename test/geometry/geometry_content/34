@@ -1,0 +1,202 @@
+4.1 Triangle Sum Theorem
+
+Here you'll learn how to use the Triangle Sum Theorem, which states that the sum of the angles in any triangle is
+
+180◦.
+
+What if you knew that two of the angles in a triangle measured 55◦? How could you find the measure of the third
+
+angle? After completing this Concept, you'll be able to apply the Triangle Sum Theorem to solve problems like this
+
+one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136745
+
+CK-12 Triangle Sum Theorem
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1319
+
+James Sousa: Animation of the Sum of the Interior Angles of a Triangle
+
+Now watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1320
+
+James Sousa: Proving the Triangle Sum Theorem
+
+Guidance
+
+The Triangle Sum Theorem says that the three interior angles of any triangle add up to 180◦.
+
+165
+
+4.1. Triangle Sum Theorem www.ck12.org
+
+m6 1+m 6 2+m6 3 = 180◦
+
+.
+
+Here is one proof of the Triangle Sum Theorem.
+
+←
+
+Given: 4 →ABC with AD||BC
+
+Prove: m6 1+m 6 2+m6 3 = 180◦
+
+TABLE 4.1:
+
+Statement ← Reason
+
+1. 4 →ABC with AD||BC Given
+
+2. 6 1∼= 6 4, 6 2∼= 6 5 Alternate Interior Angles Theorem
+
+3. m6 1 = m6 4, m 6 2 = m6 5 ∼= angles have = measures
+
+4. m6 4+m 6 CAD = 180◦ Linear Pair Postulate
+
+5. m6 3+m 6 5 = m6 CAD Angle Addition Postulate
+
+6. m6 4+m 6 3+m6 5 = 180◦ Substitution PoE
+
+7. m6 1+m 6 3+m6 2 = 180◦ Substitution PoE
+
+You can use the Triangle Sum Theorem to find missing angles in triangles.
+
+Example A
+
+What is m 6 T ?
+
+We know that the three angles in the triangle must add up to 180◦. To solve this problem, set up an equation and
+
+substitute in the information you know.
+
+166
+4.1. Triangle Sum Theorem www.ck12.org
+m6 1+m 6 2+m6 3 = 180◦
+.
+Here is one proof of the Triangle Sum Theorem.
+←
+Given: 4 →ABC with AD||BC
+Prove: m6 1+m 6 2+m6 3 = 180◦
+TABLE 4.1:
+Statement ← Reason
+1. 4 →ABC with AD||BC Given
+2. 6 1∼= 6 4, 6 2∼= 6 5 Alternate Interior Angles Theorem
+3. m6 1 = m6 4, m 6 2 = m6 5 ∼= angles have = measures
+4. m6 4+m 6 CAD = 180◦ Linear Pair Postulate
+5. m6 3+m 6 5 = m6 CAD Angle Addition Postulate
+6. m6 4+m 6 3+m6 5 = 180◦ Substitution PoE
+7. m6 1+m 6 3+m6 2 = 180◦ Substitution PoE
+You can use the Triangle Sum Theorem to find missing angles in triangles.
+Example A
+What is m 6 T ?
+We know that the three angles in the triangle must add up to 180◦. To solve this problem, set up an equation and
+substitute in the information you know.
+166
+www.ck12.org Chapter 4. Triangles and Congruence
+m6 M+m 6 A+m 6 T = 180◦
+82◦+27◦+m6 T = 180◦
+109◦+m6 T = 180◦
+m6 T = 71◦
+Example B
+What is the measure of each angle in an equiangular triangle?
+To solve, remember that4ABC is an equiangular triangle, so all three angles are equal. Write an equation.
+m6 A+m6 B+m 6 C = 180◦
+m 6 A+m 6 A+m6 A = 180◦ Substitute, all angles are equal.
+3m6 A = 180◦ Combine like terms.
+m6 A = 60◦
+If m6 A = 60◦, then m 6 B = 60◦ and m6 C = 60◦.
+Each angle in an equiangular triangle is 60◦.
+Example C
+Find the measure of the missing angle.
+We know that m 6 O = 41◦ and m6 G = 90◦ because it is a right angle. Set up an equation like in Example A.
+m 6 D+m 6 O+m6 G = 180◦
+m6 D+41◦+90◦ = 180◦
+m6 D+41◦ = 90◦
+m6 D = 49◦
+167
+4.1. Triangle Sum Theorem www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136746
+CK-12 Triangle Sum Theorem
+->
+Guided Practice
+1. Determine m 6 1 in this triangle:
+2. Two interior angles of a triangle measure 50◦ and 70◦. What is the third interior angle of the triangle?
+3. Find the value of x and the measure of each angle.
+Answers:
+1. 72◦+65◦+m6 1 = 180◦.
+Solve this equation and you find that m6 1 = 43◦.
+2. 50◦+70◦+ x = 180◦.
+Solve this equation and you find that the third angle is 60◦.
+3. All the angles add up to 180◦.
+(8x−1)◦+(3x+9)◦+(3x+4)◦ = 180◦
+(14x+12)◦ = 180◦
+14x = 168
+x = 12
+Substitute in 12 for x to find each angle.
+[3(12)+9]◦ = 45◦ [3(12)+4]◦ = 40◦ [8(12)−1]◦ = 95◦
+168
+www.ck12.org Chapter 4. Triangles and Congruence
+Explore More
+Determine m6 1 in each triangle.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+169
+4.1. Triangle Sum Theorem www.ck12.org
+8. Two interior angles of a triangle measure 32◦ and 64◦. What is the third interior angle of the triangle?
+9. Two interior angles of a triangle measure 111◦ and 12◦. What is the third interior angle of the triangle?
+10. Two interior angles of a triangle measure 2◦ and 157◦. What is the third interior angle of the triangle?
+Find the value of x and the measure of each angle.
+11.
+12.
+13.
+14.
+15.
+170
+4.1. Triangle Sum Theorem www.ck12.org
+
+8. Two interior angles of a triangle measure 32◦ and 64◦. What is the third interior angle of the triangle?
+
+9. Two interior angles of a triangle measure 111◦ and 12◦. What is the third interior angle of the triangle?
+
+10. Two interior angles of a triangle measure 2◦ and 157◦. What is the third interior angle of the triangle?
+
+Find the value of x and the measure of each angle.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+170
+
+www.ck12.org Chapter 4. Triangles and Congruence
+

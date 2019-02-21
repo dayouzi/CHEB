@@ -1,0 +1,379 @@
+16.3 Standing Waves in Wind Instruments
+
+A wind instrument is an instrument that is usually made with a a pipe or thin tube. Examples
+
+of wind instruments are recorders, clarinets, flutes, organs etc.
+
+When one plays a wind instrument, the air that is pushed through the pipe vibrates and
+
+standing waves are formed. Just like with strings, the wavelengths of the standing waves will
+
+depend on the length of the pipe and whether it is open or closed at each end. Let's consider
+
+each of the following situations:
+
+• A pipe with both ends open, like a flute or organ pipe.
+
+• A pipe with one end open and one closed, like a clarinet.
+
+If you blow across a small hole in a pipe or reed, it makes a sound. If both ends are open,
+
+standing waves will form according to figure 16.2. You will notice that there is an anti-node at
+
+each end. In the next activity you will find how this affects the wavelengths.
+
+fundamental frequency
+
+first harmonic
+
+second harmonic
+
+Figure 16.2: Harmonics in a pipe open at both ends.
+
+Activity :: Investigation : Waves in a Pipe Open at Both Ends
+
+This chart shows some standing waves in a pipe open at both ends. The pipe
+
+(shown with dashed lines) has length L.
+
+1. Fill in the:
+
+• number of nodes
+
+• number of anti-nodes
+
+• wavelength in terms of L
+
+The first and last waves are done for you.
+
+377
+
+16.3 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+
+Wave Nodes Antinodes Wavelength
+
+1 2 2L
+
+4 5 L2
+
+2. Use the chart to find a formula for the wavelength in terms of the number of
+
+nodes.
+
+The formula is different because there are more anti-nodes than nodes. The right formula is:
+
+2L
+
+λn =
+
+n
+
+Here, n is still the number of nodes.
+
+Worked Example 106: The Organ Pipe
+
+An open organ pipe is 0,853 m long. The speed
+
+of sound in air is 345 m.s−1. Can this pipe play
+
+Question:
+
+middle C? (Middle C has a frequency of about
+
+262 Hz)
+
+0,853 m
+
+Answer
+
+The main frequency of a note is the fundamental frequency. The fundamental
+
+frequency of the open pipe has one node.
+
+Step 1 : To find the frequency we will use the equation:
+
+v
+
+f =
+
+λ
+
+We need to find the wavelength first.
+
+2L
+
+λ =
+
+n
+
+2(0,853)
+
+=
+
+1
+
+= 1,706 m
+
+378
+16.3 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+Wave Nodes Antinodes Wavelength
+1 2 2L
+4 5 L2
+2. Use the chart to find a formula for the wavelength in terms of the number of
+nodes.
+The formula is different because there are more anti-nodes than nodes. The right formula is:
+2L
+λn =
+n
+Here, n is still the number of nodes.
+Worked Example 106: The Organ Pipe
+An open organ pipe is 0,853 m long. The speed
+of sound in air is 345 m.s−1. Can this pipe play
+Question:
+middle C? (Middle C has a frequency of about
+262 Hz)
+0,853 m
+Answer
+The main frequency of a note is the fundamental frequency. The fundamental
+frequency of the open pipe has one node.
+Step 1 : To find the frequency we will use the equation:
+v
+f =
+λ
+We need to find the wavelength first.
+2L
+λ =
+n
+2(0,853)
+=
+1
+= 1,706 m
+378
+CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11 16.3
+Step 2 : Now we can calculate the frequency:
+v
+f =
+λ
+345
+=
+1,706
+= 202 Hz
+This is lower than 262 Hz, so this pipe will not play middle C. We will need a
+shorter pipe for a higher pitch.
+Worked Example 107: The Flute
+A flute can be modeled as a metal pipe open at
+both ends. (One end looks closed but the flute
+has an embouchure, or hole for the player to
+Question: blow across. This hole is large enough for air to
+escape on that side as well.) If the fundamental
+note of a flute is middle C, how long is the flute?
+The speed of sound in air is 345 m.s−1.
+Answer
+We can calculate the length of the flute from λ = 2L but
+n
+Step 1 : We need to calculate the wavelength first:
+v
+f =
+λ
+345
+262 =
+λ
+345
+λ = = 1,32 m
+262
+Step 2 : Using the wavelength, we can now solve for L:
+2L
+λ =
+n
+2L
+=
+1
+1,32
+L = = 0,66 m
+2
+Now let's look at a pipe that is open on one end and closed on the other. This pipe has a node
+at one end and an antinode at the other. An example of a musical instrument that has a node
+379
+16.3 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+at one end and an antinode at the other is a clarinet. In the activity you will find out how the
+wavelengths are affected.
+fundamental frequency
+first harmonic
+second harmonic
+Figure 16.3: Harmonics in a pipe open at one end.
+Activity :: Investigation : Waves in a Pipe open at One End
+This chart shows some standing waves in a pipe open at one end. The pipe
+(shown as dashed lines) has length L.
+1. Fill in the:
+• number of nodes
+• number of anti-nodes
+• wavelength in terms of L
+The first and last waves are done for you.
+Wave Nodes Antinodes Wavelength
+1 1 4L
+4 4 4L7
+2. Use the chart to find a formula for the wavelength in terms of the number of
+nodes.
+The right formula for this pipe is:
+4L
+λn =
+2n− 1
+380
+CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11 16.3
+A long wavelength has a low frequency and low pitch. If you took your pipe from the last
+example and covered one end, you should hear a much lower note! Also, the wavelengths of
+the harmonics for this tube are not integer multiples of each other.
+Worked Example 108: The Clarinet
+Question: A clarinet can be modeled as a wooden pipe closed on one end and open
+on the other. The player blows into a small slit on one end. A reed then vibrates in
+the mouthpiece. This makes the standing wave in the air. What is the fundamental
+frequency of a clarinet 60 cm long? The speed of sound in air is 345 m.s−1.
+Answer
+Step 1 : Identify what is given and what is asked:
+We are given:
+L = 60 cm
+v = 345 m.s−1
+f = ?
+Step 2 : To find the frequency we will use the equation f = v but we need
+λ
+to find the wavelength first:
+4L
+λ =
+2n− 1
+4(0,60)
+=
+2(1)− 1
+= 2,4 m
+Step 3 : Now, using the wavelength you have calculated, find the frequency:
+v
+f =
+λ
+345
+=
+2,4
+= 144 Hz
+This is closest to the D below middle C. This note is one of the lowest notes on a
+clarinet.
+Extension: Musical Scale
+The 12 tone scale popular in Western music took centuries to develop. This
+scale is also called the 12-note Equal Tempered scale. It has an octave divided into
+12 steps. (An octave is the main interval of most scales. If you double a frequency,
+you have raised the note one octave.) All steps have equal ratios of frequencies.
+But this scale is not perfect. If the octaves are in tune, all the other intervals are
+slightly mistuned. No interval is badly out of tune. But none is perfect.
+For example, suppose the base note of a scale is a frequency of 110 Hz ( a low
+A). The first harmonic is 220 Hz. This note is also an A, but is one octave higher.
+The second harmonic is at 330 Hz (close to an E). The third is 440 Hz (also an A).
+But not all the notes have such simple ratios. Middle C has a frequency of about
+262 Hz. This is not a simple multiple of 110 Hz. So the interval between C and A
+is a little out of tune.
+Many other types of tuning exist. Just Tempered scales are tuned so that all
+intervals are simple ratios of frequencies. There are also equal tempered scales with
+more or less notes per octave. Some scales use as many as 31 or 53 notes.
+381
+CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11 16.3
+
+A long wavelength has a low frequency and low pitch. If you took your pipe from the last
+
+example and covered one end, you should hear a much lower note! Also, the wavelengths of
+
+the harmonics for this tube are not integer multiples of each other.
+
+Worked Example 108: The Clarinet
+
+Question: A clarinet can be modeled as a wooden pipe closed on one end and open
+
+on the other. The player blows into a small slit on one end. A reed then vibrates in
+
+the mouthpiece. This makes the standing wave in the air. What is the fundamental
+
+frequency of a clarinet 60 cm long? The speed of sound in air is 345 m.s−1.
+
+Answer
+
+Step 1 : Identify what is given and what is asked:
+
+We are given:
+
+L = 60 cm
+
+v = 345 m.s−1
+
+f = ?
+
+Step 2 : To find the frequency we will use the equation f = v but we need
+
+λ
+
+to find the wavelength first:
+
+4L
+
+λ =
+
+2n− 1
+
+4(0,60)
+
+=
+
+2(1)− 1
+
+= 2,4 m
+
+Step 3 : Now, using the wavelength you have calculated, find the frequency:
+
+v
+
+f =
+
+λ
+
+345
+
+=
+
+2,4
+
+= 144 Hz
+
+This is closest to the D below middle C. This note is one of the lowest notes on a
+
+clarinet.
+
+Extension: Musical Scale
+
+The 12 tone scale popular in Western music took centuries to develop. This
+
+scale is also called the 12-note Equal Tempered scale. It has an octave divided into
+
+12 steps. (An octave is the main interval of most scales. If you double a frequency,
+
+you have raised the note one octave.) All steps have equal ratios of frequencies.
+
+But this scale is not perfect. If the octaves are in tune, all the other intervals are
+
+slightly mistuned. No interval is badly out of tune. But none is perfect.
+
+For example, suppose the base note of a scale is a frequency of 110 Hz ( a low
+
+A). The first harmonic is 220 Hz. This note is also an A, but is one octave higher.
+
+The second harmonic is at 330 Hz (close to an E). The third is 440 Hz (also an A).
+
+But not all the notes have such simple ratios. Middle C has a frequency of about
+
+262 Hz. This is not a simple multiple of 110 Hz. So the interval between C and A
+
+is a little out of tune.
+
+Many other types of tuning exist. Just Tempered scales are tuned so that all
+
+intervals are simple ratios of frequencies. There are also equal tempered scales with
+
+more or less notes per octave. Some scales use as many as 31 or 53 notes.
+
+381
+
+16.4 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+

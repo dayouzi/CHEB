@@ -1,0 +1,338 @@
+29.4.1 The Diode
+
+A diode is an electronic device that allows current to flow in one direction only.
+
++ −
+
+direction of current
+
+Figure 29.8: Diode circuit symbol and direction of flow of current.
+
+A diode consists of two doped semi-conductors joined together so that the resistance is low
+
+when connected one way and very high the other way.
+
++ −
+
+− +
+
+Figure 29.9: Operation of a diode. (a) The diode is forward biased and current is permitted.
+
+The negative terminal of the battery is connected to the negative terminal of the diode. (b) The
+
+diode is reverse biased and current flow is not allowed. The negative terminal of the battery is
+
+connected to the positive terminal of the diode.
+
+599
+
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+
+A full explanation of diode operation is complex. Here is a simplified description. The diode
+
+consists of two semiconductor blocks attached together. Neither block is made of pure silicon
+
+- they are both doped. Doping was described in more detail in Section 10.3.
+
+In short, p-type semiconductor has fewer free electrons than normal semiconductor. ‘P' stands
+
+for ‘positive', meaning a lack of electrons, although the material is actually neutral. The
+
+locations where electrons are missing are called holes. This material can conduct electricity
+
+well, because electrons can move into the holes, making a new hole somewhere else in the
+
+material. Any extra electrons introduced into this region by the circuit will fill some or all of
+
+the holes.
+
+In n-type semiconductor, the situation is reversed. The material has an more free electrons
+
+than normal semiconductor. ‘N' stands for ‘negative', meaning an excess of electrons, although
+
+the material is actually neutral.
+
+When a p-type semiconductor is attached to an n-type semiconductor, some of the free
+
+electrons in the n-type move across to the p-type semiconductor. They fill the available holes
+
+near the junction. This means that the region of the n-type semiconductor nearest the junction
+
+has no free electrons (they've moved across to fill the holes). This makes this n-type
+
+semiconductor positively charged. It used to be electrically neutral, but has since lost electrons.
+
+The region of p-type semiconductor nearest the junction now has no holes (they've been filled
+
+in by the migrating electrons). This makes the p-type semiconductor negatively charged. It
+
+used to be electrically neutral, but has since gained electrons.
+
+Without free electrons or holes, the central region can not conduct electricity well. It has a
+
+high resistance, and is called the depletion band. This is shown in Figure 29.10.
+
+You can explain the high resistance in a different way. A free electron in the n-type
+
+semiconductor will be repelled from the p-type semiconductor because of its negative charge.
+
+The electron will not go into the depletion band, and certainly won't cross the band to the
+
+p-type semiconductor. You may ask, "But won't a free electron in the p-type semiconductor be
+
+attracted across the band, carrying a current?" But there are no free electrons in p-type
+
+semiconductor, so no current of this kind can flow.
+
+If the diode is reverse-biased, the + terminal of the battery is connected to the n-type
+
+semiconductor. This makes it even more negatively charged. It also removes even more of the
+
+free electrons near the depletion band. At the same time, the − terminal of the battery is
+
+connected to the p-type silicon. This will supply free electrons and fill in more of the holes next
+
+to the depletion band. Both processes cause the depletion band to get wider. The resistance of
+
+the diode (which was already high) increases. This is why a reverse-biased diode does not
+
+conduct.
+
+Another explanation for the increased resistance is that the battery has made the p-type
+
+semiconductor more negative than it used to be, making it repel any electrons from the n-type
+
+semiconductor which attempt to cross the depletion band.
+
+On the other hand, if the diode is forward biased, the depletion band is made narrower. The
+
+negative charge on the p-type silicon is cancelled out by the battery. The greater the voltage
+
+used, the narrower the depletion band becomes. Eventually, when the voltage is about 0,6 V
+
+(for silicon) the depletion band disappears. Once this has occurred, the diode conducts very
+
+well.
+
+p-type n-type
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+Figure 29.10: A diode consists of two doped semi-conductors joined together so that the resis-
+
+tance is low when connected one way and very high the other way.
+
+600
+
+depletion band
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+A full explanation of diode operation is complex. Here is a simplified description. The diode
+consists of two semiconductor blocks attached together. Neither block is made of pure silicon
+- they are both doped. Doping was described in more detail in Section 10.3.
+In short, p-type semiconductor has fewer free electrons than normal semiconductor. ‘P' stands
+for ‘positive', meaning a lack of electrons, although the material is actually neutral. The
+locations where electrons are missing are called holes. This material can conduct electricity
+well, because electrons can move into the holes, making a new hole somewhere else in the
+material. Any extra electrons introduced into this region by the circuit will fill some or all of
+the holes.
+In n-type semiconductor, the situation is reversed. The material has an more free electrons
+than normal semiconductor. ‘N' stands for ‘negative', meaning an excess of electrons, although
+the material is actually neutral.
+When a p-type semiconductor is attached to an n-type semiconductor, some of the free
+electrons in the n-type move across to the p-type semiconductor. They fill the available holes
+near the junction. This means that the region of the n-type semiconductor nearest the junction
+has no free electrons (they've moved across to fill the holes). This makes this n-type
+semiconductor positively charged. It used to be electrically neutral, but has since lost electrons.
+The region of p-type semiconductor nearest the junction now has no holes (they've been filled
+in by the migrating electrons). This makes the p-type semiconductor negatively charged. It
+used to be electrically neutral, but has since gained electrons.
+Without free electrons or holes, the central region can not conduct electricity well. It has a
+high resistance, and is called the depletion band. This is shown in Figure 29.10.
+You can explain the high resistance in a different way. A free electron in the n-type
+semiconductor will be repelled from the p-type semiconductor because of its negative charge.
+The electron will not go into the depletion band, and certainly won't cross the band to the
+p-type semiconductor. You may ask, "But won't a free electron in the p-type semiconductor be
+attracted across the band, carrying a current?" But there are no free electrons in p-type
+semiconductor, so no current of this kind can flow.
+If the diode is reverse-biased, the + terminal of the battery is connected to the n-type
+semiconductor. This makes it even more negatively charged. It also removes even more of the
+free electrons near the depletion band. At the same time, the − terminal of the battery is
+connected to the p-type silicon. This will supply free electrons and fill in more of the holes next
+to the depletion band. Both processes cause the depletion band to get wider. The resistance of
+the diode (which was already high) increases. This is why a reverse-biased diode does not
+conduct.
+Another explanation for the increased resistance is that the battery has made the p-type
+semiconductor more negative than it used to be, making it repel any electrons from the n-type
+semiconductor which attempt to cross the depletion band.
+On the other hand, if the diode is forward biased, the depletion band is made narrower. The
+negative charge on the p-type silicon is cancelled out by the battery. The greater the voltage
+used, the narrower the depletion band becomes. Eventually, when the voltage is about 0,6 V
+(for silicon) the depletion band disappears. Once this has occurred, the diode conducts very
+well.
+p-type n-type
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+Figure 29.10: A diode consists of two doped semi-conductors joined together so that the resis-
+tance is low when connected one way and very high the other way.
+600
+depletion band
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+
+A full explanation of diode operation is complex. Here is a simplified description. The diode
+
+consists of two semiconductor blocks attached together. Neither block is made of pure silicon
+
+- they are both doped. Doping was described in more detail in Section 10.3.
+
+In short, p-type semiconductor has fewer free electrons than normal semiconductor. ‘P' stands
+
+for ‘positive', meaning a lack of electrons, although the material is actually neutral. The
+
+locations where electrons are missing are called holes. This material can conduct electricity
+
+well, because electrons can move into the holes, making a new hole somewhere else in the
+
+material. Any extra electrons introduced into this region by the circuit will fill some or all of
+
+the holes.
+
+In n-type semiconductor, the situation is reversed. The material has an more free electrons
+
+than normal semiconductor. ‘N' stands for ‘negative', meaning an excess of electrons, although
+
+the material is actually neutral.
+
+When a p-type semiconductor is attached to an n-type semiconductor, some of the free
+
+electrons in the n-type move across to the p-type semiconductor. They fill the available holes
+
+near the junction. This means that the region of the n-type semiconductor nearest the junction
+
+has no free electrons (they've moved across to fill the holes). This makes this n-type
+
+semiconductor positively charged. It used to be electrically neutral, but has since lost electrons.
+
+The region of p-type semiconductor nearest the junction now has no holes (they've been filled
+
+in by the migrating electrons). This makes the p-type semiconductor negatively charged. It
+
+used to be electrically neutral, but has since gained electrons.
+
+Without free electrons or holes, the central region can not conduct electricity well. It has a
+
+high resistance, and is called the depletion band. This is shown in Figure 29.10.
+
+You can explain the high resistance in a different way. A free electron in the n-type
+
+semiconductor will be repelled from the p-type semiconductor because of its negative charge.
+
+The electron will not go into the depletion band, and certainly won't cross the band to the
+
+p-type semiconductor. You may ask, "But won't a free electron in the p-type semiconductor be
+
+attracted across the band, carrying a current?" But there are no free electrons in p-type
+
+semiconductor, so no current of this kind can flow.
+
+If the diode is reverse-biased, the + terminal of the battery is connected to the n-type
+
+semiconductor. This makes it even more negatively charged. It also removes even more of the
+
+free electrons near the depletion band. At the same time, the − terminal of the battery is
+
+connected to the p-type silicon. This will supply free electrons and fill in more of the holes next
+
+to the depletion band. Both processes cause the depletion band to get wider. The resistance of
+
+the diode (which was already high) increases. This is why a reverse-biased diode does not
+
+conduct.
+
+Another explanation for the increased resistance is that the battery has made the p-type
+
+semiconductor more negative than it used to be, making it repel any electrons from the n-type
+
+semiconductor which attempt to cross the depletion band.
+
+On the other hand, if the diode is forward biased, the depletion band is made narrower. The
+
+negative charge on the p-type silicon is cancelled out by the battery. The greater the voltage
+
+used, the narrower the depletion band becomes. Eventually, when the voltage is about 0,6 V
+
+(for silicon) the depletion band disappears. Once this has occurred, the diode conducts very
+
+well.
+
+p-type n-type
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+Figure 29.10: A diode consists of two doped semi-conductors joined together so that the resis-
+
+tance is low when connected one way and very high the other way.
+
+600
+
+depletion band
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.4
+
+Exercise: The Diode
+
+1. What is a diode?
+
+2. What is a diode made of?
+
+3. What is the term which means that a diode is connected the ‘wrong way' and
+
+little current is flowing?
+
+4. Why is a diode able to conduct electricity in one direction much more easily
+
+than the other?
+

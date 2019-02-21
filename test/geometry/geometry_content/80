@@ -1,0 +1,226 @@
+8.3 Applications of the Pythagorean Theorem
+
+Here you'll learn how to use the Pythagorean Theorem to find the altitude of an isosceles triangle and to determine
+
+if a triangle is acute, obtuse, or right.
+
+What if you were given an equilateral triangle in which all the sides measured 4 inches? How could you use the
+
+Pythagorean Theorem to find the triangle's altitude? After completing this Concept, you'll be able to solve problems
+
+like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136642
+
+CK-12 Foundation: Applications of the Pythagorean Theorem
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1364
+
+James Sousa: Pythagorean Theorem and Its Converse
+
+Guidance
+
+Find the Height of an Isosceles Triangle
+
+One way to use The Pythagorean Theorem is to find the height of an isosceles triangle (see Example A).
+
+419
+
+8.3. Applications of the Pythagorean Theorem www.ck12.org
+
+Prove the Distance Formula
+
+Another application of the Pythagorean Theorem is the Distance Formula. We will prove it here.
+
+Let's start with point A(x1,y1) and point B(x2,y2). We will call the distance between A and B,d.
+
+Draw the vertical and horizontal lengths to make a right triangle.
+
+Now that we have a right triangle, we can use the Pythagorean Theorem to find the hypotenuse, d.
+
+d2 = (√x1− x2)2 +(y1− y2)2
+
+d = (x1− x2)2 +(y1− y2)2√
+
+Distance Formula: The distance between A(x1,y1) and B(x2,y2) is d = (x1− x2)2 +(y1− y2)2.
+
+Classify a Triangle as Acute, Right, or Obtuse
+
+We can extend the converse of the Pythagorean Theorem to determine if a triangle is an obtuse or acute triangle.
+
+Acute Triangles: If the sum of the squares of the two shorter sides in a right triangle is greater than the square of
+
+the longest side, then the triangle is acute.
+
+420
+8.3. Applications of the Pythagorean Theorem www.ck12.org
+Prove the Distance Formula
+Another application of the Pythagorean Theorem is the Distance Formula. We will prove it here.
+Let's start with point A(x1,y1) and point B(x2,y2). We will call the distance between A and B,d.
+Draw the vertical and horizontal lengths to make a right triangle.
+Now that we have a right triangle, we can use the Pythagorean Theorem to find the hypotenuse, d.
+d2 = (√x1− x2)2 +(y1− y2)2
+d = (x1− x2)2 +(y1− y2)2√
+Distance Formula: The distance between A(x1,y1) and B(x2,y2) is d = (x1− x2)2 +(y1− y2)2.
+Classify a Triangle as Acute, Right, or Obtuse
+We can extend the converse of the Pythagorean Theorem to determine if a triangle is an obtuse or acute triangle.
+Acute Triangles: If the sum of the squares of the two shorter sides in a right triangle is greater than the square of
+the longest side, then the triangle is acute.
+420
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+For b < c and a < c, if a2 +b2 > c2, then the triangle is acute.
+Obtuse Triangles: If the sum of the squares of the two shorter sides in a right triangle is less than the square of the
+longest side, then the triangle is obtuse.
+For b < c and a < c, if a2 +b2 < c2, then the triangle is obtuse.
+Example A
+What is the height of the isosceles triangle?
+Draw the altitude from the vertex between the congruent sides, which will bisect the base.
+72 +h2 = 92
+49+h2 = 81
+h2 = 3√2 √ √
+h = 32 = 16 ·2 = 4 2
+Example B
+Find the distance between (1, 5) and (5, 2).
+Make A(1,5) and B(5,2). Plug into the distance formula.
+√
+d = √(1−5)2 +(5−2)2
+= (−4)2 +(3)2
+√ √
+= 16+9 = 25 = 5
+421
+8.3. Applications of the Pythagorean Theorem www.ck12.org
+Just like the lengths of the sides of a triangle, distances are always positive.
+Example C
+Graph A(−4,1),B(3,8), and C(9,6). Determine if4ABC is acute, obtuse, or right.
+Use the distance formula to find the length of each side.
+√
+AB √ √= (−4− √3)2 +(1−8)2 = 49+49 = 98√
+BC = √(3−9)2 +(8− √6)2 = 36+4 = 40√
+AC = (−4− √9)2 +(1−6)2 = 169+25 = 194
+Plug these lengths into the Pythagorean Theorem.
+(√ )2 (√ )2 (√ )2
+98 + 40 ? 194
+98+40 ? 194
+138 < 194
+4ABC is an obtuse triangle.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136643
+CK-12 Foundation: Applications of the Pythagorean Theorem
+->
+422
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+Guided Practice
+Determine if the following triangles are acute, right or obtuse.
+1.
+2.
+3. A triangle with side lengths 5, 12, 13.
+Answers:
+Set the longest side equal to c.
+1. ( √ )2
+62 + 3 5 ? 82
+36+45 ? 64
+81 > 64
+The triangle is acute.
+2.
+152 +142 ? 212
+225+196 ? 441
+421 < 441
+The triangle is obtuse.
+3. 52 +122 = 132 so this triangle is right.
+Explore More
+Find the height of each isosceles triangle below. Simplify all radicals.
+423
+8.3. Applications of the Pythagorean Theorem www.ck12.org
+1.
+2.
+3.
+Find the length between each pair of points.
+4. (-1, 6) and (7, 2)
+5. (10, -3) and (-12, -6)
+6. (1, 3) and (-8, 16)
+7. What are the length and width of a 42" HDTV? Round your answer to the nearest tenth.
+8. Standard definition TVs have a length and width ratio of 4:3. What are the length and width of a 42" Standard
+definition TV? Round your answer to the nearest tenth.
+Determine whether the following triangles are acute, right or obtuse.
+9. 7, 8, 9
+10. 14, 48, 50
+11. 5, 12, 15
+12. 13, 84, 85
+13. 20, 20, 24
+14. 35, 40, 51
+15. 39, 80, 89
+16. 20, 21, 38
+17. 48, 55, 76
+Graph each set of points and determine whether4ABC is acute, right, or obtuse, using the distance formula.
+18. A(3,−5),B(−5,−8),C(−2,7)
+19. A(5,3),B(2,−7),C(−1,5)
+20. A(1,6),B(5,2),C(−2,3)
+21. A(−6,1),B(−4,−5),C(5,−2)
+424
+8.3. Applications of the Pythagorean Theorem www.ck12.org
+
+1.
+
+2.
+
+3.
+
+Find the length between each pair of points.
+
+4. (-1, 6) and (7, 2)
+
+5. (10, -3) and (-12, -6)
+
+6. (1, 3) and (-8, 16)
+
+7. What are the length and width of a 42" HDTV? Round your answer to the nearest tenth.
+
+8. Standard definition TVs have a length and width ratio of 4:3. What are the length and width of a 42" Standard
+
+definition TV? Round your answer to the nearest tenth.
+
+Determine whether the following triangles are acute, right or obtuse.
+
+9. 7, 8, 9
+
+10. 14, 48, 50
+
+11. 5, 12, 15
+
+12. 13, 84, 85
+
+13. 20, 20, 24
+
+14. 35, 40, 51
+
+15. 39, 80, 89
+
+16. 20, 21, 38
+
+17. 48, 55, 76
+
+Graph each set of points and determine whether4ABC is acute, right, or obtuse, using the distance formula.
+
+18. A(3,−5),B(−5,−8),C(−2,7)
+
+19. A(5,3),B(2,−7),C(−1,5)
+
+20. A(1,6),B(5,2),C(−2,3)
+
+21. A(−6,1),B(−4,−5),C(5,−2)
+
+424
+
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+

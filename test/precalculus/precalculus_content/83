@@ -1,0 +1,166 @@
+11.6 POLAR EQUATIONS OF CONICS
+A Unified Geometric Description of Conics ! Polar Equations of Conics
+! A Unified Geometric Description of Conics
+Earlier in this chapter, we defined a parabola in terms of a focus and directrix, but we
+defined the ellipse and hyperbola in terms of two foci. In this section we give a more
+unified treatment of all three types of conics in terms of a focus and directrix. If we place
+the focus at the origin, then a conic section has a simple polar equation. Moreover, in po-
+lar form, rotation of conics becomes a simple matter. Polar equations of ellipses are cru-
+cial in the derivation of Kepler's Laws (see page 754).
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+766 C H A P T E R  1 1 | Conic Sections
+EQUIVALENT DESCRIPTION OF CONICS
+Let F be a fixed point (the focus), / a fixed line (the directrix), and let e be a
+fixed positive number (the eccentricity). The set of all points P such that the ra-
+tio of the distance from P to F to the distance from P to / is the constant e is a
+conic. That is, the set of all points P such that
+d1P, F 2
+d1P, / 2 " e
+is a conic. The conic is a parabola if e " 1, an ellipse if e % 1, or a hyperbola if
+e $ 1.
+y P R O O F If e " 1, then d1P, F 2 " d1P, / 2 , and so the given condition becomes the
+! (Directrix) definition of a parabola as given in Section 11.1.
+P Now, suppose e - 1. Let's place the focus F at the origin and the directrix parallel 
+to the y-axis and d units to the right. In this case the directrix has equation x " d and 
+r x=d is
+d1 perpendicular to the polar axis. If the point P has polar coordinates , we see from Figure 1 that P, F 2 /d1 d1P, / 2 " dP, / 2 " e " e # d1P, / 2 r, u 2¨ d1 1P, F 2 " r and # r cos u. Thus the conditionF , or d1P, F 2 , becom
+r ç ¨ x
+r " e1d # r cos u 2es
+d If we square both sides of this polar equation and convert to rectangular coordinates,
+we get
+ x2 ! y2 " e21d # x 2 2
+a 11 # e
+2 2x2 ! 2de2x ! y2 " e2d 2 Expand and simplify
+F I G U R E  1
+e2d e2d 2
+x ! b 2 y2
+1 # e2
+!
+1 # e2
+" 1 Divide by 1 # e2 and complete1 # e2 2 2 the square
+If e % 1, then dividing both sides of this equation by e2d 2/ 11 # e2 2 2 gives an equation of
+the form 1x # h 2 2 y2
+a2
+!
+b2
+" 1
+where
+#e2d 2 2
+h "    a2
+1 # e2 1 e d"    b2 e2d 2"1 1# e2 1 # e2h,  0 22 2This is the equation of an ellipse with center . In Section 11.2 we found that the foci
+of an ellipse are a distance c from the center, where c2 " a2 # b2. In our case
+4
+c2 a2 1 e d 2# b2 " 1 # e2 2 2
+Thus c " e2d/ 11 # e2 2 "" #h, which confirms that the focus defined in the theorem
+(namely the origin) is the same as the focus defined in Section 11.2. It also follows that
+c
+e "
+a
+If e $ 1, a similar proof shows that the conic is a hyperbola with e " c/a, where 
+c2 " a2 ! b2. "
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+766 C H A P T E R  1 1 | Conic Sections
+EQUIVALENT DESCRIPTION OF CONICS
+Let F be a fixed point (the focus), / a fixed line (the directrix), and let e be a
+fixed positive number (the eccentricity). The set of all points P such that the ra-
+tio of the distance from P to F to the distance from P to / is the constant e is a
+conic. That is, the set of all points P such that
+d1P, F 2
+d1P, / 2 " e
+is a conic. The conic is a parabola if e " 1, an ellipse if e % 1, or a hyperbola if
+e $ 1.
+y P R O O F If e " 1, then d1P, F 2 " d1P, / 2 , and so the given condition becomes the
+! (Directrix) definition of a parabola as given in Section 11.1.
+P Now, suppose e - 1. Let's place the focus F at the origin and the directrix parallel 
+to the y-axis and d units to the right. In this case the directrix has equation x " d and 
+r x=d is
+d1 perpendicular to the polar axis. If the point P has polar coordinates , we see from Figure 1 that P, F 2 /d1 d1P, / 2 " dP, / 2 " e " e # d1P, / 2 r, u 2¨ d1 1P, F 2 " r and # r cos u. Thus the conditionF , or d1P, F 2 , becom
+r ç ¨ x
+r " e1d # r cos u 2es
+d If we square both sides of this polar equation and convert to rectangular coordinates,
+we get
+ x2 ! y2 " e21d # x 2 2
+a 11 # e
+2 2x2 ! 2de2x ! y2 " e2d 2 Expand and simplify
+F I G U R E  1
+e2d e2d 2
+x ! b 2 y2
+1 # e2
+!
+1 # e2
+" 1 Divide by 1 # e2 and complete1 # e2 2 2 the square
+If e % 1, then dividing both sides of this equation by e2d 2/ 11 # e2 2 2 gives an equation of
+the form 1x # h 2 2 y2
+a2
+!
+b2
+" 1
+where
+#e2d 2 2
+h "    a2
+1 # e2 1 e d"    b2 e2d 2"1 1# e2 1 # e2h,  0 22 2This is the equation of an ellipse with center . In Section 11.2 we found that the foci
+of an ellipse are a distance c from the center, where c2 " a2 # b2. In our case
+4
+c2 a2 1 e d 2# b2 " 1 # e2 2 2
+Thus c " e2d/ 11 # e2 2 "" #h, which confirms that the focus defined in the theorem
+(namely the origin) is the same as the focus defined in Section 11.2. It also follows that
+c
+e "
+a
+If e $ 1, a similar proof shows that the conic is a hyperbola with e " c/a, where 
+c2 " a2 ! b2. "
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 11.6 | Polar Equations of Conics 767
+! Polar Equations of Conics
+In the proof we saw that the polar equation of the conic in Figure 1 is r " e1d # r cos u 2 .
+Solving for r, we get
+ed
+r "
+1 ! e cos u
+If the dir
+r " ed/ 1ectrix is chosen to be to the left of the focus 1 # e cos u 2 1x " #d 2 , then we get the equation. If the directrix is parallel to the polar axis 1y " d or y " #d 2 , then
+we get sin u instead of cos u in the equation. These observations are summarized in the
+following box and in Figure 2.
+POL AR EQUATIONS OF CONICS
+A polar equation of the form
+ed ed
+r "   or  r "
+1 & e cos u 1 & e sin u
+represents a conic with one focus at the origin and with eccentricity e. The conic is
+1. a parabola if e " 1
+2. an ellipse if 0 % e % 1
+3. a hyperbola if e $ 1
+y y y y
+y=d             Directrix Axis
+x=d x=_d
+Directrix Directrix
+Axis
+F x Axis F x F x F x
+Axis y=_d           Directrix
+(a)  r= ed1+e ç ¨ (b)  r=
+ed
+1-e ç ¨ (c)  r=
+ed
+1+e ß ¨ (d)  r=
+ed
+1-e ß ¨
+F I G U R E  2 The form of the polar equation of a conic indicates the location of the directrix.
+To graph the polar equation of a conic, we first determine the location of the directrix
+from the form of the equation. The four cases that arise are shown in Figure 2. (The figure
+shows only the parts of the graphs that are close to the focus at the origin. The shape of
+the rest of the graph depends on whether the equation represents a parabola, an ellipse, or
+a hyperbola.) The axis of a conic is perpendicular to the directrix-specifically we have
+the following:
+1. For a parabola the axis of symmetry is perpendicular to the directrix.
+2. For an ellipse the major axis is perpendicular to the directrix.
+3. For a hyperbola the transverse axis is perpendicular to the directrix.
+E X A M P L E  1 Finding a Polar Equation for a Conic
+Find a polar equation for the parabola that has its focus at the origin and whose directrix
+is the line y " #6.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+768 C H A P T E R  1 1 | Conic Sections
+S O L U T I O N Using e " 1 and d " 6 and using part (d) of Figure 2, we see that the po-
+lar equation of the parabola is
+6
+r "
+1 # sin u

@@ -1,0 +1,18 @@
+20.4.5 Reverse biased
+
+N P
+
+in this case the external field pushes e- back to the n-region while more holes into the p-region,
+
+as a result you get no current flow. Only the small number of thermally released minority
+
+carriers (holes in the n-type region and e- in the p-type region) will be able to cross the
+
+junction and form a very small current, but for all practical purposes, this can be ignored
+
+of course if the reverse biased potential is large enough you get avalanche break down and
+
+current flow in the opposite direction. In many cases, except for Zener diodes, you most likely
+
+will destroy the diode.
+

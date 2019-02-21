@@ -1,0 +1,164 @@
+7.5.5 Concave Mirrors
+
+The first type of curved mirror we will study are concave mirrors. Concave mirrors have the shape
+
+shown in Figure 7.17. As with a plane mirror, the principal axis is a line that is perpendicular to
+
+the centre of the mirror.
+
+If you think of light reflecting off a concave mirror, you will immediately see that things will look
+
+very different compared to a plane mirror. The easiest way to understand what will happen is
+
+to draw a ray diagram and work out where the images will form. Once we have done that it is
+
+easy to see what properties the image has.
+
+First we need to define a very important characteristic of the mirror. We have seen that the
+
+centre of curvature is the centre of the sphere from which the mirror is cut. We then define that
+
+150
+
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.5
+
+reflective surface
+
+concave mirror
+
+centre of
+
+curvature
+
+Principal Axis b
+
+reflective surface
+
+convex mirror
+
+Figure 7.16: When a sphere is cut and then polished to a reflective surface on the inside a
+
+concave mirror is obtained. When the outside is polished to a reflective surface, a convex mirror
+
+is obtained.
+
+focal length
+
+Principal Axis
+
+O focal point
+
+Figure 7.17: Concave mirror with principal axis.
+
+151
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.5
+reflective surface
+concave mirror
+centre of
+curvature
+Principal Axis b
+reflective surface
+convex mirror
+Figure 7.16: When a sphere is cut and then polished to a reflective surface on the inside a
+concave mirror is obtained. When the outside is polished to a reflective surface, a convex mirror
+is obtained.
+focal length
+Principal Axis
+O focal point
+Figure 7.17: Concave mirror with principal axis.
+151
+7.5 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+a distance that is half-way between the centre of curvature and the mirror on the principal axis.
+This point is known as the focal point and the distance from the focal point to the mirror is
+known as the focal length (symbol f). Since the focal point is the midpoint of the line segment
+joining the vertex and the center of curvature, the focal length would be one-half the radius of
+curvature. This fact can come in very handy, remember if you know one then you know the
+other!
+Definition: Focal Point
+The focal point of a mirror is the midpoint of a line segment joining the vertex and the
+centre of curvature. It is the position at which all parallel rays are focussed.
+Why are we making such a big deal about this point we call the focal point? It has an important
+property we will use often. A ray parallel to the principal axis hitting the mirror will always be
+reflected through the focal point. The focal point is the position at which all parallel rays are
+focussed.
+focal point
+Figure 7.18: All light rays pass through the focal point.
+B
+ImagAe'
+F A
+Focus Object
+B'
+Figure 7.19: A concave mirror with three rays drawn to locate the image. Each incident ray
+is reflected according to the Law of Reflection. The intersection of the reflected rays gives the
+location of the image. Here the image is real and inverted.
+From Figure 7.19, we see that the image created by a concave mirror is real and inverted, as
+compared to the virtual and erect image created by a plane mirror.
+152
+7.5 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+
+a distance that is half-way between the centre of curvature and the mirror on the principal axis.
+
+This point is known as the focal point and the distance from the focal point to the mirror is
+
+known as the focal length (symbol f). Since the focal point is the midpoint of the line segment
+
+joining the vertex and the center of curvature, the focal length would be one-half the radius of
+
+curvature. This fact can come in very handy, remember if you know one then you know the
+
+other!
+
+Definition: Focal Point
+
+The focal point of a mirror is the midpoint of a line segment joining the vertex and the
+
+centre of curvature. It is the position at which all parallel rays are focussed.
+
+Why are we making such a big deal about this point we call the focal point? It has an important
+
+property we will use often. A ray parallel to the principal axis hitting the mirror will always be
+
+reflected through the focal point. The focal point is the position at which all parallel rays are
+
+focussed.
+
+focal point
+
+Figure 7.18: All light rays pass through the focal point.
+
+B
+
+ImagAe'
+
+F A
+
+Focus Object
+
+B'
+
+Figure 7.19: A concave mirror with three rays drawn to locate the image. Each incident ray
+
+is reflected according to the Law of Reflection. The intersection of the reflected rays gives the
+
+location of the image. Here the image is real and inverted.
+
+From Figure 7.19, we see that the image created by a concave mirror is real and inverted, as
+
+compared to the virtual and erect image created by a plane mirror.
+
+152
+
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.5
+
+Definition: Real Image
+
+A real image can be cast on a screen; it is inverted, and on the same side of the mirror as
+
+the object.
+
+Extension: Convergence
+
+A concave mirror is also known as a converging mirror. Light rays appear to converge
+
+to the focal point of a concave mirror.
+

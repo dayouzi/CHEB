@@ -1,0 +1,144 @@
+19.2.2 Ohmic and non-ohmic conductors
+
+As you have seen, there is a mention of constant temperature when we talk about Ohm's Law.
+
+This is because the resistance of some conductors change as their temperature changes. These
+
+types of conductors are called non-ohmic conductors, because they do not obey Ohm's Law.
+
+As can be expected, the conductors that obey Ohm's Law are called ohmic conductors. A light
+
+bulb is a common example of a non-ohmic conductor. Nichrome wire is an ohmic conductor.
+
+In a light bulb, the resistance of the filament wire will increase dramatically as it warms from
+
+room temperature to operating temperature. If we increase the supply voltage in a real lamp
+
+circuit, the resulting increase in current causes the filament to increase in temperature, which
+
+increases its resistance. This effectively limits the increase in current. In this case, voltage and
+
+current do not obey Ohm's Law.
+
+The phenomenon of resistance changing with variations in temperature is one shared by almost
+
+all metals, of which most wires are made. For most applications, these changes in resistance
+
+are small enough to be ignored. In the application of metal lamp filaments, which increase a lot
+
+in temperature (up to about 1000◦C, and starting from room temperature) the change is quite
+
+large.
+
+In general non-ohmic conductors have plots of voltage against current that are curved,
+
+indicating that the resistance is not constant over all values of voltage and current.
+
+4
+
+3
+
+2 V vs. I for a non-ohmic conductor
+
+1
+
+0
+
+0 1 2 3 4
+
+Current, I (A)
+
+Activity :: Experiment : Ohmic and non-ohmic conductors
+
+Repeat the experiment as decribed in the previous section. In this case use a
+
+light bulb as a resistor. Compare your results to the ohmic resistor.
+
+431
+
+Voltage, V (V) Voltage, V (V)
+
+19.2 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.2
+
+4 R = ∆V∆I
+
+3
+
+∆V
+
+2
+
+∆I
+
+1
+
+0
+
+0 1 2 3 4
+
+Current, I (A)
+
+19.2.2 Ohmic and non-ohmic conductors
+
+As you have seen, there is a mention of constant temperature when we talk about Ohm's Law.
+
+This is because the resistance of some conductors change as their temperature changes. These
+
+types of conductors are called non-ohmic conductors, because they do not obey Ohm's Law.
+
+As can be expected, the conductors that obey Ohm's Law are called ohmic conductors. A light
+
+bulb is a common example of a non-ohmic conductor. Nichrome wire is an ohmic conductor.
+
+In a light bulb, the resistance of the filament wire will increase dramatically as it warms from
+
+room temperature to operating temperature. If we increase the supply voltage in a real lamp
+
+circuit, the resulting increase in current causes the filament to increase in temperature, which
+
+increases its resistance. This effectively limits the increase in current. In this case, voltage and
+
+current do not obey Ohm's Law.
+
+The phenomenon of resistance changing with variations in temperature is one shared by almost
+
+all metals, of which most wires are made. For most applications, these changes in resistance
+
+are small enough to be ignored. In the application of metal lamp filaments, which increase a lot
+
+in temperature (up to about 1000◦C, and starting from room temperature) the change is quite
+
+large.
+
+In general non-ohmic conductors have plots of voltage against current that are curved,
+
+indicating that the resistance is not constant over all values of voltage and current.
+
+4
+
+3
+
+2 V vs. I for a non-ohmic conductor
+
+1
+
+0
+
+0 1 2 3 4
+
+Current, I (A)
+
+Activity :: Experiment : Ohmic and non-ohmic conductors
+
+Repeat the experiment as decribed in the previous section. In this case use a
+
+light bulb as a resistor. Compare your results to the ohmic resistor.
+
+431
+
+Voltage, V (V) Voltage, V (V)
+
+19.2 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+

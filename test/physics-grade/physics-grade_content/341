@@ -1,0 +1,136 @@
+20.4.4 Forward biased
+
+Forward-bias occurs when the p-type semiconductor material is connected to the positive
+
+terminal of a battery and the n-type semiconductor material is connected to the negative
+
+terminal.
+
+457
+
+depletion band
+
+20.4 CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11
+
+P N
+
+The electric field from the external potential different can easily overcome the small internal
+
+field (in the so-called depletion region, created by the initial drifting of charges): usually
+
+anything bigger than 0.6V would be enough. The external field then attracts more e- to flow
+
+from n-region to p-region and more holes from p-region to n-region and you have a forward
+
+biased situation. the diode is ON.
+
+CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11 20.4
+
+E In
+
+F Bi
+
+20.4 The p-n junction
+
+20.4.1 Differences between p- and n-type semi-conductors
+
+We have seen that the addition of specific elements to semiconductor materials turns them into
+
+p-type semiconductors or n-type semiconductors. The differences between n- and p-type
+
+semiconductors are summarised in Table ??.
+
+20.4.2 The p-n Junction
+
+When p-type and n-type semiconductors are placed in contact with each other, a p-n junction
+
+is formed. Near the junction, electrons and holes combine to create a depletion region.
+
+p-type n-type
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+Figure 20.4: The p-n junction forms between p- and n-type semiconductors. The free electrons
+
+from the n-type material combine with the holes in the p-type material near the junction. There
+
+is a small potential difference across the junction. The area near the junction is called the
+
+depletion region because there are few holes and few free electrons in this region.
+
+Electric current flows more easily across a p-n junction in one direction than in the other. If the
+
+positive pole of a battery is connected to the p-side of the junction, and the negative pole to
+
+the n-side, charge flows across the junction. If the battery is connected in the opposite
+
+direction, very little charge can flow.
+
+This might not sound very useful at first but the p-n junction forms the basis for computer
+
+chips, solar cells, and other electronic devices.
+
+20.4.3 Unbiased
+
+In a p-n junction, without an external applied voltage (no bias), an equilibrium condition is
+
+reached in which a potential difference is formed across the junction.
+
+P-type is where you have more "holes"; N-type is where you have more electrons in the
+
+material. Initially, when you put them together to form a junction, holes near the junction
+
+tends to "move" across to the N-region, while the electrons in the N-region drift across to the
+
+p-region to "fill" some holes. This current will quickly stop as the potential barrier is built up
+
+by the migrated charges. So in steady state no current flows.
+
+Then now when you put a potential different across the terminals you have two cases: forward
+
+biased and reverse biased.
+
+20.4.4 Forward biased
+
+Forward-bias occurs when the p-type semiconductor material is connected to the positive
+
+terminal of a battery and the n-type semiconductor material is connected to the negative
+
+terminal.
+
+457
+
+depletion band
+
+20.4 CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11
+
+P N
+
+The electric field from the external potential different can easily overcome the small internal
+
+field (in the so-called depletion region, created by the initial drifting of charges): usually
+
+anything bigger than 0.6V would be enough. The external field then attracts more e- to flow
+
+from n-region to p-region and more holes from p-region to n-region and you have a forward
+
+biased situation. the diode is ON.
+

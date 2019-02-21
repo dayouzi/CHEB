@@ -1,0 +1,214 @@
+1.12 Polygon Classification
+
+Here you'll learn how to classify a polygon based on its sides. You'll also learn how to decide whether a polygon is
+
+convex or concave.
+
+What if you were told how many sides a polygon has? How would you describe the polygon based on that
+
+information? After completing this Concept, you'll be able to classify a polygon according to its shape and the
+
+number of sides it has.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136719
+
+CK-12 Classifying a Polygon
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1281
+
+James Sousa: Introduction to Polygons
+
+Then watch the first part of this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1282
+
+James Sousa: Classifying Polygons
+
+Guidance
+
+A polygon is any closed, 2-dimensional figure that is made entirely of line segments that intersect at their endpoints.
+
+Polygons can have any number of sides and angles, but the sides can never be curved. The segments are called the
+
+sides of the polygons, and the points where the segments intersect are called vertices.
+
+57
+
+1.12. Polygon Classification www.ck12.org
+
+Polygons can be either convex or concave. The term concave refers to a cave, or the polygon is "caving in". All
+
+stars are concave polygons.
+
+A convex polygon does not cave in. Convex polygons look like:
+
+A diagonal is a non-side line segment that connects two vertices of a convex polygon.
+
+The red line segments are all diagonals. This pentagon has 5 diagonals.
+
+Whether a polygon is convex or concave, it is always named by the number of sides. Explore the relationship
+
+between the number of sides of a convex polygon and its diagonals. Can you complete the table?
+
+TABLE 1.8:
+
+Polygon Name Number of Sides Number of Diagonals Convex Example
+
+Triangle 3 0
+
+Quadrilateral 4 2
+
+Pentagon 5 5
+
+58
+1.12. Polygon Classification www.ck12.org
+Polygons can be either convex or concave. The term concave refers to a cave, or the polygon is "caving in". All
+stars are concave polygons.
+A convex polygon does not cave in. Convex polygons look like:
+A diagonal is a non-side line segment that connects two vertices of a convex polygon.
+The red line segments are all diagonals. This pentagon has 5 diagonals.
+Whether a polygon is convex or concave, it is always named by the number of sides. Explore the relationship
+between the number of sides of a convex polygon and its diagonals. Can you complete the table?
+TABLE 1.8:
+Polygon Name Number of Sides Number of Diagonals Convex Example
+Triangle 3 0
+Quadrilateral 4 2
+Pentagon 5 5
+58
+www.ck12.org Chapter 1. Basics of Geometry
+TABLE 1.8: (continued)
+Polygon Name Number of Sides Number of Diagonals Convex Example
+Hexagon 6 9
+Heptagon 7 ?
+Octagon 8 ?
+Nonagon 9 ?
+Decagon 10 ?
+Undecagon or 11 ?
+hendecagon
+Dodecagon 12 ?
+59
+1.12. Polygon Classification www.ck12.org
+TABLE 1.8: (continued)
+Polygon Name Number of Sides Number of Diagonals Convex Example
+n-gon n (where n > 12) ?
+Example A
+Which of the figures below is a polygon?
+The easiest way to identify the polygon is to identify which shapes are not polygons. B and C each have at least one
+curved side, so they are not be polygons. D has all straight sides, but one of the vertices is not at the endpoint, so it
+is not a polygon. A is the only polygon.
+Example B
+Determine if the shapes below are convex or concave.
+To see if a polygon is concave, look at the polygons and see if any angle "caves in" to the interior of the polygon.
+The first polygon does not do this, so it is convex. The other two do, so they are concave.
+Example C
+Name the three polygons below by their number of sides and if it is convex or concave.
+The pink polygon is a concave hexagon (6 sides).
+The green polygon convex pentagon (5 sides).
+60
+www.ck12.org Chapter 1. Basics of Geometry
+The yellow polygon is a convex decagon (10 sides).
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136720
+CK-12 Classifying a Polygon
+->
+Guided Practice
+1. Which of the figures below is not a polygon?
+2. How many diagonals does a 7-sided polygon have?
+3. True or false: A quadrilateral is always a square.
+Answers:
+1. C is a three-dimensional shape, so it does not lie within one plane, so it is not a polygon.
+2. Draw a 7-sided polygon, also called a heptagon.
+Drawing in all the diagonals and counting them, we see there are 14.
+3. False. Only quadrilaterals with four congruent sides and four right angles will be squares. There are many
+quadrilaterals (such as rectangles, kites, parallelograms, trapezoids, etc.) that are not necessarily squares.
+Explore More
+In problems 1-6, name each polygon in as much detail as possible.
+61
+1.12. Polygon Classification www.ck12.org
+1.
+2.
+3.
+4.
+5.
+6.
+7. Explain why the following figures are NOT polygons:
+8. How many diagonals can you draw from one vertex of a pentagon? Draw a sketch of your answer.
+9. How many diagonals can you draw from one vertex of an octagon? Draw a sketch of your answer.
+10. How many diagonals can you draw from one vertex of a dodecagon?
+11. Determine the number of total diagonals for an octagon, nonagon, decagon, undecagon, and dodecagon.
+62
+www.ck12.org Chapter 1. Basics of Geometry
+For 12-14, determine if the statement is true or false.
+12. A polygon must be enclosed.
+13. A star is a convex polygon.
+14. A 5-point star is a decagon
+Summary
+This chapter begins with the basic components of Euclidean Geometry. From the introductory definition of points,
+lines, and planes it builds to a discussion of classifying figures such as angles, triangles, and polygons. Measurement
+of distances and angles are also covered. Different types of angle relationships are compared and explored, such as
+complementary angles, supplementary angles and linear pairs.
+63
+www.ck12.org Chapter 1. Basics of Geometry
+
+For 12-14, determine if the statement is true or false.
+
+12. A polygon must be enclosed.
+
+13. A star is a convex polygon.
+
+14. A 5-point star is a decagon
+
+Summary
+
+This chapter begins with the basic components of Euclidean Geometry. From the introductory definition of points,
+
+lines, and planes it builds to a discussion of classifying figures such as angles, triangles, and polygons. Measurement
+
+of distances and angles are also covered. Different types of angle relationships are compared and explored, such as
+
+complementary angles, supplementary angles and linear pairs.
+
+63
+
+www.ck12.org
+
+CHAPTER 2 Reasoning and Proof
+
+Chapter Outline
+
+2.1 INDUCTIVE REASONING FROM PATTERNS
+
+2.2 DEDUCTIVE REASONING
+
+2.3 IF-THEN STATEMENTS
+
+2.4 CONVERSE, INVERSE, AND CONTRAPOSITIVE
+
+2.5 CONJECTURES AND COUNTEREXAMPLES
+
+2.6 PROPERTIES OF EQUALITY AND CONGRUENCE
+
+2.7 TWO-COLUMN PROOFS
+
+Introduction
+
+This chapter explains how to use reasoning to prove theorems about angle pairs and segments. This chapter also
+
+introduces the properties of congruence, which will be used in 2-column proofs.
+
+64

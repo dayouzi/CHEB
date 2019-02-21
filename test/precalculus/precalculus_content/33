@@ -1,0 +1,61 @@
+4.5 EXPONENTIAL AND LOGARITHMIC EQUATIONS
+Exponential Equations ! Logarithmic Equations ! Compound Interest
+In this section we solve equations that involve exponential or logarithmic functions. The
+techniques that we develop here will be used in the next section for solving applied
+problems.
+! Exponential Equations
+An exponential equation is one in which the variable occurs in the exponent. For example,
+2x ! 7
+The variable x presents a difficulty because it is in the exponent. To deal with this
+difficulty, we take the logarithm of each side and then use the Laws of Logarithms to
+"bring down x" from the exponent.
+ 2x ! 7 Given equation
+ ln x 2 ! ln 7 Take ln of each side
+ x ln 2 ! ln 7 Law 3 (bring down exponent)
+ln 7
+ x ! Solve for x
+ln 2
+ ! 2.807 Calculator
+Recall that Law 3 of the Laws of Logarithms says that loga AC ! C loga A.
+The method that we used to solve 2x ! 7 is typical of how we solve exponential equa-
+tions in general.
+GUIDELINES FOR SOLVING EXPONENTIAL EQUATIONS
+1. Isolate the exponential expression on one side of the equation.
+2. Take the logarithm of each side, then use the Laws of Logarithms to "bring
+down the exponent."
+3. Solve for the variable.
+E X A M P L E  1 | Solving an Exponential Equation
+Find the solution of the equation 3x&2 ! 7, rounded to six decimal places.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+332 C H A P T E R  4 | Exponential and Logarithmic Functions
+S O L U T I O N We take the common logarithm of each side and use Law 3.
+ 
+ log1 3x&2 ! 7 Given equation
+ 1 3x&2 2 ! log 7 Take log of each sideWe could have used natural logarithmsinstead of common logarithms. In x & 2 2 log 3 ! log 7 Law 3 (bring down exponent)
+fact, using the same steps, we get log 7
+ x & 2 ! Divide by log 3
+ln 7 log 3
+x ! $ 2 ! $0.228756
+ln 3 log 7
+ x ! $ 2 Subtract 2
+log 3
+ ! $0.228756 Calculator
+C H E C K  Y O U R  A N S W E R
+Substituting x ! $0.228756 into the original equation and using a calculator, we get
+31$0.2287562&2 ! 7 $
+332 C H A P T E R  4 | Exponential and Logarithmic Functions
+S O L U T I O N We take the common logarithm of each side and use Law 3.
+ 
+ log1 3x&2 ! 7 Given equation
+ 1 3x&2 2 ! log 7 Take log of each sideWe could have used natural logarithmsinstead of common logarithms. In x & 2 2 log 3 ! log 7 Law 3 (bring down exponent)
+fact, using the same steps, we get log 7
+ x & 2 ! Divide by log 3
+ln 7 log 3
+x ! $ 2 ! $0.228756
+ln 3 log 7
+ x ! $ 2 Subtract 2
+log 3
+ ! $0.228756 Calculator
+C H E C K  Y O U R  A N S W E R
+Substituting x ! $0.228756 into the original equation and using a calculator, we get
+31$0.2287562&2 ! 7 $

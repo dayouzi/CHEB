@@ -1,0 +1,112 @@
+28.5 Summary
+
+1. Electrical generators convert mechanical energy into electrical energy.
+
+2. Electric motors convert electrical energy into mechanical energy.
+
+3. There are two types of generators - AC and DC. An AC generator is also called an
+
+alternator.
+
+4. There are two types of motors - AC and DC.
+
+5. Alternating current (AC) has many advantages over direct current (DC).
+
+6. Capacitors and inductors are important components in an AC circuit.
+
+7. The reactance of a capacitor or inductor is affected by the frequency of the AC.
+
+588
+
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.6
+
+28.5 CHAPTER 28. ELECTRODYNAMICS - GRADE 12
+
+4 mm
+
+r = = 2 mm = 0,002 m
+
+2
+
+A = πr2 = π × 0,0022
+
+µ 20AN
+
+L =
+
+l
+
+4π × 10−7 × 0,0022 × π × 20002
+
+=
+
+0,05
+
+= 0,00126 H
+
+= 1,26 mH
+
+An inductor in an AC circuit also has a reactance, XL that is defined by:
+
+XL = 2πfL
+
+where L is the inductance and f is the frequency of the AC.
+
+If we examine the equation for the reactance of an inductor, we see that inductive reactance
+
+increases with increasing frequency. Therefore, when the frequency is low, the inductive
+
+reactance is very low. This is why an inductor allows the flow of DC and low frequency AC
+
+because its reactance decreases with decreasing frequency.
+
+When the frequency is high, the inductive reactance is high. This is why an inductor blocks the
+
+flow of high frequency AC because its reactance increases with increasing frequency.
+
+28.4.3 Exercise - capacitance and inductance
+
+1. Describe what is meant by reactance.
+
+2. Define the reactance of a capacitor.
+
+3. Explain how a capacitor blocks the flow of DC and low frequency AC but allows the flow
+
+of high frequency AC.
+
+4. Describe what is an inductor
+
+5. Describe what is inductance
+
+6. What is the unit of inductance?
+
+7. Define the reactance of an inductor.
+
+8. Write the equation describing the inductance of a solenoid.
+
+9. Explain that how an inductor blocks high frequency AC, but allows low frequency AC and
+
+DC to pass.
+
+28.5 Summary
+
+1. Electrical generators convert mechanical energy into electrical energy.
+
+2. Electric motors convert electrical energy into mechanical energy.
+
+3. There are two types of generators - AC and DC. An AC generator is also called an
+
+alternator.
+
+4. There are two types of motors - AC and DC.
+
+5. Alternating current (AC) has many advantages over direct current (DC).
+
+6. Capacitors and inductors are important components in an AC circuit.
+
+7. The reactance of a capacitor or inductor is affected by the frequency of the AC.
+
+588
+
+CHAPTER 28. ELECTRODYNAMICS - GRADE 12 28.6
+

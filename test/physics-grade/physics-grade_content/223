@@ -1,0 +1,296 @@
+12.6.1 Torque
+
+This chapter has dealt with forces and how they lead to motion in a straight line. In this section,
+
+we examine how forces lead to rotational motion.
+
+When an object is fixed or supported at one point and a force acts on it a distance away from
+
+the support, it tends to make the object turn. The moment of force or torque (symbol, τ read
+
+tau) is defined as the product of the distance from the support or pivot (r) and the component
+
+of force perpendicular to the object, F⊥.
+
+τ = F⊥ · r (12.9)
+
+Torque can be seen as a rotational force. The unit of torque is N·m and torque is a vector
+
+quantity. Some examples of where torque arises are shown in Figures 12.17, 12.18 and 12.19.
+
+F
+
+r
+
+τ
+
+Figure 12.17: The force exerted on one side of a see-saw causes it to swing.
+
+F
+
+r
+
+τ
+
+Figure 12.18: The force exerted on the edge of a propellor causes the propellor to spin.
+
+For example in Figure 12.19, if a force F of 10 N is applied perpendicularly to the spanner at a
+
+distance r of 0,3 m from the center of the bolt, then the torque applied to the bolt is:
+
+τ = F⊥ · r
+
+= (10 N)(0,3m)
+
+= 3N ·m
+
+302
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.6
+
+F
+
+r
+
+τ
+
+Figure 12.19: The force exerted on a spanner helps to loosen the bolt.
+
+If the force of 10 N is now applied at a distance of 0,15 m from the centre of the bolt, then the
+
+torque is:
+
+τ = F⊥ · r
+
+= (10 N)(0,15m)
+
+= 1,5N ·m
+
+This shows that there is less torque when the force is applied closer to the bolt than further
+
+away.
+
+Important: Loosening a bolt
+
+If you are trying to loosen (or tighten) a bolt, apply the force on the spanner further away from
+
+the bolt, as this results in a greater torque to the bolt making it easier to loosen.
+
+Important: Any component of a force exerted parallel to an object will not cause the object
+
+to turn. Only perpendicular components cause turning.
+
+Important: Torques
+
+The direction of a torque is either clockwise or anticlockwise. When torques are added, choose
+
+one direction as positive and the opposite direction as negative. If equal clockwise and anti-
+
+clockwise torques are applied to an object, they will cancel out and there will be no net turning
+
+effect.
+
+Worked Example 95: Merry-go-round
+
+Question: Several children are playing in the park. One child pushes the merry-go-
+
+round with a force of 50 N. The diameter of the merry-go-round is 3,0 m. What
+
+torque does the child apply if the force is applied perpendicularly at point A?
+
+F
+
+diameter = 3 m
+
+A
+
+303
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.6
+F
+r
+τ
+Figure 12.19: The force exerted on a spanner helps to loosen the bolt.
+If the force of 10 N is now applied at a distance of 0,15 m from the centre of the bolt, then the
+torque is:
+τ = F⊥ · r
+= (10 N)(0,15m)
+= 1,5N ·m
+This shows that there is less torque when the force is applied closer to the bolt than further
+away.
+Important: Loosening a bolt
+If you are trying to loosen (or tighten) a bolt, apply the force on the spanner further away from
+the bolt, as this results in a greater torque to the bolt making it easier to loosen.
+Important: Any component of a force exerted parallel to an object will not cause the object
+to turn. Only perpendicular components cause turning.
+Important: Torques
+The direction of a torque is either clockwise or anticlockwise. When torques are added, choose
+one direction as positive and the opposite direction as negative. If equal clockwise and anti-
+clockwise torques are applied to an object, they will cancel out and there will be no net turning
+effect.
+Worked Example 95: Merry-go-round
+Question: Several children are playing in the park. One child pushes the merry-go-
+round with a force of 50 N. The diameter of the merry-go-round is 3,0 m. What
+torque does the child apply if the force is applied perpendicularly at point A?
+F
+diameter = 3 m
+A
+303
+12.6 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+Answer
+Step 1 : Identify what has been given
+The following has been given:
+• the force applied, F = 50 N
+• the diameter of the merry-go-round, 2r = 3 m, therefore r = 1,5 m.
+The quantities are in SI units.
+Step 2 : Decide how to approach the problem
+We are required to determine the torque applied to the merry-go-round. We can do
+this by using:
+τ = F⊥ · r
+We are given F⊥ and we are given the diameter of the merry-go-round. Therefore,
+r = 1,5 m.
+Step 3 : Solve the problem
+τ = F⊥ · r
+= (50N)(1,5m)
+= 75N ·m
+Step 4 : Write the final answer
+75 N ·m of torque is applied to the merry-go-round.
+Worked Example 96: Flat tyre
+Question: Kevin is helping his dad replace the flat tyre on the car. Kevin has been
+asked to undo all the wheel nuts. Kevin holds the spanner at the same distance for
+all nuts, but applies the force at two angles (90◦ and 60◦). If Kevin applies a force
+of 60 N, at a distance of 0,3 m away from the nut, which angle is the best to use?
+Prove your answer by means of calculations.
+F F F⊥
+◦
+60
+r r
+Answer
+Step 1 : Identify what has been given
+The following has been given:
+• the force applied, F = 60 N
+• the angles at which the force is applied, θ = 90◦ and θ = 60◦
+• the distance from the centre of the nut at which the force is applied, r = 0,3 m
+The quantities are in SI units.
+Step 2 : Decide how to approach the problem
+We are required to determine which angle is more better to use. This means that
+we must find which angle gives the higher torque. We can use
+τ = F⊥ · r
+to determine the torque. We are given F for each situation. F⊥ = F sin θ and we
+are given θ. We are also given the distance away from the nut, at which the force is
+304
+12.6 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+Answer
+
+Step 1 : Identify what has been given
+
+The following has been given:
+
+• the force applied, F = 50 N
+
+• the diameter of the merry-go-round, 2r = 3 m, therefore r = 1,5 m.
+
+The quantities are in SI units.
+
+Step 2 : Decide how to approach the problem
+
+We are required to determine the torque applied to the merry-go-round. We can do
+
+this by using:
+
+τ = F⊥ · r
+
+We are given F⊥ and we are given the diameter of the merry-go-round. Therefore,
+
+r = 1,5 m.
+
+Step 3 : Solve the problem
+
+τ = F⊥ · r
+
+= (50N)(1,5m)
+
+= 75N ·m
+
+Step 4 : Write the final answer
+
+75 N ·m of torque is applied to the merry-go-round.
+
+Worked Example 96: Flat tyre
+
+Question: Kevin is helping his dad replace the flat tyre on the car. Kevin has been
+
+asked to undo all the wheel nuts. Kevin holds the spanner at the same distance for
+
+all nuts, but applies the force at two angles (90◦ and 60◦). If Kevin applies a force
+
+of 60 N, at a distance of 0,3 m away from the nut, which angle is the best to use?
+
+Prove your answer by means of calculations.
+
+F F F⊥
+
+◦
+
+60
+
+r r
+
+Answer
+
+Step 1 : Identify what has been given
+
+The following has been given:
+
+• the force applied, F = 60 N
+
+• the angles at which the force is applied, θ = 90◦ and θ = 60◦
+
+• the distance from the centre of the nut at which the force is applied, r = 0,3 m
+
+The quantities are in SI units.
+
+Step 2 : Decide how to approach the problem
+
+We are required to determine which angle is more better to use. This means that
+
+we must find which angle gives the higher torque. We can use
+
+τ = F⊥ · r
+
+to determine the torque. We are given F for each situation. F⊥ = F sin θ and we
+
+are given θ. We are also given the distance away from the nut, at which the force is
+
+304
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.6
+
+applied.
+
+Step 3 : Solve the problem for θ = 90◦
+
+F⊥ = F
+
+τ = F⊥ · r
+
+= (60N)(0,3m)
+
+= 18N ·m
+
+Step 4 : Solve the problem for θ = 60◦
+
+τ = F⊥ · r
+
+= F sin θ · r
+
+= (60N) sin(θ)(0,3m)
+
+= 15,6N ·m
+
+Step 5 : Write the final answer
+
+The torque from the perpendicular force is greater than the torque from the force
+
+applied at 60◦. Therefore, the best angle is 90◦.
+

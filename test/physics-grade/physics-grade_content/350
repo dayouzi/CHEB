@@ -1,0 +1,473 @@
+21.2.3 Graphs of Vertical Projectile Motion
+
+Vertical projectile motion is similar to motion at constant acceleration. In Chapter 3 you
+
+learned about the graphs for motion at constant acceleration. The graphs for vertical projectile
+
+motion are therefore identical to the graphs for motion under constant acceleration.
+
+When we draw the graphs for vertical projectile motion, we consider two main situations: an
+
+object moving upwards and an object moving downwards.
+
+If we take the upwards direction as positive then for an object moving upwards we get the
+
+graphs shown in Figure 21.9.
+
+h (m) v (m·s−1) a (m·s−2)
+
+hm
+
+tf
+
+0 t (s) 0 t (s)
+
+tm
+
+0 t (s) g
+
+tm tf
+
+(a) (b) (c)
+
+Figure 21.3: Graphs for an object thrown upwards with an initial velocity vi. The object takes
+
+tm s to reach its maximum height of hm m after which it falls back to the ground. (a) position
+
+vs. time graph (b) velocity vs. time graph (c) acceleration vs. time graph.
+
+Worked Example 134: Drawing Graphs of Projectile Motion
+
+Question: Stanley is standing on the a balcony 20 m above the ground. Stanley
+
+tosses up a rubber ball with an initial velocity of 4,9 m·s−1. The ball travels
+
+467
+
+21.2 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+
+upwards and then falls to the ground. Draw graphs of position vs. time, velocity
+
+vs. time and acceleration vs. time. Choose upwards as the positive direction.
+
+Answer
+
+Step 1 : Determine what is required
+
+We are required to draw graphs of
+
+1. ∆x vs. t
+
+2. v vs. t
+
+3. a vs. t
+
+Step 2 : Analysis of problem
+
+There are two parts to the motion of the ball:
+
+1. ball travelling upwards from the building
+
+2. ball falling to the ground
+
+We examine each of these parts separately. To
+
+be able to draw the graphs, we need to determine
+
+the time taken and displacement for each of the
+
+motions.
+
+vf = 0m·s−1
+
+g = −9,8m·s−2
+
+vi = 4,9m·s−1
+
+Step 3 : Find the height and the time taken for the first motion.
+
+For the first part of the motion we have:
+
+• vi = +4,9m · s−1
+
+• vf = 0m · s−1
+
+• g = −9,8m · s−2
+
+Therefore we can use v2f = v
+
+2
+
+i + 2g∆x to solve for the height and vf = vi + gt to
+
+solve for the time.
+
+v2f = v
+
+2
+
+i + 2g∆x
+
+(0)2 = (4,9)2 + 2× (−9,8)×∆x
+
+19,6∆x = (4,9)2
+
+∆x = 1,225 m
+
+vf = vi + gt
+
+0 = 4,9 + (−9,8)× t
+
+9,8t = 4,9
+
+t = 0,5 s
+
+468
+21.2 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+upwards and then falls to the ground. Draw graphs of position vs. time, velocity
+vs. time and acceleration vs. time. Choose upwards as the positive direction.
+Answer
+Step 1 : Determine what is required
+We are required to draw graphs of
+1. ∆x vs. t
+2. v vs. t
+3. a vs. t
+Step 2 : Analysis of problem
+There are two parts to the motion of the ball:
+1. ball travelling upwards from the building
+2. ball falling to the ground
+We examine each of these parts separately. To
+be able to draw the graphs, we need to determine
+the time taken and displacement for each of the
+motions.
+vf = 0m·s−1
+g = −9,8m·s−2
+vi = 4,9m·s−1
+Step 3 : Find the height and the time taken for the first motion.
+For the first part of the motion we have:
+• vi = +4,9m · s−1
+• vf = 0m · s−1
+• g = −9,8m · s−2
+Therefore we can use v2f = v
+2
+i + 2g∆x to solve for the height and vf = vi + gt to
+solve for the time.
+v2f = v
+2
+i + 2g∆x
+(0)2 = (4,9)2 + 2× (−9,8)×∆x
+19,6∆x = (4,9)2
+∆x = 1,225 m
+vf = vi + gt
+0 = 4,9 + (−9,8)× t
+9,8t = 4,9
+t = 0,5 s
+468
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.2
+t = 0,5s
+∆x = 1,225m
+Step 4 : Find the height and the time taken for the second motion.
+For the second part of the motion we have:
+• vi = 0m · s−1
+• ∆x = −(20 + 1,225) m
+• g = −9,8m · s−2
+Therefore we can use ∆x = vit+
+1
+2gt
+2 to solve
+for the time.
+1
+∆x = vit+ gt
+2
+2
+−(20 + 1,225) = (0)× 1t+ × (−9,8)× t2
+2
+−21,225 = 0− 4,9t2
+t2 = 4,33163...
+t = 2,08125... s
+vi = 0 m·s−1
+∆x = −21,225 m
+g = −9,8 m·s−2
+20 m
+Step 5 : Graph of position vs. time
+The ball starts from a position of 20 m (at t = 0 s) from the ground and moves
+upwards until it reaches (20 + 1,225) m (at t = 0,5 s). It then falls back to 20 m
+(at t = 0,5 + 0,5 = 1,0 s) and then falls to the ground, ∆ x = 0 m at (t = 0,5 +
+2,08 = 2,58 s).
+469
+21.2 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+x(m)
+21,25
+20
+t(s)
+0,5 1,0 2,58
+Step 6 : Graph of velocity vs. time
+The ball starts off with a velocity of +4,9 m·s−1at t = 0 s, it then reaches a
+velocity of 0 m·s−1at t = 0,5 s. It stops and falls back to the Earth. At t = 1,0 it
+has a velocity of -4,9 m·s−1. This is the same as the initial upwards velocity but it
+is downwards. It carries on at constant acceleration until t = 2,58 s. In other
+words, the velocity graph will be a straight line. The final velocity of the ball can
+be calculated as follows:
+vf = vi + gt
+= 0 + (−9,8)(2,08...)
+= −20,396...m · s−1
+v(m · s−1)
+4,9 b
+0,5
+1,0 2,58
+b t(s)
+−4,9 b
+−20,40 b
+Step 7 : Graph of a vs t
+We chose upwards to be positive. The acceleration of the ball is downward.
+g = −9.8m · s−2. Because the acceleration is constant throughout the motion, the
+graph looks like this:
+470
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.2
+a(m · s−2)
+2,58
+t(s)
+−9,8
+Worked Example 135: Analysing Graphs of Projectile Motion
+Question: The graph below (not drawn to scale) shows the motion of tennis ball
+that was thrown vertically upwards from an open window some distance from the
+ground. It takes the ball 0,2 s to reach its highest point before falling back to the
+ground. Study the graph given and calculate
+1. how high the window is above the ground.
+2. the time it takes the ball to reach the maximum height.
+3. the initial velocity of the ball.
+4. the maximum height that the ball reaches.
+5. the final velocity of the ball when it reaches the ground.
+5
+4
+3
+Position (m) 2
+1
+0,2 0,4 ?
+time (s)
+Answer
+Step 1 : Find the height of the window.
+The initial position of the ball will tell us how high the window is. From the y-axis
+on the graph we can see that the ball is 4 m from the ground.
+The window is therefore 4 m above the ground.
+Step 2 : Find the time taken to reach the maximum height.
+The maximum height is where the position-time graph show the maximum position
+- the top of the curve. This is when t = 0,2 s.
+471
+21.2 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+It takes the ball 0,2 seconds to reach the maximum height.
+Step 3 : Find the initial velocity (vi) of the ball.
+To find the initial velocity we only look at the first part of the motion of the ball.
+That is from when the ball is released until it reaches its maximum height. We
+have the following for this: Choose upwards as positive.
+t = 0,2 s
+g = −9,8 m · s−2
+vf = 0 m · s−1(because the ball stops)
+To calculate the initial velocity of the ball (vi), we use:
+vf = vi + gt
+0 = vi + (−9,8)(0,2)
+vi = 1,96m · s−1
+The initial velocity of the ball is 1,96 m·s−1upwards.
+Step 4 : Find the maximum height (∆x) of the ball.
+To find the maximum height we look at the initial motion of the ball. We have the
+following:
+t = 0,2 s
+g = −9,8 m · s−2
+vf = 0 m · s−1(because the ball stops)
+vi = +1,96m · s−1(calculated above)
+To calculate the maximum height (∆x) we use:
+1
+∆x = vit+ gt
+2
+2
+1
+∆x = (1,96)(0,2) + (−9,8)(0,2)2
+2
+∆x = 0,196m
+The maximum height of the ball is (4 + 0,196) = 4,196 m above the ground.
+Step 5 : Find the final velocity (vf) of the ball.
+To find the final velocity of the ball we look at the second part of the motion. For
+this we have:
+∆x = −4,196 m (because upwards is positive)
+g = −9,8 m · s−2
+vi = 0 m · s−1
+We can use (vf )
+2 = (vi)
+2 + 2g∆x to calculate the final velocity of the ball.
+(vf )
+2 = (vi)
+2 + 2g∆x
+(vf )
+2 = (0)2 + 2(−9,8)(−4,196)
+(vf )
+2 = 82,2416
+vf = 9,0687...m · s−1
+The final velocity of the ball is 9,07 m·s−1downwards.
+Worked Example 136: Describing Projectile Motion
+472
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.2
+Question: A cricketer hits a cricket ball from the ground and the following graph
+of velocity vs. time was drawn. Upwards was taken as positive. Study the graph
+and answer the following questions:
+1. Describe the motion of the ball according to the graph.
+2. Draw a sketch graph of the corresponding displacement-time graph. Label the
+axes.
+3. Draw a sketch graph of the corresponding acceleration-time graph. Label the
+axes.
+19 b,6
+2 4
+b b time (s)
+-19,6 b b
+Answer
+Step 1 : Describe the motion of the ball.
+We need to study the velocity-time graph to answer this question. We will break
+the motion of the ball up into two time zones: t = 0 s to t = 2 s and t = 2 s to t
+= 4 s.
+From t = 0 s to t = 2 s the following happens:
+The ball starts to move at an initial velocity of 19,6 m·s−1and decreases its velocity
+to 0 m·s−1at t = 2 s. At t = 2 s the velocity of the ball is 0 m·s−1and therefore it
+stops.
+From t = 2 s to t = 4 s the following happens:
+The ball moves from a velocity of 0 m·s−1to 19,6 m·s−1in the opposite direction to
+the original motion.
+If we assume that the ball is hit straight up in the air (and we take upwards as
+positive), it reaches its maximum height at t = 2 s, stops, turns around and falls
+back to the Earth to reach the ground at t = 4 s.
+Step 2 : Draw the displacement-time graph.
+To draw this graph, we need to determine the displacements at t = 2 s and t = 4 s.
+At t = 2 s:
+The displacement is equal to the area under the graph:
+Area under graph = Area of triangle
+Area = 12bh
+Area = 12 × 2 × 19,6
+Displacement = 19,6 m
+At t = 4 s:
+The displacement is equal to the area under the whole graph (top and bottom).
+Remember that an area under the time line must be substracted:
+Area under graph = Area of triangle 1 + Area of triangle 2
+Area = 12bh +
+1
+2bh
+Area = (12 × 2 × 19,6) + (12 × 2 × (-19,6))
+Area = 19,6 - 19,6
+Displacement = 0 m
+The displacement-time graph for motion at constant acceleration is a curve. The
+graph will look like this:
+473
+velocity (m·s−1)
+21.2 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+19 b,6 b
+2 4
+b b time (s)
+Step 3 : Draw the acceleration-time graph.
+To draw the acceleration vs. time graph, we need to know what the acceleration is.
+The velocity-time graph is a straight line which means that the acceleration is
+constant. The gradient of the line will give the acceleration.
+The line has a negative slope (goes down towards the left) which means that the
+acceleration has a negative value.
+Calculate the gradient of the line:
+gradient = ∆v
+t
+gradient = 0−19,62−0
+gradient = −19,62
+gradient = -9,8
+acceleration = 9,8 m·s−2downwards
+2 4
+b b time (s)
+b
+-9,8
+Exercise: Graphs of Vertical Projectile Motion
+1. Amanda throws a tennisball from a height of 1,5m straight up into the air
+and then lets it fall to the ground. Draw graphs of ∆x vs t; v vs t and a vs t
+for the motion of the ball. The initial velocity of the tennisball is 2m · s−1.
+Choose upwards as positive.
+2. A bullet is shot from a gun. The following graph is drawn. Downwards was
+chosen as positive
+a Describe the motion of the bullet
+b Draw a displacement - time graph
+c Draw a acceleration - time graph
+474
+displacement (m)
+acceleration (m·s−2)
+21.2 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+
+19 b,6 b
+
+2 4
+
+b b time (s)
+
+Step 3 : Draw the acceleration-time graph.
+
+To draw the acceleration vs. time graph, we need to know what the acceleration is.
+
+The velocity-time graph is a straight line which means that the acceleration is
+
+constant. The gradient of the line will give the acceleration.
+
+The line has a negative slope (goes down towards the left) which means that the
+
+acceleration has a negative value.
+
+Calculate the gradient of the line:
+
+gradient = ∆v
+
+t
+
+gradient = 0−19,62−0
+
+gradient = −19,62
+
+gradient = -9,8
+
+acceleration = 9,8 m·s−2downwards
+
+2 4
+
+b b time (s)
+
+b
+
+-9,8
+
+Exercise: Graphs of Vertical Projectile Motion
+
+1. Amanda throws a tennisball from a height of 1,5m straight up into the air
+
+and then lets it fall to the ground. Draw graphs of ∆x vs t; v vs t and a vs t
+
+for the motion of the ball. The initial velocity of the tennisball is 2m · s−1.
+
+Choose upwards as positive.
+
+2. A bullet is shot from a gun. The following graph is drawn. Downwards was
+
+chosen as positive
+
+a Describe the motion of the bullet
+
+b Draw a displacement - time graph
+
+c Draw a acceleration - time graph
+
+474
+
+displacement (m)
+
+acceleration (m·s−2)
+
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.3
+
+v(m · s−1)
+
+200
+
+t(s)
+
+40,8
+
+20,4
+
+−200
+

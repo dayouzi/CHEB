@@ -1,0 +1,262 @@
+7.6.2 Fibre Optics
+
+Total internal reflection is a powerful tool since it can be used to confine light. One of the
+
+most common applications of total internal reflection is in fibre optics. An optical fibre is a thin,
+
+transparent fibre, usually made of glass or plastic, for transmitting light. Optical fibres are usually
+
+thinner than a human hair! The construction of a single optical fibre is shown in Figure 7.23.
+
+The basic functional structure of an optical fibre consists of an outer protective cladding and an
+
+inner core through which light pulses travel. The overall diameter of the fibre is about 125 µm
+
+(125×10−6m) and that of the core is just about 10 µm (10×10−6m). The mode of operation
+
+of the optical fibres, as mentioned above, depends on the phenomenon of total internal reflection.
+
+The difference in refractive index of the cladding and the core allows total internal reflection in
+
+the same way as happens at an air-water surface. If light is incident on a cable end with an
+
+angle of incidence greater than the critical angle then the light will remain trapped inside the
+
+glass strand. In this way, light travels very quickly down the length of the cable.
+
+inner core
+
+cladding
+
+Figure 7.23: Structure of a single optical fibre.
+
+Fibre Optics in Telecommunications
+
+Optical fibres are most common in telecommunications, because information can be transported
+
+over long distances, with minimal loss of data. The minimised loss of data gives optical fibres
+
+an advantage over conventional cables.
+
+Data is transmitted from one end of the fibre to another in the form of laser pulses. A single strand
+
+is capable of handling over 3000 simultaneous transmissions which is a huge improvement over
+
+the conventional co-axial cables. Multiple signal transmission is achieved by sending individual
+
+light pulses at slightly different angles. For example if one of the pulses makes a 72,23◦ angle
+
+of incidence then a separate pulse can be sent at an angle of 72,26◦! The transmitted data is
+
+received almost instantaneously at the other end of the cable since the information coded onto
+
+the laser travels at the speed of light! During transmission over long distances repeater stations
+
+are used to amplify the signal which has weakened somewhat by the time it reaches the station.
+
+The amplified signals are then relayed towards their destination and may encounter several other
+
+repeater stations on the way.
+
+Fibre Optics in Medicine
+
+Optic fibres are used in medicine in endoscopes.
+
+161
+
+7.6 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+
+Itneterreessttinigng Endoscopy means to look inside and refers to looking inside the human body for
+
+FFacctt diagnosing medical conditions.
+
+The main part of an endoscope is the optical fibre. Light is shone down the optical fibre and a
+
+medical doctor can use the endoscope to look inside a patient. Endoscopes are used to examine
+
+the inside of a patient's stomach, by inserting the endoscope down the patient's throat.
+
+Endoscopes allow minimally invasive surgery. This means that a person can be diagnosed and
+
+treated through a small incision. This has advantages over open surgery because endoscopy is
+
+quicker and cheaper and the patient recovers more quickly. The alternative is open surgery which
+
+is expensive, requires more time and is more traumatic for the patient.
+
+Exercise: Total Internal Reflection and Fibre Optics
+
+1. Describe total internal reflection, referring to the conditions that must be sat-
+
+isfied for total internal reflection to occur.
+
+2. Define what is meant by the critical angle when referring to total internal
+
+reflection. Include a ray diagram to explain the concept.
+
+3. Will light travelling from diamond to silicon ever undergo total internal reflec-
+
+tion?
+
+4. Will light travelling from sapphire to diamond undergo total internal reflection?
+
+5. What is the critical angle for light traveling from air to acetone?
+
+6. Light traveling from diamond to water strikes the interface with an angle of
+
+incidence of 86◦. Calculate the critical angle to determine whether the light be
+
+totally internally reflected and so be trapped within the water.
+
+7. Which of the following interfaces will have the largest critical angle?
+
+(a) a glass to water interface
+
+(b) a diamond to water interface
+
+(c) a diamond to glass interface
+
+8. If the fibre optic strand is made from glass, determine the critical angle of the
+
+light ray so that the ray stays within the fibre optic strand.
+
+9. A glass slab is inserted in a tank of water. If the refractive index of water is
+
+1,33 and that of glass is 1,5, find the critical angle.
+
+10. A diamond ring is placed in a container full of glycerin. If the critical angle is
+
+found to be 37,4◦ and the refractive index of glycerin is given to be 1,47, find
+
+the refractive index of diamond.
+
+11. An optical fibre is made up of a core of refractive index 1,9, while the refractive
+
+index of the cladding is 1,5. Calculate the maximum angle which a light pulse
+
+can make with the wall of the core. NOTE: The question does not ask for the
+
+angle of incidence but for the angle made by the ray with the wall of the core,
+
+which will be equal to 90◦- angle of incidence.
+
+162
+7.6 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+Itneterreessttinigng Endoscopy means to look inside and refers to looking inside the human body for
+FFacctt diagnosing medical conditions.
+The main part of an endoscope is the optical fibre. Light is shone down the optical fibre and a
+medical doctor can use the endoscope to look inside a patient. Endoscopes are used to examine
+the inside of a patient's stomach, by inserting the endoscope down the patient's throat.
+Endoscopes allow minimally invasive surgery. This means that a person can be diagnosed and
+treated through a small incision. This has advantages over open surgery because endoscopy is
+quicker and cheaper and the patient recovers more quickly. The alternative is open surgery which
+is expensive, requires more time and is more traumatic for the patient.
+Exercise: Total Internal Reflection and Fibre Optics
+1. Describe total internal reflection, referring to the conditions that must be sat-
+isfied for total internal reflection to occur.
+2. Define what is meant by the critical angle when referring to total internal
+reflection. Include a ray diagram to explain the concept.
+3. Will light travelling from diamond to silicon ever undergo total internal reflec-
+tion?
+4. Will light travelling from sapphire to diamond undergo total internal reflection?
+5. What is the critical angle for light traveling from air to acetone?
+6. Light traveling from diamond to water strikes the interface with an angle of
+incidence of 86◦. Calculate the critical angle to determine whether the light be
+totally internally reflected and so be trapped within the water.
+7. Which of the following interfaces will have the largest critical angle?
+(a) a glass to water interface
+(b) a diamond to water interface
+(c) a diamond to glass interface
+8. If the fibre optic strand is made from glass, determine the critical angle of the
+light ray so that the ray stays within the fibre optic strand.
+9. A glass slab is inserted in a tank of water. If the refractive index of water is
+1,33 and that of glass is 1,5, find the critical angle.
+10. A diamond ring is placed in a container full of glycerin. If the critical angle is
+found to be 37,4◦ and the refractive index of glycerin is given to be 1,47, find
+the refractive index of diamond.
+11. An optical fibre is made up of a core of refractive index 1,9, while the refractive
+index of the cladding is 1,5. Calculate the maximum angle which a light pulse
+can make with the wall of the core. NOTE: The question does not ask for the
+angle of incidence but for the angle made by the ray with the wall of the core,
+which will be equal to 90◦- angle of incidence.
+162
+7.6 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+
+Itneterreessttinigng Endoscopy means to look inside and refers to looking inside the human body for
+
+FFacctt diagnosing medical conditions.
+
+The main part of an endoscope is the optical fibre. Light is shone down the optical fibre and a
+
+medical doctor can use the endoscope to look inside a patient. Endoscopes are used to examine
+
+the inside of a patient's stomach, by inserting the endoscope down the patient's throat.
+
+Endoscopes allow minimally invasive surgery. This means that a person can be diagnosed and
+
+treated through a small incision. This has advantages over open surgery because endoscopy is
+
+quicker and cheaper and the patient recovers more quickly. The alternative is open surgery which
+
+is expensive, requires more time and is more traumatic for the patient.
+
+Exercise: Total Internal Reflection and Fibre Optics
+
+1. Describe total internal reflection, referring to the conditions that must be sat-
+
+isfied for total internal reflection to occur.
+
+2. Define what is meant by the critical angle when referring to total internal
+
+reflection. Include a ray diagram to explain the concept.
+
+3. Will light travelling from diamond to silicon ever undergo total internal reflec-
+
+tion?
+
+4. Will light travelling from sapphire to diamond undergo total internal reflection?
+
+5. What is the critical angle for light traveling from air to acetone?
+
+6. Light traveling from diamond to water strikes the interface with an angle of
+
+incidence of 86◦. Calculate the critical angle to determine whether the light be
+
+totally internally reflected and so be trapped within the water.
+
+7. Which of the following interfaces will have the largest critical angle?
+
+(a) a glass to water interface
+
+(b) a diamond to water interface
+
+(c) a diamond to glass interface
+
+8. If the fibre optic strand is made from glass, determine the critical angle of the
+
+light ray so that the ray stays within the fibre optic strand.
+
+9. A glass slab is inserted in a tank of water. If the refractive index of water is
+
+1,33 and that of glass is 1,5, find the critical angle.
+
+10. A diamond ring is placed in a container full of glycerin. If the critical angle is
+
+found to be 37,4◦ and the refractive index of glycerin is given to be 1,47, find
+
+the refractive index of diamond.
+
+11. An optical fibre is made up of a core of refractive index 1,9, while the refractive
+
+index of the cladding is 1,5. Calculate the maximum angle which a light pulse
+
+can make with the wall of the core. NOTE: The question does not ask for the
+
+angle of incidence but for the angle made by the ray with the wall of the core,
+
+which will be equal to 90◦- angle of incidence.
+
+162
+
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.7
+

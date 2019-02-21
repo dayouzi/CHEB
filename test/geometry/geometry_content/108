@@ -1,0 +1,268 @@
+10.7. Area and Perimeter of Similar Polygons www.ck12.org
+
+10.7 Area and Perimeter of Similar Polygons
+
+Here you'll learn that the ratio of the perimeters of similar figures is equal to their scale factor and that the ratio of
+
+their areas is equal to the square of their scale factor.
+
+What if you were given two similar triangles and told what the scale factor of their sides was? How could you find
+
+the ratio of their perimeters and the ratio of their areas? After completing this Concept, you'll be able to use the
+
+Area of Similar Polygons Theorem to solve problems like this.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136626
+
+Area and Perimeter of Similar Polygons CK-12
+
+Guidance
+
+Polygons are similar when their corresponding angles are equal and their corresponding sides are in the same
+
+proportion. Just as their corresponding sides are in the same proportion, perimeters and areas of similar polygons
+
+have a special relationship.
+
+Perimeters: The ratio of the perimeters is the same as the scale factor. In fact, the ratio of any part of two similar
+
+shapes (diagonals, medians, midsegments, altitudes, etc.) is the same as the scale factor. (m)Areas: If the scale factor of the sides of two similar polygons is mn , then the ratio of the areas is 2n ( Area of
+
+Similar Polygons Theorem). You square the ratio because area is a two-dimensional measurement.
+
+Example A
+
+The two rectangles below are similar. Find the scale factor and the ratio of the perimeters and verify that the two
+
+results are the same.
+
+580
+
+www.ck12.org Chapter 10. Perimeter and Area
+
+The scale factor is 1624 =
+
+2
+
+3 .
+
+Psmall = 2(10)+2(16) = 52 units
+
+Plarge = 2(15)+2(24) = 78 units
+
+The ratio of the perimeters is 5278 =
+
+2
+
+3 .
+
+Example B
+
+Find the area of each rectangle from Example A. Then, find the ratio of the areas and verify that it fits the Area of
+
+Similar Polygons Theorem.
+
+Asmall = 10 ·16 = 160 units2
+
+Alarge = 15 ·24 = 360 units2
+
+The ratio of the areas would be 160360 =
+
+4
+
+9 .
+
+The ratio of the sides, or scale factor is 23 and the ratio of the areas is
+
+4
+
+9 . Notice that the ratio of the areas is the square
+
+of the scale factor.
+
+Example C
+
+Find the ratio of the areas of the rhombi below. The rhombi are similar.
+
+Find the ratio of the sides and square it.
+
+( )
+
+3 2 9
+
+=
+
+5 25
+
+581
+www.ck12.org Chapter 10. Perimeter and Area
+The scale factor is 1624 =
+2
+3 .
+Psmall = 2(10)+2(16) = 52 units
+Plarge = 2(15)+2(24) = 78 units
+The ratio of the perimeters is 5278 =
+2
+3 .
+Example B
+Find the area of each rectangle from Example A. Then, find the ratio of the areas and verify that it fits the Area of
+Similar Polygons Theorem.
+Asmall = 10 ·16 = 160 units2
+Alarge = 15 ·24 = 360 units2
+The ratio of the areas would be 160360 =
+4
+9 .
+The ratio of the sides, or scale factor is 23 and the ratio of the areas is
+4
+9 . Notice that the ratio of the areas is the square
+of the scale factor.
+Example C
+Find the ratio of the areas of the rhombi below. The rhombi are similar.
+Find the ratio of the sides and square it.
+( )
+3 2 9
+=
+5 25
+581
+10.7. Area and Perimeter of Similar Polygons www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136627
+Area and Perimeter of Similar Polygons CK-12
+->
+Guided Practice
+1. Two trapezoids are similar. If the scale factor is 34 and the area of the smaller trapezoid is 81 cm
+2, what is the area
+of the larger trapezoid?
+2. Two triangles are similar. The ratio of the areas is 2564 . What is the scale factor?
+3. Using the ratios from #2, find the length of the base of the smaller triangle if the length of the base of the larger
+triangle is 24 units.
+Answers: (
+1. First, the ratio of the areas is 3
+)2
+4 =
+9
+16 . Now, we need the area of the larger trapezoid. To find this, set up a
+proportion using the area ratio.
+9 81
+= → 9A = 1296
+16 A
+A = 144 cm2
+√
+25
+2. The scale factor is = 5 .
+64 8
+3. Set up a proportion using the scale factor.
+5 b
+= → 8b = 120
+8 24
+b = 15 units
+Explore More
+Determine the ratio of the areas, given the ratio of the sides of a polygon.
+1. 35
+2. 14
+3. 72
+4. 611
+Determine the ratio of the sides of a polygon, given the ratio of the areas.
+5. 136
+6. 481
+582
+www.ck12.org Chapter 10. Perimeter and Area
+7. 499
+8. 25144
+This is an equilateral triangle made up of 4 congruent equilateral triangles.
+9. What is the ratio of the areas of the large triangle to one of the small triangles?
+10. What is the scale factor of large to small triangle?
+11. If the area of the large triangle is 20 units2, what is√the area of a small triangle?
+12. If the length of the altitude of a small triangle is 2 3, find the perimeter of the large triangle.
+13. Find the perimeter of the large square and the blue square.
+14. Find the scale factor of the blue square and large square.
+15. Find the ratio of their perimeters.
+16. Find the area of the blue and large squares.
+17. Find the ratio of their areas.
+18. Find the length of the diagonals of the blue and large squares. Put them into a ratio. Which ratio is this the
+same as?
+19. Two rectangles are similar with a scale factor of 47 . If the area of the larger rectangle is 294 in
+2, find the area
+of the smaller rectangle.
+20. Two triangles are similar with a scale factor of 13 . If the area of the smaller triangle is 22 f t
+2, find the area of
+the larger triangle.
+21. The ratio of the areas of two similar squares is 1681 . If the length of a side of the smaller square is 24 units, find
+the length of a side in the larger square.
+22. The ratio of the areas of two right triangles is 49 . If the length of the hypotenuse of the larger triangle is 48
+units, find the length of the smaller triangle's hypotenuse.
+Questions 23-26 build off of each other. You may assume the problems are connected.
+23. Two similar rhombi have areas of 72 units2 and 162 units2. Find the ratio of the areas.
+24. Find the scale factor.
+25. The diagonals in these rhombi are congruent. Find the length of the diagonals and the sides.
+26. What type of rhombi are these quadrilaterals?
+583
+www.ck12.org Chapter 10. Perimeter and Area
+
+7. 499
+
+8. 25144
+
+This is an equilateral triangle made up of 4 congruent equilateral triangles.
+
+9. What is the ratio of the areas of the large triangle to one of the small triangles?
+
+10. What is the scale factor of large to small triangle?
+
+11. If the area of the large triangle is 20 units2, what is√the area of a small triangle?
+
+12. If the length of the altitude of a small triangle is 2 3, find the perimeter of the large triangle.
+
+13. Find the perimeter of the large square and the blue square.
+
+14. Find the scale factor of the blue square and large square.
+
+15. Find the ratio of their perimeters.
+
+16. Find the area of the blue and large squares.
+
+17. Find the ratio of their areas.
+
+18. Find the length of the diagonals of the blue and large squares. Put them into a ratio. Which ratio is this the
+
+same as?
+
+19. Two rectangles are similar with a scale factor of 47 . If the area of the larger rectangle is 294 in
+
+2, find the area
+
+of the smaller rectangle.
+
+20. Two triangles are similar with a scale factor of 13 . If the area of the smaller triangle is 22 f t
+
+2, find the area of
+
+the larger triangle.
+
+21. The ratio of the areas of two similar squares is 1681 . If the length of a side of the smaller square is 24 units, find
+
+the length of a side in the larger square.
+
+22. The ratio of the areas of two right triangles is 49 . If the length of the hypotenuse of the larger triangle is 48
+
+units, find the length of the smaller triangle's hypotenuse.
+
+Questions 23-26 build off of each other. You may assume the problems are connected.
+
+23. Two similar rhombi have areas of 72 units2 and 162 units2. Find the ratio of the areas.
+
+24. Find the scale factor.
+
+25. The diagonals in these rhombi are congruent. Find the length of the diagonals and the sides.
+
+26. What type of rhombi are these quadrilaterals?
+
+583
+

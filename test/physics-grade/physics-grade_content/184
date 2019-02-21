@@ -1,0 +1,108 @@
+11.8.2 Summary
+
+1. A scalar is a physical quantity with magnitude only.
+
+2. A vector is a physical quantity with magnitude and direction.
+
+3. Vectors are drawn as arrows where the length of the arrow indicates the magnitude and
+
+the arrowhead indicates the direction of the vector.
+
+4. The direction of a vector can be indicated by referring to another vector or a fixed point
+
+(eg. 30◦ from the river bank); using a compass (eg. N 30◦ W); or bearing (eg. 053◦).
+
+5. Vectors can be added using the head-to-tail method, the parallelogram method or the
+
+component method.
+
+6. The resultant of a vector is the single vector whose effect is the same as the individual
+
+vectors acting together.
+
+235
+
+11.8 CHAPTER 11. VECTORS
+
+CHAPTER 11. VECTORS 11.8
+
+The dot product is most similar to regular multiplication between scalars. To
+
+take the dot product of two vectors, you just multiply their magnitudes to get out a
+
+scalar answer. The maths definition of the dot product is:
+
+~a •~b = |~a| · |~b| cos θ
+
+Take two vectors ~a and ~b:
+
+b
+
+a
+
+You can draw in the component of ~b that is parallel to ~a:
+
+b
+
+a θ
+
+b cos θ
+
+In this way we can arrive at the definition of the dot product. You find how much
+
+of ~b is lined up with ~a by finding the component of ~b parallel to ~a. Then multiply
+
+the magnitude of that component, |~b| cos θ, with the magnitude of ~a to get a scalar.
+
+The second type of multiplication is more subtle and uses the directions of the
+
+vectors in a more complicated way to get another vector as the answer. The maths
+
+definition of the cross product is:
+
+~a×~b = |~a||~b| sin θ
+
+This gives the magnitude of the answer, but we still need to find the direction of
+
+the resultant vector. We do this by applying the right hand rule.
+
+Method: Right Hand Rule
+
+1. Using your right hand: a
+
+2. Point your index finger in the direction of ~a. θ
+
+a×b
+
+b
+
+3. Point the middle finger in the direction of ~b.
+
+4. Your thumb will show the direction of ~a×~b.
+
+11.8.2 Summary
+
+1. A scalar is a physical quantity with magnitude only.
+
+2. A vector is a physical quantity with magnitude and direction.
+
+3. Vectors are drawn as arrows where the length of the arrow indicates the magnitude and
+
+the arrowhead indicates the direction of the vector.
+
+4. The direction of a vector can be indicated by referring to another vector or a fixed point
+
+(eg. 30◦ from the river bank); using a compass (eg. N 30◦ W); or bearing (eg. 053◦).
+
+5. Vectors can be added using the head-to-tail method, the parallelogram method or the
+
+component method.
+
+6. The resultant of a vector is the single vector whose effect is the same as the individual
+
+vectors acting together.
+
+235
+
+11.8 CHAPTER 11. VECTORS
+

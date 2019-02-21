@@ -1,0 +1,128 @@
+17.6.1 A capacitor in a circuit
+
+When a capacitor is connected in a DC circuit, current will flow until the capacitor is fully
+
+charged. After that, no further current will flow. If the charged capacitor is connected to
+
+another circuit with no source of emf in it, the capacitor will discharge through the circuit,
+
+creating a potential difference for a short time. This is useful, for example, in a camera flash.
+
+Initially, the electrodes have no net charge. A voltage source is applied to charge a capacitor.
+
+The voltage source creates an electric field, causing the electrons to move. The charges move
+
+around the circuit stopping at the left electrode. Here they are unable to travel across the
+
+dielectric, since electrons cannot travel through an insulator. The charge begins to accumulate,
+
+and an electric field forms pointing from the left electrode to the right electrode. This is the
+
+opposite direction of the electric field created by the voltage source. When this electric field is
+
+equal to the electric field created by the voltage source, the electrons stop moving. The
+
+capacitor is then fully charged, with a positive charge on the left electrode and a negative
+
+charge on the right electrode.
+
+If the voltage is removed, the capacitor will discharge. The electrons begin to move because in
+
+the absence of the voltage source, there is now a net electric field. This field is due to the
+
+imbalance of charge on the electrodes-the field across the dielectric. Just as the electrons
+
+flowed to the positive electrode when the capacitor was being charged, during discharge, the
+
+electrons flow to negative electrode. The charges cancel, and there is no longer an electric field
+
+across the dielectric.
+
+406
+
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.7
+
+17.6 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+V
+
+E = (17.4)
+
+d
+
+300
+
+= (17.5)
+
+0,02
+
+= 1,50× 104J.C−1 (17.6)
+
+(17.7)
+
+Exercise: Capacitance and the parallel plate capacitor
+
+1. Determine the capacitance of a capacitor which stores 9× 10−9C when a
+
+potential difference of 12 V is applied to it.
+
+2. What charge will be stored on a 5µF capacitor if a potential difference of 6V
+
+is maintained between its plates?
+
+3. What is the capacitance of a capacitor that uses air as its dielectric if it has
+
+an area of 0,004m2 and a distance of 0,03m between its plates?
+
+4. What is the strength of the electric field between the plates of a charged
+
+capacitor if the plates are 2mm apart and have a potential difference of 200V
+
+across them?
+
+17.6 Capacitor as a circuit device
+
+17.6.1 A capacitor in a circuit
+
+When a capacitor is connected in a DC circuit, current will flow until the capacitor is fully
+
+charged. After that, no further current will flow. If the charged capacitor is connected to
+
+another circuit with no source of emf in it, the capacitor will discharge through the circuit,
+
+creating a potential difference for a short time. This is useful, for example, in a camera flash.
+
+Initially, the electrodes have no net charge. A voltage source is applied to charge a capacitor.
+
+The voltage source creates an electric field, causing the electrons to move. The charges move
+
+around the circuit stopping at the left electrode. Here they are unable to travel across the
+
+dielectric, since electrons cannot travel through an insulator. The charge begins to accumulate,
+
+and an electric field forms pointing from the left electrode to the right electrode. This is the
+
+opposite direction of the electric field created by the voltage source. When this electric field is
+
+equal to the electric field created by the voltage source, the electrons stop moving. The
+
+capacitor is then fully charged, with a positive charge on the left electrode and a negative
+
+charge on the right electrode.
+
+If the voltage is removed, the capacitor will discharge. The electrons begin to move because in
+
+the absence of the voltage source, there is now a net electric field. This field is due to the
+
+imbalance of charge on the electrodes-the field across the dielectric. Just as the electrons
+
+flowed to the positive electrode when the capacitor was being charged, during discharge, the
+
+electrons flow to negative electrode. The charges cancel, and there is no longer an electric field
+
+across the dielectric.
+
+406
+
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.7
+

@@ -1,0 +1,65 @@
+1.9 GRAPHING CALCULATORS; SOLVING EQUATIONS
+AND INEQUALITIES GRAPHICALLY
+Using a Graphing Calculator ! Solving Equations Graphically ! Solving 
+Inequalities Graphically
+In Sections 1.5 and 1.7 we solved equations and inequalities algebraically. In Section 1.8
+we learned how to sketch the graph of an equation in a coordinate plane. In this section
+we use graphs to solve equations and inequalities. To do this, we must first draw a graph
+using a graphing device. So we begin by giving a few guidelines to help us use graphing
+devices effectively.
+" Using a Graphing Calculator
+A graphing calculator or computer displays a rectangular portion of the graph of an equa-
+tion in a display window or viewing screen, which we call a viewing rectangle. The de-
+(a, d) y=d (b, d) fault screen often gives an incomplete or misleading picture, so it is important to choose
+the viewing rectangle with care. If we choose the x-values to range from a minimum value
+of Xmin & a to a maximum value of Xmax & b and the y-values to range from a mini-
+x=a x=b mum value of Ymin & c to a maximum value of Ymax & d, then the displayed portion
+of the graph lies in the rectangle
+(a, c) y=c (b, c)
+3a, b 4 , 3c, d 4 & 5 1x, y 2  0  a # x # b, c
+1 3x, y 2 a, b 4 3c, d 4
+# y # d6
+F3 I G U4 R E  1 The viewing rectangle a, b by 3c, d 4 as shown in Figure 1. We refer to this as the by viewing rectangle.The graphing device draws the graph of an equation much as you would. It plots pointsof the form for a certain number of values of x, equally spaced between a and b. If
+the equation is not defined for an x-value or if the corresponding y-value lies outside the
+viewing rectangle, the device ignores this value and moves on to the next x-value. 
+The machine connects each point to the preceding plotted point to form a representation
+of the graph of the equation.
+E X A M P L E  1 | Choosing an Appropriate Viewing Rectangle
+Graph the equation y & x2 % 3 in an appropriate viewing rectangle.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 . 9 | Graphing Calculators; Solving Equations and Inequalities Graphically 97
+S O L U T I O N Let's experiment with different viewing rectangles. We start with the view-
+ing rectangle 3'2,  2 4 by 3'2,  2 4 , so we set
+Xmin & '2 Ymin & '2
+Xmax & 2 Ymax & 2
+The resulting graph in Figure 2(a) is blank! This is because x2 $ 0, so x2 % 3 $ 3 for
+all x. Thus, the graph lies entirely above the viewing rectangle, so this viewing rectangle 
+is not appropriate. If we enlarge the v3 iewing rectan3 gle to 3'4,  4 4 by 3'4,  4 4 , as in Figure 2(b), we begin to see a portion of the graph.Now let's try the viewing rectangle '10,  10 4 by '5,  30 4 . The graph in Figure 2(c)
+seems to give a more complete view of the graph. If we enlarge the viewing rectangle even
+further, as in Figure 2(d), the graph doesn't show clearly that the y-intercept is 3.
+So the viewing rectangle 3'10,  10 4 by 3'5,  30 4 gives an appropriate representation of
+the graph.
+2 4 30 1000
+_2 2 _4 4
+_10 10 _50 50
+_2 _4 _5 _100
+(a) (b) (c) (d)
+F I G U R E  2 Graphs of y & x2 % 3
+S E C T I O N  1 . 9 | Graphing Calculators; Solving Equations and Inequalities Graphically 97
+S O L U T I O N Let's experiment with different viewing rectangles. We start with the view-
+ing rectangle 3'2,  2 4 by 3'2,  2 4 , so we set
+Xmin & '2 Ymin & '2
+Xmax & 2 Ymax & 2
+The resulting graph in Figure 2(a) is blank! This is because x2 $ 0, so x2 % 3 $ 3 for
+all x. Thus, the graph lies entirely above the viewing rectangle, so this viewing rectangle 
+is not appropriate. If we enlarge the v3 iewing rectan3 gle to 3'4,  4 4 by 3'4,  4 4 , as in Figure 2(b), we begin to see a portion of the graph.Now let's try the viewing rectangle '10,  10 4 by '5,  30 4 . The graph in Figure 2(c)
+seems to give a more complete view of the graph. If we enlarge the viewing rectangle even
+further, as in Figure 2(d), the graph doesn't show clearly that the y-intercept is 3.
+So the viewing rectangle 3'10,  10 4 by 3'5,  30 4 gives an appropriate representation of
+the graph.
+2 4 30 1000
+_2 2 _4 4
+_10 10 _50 50
+_2 _4 _5 _100
+(a) (b) (c) (d)
+F I G U R E  2 Graphs of y & x2 % 3

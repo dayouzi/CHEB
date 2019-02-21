@@ -1,0 +1,385 @@
+3.8 Worked Examples
+
+The worked examples in this section demonstrate the types of questions that can be asked about
+
+graphs.
+
+Worked Example 8: Description of motion based on a position-time graph
+
+Question: The position vs. time graph for the motion of a car is given below.
+
+Draw the corresponding velocity vs. time and acceleration vs. time graphs, and then
+
+describe the motion of the car.
+
+x (m)
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0 t (s)
+
+0 1 2 3 4 5 6
+
+Answer
+
+Step 1 : Identify what information is given and what is asked for
+
+The question gives a position vs. time graph and the following three things are
+
+required:
+
+1. Draw a v vs. t graph.
+
+2. Draw an a vs. t graph.
+
+3. Describe the motion of the car.
+
+To answer these questions, break the motion up into three sections: 0 - 2 seconds,
+
+2 - 4 seconds and 4 - 6 seconds.
+
+Step 2 : Velocity vs. time graph for 0-2 seconds
+
+For the first 2 seconds we can see that the displacement remains constant - so the
+
+object is not moving, thus it has zero velocity during this time. We can reach this
+
+conclusion by another path too: remember that the gradient of a displacement vs.
+
+time graph is the velocity. For the first 2 seconds we can see that the displacement
+
+vs. time graph is a horizontal line, ie. it has a gradient of zero. Thus the velocity
+
+during this time is zero and the object is stationary.
+
+Step 3 : Velocity vs. time graph for 2-4 seconds
+
+For the next 2 seconds, displacement is increasing with time so the object is mov-
+
+ing. Looking at the gradient of the displacement graph we can see that it is not
+
+constant. In fact, the slope is getting steeper (the gradient is increasing) as time
+
+goes on. Thus, remembering that the gradient of a displacement vs. time graph is
+
+the velocity, the velocity must be increasing with time during this phase.
+
+Step 4 : Velocity vs. time graph for 4-6 seconds
+
+For the final 2 seconds we see that displacement is still increasing with time, but
+
+this time the gradient is constant, so we know that the object is now travelling at
+
+a constant velocity, thus the velocity vs. time graph will be a horizontal line during
+
+this stage. We can now draw the graphs:
+
+49
+
+3.8 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+So our velocity vs. time graph looks like this one below. Because we haven't been
+
+given any values on the vertical axis of the displacement vs. time graph, we cannot
+
+figure out what the exact gradients are and therefore what the values of the velocities
+
+are. In this type of question it is just important to show whether velocities are positive
+
+or negative, increasing, decreasing or constant.
+
+v (m·s−1)
+
+t (s)
+
+0 1 2 3 4 5 6
+
+Once we have the velocity vs. time graph its much easier to get the acceleration vs.
+
+time graph as we know that the gradient of a velocity vs. time graph is the just the
+
+acceleration.
+
+Step 5 : Acceleration vs. time graph for 0-2 seconds
+
+For the first 2 seconds the velocity vs. time graph is horisontal and has a value of
+
+zero, thus it has a gradient of zero and there is no acceleration during this time.
+
+(This makes sense because we know from the displacement time graph that the ob-
+
+ject is stationary during this time, so it can't be accelerating).
+
+Step 6 : Acceleration vs. time graph for 2-4 seconds
+
+For the next 2 seconds the velocity vs. time graph has a positive gradient. This
+
+gradient is not changing (i.e. its constant) throughout these 2 seconds so there must
+
+be a constant positive acceleration.
+
+Step 7 : Acceleration vs. time graph for 4-6 seconds
+
+For the final 2 seconds the object is traveling with a constant velocity. During this
+
+time the gradient of the velocity vs. time graph is once again zero, and thus the
+
+object is not accelerating. The acceleration vs. time graph looks like this:
+
+a (m·s−2)
+
+t (s)
+
+0 2 4 6
+
+Step 8 : A description of the object's motion
+
+A brief description of the motion of the object could read something like this: At
+
+t = 0 s and object is stationary at some position and remains stationary until t = 2 s
+
+when it begins accelerating. It accelerates in a positive direction for 2 seconds until
+
+t = 4 s and then travels at a constant velocity for a further 2 seconds.
+
+50
+3.8 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+So our velocity vs. time graph looks like this one below. Because we haven't been
+given any values on the vertical axis of the displacement vs. time graph, we cannot
+figure out what the exact gradients are and therefore what the values of the velocities
+are. In this type of question it is just important to show whether velocities are positive
+or negative, increasing, decreasing or constant.
+v (m·s−1)
+t (s)
+0 1 2 3 4 5 6
+Once we have the velocity vs. time graph its much easier to get the acceleration vs.
+time graph as we know that the gradient of a velocity vs. time graph is the just the
+acceleration.
+Step 5 : Acceleration vs. time graph for 0-2 seconds
+For the first 2 seconds the velocity vs. time graph is horisontal and has a value of
+zero, thus it has a gradient of zero and there is no acceleration during this time.
+(This makes sense because we know from the displacement time graph that the ob-
+ject is stationary during this time, so it can't be accelerating).
+Step 6 : Acceleration vs. time graph for 2-4 seconds
+For the next 2 seconds the velocity vs. time graph has a positive gradient. This
+gradient is not changing (i.e. its constant) throughout these 2 seconds so there must
+be a constant positive acceleration.
+Step 7 : Acceleration vs. time graph for 4-6 seconds
+For the final 2 seconds the object is traveling with a constant velocity. During this
+time the gradient of the velocity vs. time graph is once again zero, and thus the
+object is not accelerating. The acceleration vs. time graph looks like this:
+a (m·s−2)
+t (s)
+0 2 4 6
+Step 8 : A description of the object's motion
+A brief description of the motion of the object could read something like this: At
+t = 0 s and object is stationary at some position and remains stationary until t = 2 s
+when it begins accelerating. It accelerates in a positive direction for 2 seconds until
+t = 4 s and then travels at a constant velocity for a further 2 seconds.
+50
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.8
+Worked Example 9: Calculations from a velocity vs. time graph
+Question: The velocity vs. time graph of a truck is plotted below. Calculate the
+distance and displacement of the truck after 15 seconds.
+v (m·s−1)
+4
+3
+2
+1
+0 t (s)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+−1
+−2
+Answer
+Step 1 : Decide how to tackle the problem
+We are asked to calculate the distance and displacement of the car. All we need to
+remember here is that we can use the area between the velocity vs. time graph and
+the time axis to determine the distance and displacement.
+Step 2 : Determine the area under the velocity vs. time graph
+Break the motion up: 0 - 5 seconds, 5 - 12 seconds, 12 - 14 seconds and 14 - 15
+seconds.
+For 0 - 5 seconds: The displacement is For 5 - 12 seconds: The displacement
+equal to the area of the triangle on the is equal to the area of the rectangle:
+left:
+1
+Area△ = b× h
+2 Area = ℓ× b
+1
+= × 5 × 4 = 7 × 4
+2
+= 10 m = 28 m
+For 12 - 14 seconds the displacement is For 14 - 15 seconds the displacement is
+equal to the area of the triangle above equal to the area of the triangle below
+the time axis on the right: the time axis:
+1
+Area△ = b× 1h Area△ = b× h
+2 2
+1
+= × 2 × 14 = × 1 × 2
+2 2
+= 4 m = 1 m
+Step 3 : Determine the total distance of the car
+Now the total distance of the car is the sum of all of these areas:
+∆x = 10 + 28 + 4 + 1
+= 43 m
+51
+3.8 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+Step 4 : Determine the total displacement of the car
+Now the total displacement of the car is just the sum of all of these areas. HOW-
+EVER, because in the last second (from t = 14 s to t = 15 s) the velocity of the
+car is negative, it means that the car was going in the opposite direction, i.e. back
+where it came from! So, to find the total displacement, we have to add the first 3
+areas (those with positive displacements) and subtract the last one (because it is a
+displacement in the opposite direction).
+∆x = 10 + 28 + 4− 1
+= 41 m in the positive direction
+Worked Example 10: Velocity from a position vs. time graph
+Question: The position vs. time graph below describes the motion of an athlete.
+1. What is the velocity of the athlete during the first 4 seconds?
+2. What is the velocity of the athlete from t = 4 s to t = 7 s?
+x (m)
+4
+3
+2
+1
+0 t (s)
+0 1 2 3 4 5 6 7
+Answer
+Step 1 : The velocity during the first 4 seconds
+The velocity is given by the gradient of a position vs. time graph. During the first
+4 seconds, this is
+∆x
+v =
+∆t
+4− 0
+=
+4− 0
+= 1 m · s−1
+Step 2 : The velocity during the last 3 seconds
+For the last 3 seconds we can see that the displacement stays constant. The graph
+shows a horisontal line and therefore the gradient is zero. Thus v = 0 m · s−1.
+52
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.8
+Worked Example 11: Drawing a v vs. t graph from an a vs. t graph
+Question: The acceleration vs. time graph for a car starting from rest, is given
+below. Calculate the velocity of the car and hence draw the velocity vs. time graph.
+a (m·s−2)
+2
+1
+0 t (s)
+1 2 3 4 5 6
+−1
+−2
+Answer
+Step 1 : Calculate the velocity values by using the area under each part of
+the graph.
+The motion of the car can be divided into three time sections: 0 - 2 seconds; 2 - 4
+seconds and 4 - 6 seconds. To be able to draw the velocity vs. time graph, the
+velocity for each time section needs to be calculated. The velocity is equal to the
+area of the square under the graph:
+For 0 - 2 seconds: For 2 - 4 seconds: For 4 - 6 seconds:
+Area = ℓ× b Area = ℓ× b Area = ℓ× b
+= 2 × 2 = 2 × 0 = 2 ×−2
+= 4 m · s−1 = 0 m · s−1 = −4 m · s−1
+The acceleration had a nega-
+The velocity of the car is The velocity of the car is tive value, which means that
+4 m·s−1 at t = 2s. 0 m·s−1from t = 2 s to the velocity is decreasing.
+t = 4 s. It starts at a velocity of
+4 m·s−1and decreases to
+0 m·s−1.
+Step 2 : Now use the values to draw the velocity vs. time graph.
+v (m·s−1)
+4
+3
+The velocity vs. time graph
+looks like this: 2
+1
+0 t (s)
+0 1 2 3 4 5 6
+53
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.8
+
+Worked Example 11: Drawing a v vs. t graph from an a vs. t graph
+
+Question: The acceleration vs. time graph for a car starting from rest, is given
+
+below. Calculate the velocity of the car and hence draw the velocity vs. time graph.
+
+a (m·s−2)
+
+2
+
+1
+
+0 t (s)
+
+1 2 3 4 5 6
+
+−1
+
+−2
+
+Answer
+
+Step 1 : Calculate the velocity values by using the area under each part of
+
+the graph.
+
+The motion of the car can be divided into three time sections: 0 - 2 seconds; 2 - 4
+
+seconds and 4 - 6 seconds. To be able to draw the velocity vs. time graph, the
+
+velocity for each time section needs to be calculated. The velocity is equal to the
+
+area of the square under the graph:
+
+For 0 - 2 seconds: For 2 - 4 seconds: For 4 - 6 seconds:
+
+Area = ℓ× b Area = ℓ× b Area = ℓ× b
+
+= 2 × 2 = 2 × 0 = 2 ×−2
+
+= 4 m · s−1 = 0 m · s−1 = −4 m · s−1
+
+The acceleration had a nega-
+
+The velocity of the car is The velocity of the car is tive value, which means that
+
+4 m·s−1 at t = 2s. 0 m·s−1from t = 2 s to the velocity is decreasing.
+
+t = 4 s. It starts at a velocity of
+
+4 m·s−1and decreases to
+
+0 m·s−1.
+
+Step 2 : Now use the values to draw the velocity vs. time graph.
+
+v (m·s−1)
+
+4
+
+3
+
+The velocity vs. time graph
+
+looks like this: 2
+
+1
+
+0 t (s)
+
+0 1 2 3 4 5 6
+
+53
+
+3.9 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+

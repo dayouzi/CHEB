@@ -1,0 +1,920 @@
+12.8 End of Chapter exercises
+
+Forces and Newton's Laws
+
+1. [SC 2003/11] A constant, resultant force acts on a body which can move freely in a straight
+
+line. Which physical quantity will remain constant?
+
+1.1 acceleration
+
+1.2 velocity
+
+1.3 momentum
+
+1.4 kinetic energy
+
+2. [SC 2005/11 SG1] Two forces, 10 N and 15 N, act at an angle at the same point.
+
+15 N
+
+10 N
+
+Which of the following cannot be the resultant of these two forces?
+
+A 2 N
+
+B 5 N
+
+C 8 N
+
+D 20 N
+
+3. A concrete block weighing 250 N is at rest on an inclined surface at an angle of 20◦. The
+
+magnitude of the normal force, in newtons, is
+
+A 250
+
+B 250 cos 20◦
+
+C 250 sin 20◦
+
+D 2500 cos 20◦
+
+4. A 30 kg box sits on a flat frictionless surface. Two forces of 200 N each are applied to the
+
+box as shown in the diagram. Which statement best describes the motion of the box?
+
+A The box is lifted off the surface.
+
+B The box moves to the right.
+
+C The box does not move.
+
+D The box moves to the left.
+
+200N
+
+30◦
+
+200N 30kg
+
+310
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.8
+
+5. A concrete block weighing 200 N is at rest on an inclined surface at an angle of 20◦. The
+
+normal reaction, in newtons, is
+
+A 200
+
+B 200 cos 20◦
+
+C 200 sin 20◦
+
+D 2000 cos 20◦
+
+6. [SC 2003/11]A box, mass m, is at rest on a rough horizontal surface. A force of constant
+
+magnitude F is then applied on the box at an angle of 60◦to the horizontal, as shown.
+
+F
+
+◦
+
+60
+
+A B
+
+m
+
+rough surface
+
+If the box has a uniform horizontal acceleration of magnitude, a, the frictional force acting
+
+on the box is . . .
+
+A F cos 60◦ −ma in the direction of A
+
+B F cos 60◦ −ma in the direction of B
+
+C F sin 60◦ −ma in the direction of A
+
+D F sin 60◦ −ma in the direction of B
+
+7. [SC 2002/11 SG] Thabo stands in a train carriage which is moving eastwards. The train
+
+suddenly brakes. Thabo continues to move eastwards due to the effect of
+
+A his inertia.
+
+B the inertia of the train.
+
+C the braking force on him.
+
+D a resultant force acting on him.
+
+8. [SC 2002/11 HG1] A body slides down a frictionless inclined plane. Which one of the
+
+following physical quantities will remain constant throughout the motion?
+
+A velocity
+
+B momentum
+
+C acceleration
+
+D kinetic energy
+
+9. [SC 2002/11 HG1] A body moving at a CONSTANT VELOCITY on a horizontal plane,
+
+has a number of unequal forces acting on it. Which one of the following statements is
+
+TRUE?
+
+A At least two of the forces must be acting in the same direction.
+
+B The resultant of the forces is zero.
+
+C Friction between the body and the plane causes a resultant force.
+
+D The vector sum of the forces causes a resultant force which acts in the direction of
+
+motion.
+
+10. [IEB 2005/11 HG] Two masses of m and 2m respectively are connected by an elastic band
+
+on a frictionless surface. The masses are pulled in opposite directions by two forces each
+
+of magnitude F , stretching the elastic band and holding the masses stationary.
+
+F F
+
+m elastic band 2m
+
+311
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.8
+5. A concrete block weighing 200 N is at rest on an inclined surface at an angle of 20◦. The
+normal reaction, in newtons, is
+A 200
+B 200 cos 20◦
+C 200 sin 20◦
+D 2000 cos 20◦
+6. [SC 2003/11]A box, mass m, is at rest on a rough horizontal surface. A force of constant
+magnitude F is then applied on the box at an angle of 60◦to the horizontal, as shown.
+F
+◦
+60
+A B
+m
+rough surface
+If the box has a uniform horizontal acceleration of magnitude, a, the frictional force acting
+on the box is . . .
+A F cos 60◦ −ma in the direction of A
+B F cos 60◦ −ma in the direction of B
+C F sin 60◦ −ma in the direction of A
+D F sin 60◦ −ma in the direction of B
+7. [SC 2002/11 SG] Thabo stands in a train carriage which is moving eastwards. The train
+suddenly brakes. Thabo continues to move eastwards due to the effect of
+A his inertia.
+B the inertia of the train.
+C the braking force on him.
+D a resultant force acting on him.
+8. [SC 2002/11 HG1] A body slides down a frictionless inclined plane. Which one of the
+following physical quantities will remain constant throughout the motion?
+A velocity
+B momentum
+C acceleration
+D kinetic energy
+9. [SC 2002/11 HG1] A body moving at a CONSTANT VELOCITY on a horizontal plane,
+has a number of unequal forces acting on it. Which one of the following statements is
+TRUE?
+A At least two of the forces must be acting in the same direction.
+B The resultant of the forces is zero.
+C Friction between the body and the plane causes a resultant force.
+D The vector sum of the forces causes a resultant force which acts in the direction of
+motion.
+10. [IEB 2005/11 HG] Two masses of m and 2m respectively are connected by an elastic band
+on a frictionless surface. The masses are pulled in opposite directions by two forces each
+of magnitude F , stretching the elastic band and holding the masses stationary.
+F F
+m elastic band 2m
+311
+12.8 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+Which of the following gives the magnitude of the tension in the elastic band?
+A zero
+B 12F
+C F
+D 2F
+11. [IEB 2005/11 HG] A rocket takes off from its launching pad, accelerating up into the air.
+F~
+b
+tail nozzle
+W~
+The rocket accelerates because the magnitude of the upward force, F is greater than the
+magnitude of the rocket's weight, W . Which of the following statements best describes
+how force F arises?
+A F is the force of the air acting on the base of the rocket.
+B F is the force of the rocket's gas jet pushing down on the air.
+C F is the force of the rocket's gas jet pushing down on the ground.
+D F is the reaction to the force that the rocket exerts on the gases which escape out
+through the tail nozzle.
+12. [SC 2001/11 HG1] A box of mass 20 kg rests on a smooth horizontal surface. What will
+happen to the box if two forces each of magnitude 200 N are applied simultaneously to
+the box as shown in the diagram.
+200 N
+200 N 30
+◦
+20 kg
+The box will ...
+A be lifted off the surface.
+B move to the left.
+C move to the right.
+D remain at rest.
+13. [SC 2001/11 HG1] A 2 kg mass is suspended from spring balance X, while a 3 kg mass
+is suspended from spring balance Y. Balance X is in turn suspended from the 3 kg mass.
+Ignore the weights of the two spring balances.
+Y
+3 kg
+X
+2 kg
+312
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.8
+The readings (in N) on balances X and Y are as follows:
+X Y
+(A) 20 30
+(B) 20 50
+(C) 25 25
+(D) 50 50
+14. [SC 2002/03 HG1] P and Q are two forces of equal magnitude applied simultaneously to
+a body at X.
+Q
+θ P
+X
+As the angle θ between the forces is decreased from 180◦ to 0◦, the magnitude of the
+resultant of the two forces will
+A initially increase and then decrease.
+B initially decrease and then increase.
+C increase only.
+D decrease only.
+15. [SC 2002/03 HG1] The graph below shows the velocity-time graph for a moving object:
+v
+t
+Which of the following graphs could best represent the relationship between the resultant
+force applied to the object and time?
+F F F F
+t t t t
+(a) (b) (c) (d)
+16. [SC 2002/03 HG1] Two blocks each of mass 8 kg are in contact with each other and are
+accelerated along a frictionless surface by a force of 80 N as shown in the diagram. The
+force which block Q will exert on block P is equal to ...
+Q P
+80 N
+8 kg 8 kg
+A 0 N
+B 40 N
+C 60 N
+D 80 N
+313
+12.8 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+17. [SC 2002/03 HG1] Three 1 kg mass pieces are placed on top of a 2 kg trolley. When a
+force of magnitude F is applied to the trolley, it experiences an acceleration a.
+1 kg
+1 kg 1 kg
+F
+2 kg
+If one of the 1 kg mass pieces falls off while F is still being applied, the trolley will accelerate
+at ...
+A 15a
+B 45a
+C 54a
+D 5a
+18. [IEB 2004/11 HG1] A car moves along a horizontal road at constant velocity. Which of
+the following statements is true?
+A The car is not in equilibrium.
+B There are no forces acting on the car.
+C There is zero resultant force.
+D There is no frictional force.
+19. [IEB 2004/11 HG1] A crane lifts a load vertically upwards at constant speed. The upward
+force exerted on the load is F . Which of the following statements is correct?
+A The acceleration of the load is 9,8 m.s−2 downwards.
+B The resultant force on the load is F.
+C The load has a weight equal in magnitude to F.
+D The forces of the crane on the load, and the weight of the load, are an example of a
+Newton's third law 'action-reaction' pair.
+20. [IEB 2004/11 HG1] A body of mass M is at rest on a smooth horizontal surface with two
+forces applied to it as in the diagram below. Force F1 is equal to Mg. The force F1 is
+applied to the right at an angle θ to the horizontal, and a force of F2 is applied horizontally
+to the left.
+F1=Mg
+θ
+F2
+M
+How is the body affected when the angle θ is increased?
+A It remains at rest.
+B It lifts up off the surface, and accelerates towards the right.
+C It lifts up off the surface, and accelerates towards the left.
+D It accelerates to the left, moving along the smooth horizontal surface.
+21. [IEB 2003/11 HG1] Which of the following statements correctly explains why a passenger
+in a car, who is not restrained by the seat belt, continues to move forward when the brakes
+are applied suddenly?
+314
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.8
+A The braking force applied to the car exerts an equal and opposite force on the pas-
+senger.
+B A forward force (called inertia) acts on the passenger.
+C A resultant forward force acts on the passenger.
+D A zero resultant force acts on the passenger.
+22. [IEB 2004/11 HG1]
+A rocket (mass 20 000 kg) accelerates from rest to 40 m·s−1in the first 1,6 seconds of its
+journey upwards into space.
+The rocket's propulsion system consists of exhaust gases, which are pushed out of an outlet
+at its base.
+22.1 Explain, with reference to the appropriate law of Newton, how the escaping exhaust
+gases exert an upwards force (thrust) on the rocket.
+22.2 What is the magnitude of the total thrust exerted on the rocket during the first 1,6 s?
+22.3 An astronaut of mass 80 kg is carried in the space capsule. Determine the resultant
+force acting on him during the first 1,6 s.
+22.4 Explain why the astronaut, seated in his chair, feels "heavier" while the rocket is
+launched.
+23. [IEB 2003/11 HG1 - Sports Car]
+23.1 State Newton's Second Law of Motion.
+23.2 A sports car (mass 1 000 kg) is able to accelerate uniformly from rest to 30 m·s−1in
+a minimum time of 6 s.
+i. Calculate the magnitude of the acceleration of the car.
+ii. What is the magnitude of the resultant force acting on the car during these 6 s?
+23.3 The magnitude of the force that the wheels of the vehicle exert on the road surface
+as it accelerates is 7500 N. What is the magnitude of the retarding forces acting on
+this car?
+23.4 By reference to a suitable Law of Motion, explain why a headrest is important in a
+car with such a rapid acceleration.
+24. [IEB 2005/11 HG1] A child (mass 18 kg) is strapped in his car seat as the car moves to
+the right at constant velocity along a straight level road. A tool box rests on the seat
+beside him.
+tool box
+The driver brakes suddenly, bringing the car rapidly to a halt. There is negligible friction
+between the car seat and the box.
+24.1 Draw a labelled free-body diagram of the forces acting on the child during the
+time that the car is being braked.
+24.2 Draw a labelled free-body diagram of the forces acting on the box during the time
+that the car is being braked.
+315
+12.8 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+24.3 What is the rate of change of the child's momentum as the car is braked to a stand-
+still from a speed of 72 km.h−1 in 4 s.
+Modern cars are designed with safety features (besides seat belts) to protect drivers
+and passengers during collisions e.g. the crumple zones on the car's body. Rather
+than remaining rigid during a collision, the crumple zones allow the car's body to
+collapse steadily.
+24.4 State Newton's second law of motion.
+24.5 Explain how the crumple zone on a car reduces the force of impact on it during a
+collision.
+25. [SC 2003/11 HG1]The total mass of a lift together with its load is 1 200 kg. It is moving
+downwards at a constant velocity of 9 m·s−1.
+9 m·s−1
+1 200 kg
+25.1 What will be the magnitude of the force exerted by the cable on the lift while it is
+moving downwards at constant velocity? Give an explanation for your answer.
+The lift is now uniformly brought to rest over a distance of 18 m.
+25.2 Calculate the magnitude of the acceleration of the lift.
+25.3 Calculate the magnitude of the force exerted by the cable while the lift is being
+brought to rest.
+26. A driving force of 800 N acts on a car of mass 600 kg.
+26.1 Calculate the car's acceleration.
+26.2 Calculate the car's speed after 20 s.
+26.3 Calculate the new acceleration if a frictional force of 50 N starts to act on the car
+after 20 s.
+26.4 Calculate the speed of the car after another 20 s (i.e. a total of 40 s after the start).
+27. [IEB 2002/11 HG1 - A Crate on an Inclined Plane]
+Elephants are being moved from the Kruger National Park to the Eastern Cape. They are
+loaded into crates that are pulled up a ramp (an inclined plane) on frictionless rollers.
+The diagram shows a crate being held stationary on the ramp by means of a rope parallel
+to the ramp. The tension in the rope is 5 000 N.
+5000 N
+Elephants
+15◦
+27.1 Explain how one can deduce the following: "The forces acting on the crate are in
+equilibrium".
+27.2 Draw a labelled free-body diagram of the forces acting on the crane and elephant.
+(Regard the crate and elephant as one object, and represent them as a dot. Also
+show the relevant angles between the forces.)
+27.3 The crate has a mass of 800 kg. Determine the mass of the elephant.
+316
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.8
+27.4 The crate is now pulled up the ramp at a constant speed. How does the crate being
+pulled up the ramp at a constant speed affect the forces acting on the crate and
+elephant? Justify your answer, mentioning any law or principle that applies to this
+situation.
+28. [IEB 2002/11 HG1 - Car in Tow]
+Car A is towing Car B with a light tow rope. The cars move along a straight, horizontal
+road.
+28.1 Write down a statement of Newton's Second Law of Motion (in words).
+28.2 As they start off, Car A exerts a forwards force of 600 N at its end of the tow rope.
+The force of friction on Car B when it starts to move is 200 N. The mass of Car B
+is 1 200 kg. Calculate the acceleration of Car B.
+28.3 After a while, the cars travel at constant velocity. The force exerted on the tow rope
+is now 300 N while the force of friction on Car B increases. What is the magnitude
+and direction of the force of friction on Car B now?
+28.4 Towing with a rope is very dangerous. A solid bar should be used in preference to a
+tow rope. This is especially true should Car A suddenly apply brakes. What would
+be the advantage of the solid bar over the tow rope in such a situation?
+28.5 The mass of Car A is also 1 200 kg. Car A and Car B are now joined by a solid tow
+bar and the total braking force is 9 600 N. Over what distance could the cars stop
+from a velocity of 20 m·s−1?
+29. [IEB 2001/11 HG1] - Testing the Brakes of a Car
+A braking test is carried out on a car travelling at 20 m·s−1. A braking distance of
+30 m is measured when a braking force of 6 000 N is applied to stop the car.
+29.1 Calculate the acceleration of the car when a braking force of 6 000 N is applied.
+29.2 Show that the mass of this car is 900 kg.
+29.3 How long (in s) does it take for this car to stop from 20 m·s−1under the braking
+action described above?
+29.4 A trailer of mass 600 kg is attached to the car and the braking test is repeated from
+20 m·s−1using the same braking force of 6 000 N. How much longer will it take to
+stop the car with the trailer in tow?
+30. [IEB 2001/11 HG1] A rocket takes off from its launching pad, accelerating up into the air.
+Which of the following statements best describes the reason for the upward acceleration
+of the rocket?
+A The force that the atmosphere (air) exerts underneath the rocket is greater than the
+weight of the rocket.
+B The force that the ground exerts on the rocket is greater than the weight of the
+rocket.
+C The force that the rocket exerts on the escaping gases is less than the weight of the
+rocket.
+D The force that the escaping gases exerts on the rocket is greater than the weight of
+the rocket.
+31. [IEB 2005/11 HG] A box is held stationary on a smooth plane that is inclined at angle θ
+to the horizontal.
+N
+F
+θ w
+317
+12.8 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+F is the force exerted by a rope on the box. w is the weight of the box and N is the
+normal force of the plane on the box. Which of the following statements is correct?
+A tan θ = Fw
+B tan θ = FN
+C cos θ = Fw
+D sin θ = Nw
+32. [SC 2001/11 HG1] As a result of three forces F1, F2 and F3 acting on it, an object at
+point P is in equilibrium.
+F1 F2
+F3
+Which of the following statements is not true with reference to the three forces?
+32.1 The resultant of forces F1, F2 and F3 is zero.
+32.2 Forces F1, F2 and F3 lie in the same plane.
+32.3 Forces F3 is the resultant of forces F1 and F2.
+32.4 The sum of the components of all the forces in any chosen direction is zero.
+33. A block of mass M is held stationary by a rope of negligible mass. The block rests on a
+frictionless plane which is inclined at 30◦ to the horizontal.
+M
+30◦
+33.1 Draw a labelled force diagram which shows all the forces acting on the block.
+33.2 Resolve the force due to gravity into components that are parallel and perpendicular
+to the plane.
+33.3 Calculate the weight of the block when the force in the rope is 8N.
+34. [SC 2003/11] A heavy box, mass m, is lifted by means of a rope R which passes over a
+pulley fixed to a pole. A second rope S, tied to rope R at point P, exerts a horizontal force
+and pulls the box to the right. After lifting the box to a certain height, the box is held
+stationary as shown in the sketch below. Ignore the masses of the ropes. The tension in
+rope R is 5 850 N.
+rope R
+70◦
+P rope S
+strut
+box
+318
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.8
+34.1 Draw a diagram (with labels) of all the forces acting at the point P, when P is in
+equilibrium.
+34.2 By resolving the force exerted by rope R into components, calculate the . . .
+i. magnitude of the force exerted by rope S.
+ii. mass, m, of the box.
+34.3 Will the tension in rope R, increase, decrease or remain the same if rope S is pulled
+further to the right (the length of rope R remains the same)? Give a reason for your
+choice.
+35. A tow truck attempts to tow a broken down car of mass 400 kg. The coefficient of static
+friction is 0,60 and the coefficient of kinetic (dynamic) friction is 0,4. A rope connects the
+tow truck to the car. Calculate the force required:
+35.1 to just move the car if the rope is parallel to the road.
+35.2 to keep the car moving at constant speed if the rope is parallel to the road.
+35.3 to just move the car if the rope makes an angle of 30◦ to the road.
+35.4 to keep the car moving at constant speed if the rope makes an angle of 30◦ to the
+road.
+36. A crate weighing 2000 N is to be lowered at constant speed down skids 4 m long, from a
+truck 2 m high.
+36.1 If the coefficient of sliding friction between the crate and the skids is 0,30, will the
+crate need to be pulled down or held back?
+36.2 How great is the force needed parallel to the skids?
+37. Block A in the figures below weighs 4 N and block B weighs 8 N. The coefficient of kinetic
+friction between all surfaces is 0,25. Find the force P necessary to drag block B to the left
+at constant speed if
+37.1 A rests on B and moves with it
+37.2 A is held at rest
+37.3 A and B are connected by a light flexible cord passing around a fixed frictionless
+pulley
+A A A
+P P P
+B B B
+(a) (b) (c)
+Gravitation
+1. [SC 2003/11]An object attracts another with a gravitational force F . If the distance
+between the centres of the two objects is now decreased to a third (13 ) of the original
+distance, the force of attraction that the one object would exert on the other would
+become. . .
+A 19F
+B 13F
+C 3F
+D 9F
+2. [SC 2003/11] An object is dropped from a height of 1 km above the Earth. If air resistance
+is ignored, the acceleration of the object is dependent on the . . .
+319
+12.8 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+A mass of the object
+B radius of the earth
+C mass of the earth
+D weight of the object
+3. A man has a mass of 70 kg on Earth. He is walking on a new planet that has a mass four
+times that of the Earth and the radius is the same as that of the Earth ( ME = 6 x 10
+24
+kg, rE = 6 x 10
+6 m )
+3.1 Calculate the force between the man and the Earth.
+3.2 What is the man's mass on the new planet?
+3.3 Would his weight be bigger or smaller on the new planet? Explain how you arrived
+at your answer.
+4. Calculate the distance between two objects, 5000 kg and 6 x 1012 kg respectively, if the
+magnitude of the force between them is 3 x 10?8 N.
+5. Calculate the mass of the Moon given that an object weighing 80 N on the Moon has a
+weight of 480 N on Earth and the radius of the Moon is 1,6 x 1016 m.
+6. The following information was obtained from a free-fall experiment to determine the value
+of g with a pendulum.
+Average falling distance between marks = 920 mm
+Time taken for 40 swings = 70 s
+Use the data to calculate the value of g.
+7. An astronaut in a satellite 1600 km above the Earth experiences gravitational force of the
+magnitude of 700 N on Earth. The Earth's radius is 6400 km. Calculate
+7.1 The magnitude of the gravitational force which the astronaut experiences in the
+satellite.
+7.2 The magnitude of the gravitational force on an object in the satellite which weighs
+300 N on Earth.
+8. An astronaut of mass 70 kg on Earth lands on a planet which has half the Earth's radius
+and twice its mass. Calculate the magnitude of the force of gravity which is exerted on
+him on the planet.
+9. Calculate the magnitude of the gravitational force of attraction between two spheres of
+lead with a mass of 10 kg and 6 kg respectively if they are placed 50 mm apart.
+10. The gravitational force between two objects is 1200 N. What is the gravitational force
+between the objects if the mass of each is doubled and the distance between them halved?
+11. Calculate the gravitational force between the Sun with a mass of 2 x 1030 kg and the Earth
+with a mass of 6 x 1024 kg if the distance between them is 1,4 x 108 km.
+12. How does the gravitational force of attraction between two objects change when
+12.1 the mass of each object is doubled.
+12.2 the distance between the centres of the objects is doubled.
+12.3 the mass of one object is halved, and the distance between the centres of the objects
+is halved.
+13. Read each of the following statements and say whether you agree or not. Give reasons for
+your answer and rewrite the statement if necessary:
+13.1 The gravitational acceleration g is constant.
+13.2 The weight of an object is independent of its mass.
+13.3 G is dependent on the mass of the object that is being accelerated.
+14. An astronaut weighs 750 N on the surface of the Earth.
+320
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.8
+14.1 What will his weight be on the surface of Saturn, which has a mass 100 times greater
+than the Earth, and a radius 5 times greater than the Earth?
+14.2 What is his mass on Saturn?
+15. A piece of space garbage is at rest at a height 3 times the Earth's radius above the Earth's
+surface. Determine its acceleration due to gravity. Assume the Earth's mass is 6,0 x 1024
+kg and the Earth's radius is 6400 km.
+16. Your mass is 60 kg in Paris at ground level. How much less would you weigh after taking
+a lift to the top of the Eiffel Tower, which is 405 m high? Assume the Earth's mass is
+6,0 x 1024 kg and the Earth's radius is 6400 km.
+17. 17.1 State Newton's Law of Universal Gravitation.
+17.2 Use Newton's Law of Universal Gravitation to determine the magnitude of the accel-
+eration due to gravity on the Moon.
+The mass of the Moon is 7,40 × 1022 kg.
+The radius of the Moon is 1,74 × 106 m.
+17.3 Will an astronaut, kitted out in his space suit, jump higher on the Moon or on the
+Earth? Give a reason for your answer.
+Momentum
+1. [SC 2003/11]A projectile is fired vertically upwards from the ground. At the highest point
+of its motion, the projectile explodes and separates into two pieces of equal mass. If one
+of the pieces is projected vertically upwards after the explosion, the second piece will . . .
+A drop to the ground at zero initial speed.
+B be projected downwards at the same initial speed at the first piece.
+C be projected upwards at the same initial speed as the first piece.
+D be projected downwards at twice the initial speed as the first piece.
+2. [IEB 2004/11 HG1] A ball hits a wall horizontally with a speed of 15 m·s−1. It rebounds
+horizontally with a speed of 8 m·s−1. Which of the following statements about the system
+of the ball and the wall is true?
+A The total linear momentum of the system is not conserved during this collision.
+B The law of conservation of energy does not apply to this system.
+C The change in momentum of the wall is equal to the change in momentum of the
+ball.
+D Energy is transferred from the ball to the wall.
+3. [IEB 2001/11 HG1] A block of mass M collides with a stationary block of mass 2M. The
+two blocks move off together with a velocity of v. What is the velocity of the block of
+mass M immediately before it collides with the block of mass 2M?
+A v
+B 2v
+C 3v
+D 4v
+4. [IEB 2003/11 HG1] A cricket ball and a tennis ball move horizontally towards you with
+the same momentum. A cricket ball has greater mass than a tennis ball. You apply the
+same force in stopping each ball.
+How does the time taken to stop each ball compare?
+A It will take longer to stop the cricket ball.
+B It will take longer to stop the tennis ball.
+C It will take the same time to stop each of the balls.
+321
+12.8 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+D One cannot say how long without knowing the kind of collision the ball has when
+stopping.
+5. [IEB 2004/11 HG1] Two identical billiard balls collide head-on with each other. The first
+ball hits the second ball with a speed of V, and the second ball hits the first ball with
+a speed of 2V. After the collision, the first ball moves off in the opposite direction with
+a speed of 2V. Which expression correctly gives the speed of the second ball after the
+collision?
+A V
+B 2V
+C 3V
+D 4V
+6. [SC 2002/11 HG1] Which one of the following physical quantities is the same as the rate
+of change of momentum?
+A resultant force
+B work
+C power
+D impulse
+7. [IEB 2005/11 HG] Cart X moves along a smooth track with momentum p. A resultant
+force F applied to the cart stops it in time t. Another cart Y has only half the mass of X,
+but it has the same momentum p.
+X Y
+p p
+2m m
+F F
+In what time will cart Y be brought to rest when the same resultant force F acts on it?
+A 12 t
+B t
+C 2t
+D 4t
+8. [SC 2002/03 HG1] A ball with mass m strikes a wall perpendicularly with a speed, v. If it
+rebounds in the opposite direction with the same speed, v, the magnitude of the change
+in momentum will be ...
+A 2mv
+B mv
+C 12mv
+D 0 mv
+9. Show that impulse and momentum have the same units.
+10. A golf club exerts an average force of 3 kN on a ball of mass 0,06 kg. If the golf club is
+in contact with the golf ball for 5 x 10−4 seconds, calculate
+10.1 the change in the momentum of the golf ball.
+10.2 the velocity of the golf ball as it leaves the club.
+11. During a game of hockey, a player strikes a stationary ball of mass 150 g. The graph below
+shows how the force of the ball varies with the time.
+322
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.8
+Force (N)
+200
+150
+100
+50
+0,1 0,2 0,3 0,4 0,5 Time (s)
+11.1 What does the area under this graph represent?
+11.2 Calculate the speed at which the ball leaves the hockey stick.
+11.3 The same player hits a practice ball of the same mass, but which is made from a
+softer material. The hit is such that the ball moves off with the same speed as before.
+How will the area, the height and the base of the triangle that forms the graph,
+compare with that of the original ball?
+12. The fronts of modern cars are deliberately designed in such a way that in case of a head-on
+collision, the front would crumple. Why is it desirable that the front of the car should
+crumple?
+13. A ball of mass 100 g strikes a wall horizontally at 10 m·s−1and rebounds at 8 m·s−1. It is
+in contact with the wall for 0,01 s.
+13.1 Calculate the average force exerted by the wall on the ball.
+13.2 Consider a lump of putty also of mass 100 g which strikes the wall at 10 m·s−1and
+comes to rest in 0,01 s against the surface. Explain qualitatively (no numbers)
+whether the force exerted on the putty will be less than, greater than of the same as
+the force exerted on the ball by the wall. Do not do any calculations.
+14. Shaun swings his cricket bat and hits a stationary cricket ball vertically upwards so that it
+rises to a height of 11,25 m above the ground. The ball has a mass of 125 g. Determine
+14.1 the speed with which the ball left the bat.
+14.2 the impulse exerted by the bat on the ball.
+14.3 the impulse exerted by the ball on the bat.
+14.4 for how long the ball is in the air.
+15. A glass plate is mounted horizontally 1,05 m above the ground. An iron ball of mass 0,4
+kg is released from rest and falls a distance of 1,25 m before striking the glass plate and
+breaking it. The total time taken from release to hitting the ground is recorded as 0,80 s.
+Assume that the time taken to break the plate is negligible.
+1,25 m
+1,05 m
+323
+12.8 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+15.1 Calculate the speed at which the ball strikes the glass plate.
+15.2 Show that the speed of the ball immediately after breaking the plate is 2,0 m·s−1.
+15.3 Calculate the magnitude and give the direction of the change of momentum which
+the ball experiences during its contact with the glass plate.
+15.4 Give the magnitude and direction of the impulse which the glass plate experiences
+when the ball hits it.
+16. [SC 2004/11 HG1]A cricket ball, mass 175 g is thrown directly towards a player at a
+velocity of 12 m·s−1. It is hit back in the opposite direction with a velocity of 30 m·s−1.
+The ball is in contact with the bat for a period of 0,05 s.
+16.1 Calculate the impulse of the ball.
+16.2 Calculate the magnitude of the force exerted by the bat on the ball.
+17. [IEB 2005/11 HG1] A ball bounces to a vertical height of 0,9 m when it is dropped from
+a height of 1,8 m. It rebounds immediately after it strikes the ground, and the effects of
+air resistance are negligible.
+1,8 m
+0,9 m
+17.1 How long (in s) does it take for the ball to hit the ground after it has been dropped?
+17.2 At what speed does the ball strike the ground?
+17.3 At what speed does the ball rebound from the ground?
+17.4 How long (in s) does the ball take to reach its maximum height after the bounce?
+17.5 Draw a velocity-time graph for the motion of the ball from the time it is dropped to
+the time when it rebounds to 0,9 m. Clearly, show the following on the graph:
+i. the time when the ball hits the ground
+ii. the time when it reaches 0,9 m
+iii. the velocity of the ball when it hits the ground, and
+iv. the velocity of the ball when it rebounds from the ground.
+18. [SC 2002/11 HG1] In a railway shunting yard, a locomotive of mass 4 000 kg, travelling due
+east at a velocity of 1,5 m·s−1, collides with a stationary goods wagon of mass 3 000 kg
+in an attempt to couple with it. The coupling fails and instead the goods wagon moves
+due east with a velocity of 2,8 m·s−1.
+18.1 Calculate the magnitude and direction of the velocity of the locomotive immediately
+after collision.
+18.2 Name and state in words the law you used to answer question (18a)
+19. [SC 2005/11 SG1] A combination of trolley A (fitted with a spring) of mass 1 kg, and
+trolley B of mass 2 kg, moves to the right at 3 m·s−1 along a frictionless, horizontal
+surface. The spring is kept compressed between the two trolleys.
+3 m·s−1
+B
+A 2 kg
+1 kg
+Before
+324
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.8
+While the combination of the two trolleys is moving at 3 m·s−1 , the spring is released
+and when it has expanded completely, the 2 kg trolley is then moving to the right at 4,7
+m·s−1 as shown below.
+4,7 m·s−1
+B
+A 2 kg
+1 kg
+After
+19.1 State, in words, the principle of conservation of linear momentum.
+19.2 Calculate the magnitude and direction of the velocity of the 1 kg trolley immediately
+after the spring has expanded completely.
+20. [IEB 2002/11 HG1] A ball bounces back from the ground. Which of the following state-
+ments is true of this event?
+20.1 The magnitude of the change in momentum of the ball is equal to the magnitude of
+the change in momentum of the Earth.
+20.2 The magnitude of the impulse experienced by the ball is greater than the magnitude
+of the impulse experienced by the Earth.
+20.3 The speed of the ball before the collision will always be equal to the speed of the ball
+after the collision.
+20.4 Only the ball experiences a change in momentum during this event.
+21. [SC 2002/11 SG] A boy is standing in a small stationary boat. He throws his schoolbag,
+mass 2 kg, horizontally towards the jetty with a velocity of 5 m·s−1. The combined mass
+of the boy and the boat is 50 kg.
+21.1 Calculate the magnitude of the horizontal momentum of the bag immediately after
+the boy has thrown it.
+21.2 Calculate the velocity (magnitude and direction) of the boat-and-boy immediately
+after the bag is thrown.
+Torque and levers
+1. State whether each of the following statements are true or false. If the statement is false,
+rewrite the statement correcting it.
+1.1 The torque tells us what the turning effect of a force is.
+1.2 To increase the mechanical advantage of a spanner you need to move the effort closer
+to the load.
+1.3 A class 2 lever has the effort between the fulcrum and the load.
+1.4 An object will be in equilibrium if the clockwise moment and the anticlockwise mo-
+ments are equal.
+1.5 Mechanical advantage is a measure of the difference between the load and the effort.
+1.6 The force times the perpendicular distance is called the mechanical advantage.
+2. Study the diagram below and determine whether the seesaw is balanced. Show all your
+calculations.
+1,2 m 2 m
+5 kg 3 kg
+325
+12.8 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+3. Two children are playing on a seesaw. Tumi has a weight of 200 N and Thandi weighs
+240 N. Tumi is sitting at a distance of 1,2 m from the pivot.
+3.1 What type of lever is a seesaw?
+3.2 Calculate the moment of the force that Tumi exerts on the seesaw.
+3.3 At what distance from the pivot should Thandi sit to balance the seesaw?
+4. An applied force of 25 N is needed to open the cap of a glass bottle using a bottle opener.
+The distance between the applied force and the fulcrum is 10 cm and the distance between
+the load and the fulcrum is 1 cm.
+4.1 What type of lever is a bottle opener? Give a reason for your answer.
+4.2 Calculate the mechanical advantage of the bottle opener.
+4.3 Calculate the force that the bottle cap is exerting.
+5. Determine the force needed to lift the 20 kg load in the wheelbarrow in the diagram below.
+20 kg
+50 cm 75 cm
+6. A body builder picks up a weight of 50 N using his right hand. The distance between the
+body builder's hand and his elbow is 45 cm. The distance between his elbow and where
+his muscles are attached to his forearm is 5 cm.
+6.1 What type of lever is the human arm? Explain your answer using a diagram.
+6.2 Determine the force his muscles need to apply to hold the weight steady.
+326
+12.8 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+3. Two children are playing on a seesaw. Tumi has a weight of 200 N and Thandi weighs
+
+240 N. Tumi is sitting at a distance of 1,2 m from the pivot.
+
+3.1 What type of lever is a seesaw?
+
+3.2 Calculate the moment of the force that Tumi exerts on the seesaw.
+
+3.3 At what distance from the pivot should Thandi sit to balance the seesaw?
+
+4. An applied force of 25 N is needed to open the cap of a glass bottle using a bottle opener.
+
+The distance between the applied force and the fulcrum is 10 cm and the distance between
+
+the load and the fulcrum is 1 cm.
+
+4.1 What type of lever is a bottle opener? Give a reason for your answer.
+
+4.2 Calculate the mechanical advantage of the bottle opener.
+
+4.3 Calculate the force that the bottle cap is exerting.
+
+5. Determine the force needed to lift the 20 kg load in the wheelbarrow in the diagram below.
+
+20 kg
+
+50 cm 75 cm
+
+6. A body builder picks up a weight of 50 N using his right hand. The distance between the
+
+body builder's hand and his elbow is 45 cm. The distance between his elbow and where
+
+his muscles are attached to his forearm is 5 cm.
+
+6.1 What type of lever is the human arm? Explain your answer using a diagram.
+
+6.2 Determine the force his muscles need to apply to hold the weight steady.
+
+326
+
+Chapter 13
+
+Geometrical Optics - Grade 11
+
+13.1 Introduction
+
+In Grade 10, we studied how light is reflected and refracted. This chapter builds on what you
+
+have learnt in Grade 10. You will learn about lenses, how the human eye works as well as how
+
+telescopes and microscopes work.
+
+13.2 Lenses
+
+In this section we will discuss properties of thin lenses. In Grade 10, you learnt about two kinds
+
+of mirrors: concave mirrors which were also known as converging mirrors and convex mirrors
+
+which were also known as diverging mirrors. Similarly, there are two types of lenses: converging
+
+and diverging lenses.
+
+We have learnt how light travels in different materials, and we are now ready to learn how we
+
+can control the direction of light rays. We use lenses to control the direction of light. When
+
+light enters a lens, the light rays bend or change direction as shown in Figure 13.1.
+
+Definition: Lens
+
+A lens is any transparent material (e.g. glass) of an appropriate shape that can take parallel
+
+rays of incident light and either converge the rays to a point or diverge the rays from a
+
+point.
+
+Some lenses will focus light rays to a single point. These lenses are called converging or concave
+
+lenses. Other lenses spread out the light rays so that it looks like they all come from the same
+
+point. These lenses are called diverging or convex lenses. Lenses change the direction of light
+
+rays by refraction. They are designed so that the image appears in a certain place or as a certain
+
+size. Lenses are used in eyeglasses, cameras, microscopes, and telescopes. You also have lenses
+
+in your eyes!
+
+Definition: Converging Lenses
+
+Converging lenses converge parallel rays of light and are thicker in the middle than at the
+
+edges.
+
+Definition: Diverging Lenses
+
+Diverging lenses diverge parallel rays of light and are thicker at the edges than in the middle.
+
+327

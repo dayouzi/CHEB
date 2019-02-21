@@ -1,0 +1,144 @@
+3.11. Distance Between Parallel Lines www.ck12.org
+
+3.11 Distance Between Parallel Lines
+
+Here you'll learn that the shortest distance between two parallel lines is the length of a perpendicular line between
+
+them.
+
+What if you were given two parallel lines? How could you find how far apart these two lines are? After completing
+
+this Concept, you'll be able to find the distance between two vertical lines, two horizontal lines, and two non-vertical,
+
+non-horizontal parallel lines using the perpendicular slope.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136589
+
+CK-12 Finding The Distance Between Parallel Lines
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1337
+
+James Sousa: Determining the Distance Between Two Parallel Lines
+
+Guidance
+
+All vertical lines are in the form x = a, where a is the x−intercept. To find the distance between two vertical lines,
+
+count the squares between the two lines. You can use this method for horizontal lines as well. All horizontal lines
+
+are in the form y = b, where b is the y− intercept.
+
+In general, the shortest distance between two parallel lines is the length of a perpendicular line between them. There
+
+are infinitely many perpendicular lines between two parallel lines, but they will all be the same length.
+
+158
+
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+
+Remember that distances are always positive!
+
+Example A
+
+Find the distance between x = 3 and x =−5.
+
+The two lines are 3 -(-5) units apart, or 8 units apart.
+
+Example B
+
+Find the distance between y = 5 and y =−8.
+
+The two lines are 5 -(-8) units apart, or 13 units apart.
+
+159
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+Remember that distances are always positive!
+Example A
+Find the distance between x = 3 and x =−5.
+The two lines are 3 -(-5) units apart, or 8 units apart.
+Example B
+Find the distance between y = 5 and y =−8.
+The two lines are 5 -(-8) units apart, or 13 units apart.
+159
+3.11. Distance Between Parallel Lines www.ck12.org
+Example C
+Find the distance between y = x+6 and y = x−2.
+Step 1: Find the perpendicular slope.
+m = 1, so m⊥ =−1
+Step 2: Find the y−intercept of the top line, y = x+6. (0, 6)
+Step 3: Use the slope and count down 1 and to the right 1 until you hit y = x−2.
+Always rise/run the same amount for m = 1 or -1.
+Step 4: Use these two points in the distance formula to determine how far apart the lines are.
+√
+d = √(0−4)2 +(6−2)2
+= (−4)2 +(4)2
+√
+= √16+16
+= 32 = 5.66 units
+160
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136590
+CK-12 Finding The Distance Between Parallel Lines
+->
+Guided Practice
+1. Find the distance between y =−x−1 and y =−x−3.
+2. Find the distance between y = 2 and y =−4.
+3. Find the distance between x =−5 and x =−10.
+Answers:
+1. Step 1: Find the perpendicular slope.
+m =−1, so m⊥ = 1
+Step 2: Find the y−intercept of the top line, y =−x−1. (0, -1)
+Step 3: Use the slope and count down 1 and to the left 1 until you hit y = x−3.
+Step 4: Use these two points in the distance formula to determine how far apart the lines are.
+161
+3.11. Distance Between Parallel Lines www.ck12.org
+√
+d = √(0− (−1))2 +(−1− (−2))2
+= (1)2 +(1)2
+√
+= √1+1
+= 2 = 1.41 units
+2. The two lines are 2 -(-4) units apart, or 6 units apart.
+3. The two lines are -5 -(-10) units apart, or 5 units apart.
+Explore More
+Use each graph below to determine how far apart each pair of parallel lines is.
+1.
+2.
+3.
+162
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+4.
+Determine the shortest distance between the each pair of parallel lines. Round your answer to the nearest hundredth.
+5. x = 5,x = 1
+6. y =−6,y = 4
+7. y = 3,y = 15
+8. x =−10,x =−1
+9. x = 8,x = 0
+10. y = 7,y =−12
+Find the distance between the given parallel lines.
+11. y = x−3, y = x+11
+12. y =−x+4, y =−x
+13. y =−x−5, y =−x+1
+14. y = x+12, y = x−6
+Summary
+This chapter begins by comparing parallel and skew lines and presenting some of the basic properties of parallel
+lines. Perpendicular lines are then introduced and some basic properties and theorems related to perpendicular lines
+are explored. Building on the discussion of parallel lines, perpendicular lines, and transversals, the different angles
+formed when parallel lines are cut by a transversal are displayed. Corresponding angles, alternate interior angles,
+alternate exterior angles and their properties are presented. The algebra topics of equations of lines, slope, and
+distance are tied to the geometric concepts of parallel and perpendicular lines.
+163
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+

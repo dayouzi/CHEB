@@ -1,0 +1,98 @@
+3.7 RATIONAL FUNCTIONS
+Rational Functions and Asymptotes ! Transformations of y ! 1/x!
+Asymptotes of Rational Functions ! Graphing Rational Functions ! Slant
+Asymptotes and End Behavior ! Applications
+A rational function is a function of the form
+r 1 Px 2 11x 2! Q x 2
+where P and Q are polynomials. We assume that P1x 2 and Q1x 2 have no factor in com-
+mon. Even though rational functions are constructed from polynomials, their graphs look
+quite different from the graphs of polynomial functions.
+" Rational Functions and Asymptotes
+Domains of rational expressions are The domain of a rational function consists of all real numbers x except those for which
+discussed in Section 1.4. the denominator is zero. When graphing a rational function, we must pay special attention
+to the behavior of the graph near those x-values. We begin by graphing a very simple ra-
+tional function.
+E X A M P L E  1 | A Simple Rational Function
+Graph the rational function f 1 1x 2 ! , and state the domain and range.
+x
+S0 O L U T I O N The function f is not defined for x ! 0. The following tables show thatwhen x is close to zero, the value of f 1x 2 0 0 f 1x 2 0 is large, and the closer x gets to zero, the largergets.
+For positive real numbers,
+x f 1x2 x f 1x2
+1
+ ! small number
+BIG NUMBER "0.1 "10 0.1 10
+1 "0.01 "100 0.01 100
+ ! BIG NUMBER "0.00001 "100,000 0.00001 100,000
+small number
+Approaching 0" Approaching "# Approaching 0$ Approaching #
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+278 C H A P T E R  3 | Polynomial and Rational Functions
+We describe this behavior in words and in symbols as follows. The first table shows 
+that as x approaches 0 from the left, the values of y ! f 1x 2 decrease without bound. In
+symbols,
+f 1x 2 !"q as x! 0" "y approaches negative infinity 
+as x approaches 0 from the left"
+The second table shows that as x approaches 0 from the right, the values of f 1x 2 increase
+without bound. I
+f 1n sx 2 ymbols,!q as x! 0# "y approaches infinity as x
+p
+f 1x 2 a p0 roaches 0 from the right"The next two tables show how changes as x 0 becomes large.
+x f 1x2 x f 1x2
+"10 "0.1 10 0.1
+"100 "0.01 100 0.01
+"100,000 "0.00001 100,000 0.00001
+Approaching "# Approaching 0 Approaching # Approaching 0
+These tables show that as 0 x 0 becomes large, the value of f 1x 2 gets closer and closer to
+zero. We des
+f 1crx 2ibe this situation in symbols by writing! 0 as x!"q  and  f 1x 2 ! 0 as x!q
+Using the information in these tables and plotting a few additional points, we obtain the
+graph shown in Figure 1.
+y
+x f 1x2 ! 1 f(x)      `x as x +      0
+"2 "12 2
+"1 "1 f(x)      0 as
+"1
+x      `
+ 2 "2
+1
+2 2 0 x
+1 1 2f(x)      0 as
+2 12 x      _`
+F I G U R E  1
+f 1x 2 f(x)      _`! 1 as x      0_x
+The function f is defined for all values 5of x other than 0, so the domain is y 0  y ' 06 5x 0  x ' 06.From the graph we see that the range is .
+278 C H A P T E R  3 | Polynomial and Rational Functions
+We describe this behavior in words and in symbols as follows. The first table shows 
+that as x approaches 0 from the left, the values of y ! f 1x 2 decrease without bound. In
+symbols,
+f 1x 2 !"q as x! 0" "y approaches negative infinity 
+as x approaches 0 from the left"
+The second table shows that as x approaches 0 from the right, the values of f 1x 2 increase
+without bound. I
+f 1n sx 2 ymbols,!q as x! 0# "y approaches infinity as x
+p
+f 1x 2 a p0 roaches 0 from the right"The next two tables show how changes as x 0 becomes large.
+x f 1x2 x f 1x2
+"10 "0.1 10 0.1
+"100 "0.01 100 0.01
+"100,000 "0.00001 100,000 0.00001
+Approaching "# Approaching 0 Approaching # Approaching 0
+These tables show that as 0 x 0 becomes large, the value of f 1x 2 gets closer and closer to
+zero. We des
+f 1crx 2ibe this situation in symbols by writing! 0 as x!"q  and  f 1x 2 ! 0 as x!q
+Using the information in these tables and plotting a few additional points, we obtain the
+graph shown in Figure 1.
+y
+x f 1x2 ! 1 f(x)      `x as x +      0
+"2 "12 2
+"1 "1 f(x)      0 as
+"1
+x      `
+ 2 "2
+1
+2 2 0 x
+1 1 2f(x)      0 as
+2 12 x      _`
+F I G U R E  1
+f 1x 2 f(x)      _`! 1 as x      0_x
+The function f is defined for all values 5of x other than 0, so the domain is y 0  y ' 06 5x 0  x ' 06.From the graph we see that the range is .

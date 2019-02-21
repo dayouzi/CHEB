@@ -1,0 +1,340 @@
+14.4 Graphs of Particle Position, Displacement, Velocity
+
+and Acceleration
+
+When a longitudinal wave moves through the medium, the particles in the medium only move
+
+back and forth relative to the direction of motion of the wave. We can see this in Figure 14.4
+
+which shows the motion of the particles in a medium as a longitudinal wave moves through the
+
+medium.
+
+0 1 2 3 4 5 6 7 8 9 10
+
+t = 0 s b b b b b b b b b b b
+
+0
+
+t = 1 s b b b b b b b b b b b
+
+0 1
+
+t = 2 s b b b b b b b b b b b
+
+0 1 2
+
+t = 3 s b b b b b b b b b b b
+
+0 1 2 3
+
+t = 4 s b b b b b b b b b b b
+
+0 1 2 3 4
+
+t = 5 s b b b b b b b b b b b
+
+0 1 2 3 4 5
+
+t = 6 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6
+
+t = 7 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6 7
+
+t = 8 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6 7 8
+
+t = 9 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6 7 8 9
+
+t = 10 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6 7 8 9
+
+t = 11 s b b b b b b b b b b
+
+0 1 2 3 4 5 6 7 8 9
+
+t = 12 s b b b b b b b b b b
+
+Figure 14.4: Positions of particles in a medium at different times as a longitudinal wave moves
+
+through it. The wave moves to the right. The dashed line shows the equilibrium position of
+
+particle 0.
+
+359
+
+14.5 CHAPTER 14. LONGITUDINAL WAVES - GRADE 11
+
+Important: A particle in the medium only moves back and forth when a longitudinal wave
+
+moves through the medium.
+
+As in Chapter 6, we can draw a graph of the particle's position as a function of time. For the
+
+wave shown in Figure 14.4, we can draw the graph shown in Figure 14.5 for particle 0. The
+
+graph for each of the other particles will be identical.
+
+x
+
+b
+
+b b
+
+b b
+
+b b b t
+
+1 2 3 4 5 6 7 8 9 10 11 12
+
+b b
+
+b b
+
+b
+
+Figure 14.5: Graph of particle displacement as a function of time for the longitudinal wave shown
+
+in Figure 14.4.
+
+The graph of the particle's velocity as a function of time is obtained by taking the gradient of
+
+the position vs. time graph. The graph of velocity vs. time for the position vs. time graph
+
+shown in Figure 14.5 is shown is Figure 14.6.
+
+v
+
+b b
+
+b b
+
+b b
+
+b b t
+
+1 2 3 4 5 6 7 8 9 10 11 12
+
+b b
+
+b b
+
+b
+
+Figure 14.6: Graph of velocity as a function of time.
+
+The graph of the particle's acceleration as a function of time is obtained by taking the gradient
+
+of the velocity vs. time graph. The graph of acceleration vs. time for the position vs. time
+
+graph shown in Figure 14.5 is shown is Figure 14.7.
+
+a
+
+b
+
+b b
+
+b b
+
+b b b t
+
+1 2 3 4 5 6 7 8 9 10 11 12
+
+b b
+
+b b
+
+b
+
+Figure 14.7: Graph of acceleration as a function of time.
+
+CHAPTER 14. LONGITUDINAL WAVES - GRADE 11 14.4
+
+Step 2 : Determine how to approach based on what is given
+
+We need to find the link between period, wavelength and wave speed.
+
+Step 3 : Discuss how the period changes
+
+We know that the frequency of a longitudinal wave is dependent on the frequency
+
+of the vibrations that lead to the creation of the longitudinal wave. Therefore, the
+
+frequency is always unchanged, irrespective of any changes in speed. Since the
+
+period is the inverse of the frequency, the period remains the same.
+
+Step 4 : Discuss how the wavelength changes
+
+The frequency remains unchanged. According to the wave equation
+
+v = fλ
+
+if f remains the same and v increases, then λ, the wavelength, must also increase.
+
+14.4 Graphs of Particle Position, Displacement, Velocity
+
+and Acceleration
+
+When a longitudinal wave moves through the medium, the particles in the medium only move
+
+back and forth relative to the direction of motion of the wave. We can see this in Figure 14.4
+
+which shows the motion of the particles in a medium as a longitudinal wave moves through the
+
+medium.
+
+0 1 2 3 4 5 6 7 8 9 10
+
+t = 0 s b b b b b b b b b b b
+
+0
+
+t = 1 s b b b b b b b b b b b
+
+0 1
+
+t = 2 s b b b b b b b b b b b
+
+0 1 2
+
+t = 3 s b b b b b b b b b b b
+
+0 1 2 3
+
+t = 4 s b b b b b b b b b b b
+
+0 1 2 3 4
+
+t = 5 s b b b b b b b b b b b
+
+0 1 2 3 4 5
+
+t = 6 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6
+
+t = 7 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6 7
+
+t = 8 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6 7 8
+
+t = 9 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6 7 8 9
+
+t = 10 s b b b b b b b b b b b
+
+0 1 2 3 4 5 6 7 8 9
+
+t = 11 s b b b b b b b b b b
+
+0 1 2 3 4 5 6 7 8 9
+
+t = 12 s b b b b b b b b b b
+
+Figure 14.4: Positions of particles in a medium at different times as a longitudinal wave moves
+
+through it. The wave moves to the right. The dashed line shows the equilibrium position of
+
+particle 0.
+
+359
+
+14.5 CHAPTER 14. LONGITUDINAL WAVES - GRADE 11
+
+Important: A particle in the medium only moves back and forth when a longitudinal wave
+
+moves through the medium.
+
+As in Chapter 6, we can draw a graph of the particle's position as a function of time. For the
+
+wave shown in Figure 14.4, we can draw the graph shown in Figure 14.5 for particle 0. The
+
+graph for each of the other particles will be identical.
+
+x
+
+b
+
+b b
+
+b b
+
+b b b t
+
+1 2 3 4 5 6 7 8 9 10 11 12
+
+b b
+
+b b
+
+b
+
+Figure 14.5: Graph of particle displacement as a function of time for the longitudinal wave shown
+
+in Figure 14.4.
+
+The graph of the particle's velocity as a function of time is obtained by taking the gradient of
+
+the position vs. time graph. The graph of velocity vs. time for the position vs. time graph
+
+shown in Figure 14.5 is shown is Figure 14.6.
+
+v
+
+b b
+
+b b
+
+b b
+
+b b t
+
+1 2 3 4 5 6 7 8 9 10 11 12
+
+b b
+
+b b
+
+b
+
+Figure 14.6: Graph of velocity as a function of time.
+
+The graph of the particle's acceleration as a function of time is obtained by taking the gradient
+
+of the velocity vs. time graph. The graph of acceleration vs. time for the position vs. time
+
+graph shown in Figure 14.5 is shown is Figure 14.7.
+
+a
+
+b
+
+b b
+
+b b
+
+b b b t
+
+1 2 3 4 5 6 7 8 9 10 11 12
+
+b b
+
+b b
+
+b
+
+Figure 14.7: Graph of acceleration as a function of time.
+

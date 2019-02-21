@@ -1,0 +1,290 @@
+3.6.1 Stationary Object
+
+The simplest motion that we can come across is that of a stationary object. A stationary object
+
+does not move and so its position does not change, for as long as it is standing still. An example
+
+of this situation is when someone is waiting for something without moving. The person remains
+
+in the same position.
+
+Lesedi is waiting for a taxi. He is standing two metres from a stop street at t = 0 s. After
+
+one minute, at t = 60 s, he is still 2 metres from the stop street and after two minutes, at
+
+t = 120 s, also 2 metres from the stop street. His position has not changed. His displacement
+
+is zero (because his position is the same), his velocity is zero (because his displacement is zero)
+
+and his acceleration is also zero (because his velocity is not changing).
+
+STOP displacement = 0 m
+
+bb
+
+b
+
+velocity = 0 m·s−1
+
+t = 0 s
+
+t = 60 s acceleration = 0 m·s−2
+
+t = 120 s 2 m
+
+We can now draw graphs of position vs.time (x vs. t), velocity vs.time (v vs. t) and acceleration
+
+vs.time (a vs. t) for a stationary object. The graphs are shown in Figure 3.5. Lesedi's position
+
+is 2 metres from the stop street. If the stop street is taken as the reference point, his position
+
+remains at 2 metres for 120 seconds. The graph is a horisontal line at 2 m. The velocity and
+
+acceleration graphs are also shown. They are both horisontal lines on the x-axis. Since his
+
+position is not changing, his velocity is 0 m·s−1and since velocity is not changing acceleration is
+
+0 m·s−2.
+
+2
+
+1
+
+0 time (s) 0 time (s) time (s)60 120 60 120 0 60 120
+
+(a) (b) (c)
+
+Figure 3.5: Graphs for a stationary object (a) position vs. time (b) velocity vs. time (c)
+
+acceleration vs. time.
+
+Definition: Gradient
+
+The gradient of a line can be calculated by dividing the change in the y-value by the change
+
+in the x-value.
+
+m = ∆y∆x
+
+Since we know that velocity is the rate of change of position, we can confirm the value for the
+
+velocity vs. time graph, by calculating the gradient of the x vs. t graph.
+
+Important: The gradient of a position vs. time graph gives the velocity.
+
+40
+
+position x (m)
+
+velocity v (m·s−1)
+
+acceleration a (m·s−2)
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+
+If we calculate the gradient of the x vs. t graph for a stationary object we get:
+
+∆x
+
+v =
+
+∆t
+
+xf − xi
+
+=
+
+tf − ti
+
+2 m− 2 m
+
+=
+
+120 s− (initial position = final position)60 s
+
+= 0 m · s−1 (for the time that Lesedi is stationary)
+
+Similarly, we can confirm the value of the acceleration by calculating the gradient of the velocity
+
+vs. time graph.
+
+Important: The gradient of a velocity vs. time graph gives the acceleration.
+
+If we calculate the gradient of the v vs. t graph for a stationary object we get:
+
+∆v
+
+a =
+
+∆t
+
+vf − vi
+
+=
+
+tf − ti
+
+0 m · s−1 − 0 m · s−1
+
+=
+
+120 s− 60 s
+
+= 0 m · s−2
+
+Additionally, because the velocity vs. time graph is related to the position vs. time graph, we
+
+can use the area under the velocity vs. time graph to calculate the displacement of an object.
+
+Important: The area under the velocity vs. time graph gives the displacement.
+
+The displacement of the object is given by the area under the graph, which is 0 m. This is
+
+obvious, because the object is not moving.
+
+3.6 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+3.6.1 Stationary Object
+
+The simplest motion that we can come across is that of a stationary object. A stationary object
+
+does not move and so its position does not change, for as long as it is standing still. An example
+
+of this situation is when someone is waiting for something without moving. The person remains
+
+in the same position.
+
+Lesedi is waiting for a taxi. He is standing two metres from a stop street at t = 0 s. After
+
+one minute, at t = 60 s, he is still 2 metres from the stop street and after two minutes, at
+
+t = 120 s, also 2 metres from the stop street. His position has not changed. His displacement
+
+is zero (because his position is the same), his velocity is zero (because his displacement is zero)
+
+and his acceleration is also zero (because his velocity is not changing).
+
+STOP displacement = 0 m
+
+bb
+
+b
+
+velocity = 0 m·s−1
+
+t = 0 s
+
+t = 60 s acceleration = 0 m·s−2
+
+t = 120 s 2 m
+
+We can now draw graphs of position vs.time (x vs. t), velocity vs.time (v vs. t) and acceleration
+
+vs.time (a vs. t) for a stationary object. The graphs are shown in Figure 3.5. Lesedi's position
+
+is 2 metres from the stop street. If the stop street is taken as the reference point, his position
+
+remains at 2 metres for 120 seconds. The graph is a horisontal line at 2 m. The velocity and
+
+acceleration graphs are also shown. They are both horisontal lines on the x-axis. Since his
+
+position is not changing, his velocity is 0 m·s−1and since velocity is not changing acceleration is
+
+0 m·s−2.
+
+2
+
+1
+
+0 time (s) 0 time (s) time (s)60 120 60 120 0 60 120
+
+(a) (b) (c)
+
+Figure 3.5: Graphs for a stationary object (a) position vs. time (b) velocity vs. time (c)
+
+acceleration vs. time.
+
+Definition: Gradient
+
+The gradient of a line can be calculated by dividing the change in the y-value by the change
+
+in the x-value.
+
+m = ∆y∆x
+
+Since we know that velocity is the rate of change of position, we can confirm the value for the
+
+velocity vs. time graph, by calculating the gradient of the x vs. t graph.
+
+Important: The gradient of a position vs. time graph gives the velocity.
+
+40
+
+position x (m)
+
+velocity v (m·s−1)
+
+acceleration a (m·s−2)
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+
+If we calculate the gradient of the x vs. t graph for a stationary object we get:
+
+∆x
+
+v =
+
+∆t
+
+xf − xi
+
+=
+
+tf − ti
+
+2 m− 2 m
+
+=
+
+120 s− (initial position = final position)60 s
+
+= 0 m · s−1 (for the time that Lesedi is stationary)
+
+Similarly, we can confirm the value of the acceleration by calculating the gradient of the velocity
+
+vs. time graph.
+
+Important: The gradient of a velocity vs. time graph gives the acceleration.
+
+If we calculate the gradient of the v vs. t graph for a stationary object we get:
+
+∆v
+
+a =
+
+∆t
+
+vf − vi
+
+=
+
+tf − ti
+
+0 m · s−1 − 0 m · s−1
+
+=
+
+120 s− 60 s
+
+= 0 m · s−2
+
+Additionally, because the velocity vs. time graph is related to the position vs. time graph, we
+
+can use the area under the velocity vs. time graph to calculate the displacement of an object.
+
+Important: The area under the velocity vs. time graph gives the displacement.
+
+The displacement of the object is given by the area under the graph, which is 0 m. This is
+
+obvious, because the object is not moving.
+

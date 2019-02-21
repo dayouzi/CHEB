@@ -1,0 +1,293 @@
+3.6.2 Motion at Constant Velocity
+
+Motion at a constant velocity or uniform motion means that the position of the object is changing
+
+at the same rate.
+
+Assume that Lesedi takes 100 s to walk the 100 m to the taxi-stop every morning. If we assume
+
+that Lesedi's house is the origin, then Lesedi's velocity is:
+
+∆x
+
+v =
+
+∆t
+
+xf − xi
+
+=
+
+tf − ti
+
+100 m− 0 m
+
+=
+
+100 s− 0 s
+
+= 1 m · s−1
+
+Lesedi's velocity is 1 m·s−1. This means that he walked 1 m in the first second, another metre
+
+in the second second, and another in the third second, and so on. For example, after 50 s he
+
+will be 50 m from home. His position increases by 1 m every 1 s. A diagram of Lesedi's position
+
+is shown in Figure 3.6.
+
+We can now draw graphs of position vs.time (x vs. t), velocity vs.time (v vs. t) and acceleration
+
+vs.time (a vs. t) for Lesedi moving at a constant velocity. The graphs are shown in Figure 3.7.
+
+41
+
+3.6 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+b
+
+b
+
+b
+
+t = 0 s t = 50 s t = 100 s
+
+x = 0 m x = 50 m x = 100 m
+
+v = 1m·s−1 v = 1m·s−1
+
+Figure 3.6: Diagram showing Lesedi's motion at a constant velocity of 1 m·s−1
+
+100
+
+50 ∆x 1
+
+∆t
+
+0 time (s)50 100 0
+
+time (s) time (s)
+
+50 100 0 50 100
+
+(a) (b) (c)
+
+Figure 3.7: Graphs for motion at constant velocity (a) position vs. time (b) velocity vs. time
+
+(c) acceleration vs. time. The area of the shaded portion in the v vs. t graph corresponds to
+
+the object's displacement.
+
+In the evening Lesedi walks 100 m from the bus stop to his house in 100 s. Assume that Lesedi's
+
+house is the origin. The following graphs can be drawn to describe the motion.
+
+100 0 50 100 time (s)
+
+∆t
+
+50 ∆x -1
+
+0 time (s)50 100 0
+
+time (s)
+
+50 100
+
+(a) (b) (c)
+
+Figure 3.8: Graphs for motion with a constant negative velocity (a) position vs. time (b) velocity
+
+vs. time (c) acceleration vs. time. The area of the shaded portion in the v vs.t graph corresponds
+
+to the object's displacement.
+
+We see that the v vs. t graph is a horisontal line. If the velocity vs. time graph is a horisontal
+
+line, it means that the velocity is constant (not changing). Motion at a constant velocity is
+
+known as uniform motion.
+
+We can use the x vs. t to calculate the velocity by finding the gradient of the line.
+
+∆x
+
+v =
+
+∆t
+
+xf − xi
+
+=
+
+tf − ti
+
+0 m− 100 m
+
+=
+
+100 s− 0 s
+
+= −1 m · s−1
+
+42
+
+position x (m) position x (m)
+
+velocity v (m·s−1) velocity v (m·s−1)
+
+acceleration a (m·s−2) acceleration a (m·s−2)
+3.6 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+b
+b
+b
+t = 0 s t = 50 s t = 100 s
+x = 0 m x = 50 m x = 100 m
+v = 1m·s−1 v = 1m·s−1
+Figure 3.6: Diagram showing Lesedi's motion at a constant velocity of 1 m·s−1
+100
+50 ∆x 1
+∆t
+0 time (s)50 100 0
+time (s) time (s)
+50 100 0 50 100
+(a) (b) (c)
+Figure 3.7: Graphs for motion at constant velocity (a) position vs. time (b) velocity vs. time
+(c) acceleration vs. time. The area of the shaded portion in the v vs. t graph corresponds to
+the object's displacement.
+In the evening Lesedi walks 100 m from the bus stop to his house in 100 s. Assume that Lesedi's
+house is the origin. The following graphs can be drawn to describe the motion.
+100 0 50 100 time (s)
+∆t
+50 ∆x -1
+0 time (s)50 100 0
+time (s)
+50 100
+(a) (b) (c)
+Figure 3.8: Graphs for motion with a constant negative velocity (a) position vs. time (b) velocity
+vs. time (c) acceleration vs. time. The area of the shaded portion in the v vs.t graph corresponds
+to the object's displacement.
+We see that the v vs. t graph is a horisontal line. If the velocity vs. time graph is a horisontal
+line, it means that the velocity is constant (not changing). Motion at a constant velocity is
+known as uniform motion.
+We can use the x vs. t to calculate the velocity by finding the gradient of the line.
+∆x
+v =
+∆t
+xf − xi
+=
+tf − ti
+0 m− 100 m
+=
+100 s− 0 s
+= −1 m · s−1
+42
+position x (m) position x (m)
+velocity v (m·s−1) velocity v (m·s−1)
+acceleration a (m·s−2) acceleration a (m·s−2)
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+Lesedi has a velocity of -1 m·s−1, or 1 m·s−1towards his house. You will notice that the v vs. t
+graph is a horisontal line corresponding to a velocity of -1 m·s−1. The horisontal line means that
+the velocity stays the same (remains constant) during the motion. This is uniform velocity.
+We can use the v vs. t to calculate the acceleration by finding the gradient of the line.
+∆v
+a =
+∆t
+vf − vi
+=
+tf − ti
+1 m · s−1 − 1 m · s−1
+=
+100 s− 0 s
+= 0 m · s−2
+Lesedi has an acceleration of 0 m·s−2. You will notice that the graph of a vs.t is a horisontal line
+corresponding to an acceleration value of 0 m·s−2. There is no acceleration during the motion
+because his velocity does not change.
+We can use the v vs. t to calculate the displacement by finding the area under the graph.
+v = Area under graph
+= ℓ× b
+= 100× (−1)
+= −100 m
+This means that Lesedi has a displacement of 100 m towards his house.
+43
+3.6 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+Exercise: Velocity and acceleration
+1. Use the graphs in Figure 3.7 to calculate each of the following:
+(a) Calculate Lesedi's velocity between 50 s and 100 s using the x vs. t graph.
+Hint: Find the gradient of the line.
+(b) Calculate Lesedi's acceleration during the whole motion using the v vs. t
+graph.
+(c) Calculate Lesedi's displacement during the whole motion using the v vs. t
+graph.
+2. Thandi takes 200 s to walk 100 m to the bus stop every morning. Draw a graph
+of Thandi's position as a function of time (assuming that Thandi's home is the
+reference point). Use the gradient of the x vs. t graph to draw the graph of
+velocity vs. time. Use the gradient of the v vs. t graph to draw the graph of
+acceleration vs. time.
+3. In the evening Thandi takes 200 s to walk 100 m from the bus stop to her
+home. Draw a graph of Thandi's position as a function of time (assuming that
+Thandi's home is the origin). Use the gradient of the x vs. t graph to draw
+the graph of velocity vs. time. Use the gradient of the v vs. t graph to draw
+the graph of acceleration vs. time.
+4. Discuss the differences between the two sets of graphs in questions 2 and 3.
+Activity :: Experiment : Motion at constant velocity
+Aim:
+To measure the position and time during motion at constant velocity and determine
+the average velocity as the gradient of a "Position vs. Time" graph.
+Apparatus:
+A battery operated toy car, stopwatch, meter stick or measuring tape.
+Method:
+1. Work with a friend. Copy the table below into your workbook.
+2. Complete the table by timing the car as it travels each distance.
+3. Time the car twice for each distance and take the average value as your accepted
+time.
+4. Use the distance and average time values to plot a graph of "Distance vs. Time"
+onto graph paper. Stick the graph paper into your workbook. (Remember
+that "A vs. B" always means "y vs. x").
+5. Insert all axis labels and units onto your graph.
+6. Draw the best straight line through your data points.
+7. Find the gradient of the straight line. This is the average velocity.
+Results:
+Time (s)
+Distance (m)
+1 2 Ave.
+0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+44
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+Conclusions:
+Answer the following questions in your workbook.
+Questions:
+1. Did the car travel with a constant velocity?
+2. How can you tell by looking at the "Distance vs. Time" graph if the velocity
+is constant?
+3. How would the "Distance vs. Time" look for a car with a faster velocity?
+4. How would the "Distance vs. Time" look for a car with a slower velocity?
+45
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+
+Conclusions:
+
+Answer the following questions in your workbook.
+
+Questions:
+
+1. Did the car travel with a constant velocity?
+
+2. How can you tell by looking at the "Distance vs. Time" graph if the velocity
+
+is constant?
+
+3. How would the "Distance vs. Time" look for a car with a faster velocity?
+
+4. How would the "Distance vs. Time" look for a car with a slower velocity?
+
+45
+
+3.6 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+

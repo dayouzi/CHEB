@@ -1,0 +1,66 @@
+1.4 RATIONAL EXPRESSIONS
+The Domain of an Algebraic Expression " Simplifying Rational Expressions
+" Multiplying and Dividing Rational Expressions " Adding and Subtracting
+Rational Expressions " Compound Fractions " Rationalizing the 
+Denominator or the Numerator " Avoiding Common Errors
+A quotient of two algebraic expressions is called a fractional expression. Here are some
+examples:
+2x 1x % 3 y $ 2
+      
+x $ 1 x % 1 y2 % 4
+A rational expression is a fractional expression where both the numerator and denomi-
+nator are polynomials. For example, the following are rational expressions:
+2x x x3 $ x
+     
+x $ 1 x 2
+ 
+% 1 x 2 $ 5x % 6
+In this section we learn how to perform algebraic operations on rational expressions.
+! The Domain of an Algebraic Expression
+Expression Domain In general, an algebraic expression may not be defined for all values of the variable. The
+1
+11x 5
+5x 0  x # 06 domain of an algebraic expression is the set of real numbers that the variable is permittedto have. The table in the margin gives some basic expressions and their domains.
+x
+x 0  x " 06
+1 5x 0  x & 06 E X A M P L E  1 Finding the Domain of an ExpressionFind the domains of the following expressions.
+x
+(a) 2x2 x 1x% 3x $ 1 (b)
+x 2
+(c)
+$ 5x % 6 x $ 5
+S O L U T I O N
+(a) This polynomial is defined for every x. Thus, the domain is the set ! of real numbers.
+(b) We first factor the denominator.
+x x
+!
+x 2 $ 5x % 6 1x $ 2 2 1x $ 3 2
+Denominator would be 0 if 
+x ! 2 or x ! 3
+Since the denominator is zero w5 hen x ! 2 or 3, thex 0  x # 2 and x # 36 expression is not defined forthese numbers. The domain is .
+(c) For the numerator to be defined, we must have x " 0. Also, we cannot divide by
+zero, so x # 5.
+Must have x " 0 1x
+to take square root Denominator would 
+5 x $x 0  x " 0 and x # 565 be 0 if x ! 5Thus, the domain is .
+36 C H A P T E R  1 | Fundamentals
+! Simplifying Rational Expressions
+To simplify rational expressions, we factor both numerator and denominator and use the
+following property of fractions:
+AC A
+!
+BC B
+This allows us to cancel common factors from the numerator and denominator.
+E X A M P L E  2 Simplifying Rational Expressions by Cancellation
+x 2 $ 1
+Simplify:
+x 2 % x $ 2
+S O L U T I O N
+We can't cancel the x2's i x 2n $ 1
+ 11x $ 1 22 11x % 1 2 ! Factorx 2x 2 $ 1 % x $ 2 x $ 1 x % 2 2
+because x2
+x 2
+is not a factor.
+% x $ 2 x % 1
+!  Cancel common factors
+x % 2

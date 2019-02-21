@@ -1,0 +1,144 @@
+10.10 Area of a Circle
+
+Here you'll learn how to find the area of a circle given its radius or diameter.
+
+What if you were given the radius or diameter of a circle? How could you find the amount of space the circle takes
+
+up? After completing this Concept, you'll be able to use the formula for the area of a circle to solve problems like
+
+this.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136640
+
+Area of a Circle CK-12
+
+Guidance
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/5773
+
+To find the area of a circle, all you need to know is its radius. If r is the radius of a circle, then its area is A = pir2.
+
+We will leave our answers in terms of pi, unless otherwise specified. To see a derivation of this formula, see http://w
+
+ww.rkm.com.au/ANIMATIONS/animation-Circle-Area-Derivation.html , by Russell Knightley.
+
+593
+
+10.10. Area of a Circle www.ck12.org
+
+Example A
+
+Find the area of a circle with a diameter of 12 c(m. )
+
+If d = 12 cm, then r = 6 cm. The area is A = pi 62 = 36pi cm2.
+
+Example B
+
+If the area of a circle is 20pi units, what is the radius?
+
+Plug in the area and solve for the radius.
+
+20pi= pir2
+
+20 = r2√ √
+
+r = 20 = 2 5units
+
+Example C
+
+A circle is inscribed in a square. Each side of the square is 10 cm long. What is the area of the circle?
+
+The diameter of the circle is the same as the length of a side of the square. Therefore, the radius is 5 cm.
+
+A = pi52 = 25pi cm2
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136641
+
+Area of a Circle CK-12
+
+->
+
+594
+10.10. Area of a Circle www.ck12.org
+Example A
+Find the area of a circle with a diameter of 12 c(m. )
+If d = 12 cm, then r = 6 cm. The area is A = pi 62 = 36pi cm2.
+Example B
+If the area of a circle is 20pi units, what is the radius?
+Plug in the area and solve for the radius.
+20pi= pir2
+20 = r2√ √
+r = 20 = 2 5units
+Example C
+A circle is inscribed in a square. Each side of the square is 10 cm long. What is the area of the circle?
+The diameter of the circle is the same as the length of a side of the square. Therefore, the radius is 5 cm.
+A = pi52 = 25pi cm2
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136641
+Area of a Circle CK-12
+->
+594
+www.ck12.org Chapter 10. Perimeter and Area
+Guided Practice
+1. Find the area of the shaded region from Example C.
+2. Find the diameter of a circle with area 36pi.
+3. Find the area of a circle with diameter 20 inches.
+Answers:
+1. The area of the shaded region would be the area of the square minus the area of the circle.
+A = 102−25pi= 100−25pi≈ 21.46 cm2
+2. First, use the formula for the area of a circle to solve for the radius of the circle.
+A = pir2
+36pi= pir2
+36 = r2
+r = 6
+If the radius is 6 units, then the diameter is 12 units.
+3. If the diameter is 20 inches that means that the radius is 10 inches. Now we can use the formula for the area of a
+circle. A = pi(10)2 = 100pi in2 .
+Explore More
+Fill in the following table. Leave all answers in terms of pi.
+TABLE 10.2:
+radius Area circumference
+1. 2
+2. 16pi
+3. 10pi
+4. 24pi
+5. 9
+6. 90pi
+7. 35pi
+8. 7pi
+9. 60
+10. 36
+Find the area of the shaded region. Round your answer to the nearest hundredth.
+595
+10.10. Area of a Circle www.ck12.org
+11.
+12.
+13.
+596
+10.10. Area of a Circle www.ck12.org
+
+11.
+
+12.
+
+13.
+
+596
+
+www.ck12.org Chapter 10. Perimeter and Area
+

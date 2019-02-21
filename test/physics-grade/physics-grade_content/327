@@ -1,0 +1,208 @@
+19.7 End of chapter exercise
+
+1. Calculate the current in the following circuit and then use the current to calculate the
+
+voltage drops across each resistor.
+
+447
+
+19.7 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+
+R1
+
+3kΩ
+
+9V 10kΩ R2
+
+5kΩ
+
+R3
+
+2. Explain why a voltmeter is placed in parallel with a resistor.
+
+3. Explain why an ammeter is placed in series with a resistor.
+
+4. [IEB 2001/11 HG1] - Emf
+
+A Explain the meaning of each of these two statements:
+
+i. "The current through the battery is 50 mA."
+
+ii. "The emf of the battery is 6 V."
+
+B A battery tester measures the current supplied when the battery is connected to a
+
+resistor of 100 Ω. If the current is less than 50 mA, the battery is "flat" (it needs to
+
+be replaced). Calculate the maximum internal resistance of a 6 V battery that will
+
+pass the test.
+
+5. [IEB 2005/11 HG] The electric circuit of a torch consists of a cell, a switch and a small
+
+light bulb.
+
+S
+
+b b
+
+The electric torch is designed to use a D-type cell, but the only cell that is available for
+
+use is an AA-type cell. The specifications of these two types of cells are shown in the
+
+table below:
+
+Cell emf Appliance for which it Current drawn from cell when con-
+
+is designed nected to the appliance for which it
+
+is designed
+
+D 1,5 V torch 300 mA
+
+AA 1,5 V TV remote control 30 mA
+
+What is likely to happen and why does it happen when the AA-type cell replaces the
+
+D-type cell in the electric torch circuit?
+
+448
+19.7 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+R1
+3kΩ
+9V 10kΩ R2
+5kΩ
+R3
+2. Explain why a voltmeter is placed in parallel with a resistor.
+3. Explain why an ammeter is placed in series with a resistor.
+4. [IEB 2001/11 HG1] - Emf
+A Explain the meaning of each of these two statements:
+i. "The current through the battery is 50 mA."
+ii. "The emf of the battery is 6 V."
+B A battery tester measures the current supplied when the battery is connected to a
+resistor of 100 Ω. If the current is less than 50 mA, the battery is "flat" (it needs to
+be replaced). Calculate the maximum internal resistance of a 6 V battery that will
+pass the test.
+5. [IEB 2005/11 HG] The electric circuit of a torch consists of a cell, a switch and a small
+light bulb.
+S
+b b
+The electric torch is designed to use a D-type cell, but the only cell that is available for
+use is an AA-type cell. The specifications of these two types of cells are shown in the
+table below:
+Cell emf Appliance for which it Current drawn from cell when con-
+is designed nected to the appliance for which it
+is designed
+D 1,5 V torch 300 mA
+AA 1,5 V TV remote control 30 mA
+What is likely to happen and why does it happen when the AA-type cell replaces the
+D-type cell in the electric torch circuit?
+448
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.7
+What happens Why it happens
+(a) the bulb is dimmer the AA-type cell has greater internal
+resistance
+(b) the bulb is dimmer the AA-type cell has less internal re-
+sistance
+(c) the brightness of the bulb is the same the AA-type cell has the same internal
+resistance
+(d) the bulb is brighter the AA-type cell has less internal re-
+sistance
+6. [IEB 2005/11 HG1] A battery of emf ε and internal resistance r = 25 Ω is connected to
+this arrangement of resistors.
+100 Ω
+ε, r V1 50 Ω 50 Ω V2
+The resistances of voltmeters V1 and V2 are so high that they do not affect the current
+in the circuit.
+A Explain what is meant by "the emf of a battery".
+The power dissipated in the 100 Ω resistor is 0,81 W.
+B Calculate the current in the 100 Ω resistor.
+C Calculate the reading on voltmeter V2.
+D Calculate the reading on voltmeter V1.
+E Calculate the emf of the battery.
+7. [SC 2003/11] A kettle is marked 240 V; 1 500 W.
+A Calculate the resistance of the kettle when operating according to the above
+specifications.
+B If the kettle takes 3 minutes to boil some water, calculate the amount of electrical
+energy transferred to the kettle.
+8. [IEB 2001/11 HG1] - Electric Eels
+Electric eels have a series of cells from head to tail. When the cells are activated by a
+nerve impulse, a potential difference is created from head to tail. A healthy electric eel
+can produce a potential difference of 600 V.
+A What is meant by "a potential difference of 600 V"?
+B How much energy is transferred when an electron is moved through a potential
+difference of 600 V?
+449
+19.7 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+450
+19.7 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+
+450
+
+Chapter 20
+
+Electronic Properties of Matter -
+
+Grade 11
+
+20.1 Introduction
+
+We can study many different features of solids. Just a few of the things we could study are
+
+how hard or soft they are, what are their magnetic properties or how well do they conduct heat.
+
+The thing that we are interested in, in this chapter are their electronic properties. Simply how
+
+well do they conduct electricity and how do they do it.
+
+We are only going to discuss materials that form a 3-dimensional lattice. This means that the
+
+atoms that make up the material have a regular pattern (carbon, silicon, etc.). We won't
+
+discuss materials where the atoms are jumbled together in a irregular way (plastic, glass,
+
+rubber etc.).
+
+20.2 Conduction
+
+We know that there are materials that do conduct electricity, called conductors, like the copper
+
+wires in the circuits you build. There are also materials that do not conduct electricity, called
+
+insulators, like the plastic covering on the copper wires.
+
+Conductors come in two major categories: metals (e.g. copper) and semi-conductors (e.g.
+
+silicon). Metals conduct very well and semi-conductors don't. One very interesting difference is
+
+that metals conduct less as they become hotter but semi-conductors conduct more.
+
+What is different about these substances that makes them conduct differently? That is what
+
+we are about to find out.
+
+We have learnt that electrons in an atom have discrete energy levels. When an electron is given
+
+the right amount of energy, it can jump to a higher energy level, while if it loses the right
+
+amount of energy it can drop to a lower energy level. The lowest energy level is known as the
+
+ground state.
+
+energy
+
+energy levels of the electrons in
+
+a single atom
+
+fourth energy level
+
+third energy level
+
+second energy level
+
+first energy level
+
+ground state
+
+451

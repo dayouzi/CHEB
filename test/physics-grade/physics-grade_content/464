@@ -1,0 +1,310 @@
+30.4 Electromagnetic spectrum
+
+Observe the things around you, your friend sitting next to you, a large tree across the field.
+
+How is it that you are able to see these things? What is it that is leaving your friend's arm and
+
+entering your eye so that you can see his arm? It is light. The light originally comes from the
+
+sun, or possibly a light bulb or burning fire. In physics, light is given the more technical term
+
+electromagnetic radiation, which includes all forms of light, not just the form which you can see
+
+with your eyes.
+
+Electromagnetic radiation allows us to observe the world around us. It is this radiation which
+
+reflects off of the objects around you and into your eye. The radiation your eye is sensitive to is
+
+only a small fraction of the total radiation emitted in the physical universe. All of the different
+
+fractions taped together make up the electromagnetic spectrum.
+
+Extension: Dispersion
+
+626
+
+CHAPTER 30. EM RADIATION 30.4
+
+Figure 30.1: The electromagnetic spectrum as a function of frequency. The different types
+
+according to wavelength are shown as well as everyday comparisons.
+
+When white light is split into its component colours by a prism, you are looking
+
+at a portion of the electromagnetic spectrum.
+
+The wavelength of a particular electromagnetic radiation will depend on how it was created.
+
+Exercise: Wave Nature of EM Radiation
+
+1. List one source of electromagnetic waves. Hint: consider the spectrum
+
+diagram and look at the names we give to different wavelengths.
+
+2. Explain how an EM wave propagates, with the aid of a diagram.
+
+3. What is the speed of light? What symbol is used to refer to the speed of
+
+light? Does the speed of light change?
+
+4. Do EM waves need a medium to travel through?
+
+The radiation can take on any wavelength, which means that the spectrum is continuous.
+
+Physicists broke down this continuous band into sections. Each section is defined by how the
+
+radiation is created, not the radiations wavelength. But each category is continuous within the
+
+min and max wavelength of that category, meaning there are no wavelengths excluded within
+
+some range.
+
+The spectrum is in order of wavelength, with the shortest wavelength at one end and the
+
+longest wavelength at the other. The spectrum is then broken down into categories as detailed
+
+in Table 30.1.
+
+Since an electromagnetic wave is still a wave, the following equation that you learnt in Grade
+
+10 still applies:
+
+c = f · λ
+
+627
+CHAPTER 30. EM RADIATION 30.4
+Figure 30.1: The electromagnetic spectrum as a function of frequency. The different types
+according to wavelength are shown as well as everyday comparisons.
+When white light is split into its component colours by a prism, you are looking
+at a portion of the electromagnetic spectrum.
+The wavelength of a particular electromagnetic radiation will depend on how it was created.
+Exercise: Wave Nature of EM Radiation
+1. List one source of electromagnetic waves. Hint: consider the spectrum
+diagram and look at the names we give to different wavelengths.
+2. Explain how an EM wave propagates, with the aid of a diagram.
+3. What is the speed of light? What symbol is used to refer to the speed of
+light? Does the speed of light change?
+4. Do EM waves need a medium to travel through?
+The radiation can take on any wavelength, which means that the spectrum is continuous.
+Physicists broke down this continuous band into sections. Each section is defined by how the
+radiation is created, not the radiations wavelength. But each category is continuous within the
+min and max wavelength of that category, meaning there are no wavelengths excluded within
+some range.
+The spectrum is in order of wavelength, with the shortest wavelength at one end and the
+longest wavelength at the other. The spectrum is then broken down into categories as detailed
+in Table 30.1.
+Since an electromagnetic wave is still a wave, the following equation that you learnt in Grade
+10 still applies:
+c = f · λ
+627
+30.4 CHAPTER 30. EM RADIATION
+Table 30.1: Electromagnetic spectrum
+Category Range of Wavelengths (nm) Range of Frequencies (Hz)
+gamma rays <1 > 3× 1019
+X-rays 1-10 3× 1017-3× 1019
+ultraviolet light 10-400 7,5× 1014-3× 1017
+visible light 400-700 4,3× 1014-7,5× 1014
+infrared 700-105 3× 1012-4,3× 1019
+microwave 105 − 108 3× 109-3× 1012
+radio waves > 108 < 3× 109
+Worked Example 185: EM spectrum I
+Question: Calculate the frequency of red light with a wavelength of 4,2× 10−7 m
+Answer
+We use the formula: c = fλ to calculate frequency. The speed of light is a
+constant 3× 108m/s.
+c = fλ
+3× 108 = f × 4,2× 10−7
+f = 7,14× 1014Hz
+Worked Example 186: EM spectrum II
+Question: Ultraviolet radiation has a wavelength of 200 nm. What is the
+frequency of the radiation?
+Answer
+Step 1 : To calculate the frequency we need to identify the wavelength and
+the velocity of the radiation.
+Recall that all radiation travels at the speed of light (c) in vacuum. Since the
+question does not specify through what type of material the Ultraviolet radiation is
+traveling, one can assume that it is traveling through a vacuum. We can identify
+two properties of the radiation - wavelength (200 nm) and speed (c). From
+previous chapters, we know that the period of the wave is the time it takes for a
+wave to complete one cycle or one wavelength.
+Step 2 : Since we know the wavelength and we know the speed, lets first
+calculate the Period (T).
+distance
+T =
+speed
+λ
+=
+c
+distance = 200 nm
+= 200× 10−9 m
+speed = 3.0× 108 m · s−1
+200× 10−9 m
+T =
+3.0× 108 m · s−1
+= 6.67× 10−16 s
+628
+30.4 CHAPTER 30. EM RADIATION
+
+Table 30.1: Electromagnetic spectrum
+
+Category Range of Wavelengths (nm) Range of Frequencies (Hz)
+
+gamma rays <1 > 3× 1019
+
+X-rays 1-10 3× 1017-3× 1019
+
+ultraviolet light 10-400 7,5× 1014-3× 1017
+
+visible light 400-700 4,3× 1014-7,5× 1014
+
+infrared 700-105 3× 1012-4,3× 1019
+
+microwave 105 − 108 3× 109-3× 1012
+
+radio waves > 108 < 3× 109
+
+Worked Example 185: EM spectrum I
+
+Question: Calculate the frequency of red light with a wavelength of 4,2× 10−7 m
+
+Answer
+
+We use the formula: c = fλ to calculate frequency. The speed of light is a
+
+constant 3× 108m/s.
+
+c = fλ
+
+3× 108 = f × 4,2× 10−7
+
+f = 7,14× 1014Hz
+
+Worked Example 186: EM spectrum II
+
+Question: Ultraviolet radiation has a wavelength of 200 nm. What is the
+
+frequency of the radiation?
+
+Answer
+
+Step 1 : To calculate the frequency we need to identify the wavelength and
+
+the velocity of the radiation.
+
+Recall that all radiation travels at the speed of light (c) in vacuum. Since the
+
+question does not specify through what type of material the Ultraviolet radiation is
+
+traveling, one can assume that it is traveling through a vacuum. We can identify
+
+two properties of the radiation - wavelength (200 nm) and speed (c). From
+
+previous chapters, we know that the period of the wave is the time it takes for a
+
+wave to complete one cycle or one wavelength.
+
+Step 2 : Since we know the wavelength and we know the speed, lets first
+
+calculate the Period (T).
+
+distance
+
+T =
+
+speed
+
+λ
+
+=
+
+c
+
+distance = 200 nm
+
+= 200× 10−9 m
+
+speed = 3.0× 108 m · s−1
+
+200× 10−9 m
+
+T =
+
+3.0× 108 m · s−1
+
+= 6.67× 10−16 s
+
+628
+
+CHAPTER 30. EM RADIATION 30.5
+
+Step 3 : From the Period (T), we can calculate the frequency (f).
+
+1
+
+f =
+
+T
+
+1
+
+=
+
+6.67× 10−16 s
+
+= 1.5× 1015 Hz
+
+Examples of some uses of electromagnetic waves are shown in Table 30.2.
+
+Table 30.2: Uses of EM waves
+
+Category Uses
+
+gamma rays used to kill the bacteria in marsh-
+
+mallows
+
+X-rays used to image bone structures
+
+ultraviolet light bees can see into the ultraviolet
+
+because flowers stand out more
+
+clearly at this frequency
+
+visible light used by humans to observe the
+
+world
+
+infrared night vision, heat sensors, laser
+
+metal cutting
+
+microwave microwave ovens, radar
+
+radio waves radio, television broadcasts
+
+In theory the spectrum is infinite, although realistically we can only observe wavelengths from a
+
+few hundred kilometers to those of gamma rays due to experimental limitations.
+
+Humans experience electromagnetic waves differently depending on their wavelength. Our eyes
+
+are sensitive to visible light while our skin is sensitive to infrared, and many wavelengths we do
+
+not detect at all.
+
+Exercise: EM Radiation
+
+1. Arrange the following types of EM radiation in order of increasing frequency:
+
+infrared, X-rays, ultraviolet, visible, gamma.
+
+2. Calculate the frequency of an EM wave with a wavelength of 400 nm.
+
+3. Give an example of the use of each type of EM radiation, i.e. gamma rays,
+
+X-rays, ultraviolet light, visible light, infrared, microwave and radio and TV
+
+waves.
+

@@ -1,0 +1,205 @@
+5.2 TRIGONOMETRIC FUNCTIONS OF REAL NUMBERS
+The Trigonometric Functions ! Values of the Trigonometric Functions !
+Fundamental Identities
+A function is a rule that assigns to each real number another real number. In this section
+we use properties of the unit circle from the preceding section to define the trigonometric
+functions.
+! The Trigonometric Functions
+y Recall that to find the terminal point P1x, y 2 for a given real number t, we move a 
+P(x, y) distance t along the unit circle, starting at the po2int 11, 0 2 . We move in a counterclockwiset direction if t is positive and in a clockwise direction if t is negative (see Figure 1). We nowuse the x- and y-coordinates of the point 
+P1 Px, y 2 1x, y to define several functions. For instance,we define the function called sine by assigning to each real number t the y-coordinate of0 1 x the terminal point determined by t. The functions cosine, tangent, cosecant, se-
+cant, and cotangent are also defined by using the coordinates of P1x, y 2 .
+DEFINITION OF THE TRIGONOMETRIC FUNCTIONS
+F I G U R E  1 Let t be any real number and let P1x, y 2 be the terminal point on the unit circle
+determined by t. We define
+y
+sin t " y cos t " x tan t "  1x ( 0 2
+x
+1 1 x
+csc t " y 1y ( 0 2 sec t "  1x ( 0 2 cot t " y 1y ( 0 2x
+Because the trigonometric functions can be defined in terms of the unit circle, they are
+sometimes called the circular functions.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 5.2 | Trigonometric Functions of Real Numbers 377
+D I S C O V E R Y 58. Finding the Terminal Point for P/3 Now that you" D I S C U S S I O N " W R I T I N G know the terminal point determined by t " p/6, use symmetry
+57. Finding the Terminal Point for P/6 Suppose the ter- to find the terminal point determined by t " p/3 (see the
+minal point determined by t " p/6 is P1x, y 2 and the points Q figure). Explain your reasoning.
+and R are as shown in the figure. Why are the distances PQ
+and PR
+2y " 2the samx2 ! 1 e? Usey # 1 2 this fact, together with the Distance y piFormula, to show that the coordinates of P satisfy the equation 62. Simplify this equation using the fact
+that x2 ! y2 " 1. Solve the simplified equation to find P1x, y 2 P t=pi3.
+Q pi6
+y 0 1
+R(0, 1) x
+P(x, y)
+t=pi6 y=x
+0 1 x
+Q(x, _y)
+5.2 TRIGONOMETRIC FUNCTIONS OF REAL NUMBERS
+The Trigonometric Functions ! Values of the Trigonometric Functions !
+Fundamental Identities
+A function is a rule that assigns to each real number another real number. In this section
+we use properties of the unit circle from the preceding section to define the trigonometric
+functions.
+! The Trigonometric Functions
+y Recall that to find the terminal point P1x, y 2 for a given real number t, we move a 
+P(x, y) distance t along the unit circle, starting at the po2int 11, 0 2 . We move in a counterclockwiset direction if t is positive and in a clockwise direction if t is negative (see Figure 1). We nowuse the x- and y-coordinates of the point 
+P1 Px, y 2 1x, y to define several functions. For instance,we define the function called sine by assigning to each real number t the y-coordinate of0 1 x the terminal point determined by t. The functions cosine, tangent, cosecant, se-
+cant, and cotangent are also defined by using the coordinates of P1x, y 2 .
+DEFINITION OF THE TRIGONOMETRIC FUNCTIONS
+F I G U R E  1 Let t be any real number and let P1x, y 2 be the terminal point on the unit circle
+determined by t. We define
+y
+sin t " y cos t " x tan t "  1x ( 0 2
+x
+1 1 x
+csc t " y 1y ( 0 2 sec t "  1x ( 0 2 cot t " y 1y ( 0 2x
+Because the trigonometric functions can be defined in terms of the unit circle, they are
+sometimes called the circular functions.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 5.2 | Trigonometric Functions of Real Numbers 377
+D I S C O V E R Y 58. Finding the Terminal Point for P/3 Now that you" D I S C U S S I O N " W R I T I N G know the terminal point determined by t " p/6, use symmetry
+57. Finding the Terminal Point for P/6 Suppose the ter- to find the terminal point determined by t " p/3 (see the
+minal point determined by t " p/6 is P1x, y 2 and the points Q figure). Explain your reasoning.
+and R are as shown in the figure. Why are the distances PQ
+and PR
+2y " 2the samx2 ! 1 e? Usey # 1 2 this fact, together with the Distance y piFormula, to show that the coordinates of P satisfy the equation 62. Simplify this equation using the fact
+that x2 ! y2 " 1. Solve the simplified equation to find P1x, y 2 P t=pi3.
+Q pi6
+y 0 1
+R(0, 1) x
+P(x, y)
+t=pi6 y=x
+0 1 x
+Q(x, _y)
+5.2 TRIGONOMETRIC FUNCTIONS OF REAL NUMBERS
+The Trigonometric Functions ! Values of the Trigonometric Functions !
+Fundamental Identities
+A function is a rule that assigns to each real number another real number. In this section
+we use properties of the unit circle from the preceding section to define the trigonometric
+functions.
+! The Trigonometric Functions
+y Recall that to find the terminal point P1x, y 2 for a given real number t, we move a 
+P(x, y) distance t along the unit circle, starting at the po2int 11, 0 2 . We move in a counterclockwiset direction if t is positive and in a clockwise direction if t is negative (see Figure 1). We nowuse the x- and y-coordinates of the point 
+P1 Px, y 2 1x, y to define several functions. For instance,we define the function called sine by assigning to each real number t the y-coordinate of0 1 x the terminal point determined by t. The functions cosine, tangent, cosecant, se-
+cant, and cotangent are also defined by using the coordinates of P1x, y 2 .
+DEFINITION OF THE TRIGONOMETRIC FUNCTIONS
+F I G U R E  1 Let t be any real number and let P1x, y 2 be the terminal point on the unit circle
+determined by t. We define
+y
+sin t " y cos t " x tan t "  1x ( 0 2
+x
+1 1 x
+csc t " y 1y ( 0 2 sec t "  1x ( 0 2 cot t " y 1y ( 0 2x
+Because the trigonometric functions can be defined in terms of the unit circle, they are
+sometimes called the circular functions.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 5.2 | Trigonometric Functions of Real Numbers 379
+Relationship to the Trigonometric
+Functions of Angles
+If you have previously studied trigonometry of  opp  PQ P ¿Q ¿
+right triangles (Chapter 6), you are probably won-  sin u " " " hyp OP OP ¿
+dering how the sine and cosine of an angle relate
+to those of this section. To see how, let's start with a y
+ " " y
+right triangle,)OPQ. 1
+adj OQ OQ ¿
+P  cos u " " "hyp OP OP ¿
+hyp opp
+x
+ " " x
+1
+Q
+¨ By the definition of the trigonometric functions
+adj of the real number t, we have
+O
+Right triangle OPQ sin t " y  cos t " x
+Now, if u is measured in radians, then u " t
+Place the triangle in the coordinate plane as (see the figure). So the trigonometric functions of
+shown, with angle u in standard position. the angle with radian measure u are exactly the
+same as the trigonometric functions defined in
+y P terms of the terminal point determined by the realP'(x, y) number t.
+t y
+¨
+O Q' 1 Q x P'(x, y)
+¨ t
+O 1 x
+P'(x, y) is the terminal
+point determined by t.
+The radian measure
+The point P ¿ 1x, y 2 in the figure is the terminal of angle ¨ is t.
+point determined by the arc t. Note that triangle
+OPQ is similar to the small triangle OP *Q* whose Why then study trigonometry in two different
+legs have lengths x and y. ways? Because different applications require that we
+Now, by the definition of the trigonometric view the trigonometric functions differently. (Com-
+functions of the angle u we have pare Section 5.6 with Sections 6.2, 6.5, and 6.6.)
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+380 C H A P T E R  5 | Trigonometric Functions: Unit Circle Approach
+DOMAINS OF THE TRIGONOMETRIC FUNCTIONS
+Function Domain
+sin, cos All real numbers
+p
+tan, sec All real numbers other than ! np for any integer n
+2
+cot, csc All real numbers other than np for any integer, n
+! Values of the Trigonometric Functions
+To compute other values of the trigonometric functions, we first determine their signs. The
+signs of the trigonometric functions depend on the quadrant in which the terminal point
+of t lies. For example, if the terminal point P1x, y 2 determined by t lies in Quadrant III,
+The following mnemonic device will then its coordinates are both negative. So sin t, cos t, csc t, and sec t are all negative,
+help you remember which trigonometric whereas tan t and cot t are positive. You can check the other entries in the following box.
+functions are positive in each quadrant:
+All of them, Sine, Tangent, or Cosine.
+y
+SIGNS OF THE TRIGONOMETRIC FUNCTIONS
+Sine All Quadrant Positive Functions Negative Functions
+I all none
+x II sin, csc cos, sec, tan, cot
+Tangent Cosine III tan, cot sin, csc, cos, sec
+IV cos, sec sin, csc, tan, cot
+You can remember this as "All Stu-
+dents Take Calculus."
+For example cos12p/3 2 & 0 because the terminal point of t " 2p/3 is in Quadrant II,
+whereas tan 4 % 0 because the terminal point of t " 4 is in Quadrant III.
+In Section 5.1 we used the reference number to find the terminal point determined by
+a real number t. Since the trigonometric functions are defined in terms of the 
+coordinates of terminal points, we can use the reference number to find values of the
+trigonometric functions. Suppose that t is the reference number for t. Then the terminal
+point of t has the same coordinates, except possibly for sign, as the terminal point of t. So
+the values of the trigonometric functions at t are the same, except possibly for sign, as
+their values at t . We illustrate this procedure in the next example.
+E X A M P L E  2 Evaluating Trigonometric Functions
+Find each value.
+(a) 2p a p 19pcos (b) tan # b (c) sin 
+3 3 4
+S O L U T I O N
+(a) The reference number for 2p/3 is p/3 (see Figure 4(a)). Since the terminal point of
+2p/3 is in Quadrant II, cos12p/3 2 is negative. Thus,
+2p p 1
+cos " #cos " # 
+3 3 2
+Sign Reference From
+number Table 1
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 5.2 | Trigonometric Functions of Real Numbers 381
+y y y
+t=2pi 19pit=pi 3 t pi t= 43 =4
+0
+0 x t=_pi3 x 0 x
+t=pi3
+F I G U R E  4 (a) (b) (c)
+(b) The reference number for #p/3 is p/3 (see Figure 4(b)). Since the terminal point
+of #p/3 is in Quadrant IV tan1#p/3 2
+p
+tan a, p# b is negative. Thus," #tan " #13
+3 3
+Sign Reference From 
+number Table 1
+(c) Since 119p/4 2 # 4p " 3p/4, the terminal points determined by 19p/4 and 3p/4
+are the same. The reference number for 3p/4 is p/4 (see Figure 4(c)). Since the ter-
+minal point of 3p/4 is in Quadrant II, sin13p/4 2 is positive. Thus,
+19p 3p p 12
+sin " sin " !sin "
+4 4 4 2
+Subtract 4p Sign Reference From 
+number Table 1

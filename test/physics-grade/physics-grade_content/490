@@ -1,0 +1,303 @@
+31.5.1 How a laser works
+
+The important process involved in how a laser works is stimulated emission - as you can tell
+
+from what ‘laser' stands for! You can imagine that stimulated emission can lead to more and
+
+more identical photons being released in the following way: Imagine we have an electron in an
+
+excited metastable state and it drops down to the ground state by emitting a photon. If this
+
+photon then travels through the material and meets another electron in the metastable excited
+
+state this will cause the electron to drop down to the lower energy level and another photon to
+
+be emitted. Now there are two photons of the same energy. If these photons then both move
+
+through the material and each interacts with another electron in a metastable state, this will
+
+result in them each causing an additional photon to be released. i.e. from 2 photons we then
+
+get 4, and so on! This is how laser light is produced.
+
+Spontaneous Emission
+
+"metastable"
+
+excited excited laser
+
+Outside state state
+
+photon
+
+After
+
+Energy Some
+
+Source Time
+
+ground ground
+
+state state
+
+first step second step
+
+Figure 31.8: Spontaneous emission is a two step process, as shown here. First, energy from
+
+an external source is applied to an atom in the laser medium, raising its energy to an excited
+
+(metastable) state. After some time, it will decay back down to its ground state and emit the
+
+excess energy in the form of a photon. This is the first stage in the formation of a laser beam.
+
+Stimulated Emission
+
+laser excited excited
+
+photon state state
+
+2 laser
+
+photons
+
+ground ground
+
+state state
+
+first step second step
+
+Figure 31.9: Stimulated emission is also a two step process, as shown here. First, a laser photon
+
+encounters an atom that has been raised to an excited state, just like in the case of spontaneous
+
+emission. The photon then causes the atom to decay to its ground state and emit another
+
+photon identical to the incoming photon. This is the second step in the creation of a laser beam.
+
+It happens many, many times as the laser photons pass through the optical cavity until the laser
+
+beam builds up to full strength.
+
+This can only happen if there are many electrons in a metastable state. If most of the electrons
+
+are in the ground state, then they will just absorb the photons and no extra photons will be
+
+emitted. However, if more electrons are in the excited metastable state than in the ground
+
+state, then the process of stimulated emission will be able to continue. Usually in atoms, most
+
+of the electrons are in the lower energy levels and only a few are in excited states. When most
+
+652
+
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.5
+
+of the electrons are in the excited metastable state and only a few are in the ground state, this
+
+is called population inversion (the populations are swapped around) and this is when
+
+stimulated emission can occur. To start off the process, the electrons first have to be excited
+
+up into the metastable state. This is done using an external energy source.
+
+Definition: Population inversion
+
+Population inversion is when more atoms are in an excited state than in their ground state.
+
+It is a necessary condition to sustain a laser beam, so that there are enough excited atoms
+
+that can be stimulated to emit more photons.
+
+metastable b metastable
+
+b b b b b b b b b b
+
+state state
+
+ground state b b b b b b b b ground state bb b
+
+usually most electrons are in most electrons in excited metastable
+
+the ground state state = population inversion
+
+Therefore, materials used to make laser light must must have metastable states which can
+
+allow population inversion to occur when an external energy source is applied. Some
+
+substances which are used to make lasers are listed in table 31.3. You can see that gases (such
+
+as Helium-Neon mixture), liquids (such as dyes), and solids (such as the precious stone ruby)
+
+are all used to make lasers.
+
+Material Type Wavelength Uses
+
+Helium-Neon gas 632,8 nm scientific research, holography
+
+Argon ion gas 488,0 nm medicine,
+
+Carbon dioxide gas 10,6 µm industry (cutting, welding), surgery
+
+Helium-Cadmium vapor 325 nm printing, scientific research
+
+Ruby solid-state 694,3 nm holography
+
+Neodymium YAG solid-state 1,064 µm industry, surgery, research
+
+(Yttrium Aluminium
+
+Garnet)
+
+Titanium-Sapphire solid-state 650-1100 nm research
+
+Laser diode semiconductor 375-1080 nm telecommunications, industry,
+
+printing, CD players, laser pointers
+
+Table 31.3: A selection of different lasers. The laser material and general type of each laser is
+
+given, along with typical wavelengths of the laser light they create. Examples of the real-world
+
+applications it is used for are also given. All these materials allow a population inversion to be
+
+set up.
+
+Itneterreessttinigng The first working laser, using synthetic ruby as the laser material, was made by
+
+FFacctt Theodore H. Maiman at Hughes Research Laboratories in Malibu, California.
+
+Later in the same year the Iranian physicist Ali Javan, together with William
+
+Bennet and Donald Herriot, made the first gas laser using helium and neon.
+
+Javan received the Albert Einstein Award in 1993.
+
+653
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.5
+of the electrons are in the excited metastable state and only a few are in the ground state, this
+is called population inversion (the populations are swapped around) and this is when
+stimulated emission can occur. To start off the process, the electrons first have to be excited
+up into the metastable state. This is done using an external energy source.
+Definition: Population inversion
+Population inversion is when more atoms are in an excited state than in their ground state.
+It is a necessary condition to sustain a laser beam, so that there are enough excited atoms
+that can be stimulated to emit more photons.
+metastable b metastable
+b b b b b b b b b b
+state state
+ground state b b b b b b b b ground state bb b
+usually most electrons are in most electrons in excited metastable
+the ground state state = population inversion
+Therefore, materials used to make laser light must must have metastable states which can
+allow population inversion to occur when an external energy source is applied. Some
+substances which are used to make lasers are listed in table 31.3. You can see that gases (such
+as Helium-Neon mixture), liquids (such as dyes), and solids (such as the precious stone ruby)
+are all used to make lasers.
+Material Type Wavelength Uses
+Helium-Neon gas 632,8 nm scientific research, holography
+Argon ion gas 488,0 nm medicine,
+Carbon dioxide gas 10,6 µm industry (cutting, welding), surgery
+Helium-Cadmium vapor 325 nm printing, scientific research
+Ruby solid-state 694,3 nm holography
+Neodymium YAG solid-state 1,064 µm industry, surgery, research
+(Yttrium Aluminium
+Garnet)
+Titanium-Sapphire solid-state 650-1100 nm research
+Laser diode semiconductor 375-1080 nm telecommunications, industry,
+printing, CD players, laser pointers
+Table 31.3: A selection of different lasers. The laser material and general type of each laser is
+given, along with typical wavelengths of the laser light they create. Examples of the real-world
+applications it is used for are also given. All these materials allow a population inversion to be
+set up.
+Itneterreessttinigng The first working laser, using synthetic ruby as the laser material, was made by
+FFacctt Theodore H. Maiman at Hughes Research Laboratories in Malibu, California.
+Later in the same year the Iranian physicist Ali Javan, together with William
+Bennet and Donald Herriot, made the first gas laser using helium and neon.
+Javan received the Albert Einstein Award in 1993.
+653
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.5
+
+of the electrons are in the excited metastable state and only a few are in the ground state, this
+
+is called population inversion (the populations are swapped around) and this is when
+
+stimulated emission can occur. To start off the process, the electrons first have to be excited
+
+up into the metastable state. This is done using an external energy source.
+
+Definition: Population inversion
+
+Population inversion is when more atoms are in an excited state than in their ground state.
+
+It is a necessary condition to sustain a laser beam, so that there are enough excited atoms
+
+that can be stimulated to emit more photons.
+
+metastable b metastable
+
+b b b b b b b b b b
+
+state state
+
+ground state b b b b b b b b ground state bb b
+
+usually most electrons are in most electrons in excited metastable
+
+the ground state state = population inversion
+
+Therefore, materials used to make laser light must must have metastable states which can
+
+allow population inversion to occur when an external energy source is applied. Some
+
+substances which are used to make lasers are listed in table 31.3. You can see that gases (such
+
+as Helium-Neon mixture), liquids (such as dyes), and solids (such as the precious stone ruby)
+
+are all used to make lasers.
+
+Material Type Wavelength Uses
+
+Helium-Neon gas 632,8 nm scientific research, holography
+
+Argon ion gas 488,0 nm medicine,
+
+Carbon dioxide gas 10,6 µm industry (cutting, welding), surgery
+
+Helium-Cadmium vapor 325 nm printing, scientific research
+
+Ruby solid-state 694,3 nm holography
+
+Neodymium YAG solid-state 1,064 µm industry, surgery, research
+
+(Yttrium Aluminium
+
+Garnet)
+
+Titanium-Sapphire solid-state 650-1100 nm research
+
+Laser diode semiconductor 375-1080 nm telecommunications, industry,
+
+printing, CD players, laser pointers
+
+Table 31.3: A selection of different lasers. The laser material and general type of each laser is
+
+given, along with typical wavelengths of the laser light they create. Examples of the real-world
+
+applications it is used for are also given. All these materials allow a population inversion to be
+
+set up.
+
+Itneterreessttinigng The first working laser, using synthetic ruby as the laser material, was made by
+
+FFacctt Theodore H. Maiman at Hughes Research Laboratories in Malibu, California.
+
+Later in the same year the Iranian physicist Ali Javan, together with William
+
+Bennet and Donald Herriot, made the first gas laser using helium and neon.
+
+Javan received the Albert Einstein Award in 1993.
+
+653
+
+31.5CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 12
+

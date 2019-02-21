@@ -1,0 +1,346 @@
+21.2.2 Equations of Motion
+
+The equations of motion that were used in Chapter 4 to describe free fall can be used for
+
+projectile motion. These equations are the same as those equations that were derived in
+
+Chapter 3, but with a = g. We use g = 9,8m · s−2 for our calculations.
+
+vi = initial velocity (m·s−1) at t = 0 s
+
+vf = final velocity (m·s−1) at time t
+
+∆x = height above ground (m)
+
+t = time (s)
+
+∆t = time interval (s)
+
+g = acceleration due to gravity (m·s−2)
+
+vf = vi + gt (21.1)
+
+(vi + vf )
+
+∆x = t (21.2)
+
+2
+
+1
+
+∆x = vit+ gt
+
+2 (21.3)
+
+2
+
+v2f = v
+
+2
+
+i + 2g∆x (21.4)
+
+Worked Example 132: Projectile motion
+
+Question: A ball is thrown upwards with an initial velocity of 10 m·s−1.
+
+1. Determine the maximum height reached above the thrower's hand.
+
+2. Determine the time it takes the ball to reach its maximum height.
+
+Answer
+
+464
+
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.2
+
+Step 1 : Identify what is required and what is given
+
+We are required to determine the maximum height reached by the ball and how
+
+long it takes to reach this height. We are given the initial velocity vi = 10
+
+m·s−1and the acceleration due to gravity g = 9,8 m·s−2.
+
+Step 2 : Determine how to approach the problem
+
+Choose down as positive. We know that at the maximum height the velocity of the
+
+ball is 0 m·s−1. We therefore have the following:
+
+• vi = −10m · s−1 (it is negative because we chose upwards as positive)
+
+• vf = 0m · s−1
+
+• g = +9,8m · s−2
+
+Step 3 : Identify the appropriate equation to determine the height.
+
+We can use:
+
+v2f = v
+
+2
+
+i + 2g∆x
+
+to solve for the height.
+
+Step 4 : Substitute the values in and find the height.
+
+v2f = v
+
+2
+
+i + 2g∆x
+
+(0)2 = (−10)2 + (2)(9,8)(∆x)
+
+−100 = 19,6∆x
+
+∆x = 5,102...m
+
+The value for the displacement will be negative because the displacement is
+
+upwards and we have chosen downward as positive (and upward as negative). The
+
+height will be a positive number, h = 5.10m.
+
+Step 5 : Identify the appropriate equation to determine the time.
+
+We can use:
+
+vf = vi + gt
+
+to solve for the time.
+
+Step 6 : Substitute the values in and find the time.
+
+vf = vi + gt
+
+0 = −10 + 9,8t
+
+10 = 9,8t
+
+t = 1,02...s
+
+Step 7 : Write the final answer.
+
+The ball reaches a maximum height of 5,10 m.
+
+The ball takes 1,02 s to reach the top.
+
+Worked Example 133: Height of a projectile
+
+Question: A cricketer hits a cricket ball from the ground so that it goes directly
+
+upwards. If the ball takes, 10 s to return to the ground, determine its maximum
+
+height.
+
+Answer
+
+Step 1 : Identify what is required and what is given
+
+We need to find how high the ball goes. We know that it takes 10 seconds to go
+
+up and down. We do not know what the initial velocity of the ball (vi) is.
+
+Step 2 : Determine how to approach the problem
+
+465
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.2
+Step 1 : Identify what is required and what is given
+We are required to determine the maximum height reached by the ball and how
+long it takes to reach this height. We are given the initial velocity vi = 10
+m·s−1and the acceleration due to gravity g = 9,8 m·s−2.
+Step 2 : Determine how to approach the problem
+Choose down as positive. We know that at the maximum height the velocity of the
+ball is 0 m·s−1. We therefore have the following:
+• vi = −10m · s−1 (it is negative because we chose upwards as positive)
+• vf = 0m · s−1
+• g = +9,8m · s−2
+Step 3 : Identify the appropriate equation to determine the height.
+We can use:
+v2f = v
+2
+i + 2g∆x
+to solve for the height.
+Step 4 : Substitute the values in and find the height.
+v2f = v
+2
+i + 2g∆x
+(0)2 = (−10)2 + (2)(9,8)(∆x)
+−100 = 19,6∆x
+∆x = 5,102...m
+The value for the displacement will be negative because the displacement is
+upwards and we have chosen downward as positive (and upward as negative). The
+height will be a positive number, h = 5.10m.
+Step 5 : Identify the appropriate equation to determine the time.
+We can use:
+vf = vi + gt
+to solve for the time.
+Step 6 : Substitute the values in and find the time.
+vf = vi + gt
+0 = −10 + 9,8t
+10 = 9,8t
+t = 1,02...s
+Step 7 : Write the final answer.
+The ball reaches a maximum height of 5,10 m.
+The ball takes 1,02 s to reach the top.
+Worked Example 133: Height of a projectile
+Question: A cricketer hits a cricket ball from the ground so that it goes directly
+upwards. If the ball takes, 10 s to return to the ground, determine its maximum
+height.
+Answer
+Step 1 : Identify what is required and what is given
+We need to find how high the ball goes. We know that it takes 10 seconds to go
+up and down. We do not know what the initial velocity of the ball (vi) is.
+Step 2 : Determine how to approach the problem
+465
+21.2 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+A problem like this one can be looked at as
+if there are two motions. The first is the ball
+going up with an initial velocity and stopping
+at the top (final velocity is zero). The second
+motion is the ball falling, its initial velocity is
+zero and its final velocity is unknown.
+vf = 0 m·s−1 vi = 0 m·s−1
+g = 9,8 m·s−2
+vi = ? vf = ?
+Choose down as positive. We know that at the maximum height, the velocity of
+the ball is 0 m·s−1. We also know that the ball takes the same time to reach its
+maximum height as it takes to travel from its maximum height to the ground. This
+time is half the total time. We therefore have the following for the motion of the
+ball going down:
+• t = 5 s, half of the total time
+• vtop = vi = 0m · s−1
+• g = 9,8m · s−2
+• ∆x = ?
+Step 3 : Find an appropriate equation to use
+We are not given the initial velocity of the ball going up and therefore we do not
+have the final velocity of the ball coming down. We need to choose an equation
+that does not have vf in it. We can use the following equation to solve for ∆x:
+1
+∆x = vit+ gt
+2
+2
+Step 4 : Substitute values and find the height.
+1
+∆x = (0)(5) + (9,8)(5)2
+2
+∆x = 0 + 122,5m
+height = 122,5m
+Step 5 : Write the final answer
+The ball reaches a maximum height of 122,5 m.
+Exercise: Equations of Motion
+1. A cricketer hits a cricket ball straight up into the air. The cricket ball has an
+initial velocity of 20 m·s−1.
+A What height does the ball reach before it stops to fall back to the ground.
+B How long has the ball been in the air for?
+2. Zingi throws a tennis ball up into the air. It reaches a height of 80 cm.
+A Determine the initial velocity of the tennis ball.
+B How long does the ball take to reach its maximum height?
+466
+21.2 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+
+A problem like this one can be looked at as
+
+if there are two motions. The first is the ball
+
+going up with an initial velocity and stopping
+
+at the top (final velocity is zero). The second
+
+motion is the ball falling, its initial velocity is
+
+zero and its final velocity is unknown.
+
+vf = 0 m·s−1 vi = 0 m·s−1
+
+g = 9,8 m·s−2
+
+vi = ? vf = ?
+
+Choose down as positive. We know that at the maximum height, the velocity of
+
+the ball is 0 m·s−1. We also know that the ball takes the same time to reach its
+
+maximum height as it takes to travel from its maximum height to the ground. This
+
+time is half the total time. We therefore have the following for the motion of the
+
+ball going down:
+
+• t = 5 s, half of the total time
+
+• vtop = vi = 0m · s−1
+
+• g = 9,8m · s−2
+
+• ∆x = ?
+
+Step 3 : Find an appropriate equation to use
+
+We are not given the initial velocity of the ball going up and therefore we do not
+
+have the final velocity of the ball coming down. We need to choose an equation
+
+that does not have vf in it. We can use the following equation to solve for ∆x:
+
+1
+
+∆x = vit+ gt
+
+2
+
+2
+
+Step 4 : Substitute values and find the height.
+
+1
+
+∆x = (0)(5) + (9,8)(5)2
+
+2
+
+∆x = 0 + 122,5m
+
+height = 122,5m
+
+Step 5 : Write the final answer
+
+The ball reaches a maximum height of 122,5 m.
+
+Exercise: Equations of Motion
+
+1. A cricketer hits a cricket ball straight up into the air. The cricket ball has an
+
+initial velocity of 20 m·s−1.
+
+A What height does the ball reach before it stops to fall back to the ground.
+
+B How long has the ball been in the air for?
+
+2. Zingi throws a tennis ball up into the air. It reaches a height of 80 cm.
+
+A Determine the initial velocity of the tennis ball.
+
+B How long does the ball take to reach its maximum height?
+
+466
+
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.2
+
+3. A tourist takes a trip in a hot air balloon. The hot air balloon is ascending
+
+(moving up) at a velocity of 4 m·s−1. He accidentally drops his camera over
+
+the side of the balloon's basket, at a height of 20 m. Calculate the velocity
+
+with which the camera hits the ground.
+
+4m · s−1
+
+20 m
+

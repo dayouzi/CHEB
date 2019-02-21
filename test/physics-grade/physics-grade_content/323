@@ -1,0 +1,264 @@
+19.3.3 Batteries and internal resistance
+
+Real batteries are made from materials which have resistance. This means that real batteries
+
+are not just sources of potential difference (voltage), but they also possess internal resistances.
+
+If the pure voltage source is referred to as the emf, E , then a real battery can be represented as
+
+an emf connected in series with a resistor r. The internal resistance of the battery is
+
+represented by the symbol r.
+
+440
+
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.3
+
+R
+
+E
+
+r
+
+V
+
+Definition: Load
+
+The external resistance in the circuit is referred to as the load.
+
+Suppose that the battery (or cell) with emf E and internal resistance r supplies a current I
+
+through an external load resistor R. Then the voltage drop across the load resistor is that
+
+supplied by the battery:
+
+V = I · R
+
+Similarly, from Ohm's Law, the voltage drop across the internal resistance is:
+
+Vr = I · r
+
+The voltage V of the battery is related to its emf E and internal resistance r by:
+
+E = V + Ir; or
+
+V = E − Ir
+
+The emf of a battery is essentially constant because it only depends on the chemical reaction
+
+(that converts chemical energy into electrical energy) going on inside the battery. Therefore,
+
+we can see that the voltage across the terminals of the battery is dependent on the current
+
+drawn by the load. The higher the current, the lower the voltage across the terminals, because
+
+the emf is constant. By the same reasoning, the voltage only equals the emf when the current
+
+is very small.
+
+The maximum current that can be drawn from a battery is limited by a critical value Ic. At a
+
+current of Ic, V =0 V. Then, the equation becomes:
+
+0 = E − Icr
+
+Icr = E
+
+E
+
+Ic =
+
+r
+
+The maximum current that can be drawn from a battery is less than Er .
+
+Worked Example 130: Internal resistance
+
+Question: What is the internal resistance of a battery if its emf is 12 V and the
+
+voltage drop across its terminals is 10 V when a current of 4 A flows in the circuit
+
+when it is connected across a load?
+
+Answer
+
+Step 1 : Determine how to approach the problem
+
+It is an internal resistance problem. So we use the equation:
+
+E = V + Ir
+
+441
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.3
+R
+E
+r
+V
+Definition: Load
+The external resistance in the circuit is referred to as the load.
+Suppose that the battery (or cell) with emf E and internal resistance r supplies a current I
+through an external load resistor R. Then the voltage drop across the load resistor is that
+supplied by the battery:
+V = I · R
+Similarly, from Ohm's Law, the voltage drop across the internal resistance is:
+Vr = I · r
+The voltage V of the battery is related to its emf E and internal resistance r by:
+E = V + Ir; or
+V = E − Ir
+The emf of a battery is essentially constant because it only depends on the chemical reaction
+(that converts chemical energy into electrical energy) going on inside the battery. Therefore,
+we can see that the voltage across the terminals of the battery is dependent on the current
+drawn by the load. The higher the current, the lower the voltage across the terminals, because
+the emf is constant. By the same reasoning, the voltage only equals the emf when the current
+is very small.
+The maximum current that can be drawn from a battery is limited by a critical value Ic. At a
+current of Ic, V =0 V. Then, the equation becomes:
+0 = E − Icr
+Icr = E
+E
+Ic =
+r
+The maximum current that can be drawn from a battery is less than Er .
+Worked Example 130: Internal resistance
+Question: What is the internal resistance of a battery if its emf is 12 V and the
+voltage drop across its terminals is 10 V when a current of 4 A flows in the circuit
+when it is connected across a load?
+Answer
+Step 1 : Determine how to approach the problem
+It is an internal resistance problem. So we use the equation:
+E = V + Ir
+441
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.3
+
+R
+
+E
+
+r
+
+V
+
+Definition: Load
+
+The external resistance in the circuit is referred to as the load.
+
+Suppose that the battery (or cell) with emf E and internal resistance r supplies a current I
+
+through an external load resistor R. Then the voltage drop across the load resistor is that
+
+supplied by the battery:
+
+V = I · R
+
+Similarly, from Ohm's Law, the voltage drop across the internal resistance is:
+
+Vr = I · r
+
+The voltage V of the battery is related to its emf E and internal resistance r by:
+
+E = V + Ir; or
+
+V = E − Ir
+
+The emf of a battery is essentially constant because it only depends on the chemical reaction
+
+(that converts chemical energy into electrical energy) going on inside the battery. Therefore,
+
+we can see that the voltage across the terminals of the battery is dependent on the current
+
+drawn by the load. The higher the current, the lower the voltage across the terminals, because
+
+the emf is constant. By the same reasoning, the voltage only equals the emf when the current
+
+is very small.
+
+The maximum current that can be drawn from a battery is limited by a critical value Ic. At a
+
+current of Ic, V =0 V. Then, the equation becomes:
+
+0 = E − Icr
+
+Icr = E
+
+E
+
+Ic =
+
+r
+
+The maximum current that can be drawn from a battery is less than Er .
+
+Worked Example 130: Internal resistance
+
+Question: What is the internal resistance of a battery if its emf is 12 V and the
+
+voltage drop across its terminals is 10 V when a current of 4 A flows in the circuit
+
+when it is connected across a load?
+
+Answer
+
+Step 1 : Determine how to approach the problem
+
+It is an internal resistance problem. So we use the equation:
+
+E = V + Ir
+
+441
+
+19.4 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+
+Step 2 : Solve the problem
+
+E = V + Ir
+
+12 = 10 + 4(r)
+
+= 0.5
+
+Step 3 : Write the final answer
+
+The internal resistance of the resistor is 0.5 Ω.
+
+Exercise: Resistance
+
+1. Calculate the equivalent resistance of:
+
+A three 2 Ω resistors in series;
+
+B two 4 Ωresistors in parallel;
+
+C a 4 Ω resistor in series with a 8 Ω resistor;
+
+D a 6 Ω resistor in series with two resistors (4 Ω and 2Ω ) in parallel.
+
+2. Calculate the current in this circuit if both resistors are ohmic.
+
+R1=3 Ω
+
+R2=6 Ω
+
+V =9 V
+
+I
+
+3. Two ohmic resistors are connected in series. The resistance of the one resistor
+
+is 4 ΩW˙hat is the resistance of the other resistor if a current of 0,5 A flows
+
+through the resistors when they are connected to a voltage supply of 6 V.
+
+4. Describe what is meant by the internal resistance of a real battery.
+
+5. Explain why there is a difference between the emf and terminal voltage of a
+
+battery if the load (external resistance in the circuit) is comparable in size to
+
+the battery's internal resistance
+
+6. What is the internal resistance of a battery if its emf is 6 V and the voltage
+
+drop across its terminals is 5,8 V when a current of 0,5 A flows in the circuit
+
+when it is connected across a load?
+

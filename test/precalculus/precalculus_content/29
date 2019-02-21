@@ -1,0 +1,66 @@
+4.1 EXPONENTIAL FUNCTIONS
+Exponential Functions ! Graphs of Exponential Functions ! Compound 
+Interest
+In this chapter we study a new class of functions called exponential functions. For example,
+f 1x 2 ! 2x
+is an exponential function (with base 2). Notice how quickly the values of this function
+increase:
+ f 13 2 ! 23 ! 8
+ f 110 2 ! 210 !
+ f 130 2 1024
+g1 !x 2 230 ! 1,073,741,824Compare this with the function ! x2, where g130 2 ! 302 ! 900. The point is that
+when the variable is in the exponent, even a small change in the variable can cause a dra-
+matic change in the value of the function.
+! Exponential Functions
+To study exponential functions, we must first define what we mean by the exponential ex-
+pression ax when x is any real number. In Section 1.2 we defined ax for a " 0 and x a ra-
+tional number, but we have not yet defined irrational powers. So what is meant by 513 or
+2p? To define ax when x is irrational, we approximate x by rational numbers.
+For example, since 13 ! 1.73205. . .
+is an irrational number, we successively approximate a13 by the following rational powers:
+a1.7 1, a .73, a1.732, a1.7320, a1.73205, . . .
+Intuitively, we can see that these rational powers of a are getting closer and closer to 
+a1
+a13. It
+can be shown by using advanced mathematics that there is exactly one number that these
+powers approach. We define 3 to be this number.
+For example, using a calculator, w
+2
+ 51e find3 ! 51.73
+ 2411. . .
+51 1 ! 16.The more decimal places of 3 we use in our calculation, the better our approximation of 3.
+The Laws of Exponents are listed on It can be proved that the Laws of Exponents are still true when the exponents are real
+page 14. numbers.
+EXPONENTIAL FUNCTIONS
+The exponential function with base a is defined for all real numbers x by
+f 1x 2 ! ax
+where a " 0 and a # 1.
+We assume that a # 1 because the function f1x 2 ! 1x ! 1 is just a constant function.
+Here are some examples 
+f 1ofx 2 exponential functions:! 2x  g1x 2 ! 3x  h1x 2 ! 10 x
+Base 2 Base 3 Base 10
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  4 . 1 | Exponential Functions 303
+E X A M P L E  1 | Evaluating Exponential Functions
+Let f 1x 3
+f 1 22 2! x, and evaluate the following:(a) (b)
+f 1 fp 2  f 11$12 3 2(c) (d) 2 2
+S O L U T I O N We use a calculator to obtain the values of f.
+Calculator keystrokes Output
+(a) f 12 2 ! 32 ! 9 3
+ 
+3 B ^ 2 ENTER 9(b) f A$ 2 ! 3$2/3 ! 0.4807 3 ( (_^ ) 2 ! 3 ) ENTER 7498
+(c) f 1 0p 2 .480! 3p ! 31.544 3 ^ P ER
+f A12 B ! 31 ENT 31.5442807(d) 2 ! 4.7288 3 ^ 1 2 ENTER 4.7288043
+S E C T I O N  4 . 1 | Exponential Functions 303
+E X A M P L E  1 | Evaluating Exponential Functions
+Let f 1x 3
+f 1 22 2! x, and evaluate the following:(a) (b)
+f 1 fp 2  f 11$12 3 2(c) (d) 2 2
+S O L U T I O N We use a calculator to obtain the values of f.
+Calculator keystrokes Output
+(a) f 12 2 ! 32 ! 9 3
+ 
+3 B ^ 2 ENTER 9(b) f A$ 2 ! 3$2/3 ! 0.4807 3 ( (_^ ) 2 ! 3 ) ENTER 7498
+(c) f 1 0p 2 .480! 3p ! 31.544 3 ^ P ER
+f A12 B ! 31 ENT 31.5442807(d) 2 ! 4.7288 3 ^ 1 2 ENTER 4.7288043

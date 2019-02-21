@@ -1,0 +1,377 @@
+29.5.1 Logic Gates
+
+There are five main types of logic gate: NOT, AND, OR, NAND and NOR. Each one makes its
+
+decision in a different way.
+
+The NOT Gate
+
+Problem: You want an automatic circuit in your office to turn on the heating in the winter.
+
+You already have a digital electronic temperature sensor. When the temperature is high, it
+
+sends out a 1. When the office is cold, it sends out a 0. If this signal were sent straight to the
+
+heater, the heater would turn on (1) when it was already hot, and would stay off when it was
+
+cold. This is wrong! To make the heater work, we need a circuit which will change a 0 (from
+
+the sensor) into a 1 (to send to the heater). This will make the heater come on when it is cold.
+
+You also want it to change a 1 (from the sensor) into a 0 (to send to the heater). This will
+
+turn the heater off when the room is hot. This circuit is called an inverter or NOT gate. It
+
+610
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.5
+
+changes 0 into 1 (1 is NOT 0). It changes 1 into 0 (0 is NOT 1). It changes a signal into what
+
+it is NOT.
+
+The symbol for the NOT gate is:
+
+The action of the NOT gate is written in a table called a truth table. The left column shows
+
+the possible inputs on different rows. The right column shows what the output (decision) of
+
+the circuit will be for that input. The truth table for the NOT gate is shown below.
+
+Input Output
+
+0 1
+
+1 0
+
+When you read the truth table, the top row says, "If the input is 0, the output will be 1." For
+
+our heater, this means, "If the room is cold, the heater will turn on." The bottom row says, "If
+
+the input is 1, the output will be 0." For our heater, this means, "If the room is hot, the heater
+
+will switch off."
+
+The AND Gate
+
+Problem: An airliner has two toilets. Passengers get annoyed if they get up from their seat
+
+only to find that both toilets are being used and they have to go back to their seat and wait.
+
+You want to fit an automatic circuit to light up a display if both toilets are in use. Then
+
+passengers know that if the light is off, there will be a free toilet for them to use. There is a
+
+sensor in each toilet. It gives out a 0 of the toilet is free, and a 1 if it is in use. You want to
+
+send a 1 to the display unit if both sensors are sending 1s. To do this, you use an AND gate.
+
+The symbol for the AND gate is:
+
+Figure 29.17: Symbol for the AND logic gate.
+
+The truth table for the AND gate is shown below. An AND gate has two inputs (the NOT gate
+
+only had one). This means we need four rows in the truth table, one for each possible set of
+
+inputs. The first row, for example, tells us what the AND gate will do if both inputs are 0. In
+
+our airliner, this means that both toilets are free. The right column has a 0 showing that the
+
+output will be 0, so the display will not light up. The second row has inputs of 0 and 1 (the
+
+first toilet is free, the other is in use). Again the output is 0. The third row tells us what will
+
+happen if the inputs are 1 and 0 (the first toilet is in use, and the second is free). Finally, the
+
+last line tells us what will happen if both inputs are 1 (both toilets are in use). It is only in this
+
+case that the output is 1 and the display lights up.
+
+Inputs Output
+
+A B
+
+0 0 0
+
+0 1 0
+
+1 0 0
+
+1 1 1
+
+611
+CHAPTER 29. ELECTRONICS - GRADE 12 29.5
+changes 0 into 1 (1 is NOT 0). It changes 1 into 0 (0 is NOT 1). It changes a signal into what
+it is NOT.
+The symbol for the NOT gate is:
+The action of the NOT gate is written in a table called a truth table. The left column shows
+the possible inputs on different rows. The right column shows what the output (decision) of
+the circuit will be for that input. The truth table for the NOT gate is shown below.
+Input Output
+0 1
+1 0
+When you read the truth table, the top row says, "If the input is 0, the output will be 1." For
+our heater, this means, "If the room is cold, the heater will turn on." The bottom row says, "If
+the input is 1, the output will be 0." For our heater, this means, "If the room is hot, the heater
+will switch off."
+The AND Gate
+Problem: An airliner has two toilets. Passengers get annoyed if they get up from their seat
+only to find that both toilets are being used and they have to go back to their seat and wait.
+You want to fit an automatic circuit to light up a display if both toilets are in use. Then
+passengers know that if the light is off, there will be a free toilet for them to use. There is a
+sensor in each toilet. It gives out a 0 of the toilet is free, and a 1 if it is in use. You want to
+send a 1 to the display unit if both sensors are sending 1s. To do this, you use an AND gate.
+The symbol for the AND gate is:
+Figure 29.17: Symbol for the AND logic gate.
+The truth table for the AND gate is shown below. An AND gate has two inputs (the NOT gate
+only had one). This means we need four rows in the truth table, one for each possible set of
+inputs. The first row, for example, tells us what the AND gate will do if both inputs are 0. In
+our airliner, this means that both toilets are free. The right column has a 0 showing that the
+output will be 0, so the display will not light up. The second row has inputs of 0 and 1 (the
+first toilet is free, the other is in use). Again the output is 0. The third row tells us what will
+happen if the inputs are 1 and 0 (the first toilet is in use, and the second is free). Finally, the
+last line tells us what will happen if both inputs are 1 (both toilets are in use). It is only in this
+case that the output is 1 and the display lights up.
+Inputs Output
+A B
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+611
+29.5 CHAPTER 29. ELECTRONICS - GRADE 12
+This device is called an AND gate, because the output is only 1 if one input AND the other
+input are both 1.
+Extension: Using 0 and 1 to mean True and False
+When we use logic gates we use the low voltage state 0 to represent ‘false'.
+The high voltage state 1 represents ‘true'. This is why the word AND is so
+appropriate. A AND B is true (1) if, and only if, A is true (1) AND B is true (1).
+Extension: AND and multiplication
+Sometimes, the AND operation is written as multiplication. A AND B is
+written AB. If either A or B are 0, then AB will also be 0. For AB to be 1, we need
+A and B to both be 1. Multiplication of the numbers 0 and 1 does exactly the
+same job as an AND gate.
+The NAND Gate
+Problem: You build the circuit for the airliner toilets using an AND gate. Your customer is
+pleased, but she says that it would be better if the display lit up when there was a free toilet.
+In other words, the display should light up unless both toilets are in use. To do this we want a
+circuit which does the opposite of an AND gate. We want a circuit which would give the
+output 0 if an AND gate would give 1. We want a circuit which would give the output 1 if an
+AND gate would give 0. This circuit is called a NAND gate.
+The symbol for the NAND gate is:
+The truth table for the NAND gate is shown below.
+Inputs Output
+A B
+0 0 1
+0 1 1
+1 0 1
+1 1 0
+You may have noticed that we could have done this job on the airliner by using our earlier
+circuit, with a NOT gate added between the original AND gate and the display. This is where
+the word NAND comes from - it is short for NotAND.
+The OR Gate
+Problem: A long, dark corridor has two light switches - one at each end of the corridor. The
+switches each send an output of 0 to the control unit if no-one has pressed the switch. If
+someone presses the switch, its output is 1. The lights in the corridor should come on if either
+switch is pressed. To do this job, the control unit needs an OR gate. The symbol for the OR
+gate is:
+612
+CHAPTER 29. ELECTRONICS - GRADE 12 29.5
+The truth table for the OR gate is shown.
+Inputs Output
+A B
+0 0 0
+0 1 1
+1 0 1
+1 1 1
+You can see that the output is 1 (and the lights come on in the corridor) if either one switch
+OR the other is pressed. Pressing both switches also turns on the lights, as the last row in the
+table shows.
+Extension: OR and addition
+Sometimes you will see A OR B written mathematically as A+B. This makes
+sense, since if A=0 and B=0, then A OR B = A+B = 0. Similarly, if A=0 and
+B=1, then A OR B = A+B = 1. If A=1 and B=0, then A OR B = A+B = 1
+once again. The only case where the OR function differs from normal addition is
+when A=1 and B=1. Here A OR B = 1 in logic, but A+B=2 in arithmetic.
+However, there is no such thing as ‘2' in logic, so we define + to mean ‘OR', and
+write 1+1=1 with impunity!
+If you wish, you can prove that the normal rules of algebra still work using this
+notation: A+(B+C) = (A+B)+C, A(BC) = (AB)C, and A(B+C) = AB + AC.
+This special kind of algebra where variables can only be 0 (representing false) or 1
+(representing true) is called Boolean algebra.
+The NOR Gate
+The last gate you need to know is the NOR gate. This is opposite to the OR gate. The output
+is 1 if both inputs are 0. In other words, the output switches on if neither the first NOR the
+second input is 1. The symbol for the NOR gate is:
+The truth table for the NOR gate is shown below.
+Inputs Output
+A B
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+613
+29.5 CHAPTER 29. ELECTRONICS - GRADE 12
+The examples given were easy. Each job only needed one logic gate. However any ‘decision
+making' circuit can be built with logic gates, no matter how complicated the decision. Here is
+an example.
+Worked Example 181: An Economic Heating Control
+Question: A sensor in a building detects whether a room is being used. If it is
+empty, the output is 0, if it is in use, the output is 1. Another sensor measures the
+temperature of the room. If it is cold, the output is 0. If it is hot, the output is 1.
+The heating comes on if it receives a 1. Design a control circuit so that the heating
+only comes on if the room is in use and it is cold.
+Answer
+The first sensor tells us whether the room is occupied. The second sensor tells us
+whether the room is hot. The heating must come on if the room is occupied AND
+cold. This means that the heating should come on if the room is occupied AND
+(NOT hot). To build the circuit, we first attach a NOT gate to the output of the
+temperature sensor. This output of the NOT gate will be 1 only if the room is
+cold. We then attach this output to an AND gate, together with the output from
+the other sensor. The output of the AND gate will only be 1 if the room is
+occupied AND the output of the NOT gate is also 1. So the heating will only come
+on if the room is in use and is cold. The circuit is shown below.
+Hot
+Output
+Occupied
+Worked Example 182: Solving a circuit with two logic gates
+Question: Compile the truth table for the circuit below.
+Answer
+Firstly, we label the inputs A and B. We also label the point where the two gates
+are connected C.
+B
+C Output
+A
+Next we prepare a truth table. There is a column for each of the inputs, for the
+intermediate point C and also for the output. The truth table has four rows, since
+there are four possible inputs - 00, 01, 10 and 11.
+614
+CHAPTER 29. ELECTRONICS - GRADE 12 29.5
+A B C Output
+0 0
+0 1
+1 0
+1 1
+Next we fill in the C column given that we know what a NOR gate does.
+A B C Output
+0 0 1
+0 1 0
+1 0 0
+1 1 0
+Next, we can fill in the output, since it will always be the opposite of C (because of
+the NOT gate).
+A B C Output
+0 0 1 0
+0 1 0 1
+1 0 0 1
+1 1 0 1
+Finally we see that this combination of gates does the same job as an OR gate.
+Each logic gate is manufactured from two or more transistors. Other circuits can be made
+using logic gates, as we shall see in the next section. We shall show you how to count and
+store numbers using logic gates. This means that if you have enough transistors, and you
+connect them correctly to make the right logic gates, you can make circuits which count and
+store numbers.
+In practice, the cheapest gate to manufacture is usually the NAND gate. Additionally, Charles
+Peirce showed that NAND gates alone (as well as NOR gates alone) can be used to reproduce
+all the other logic gates.
+Exercise: The Principles of Digital Electronics
+1. Why is digital electronics important to modern technology and information
+processing?
+2. What two symbols are used in digital electronics, to represent a "high" and a
+"low"? What is this system known as?
+3. What is a logic gate?
+4. What are the five main types of logic gates? Draw the symbol for each logic
+gate.
+5. Write out the truth tables for each of the five logic gates.
+6. Write out the truth table for the following circuit. Which single gate is this
+circuit equivalent to?
+7. Write out the truth table for the following circuit. Which single gate is this
+circuit equivalent to?
+615
+CHAPTER 29. ELECTRONICS - GRADE 12 29.5
+
+A B C Output
+
+0 0
+
+0 1
+
+1 0
+
+1 1
+
+Next we fill in the C column given that we know what a NOR gate does.
+
+A B C Output
+
+0 0 1
+
+0 1 0
+
+1 0 0
+
+1 1 0
+
+Next, we can fill in the output, since it will always be the opposite of C (because of
+
+the NOT gate).
+
+A B C Output
+
+0 0 1 0
+
+0 1 0 1
+
+1 0 0 1
+
+1 1 0 1
+
+Finally we see that this combination of gates does the same job as an OR gate.
+
+Each logic gate is manufactured from two or more transistors. Other circuits can be made
+
+using logic gates, as we shall see in the next section. We shall show you how to count and
+
+store numbers using logic gates. This means that if you have enough transistors, and you
+
+connect them correctly to make the right logic gates, you can make circuits which count and
+
+store numbers.
+
+In practice, the cheapest gate to manufacture is usually the NAND gate. Additionally, Charles
+
+Peirce showed that NAND gates alone (as well as NOR gates alone) can be used to reproduce
+
+all the other logic gates.
+
+Exercise: The Principles of Digital Electronics
+
+1. Why is digital electronics important to modern technology and information
+
+processing?
+
+2. What two symbols are used in digital electronics, to represent a "high" and a
+
+"low"? What is this system known as?
+
+3. What is a logic gate?
+
+4. What are the five main types of logic gates? Draw the symbol for each logic
+
+gate.
+
+5. Write out the truth tables for each of the five logic gates.
+
+6. Write out the truth table for the following circuit. Which single gate is this
+
+circuit equivalent to?
+
+7. Write out the truth table for the following circuit. Which single gate is this
+
+circuit equivalent to?
+
+615
+
+29.6 CHAPTER 29. ELECTRONICS - GRADE 12
+

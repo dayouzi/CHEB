@@ -1,0 +1,322 @@
+3.6.3 Motion at Constant Acceleration
+
+The final situation we will be studying is motion at constant acceleration. We know that
+
+acceleration is the rate of change of velocity. So, if we have a constant acceleration, this
+
+means that the velocity changes at a constant rate.
+
+Let's look at our first example of Lesedi waiting at the taxi stop again. A taxi arrived and Lesedi
+
+got in. The taxi stopped at the stop street and then accelerated as follows: After 1 s the taxi
+
+covered a distance of 2,5 m, after 2 s it covered 10 m, after 3 seconds it covered 22,5 m and
+
+after 4 s it covered 40 m. The taxi is covering a larger distance every second. This means that
+
+it is accelerating.
+
+STOP
+
+2,5 m 10 m 22,5 m 40 m
+
+t = 1 s t = 2 s t = 3 s t = 4 s
+
+To calculate the velocity of the taxi you need to calculate the gradient of the line at each second:
+
+∆x ∆x ∆x
+
+v1s = v2s = v3s =
+
+∆t ∆t ∆t
+
+xf − xi xf − xi xf − xi
+
+=
+
+tf − = f − =ti t ti tf − ti
+
+5m− 0m 15m− 5m 30m− 15m
+
+=
+
+1,5s− = 2,5s− =0,5s 1,5s 3,5s− 2,5s
+
+= 5 m · s−1 = 10 m · s−1 = 15 m · s−1
+
+From these velocities, we can draw the velocity-time graph which forms a straight line.
+
+The acceleration is the gradient of the v vs. t graph and can be calculated as follows:
+
+∆v
+
+a =
+
+∆t
+
+vf − vi
+
+=
+
+tf − ti
+
+15m · s−1 − 5m · s−1
+
+=
+
+3s− 1s
+
+= 5 m · s−2
+
+The acceleration does not change during the motion (the gradient stays constant). This is
+
+motion at constant or uniform acceleration.
+
+The graphs for this situation are shown in Figure 3.9.
+
+Velocity from Acceleration vs. Time Graphs
+
+Just as we used velocity vs. time graphs to find displacement, we can use acceleration vs. time
+
+graphs to find the velocity of an object at a given moment in time. We simply calculate the
+
+area under the acceleration vs. time graph, at a given time. In the graph below, showing an
+
+object at a constant positive acceleration, the increase in velocity of the object after 2 seconds
+
+corresponds to the shaded portion.
+
+v = area of rectangle = a×∆t
+
+= 5 m · s−2 × 2 s
+
+= 10m · s−1
+
+46
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+
+15
+
+22,5 b
+
+10
+
+∆ v
+
+10 ∆ xb 5 5
+
+∆ t
+
+∆ t
+
+b
+
+0 1 2 time (s) 0 1 2 time (s) 0
+
+time (s)
+
+3 3 1 2
+
+(a) (b) (c)
+
+Figure 3.9: Graphs for motion with a constant acceleration (a) position vs. time (b) velocity vs.
+
+time (c) acceleration vs. time.
+
+The velocity of the object at t = 2 s is therefore 10 m·s−1. This corresponds with the values
+
+obtained in Figure 3.9.
+
+Exercise: Graphs
+
+1. A car is parked 10 m from home for 10 minutes. Draw a displacement-time,
+
+velocity-time and acceleration-time graphs for the motion. Label all the axes.
+
+2. A bus travels at a constant velocity of 12 m·s−1for 6 seconds. Draw the
+
+displacement-time, velocity-time and acceleration-time graph for the motion.
+
+Label all the axes.
+
+3. An athlete runs with a constant acceleration of 1 m·s−2for 4 s. Draw the
+
+acceleration-time, velocity-time and displacement time graphs for the motion.
+
+Accurate values are only needed for the acceleration-time and velocity-time
+
+graphs.
+
+4. The following velocity-time graph describes the motion of a car. Draw the
+
+displacement-time graph and the acceleration-time graph and explain the mo-
+
+tion of the car according to the three graphs.
+
+v (m·s−1)
+
+6
+
+0 t (s)
+
+2
+
+5. The following velocity-time graph describes the motion of a truck. Draw the
+
+displacement-time graph and the acceleration-time graph and explain the mo-
+
+tion of the truck according to the three graphs.
+
+v (m·s−1)
+
+8
+
+0 t (s)
+
+4
+
+47
+
+position x (m)
+
+velocity v (m·s−1)
+
+acceleration a (m·s−2)
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+15
+22,5 b
+10
+∆ v
+10 ∆ xb 5 5
+∆ t
+∆ t
+b
+0 1 2 time (s) 0 1 2 time (s) 0
+time (s)
+3 3 1 2
+(a) (b) (c)
+Figure 3.9: Graphs for motion with a constant acceleration (a) position vs. time (b) velocity vs.
+time (c) acceleration vs. time.
+The velocity of the object at t = 2 s is therefore 10 m·s−1. This corresponds with the values
+obtained in Figure 3.9.
+Exercise: Graphs
+1. A car is parked 10 m from home for 10 minutes. Draw a displacement-time,
+velocity-time and acceleration-time graphs for the motion. Label all the axes.
+2. A bus travels at a constant velocity of 12 m·s−1for 6 seconds. Draw the
+displacement-time, velocity-time and acceleration-time graph for the motion.
+Label all the axes.
+3. An athlete runs with a constant acceleration of 1 m·s−2for 4 s. Draw the
+acceleration-time, velocity-time and displacement time graphs for the motion.
+Accurate values are only needed for the acceleration-time and velocity-time
+graphs.
+4. The following velocity-time graph describes the motion of a car. Draw the
+displacement-time graph and the acceleration-time graph and explain the mo-
+tion of the car according to the three graphs.
+v (m·s−1)
+6
+0 t (s)
+2
+5. The following velocity-time graph describes the motion of a truck. Draw the
+displacement-time graph and the acceleration-time graph and explain the mo-
+tion of the truck according to the three graphs.
+v (m·s−1)
+8
+0 t (s)
+4
+47
+position x (m)
+velocity v (m·s−1)
+acceleration a (m·s−2)
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.6
+
+15
+
+22,5 b
+
+10
+
+∆ v
+
+10 ∆ xb 5 5
+
+∆ t
+
+∆ t
+
+b
+
+0 1 2 time (s) 0 1 2 time (s) 0
+
+time (s)
+
+3 3 1 2
+
+(a) (b) (c)
+
+Figure 3.9: Graphs for motion with a constant acceleration (a) position vs. time (b) velocity vs.
+
+time (c) acceleration vs. time.
+
+The velocity of the object at t = 2 s is therefore 10 m·s−1. This corresponds with the values
+
+obtained in Figure 3.9.
+
+Exercise: Graphs
+
+1. A car is parked 10 m from home for 10 minutes. Draw a displacement-time,
+
+velocity-time and acceleration-time graphs for the motion. Label all the axes.
+
+2. A bus travels at a constant velocity of 12 m·s−1for 6 seconds. Draw the
+
+displacement-time, velocity-time and acceleration-time graph for the motion.
+
+Label all the axes.
+
+3. An athlete runs with a constant acceleration of 1 m·s−2for 4 s. Draw the
+
+acceleration-time, velocity-time and displacement time graphs for the motion.
+
+Accurate values are only needed for the acceleration-time and velocity-time
+
+graphs.
+
+4. The following velocity-time graph describes the motion of a car. Draw the
+
+displacement-time graph and the acceleration-time graph and explain the mo-
+
+tion of the car according to the three graphs.
+
+v (m·s−1)
+
+6
+
+0 t (s)
+
+2
+
+5. The following velocity-time graph describes the motion of a truck. Draw the
+
+displacement-time graph and the acceleration-time graph and explain the mo-
+
+tion of the truck according to the three graphs.
+
+v (m·s−1)
+
+8
+
+0 t (s)
+
+4
+
+47
+
+position x (m)
+
+velocity v (m·s−1)
+
+acceleration a (m·s−2)
+
+3.7 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+

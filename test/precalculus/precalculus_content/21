@@ -1,0 +1,137 @@
+3.1 QUADRATIC FUNCTIONS AND MODELS
+Graphing Quadratic Functions Using the Standard Form ! Maximum and
+Minimum Values of Quadratic Functions ! Modeling with Quadratic Functions
+A polynomial function is a function that is defined by a polynomial expression. So a poly-
+nomial function of degree n is a function of the form
+P 1x 2 ! anxn # an"1xn"1 # p # a1x # a 0
+Polynomial expressions are defined in We have already studied polynomial functions of degree 0 and 1. These are functions of
+Section 1.3. the form P 1x 2 ! a 0 and P 1x 2 ! a1x # a0, respectively, whose graphs are lines. In this
+section we study polynomial functions of degree 2. These are called quadratic functions. 
+QUADRATIC FUNCTIONS
+A quadratic function is a polynomial function of degree 2. So a quadratic func-
+tion is a function of the form
+f 1x 2 ! ax 2 # bx # c,  a $ 0
+We see in this section how quadratic functions model many real-world phenomena. We
+begin by analyzing the graphs of quadratic functions.
+! Graphing Quadratic Functions Using the Standard Form
+For a geometric definition of parabolas, If we take a ! 1 and b ! c ! 0 in the quadratic function ax 2 # bx # c
+see Section 11.1.
+f 1x 2 f 1x 2
+f 1x 2 ! , we get
+the quadratic function ! x 2 , whose graph is the parabola graphed in Example 1 of
+Section 2.2. In fact, the graph of any quadratic function is a parabola; it can be obtained
+from the graph of ! x 2 by the transformations given in Section 2.5.
+STANDARD FORM OF A QUADRATIC FUNCTION
+A quadratic function f 1x 2 ! ax 2 
+f 1 #x 2 bx #! a1 c can be expressed in the standard formx " h 2 2 # k
+by completing the square. The graph of f is a parabola with vertex 1h,  k 2 ; the
+parabola opens upward if a % 0 or downward if a & 0.
+y y
+Vertex (h, k)
+k
+k
+Vertex (h, k) 0 x
+0 hh x
+Ï=a(x-h)™+k,  a>0 Ï=a(x-h)™+k,  a<0
+E X A M P L E  1 | Standard Form of a Quadratic Function
+Let f 1x 2 ! 2x 2 " 12x # 23.
+(a) Express f in standard form. (b) Sketch the graph of f.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+224 C H A P T E R  3 | Polynomial and Rational Functions
+3.1 QUADRATIC FUNCTIONS AND MODELS
+Graphing Quadratic Functions Using the Standard Form ! Maximum and
+Minimum Values of Quadratic Functions ! Modeling with Quadratic Functions
+A polynomial function is a function that is defined by a polynomial expression. So a poly-
+nomial function of degree n is a function of the form
+P 1x 2 ! anxn # an"1xn"1 # p # a1x # a 0
+Polynomial expressions are defined in We have already studied polynomial functions of degree 0 and 1. These are functions of
+Section 1.3. the form P 1x 2 ! a 0 and P 1x 2 ! a1x # a0, respectively, whose graphs are lines. In this
+section we study polynomial functions of degree 2. These are called quadratic functions. 
+QUADRATIC FUNCTIONS
+A quadratic function is a polynomial function of degree 2. So a quadratic func-
+tion is a function of the form
+f 1x 2 ! ax 2 # bx # c,  a $ 0
+We see in this section how quadratic functions model many real-world phenomena. We
+begin by analyzing the graphs of quadratic functions.
+! Graphing Quadratic Functions Using the Standard Form
+For a geometric definition of parabolas, If we take a ! 1 and b ! c ! 0 in the quadratic function ax 2 # bx # c
+see Section 11.1.
+f 1x 2 f 1x 2
+f 1x 2 ! , we get
+the quadratic function ! x 2 , whose graph is the parabola graphed in Example 1 of
+Section 2.2. In fact, the graph of any quadratic function is a parabola; it can be obtained
+from the graph of ! x 2 by the transformations given in Section 2.5.
+STANDARD FORM OF A QUADRATIC FUNCTION
+A quadratic function f 1x 2 ! ax 2 
+f 1 #x 2 bx #! a1 c can be expressed in the standard formx " h 2 2 # k
+by completing the square. The graph of f is a parabola with vertex 1h,  k 2 ; the
+parabola opens upward if a % 0 or downward if a & 0.
+y y
+Vertex (h, k)
+k
+k
+Vertex (h, k) 0 x
+0 hh x
+Ï=a(x-h)™+k,  a>0 Ï=a(x-h)™+k,  a<0
+E X A M P L E  1 | Standard Form of a Quadratic Function
+Let f 1x 2 ! 2x 2 " 12x # 23.
+(a) Express f in standard form. (b) Sketch the graph of f.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+224 C H A P T E R  3 | Polynomial and Rational Functions
+3.1 QUADRATIC FUNCTIONS AND MODELS
+Graphing Quadratic Functions Using the Standard Form ! Maximum and
+Minimum Values of Quadratic Functions ! Modeling with Quadratic Functions
+A polynomial function is a function that is defined by a polynomial expression. So a poly-
+nomial function of degree n is a function of the form
+P 1x 2 ! anxn # an"1xn"1 # p # a1x # a 0
+Polynomial expressions are defined in We have already studied polynomial functions of degree 0 and 1. These are functions of
+Section 1.3. the form P 1x 2 ! a 0 and P 1x 2 ! a1x # a0, respectively, whose graphs are lines. In this
+section we study polynomial functions of degree 2. These are called quadratic functions. 
+QUADRATIC FUNCTIONS
+A quadratic function is a polynomial function of degree 2. So a quadratic func-
+tion is a function of the form
+f 1x 2 ! ax 2 # bx # c,  a $ 0
+We see in this section how quadratic functions model many real-world phenomena. We
+begin by analyzing the graphs of quadratic functions.
+! Graphing Quadratic Functions Using the Standard Form
+For a geometric definition of parabolas, If we take a ! 1 and b ! c ! 0 in the quadratic function ax 2 # bx # c
+see Section 11.1.
+f 1x 2 f 1x 2
+f 1x 2 ! , we get
+the quadratic function ! x 2 , whose graph is the parabola graphed in Example 1 of
+Section 2.2. In fact, the graph of any quadratic function is a parabola; it can be obtained
+from the graph of ! x 2 by the transformations given in Section 2.5.
+STANDARD FORM OF A QUADRATIC FUNCTION
+A quadratic function f 1x 2 ! ax 2 
+f 1 #x 2 bx #! a1 c can be expressed in the standard formx " h 2 2 # k
+by completing the square. The graph of f is a parabola with vertex 1h,  k 2 ; the
+parabola opens upward if a % 0 or downward if a & 0.
+y y
+Vertex (h, k)
+k
+k
+Vertex (h, k) 0 x
+0 hh x
+Ï=a(x-h)™+k,  a>0 Ï=a(x-h)™+k,  a<0
+E X A M P L E  1 | Standard Form of a Quadratic Function
+Let f 1x 2 ! 2x 2 " 12x # 23.
+(a) Express f in standard form. (b) Sketch the graph of f.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+226 C H A P T E R  3 | Polynomial and Rational Functions
+E X A M P L E  2 | Minimum Value of a Quadratic Function
+Consider the quadratic function f 1x 2 ! 5x2 " 30x # 49.
+(a) Express f in standard form.
+y
+Ï=5(x-3)™+4 (b) Sketch the graph of f.
+49 (c) Find the minimum value of f.
+S O L U T I O N
+(a) To express this quadratic function in standard form, we complete the square.
+! 5x2 f 1x 2 " 30x # 49
+ ! 51x2 " 6x 2 # 49 Factor 5 from the x-terms
+Complete the square: Add 9 inside
+ ! 51x 2 " 6x # 9 2 # 49 " 5 # 9 parentheses, subtract 5 " 9 outside
+(3, 4) Minimum
+ ! 51x " 3 2 24 value 4 # 4 Factor and simplify
+0 3 x (b) The graph is a parabola that has its vertex at 13,  4 2 and opens upward, as sketchedin Figure 2.
+(c) Since the coefficient of x2 is positive, f has a minimum value. The minimum value
+F I G U R E  2 is f 13 2 ! 4.

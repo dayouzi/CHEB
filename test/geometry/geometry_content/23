@@ -1,0 +1,187 @@
+3.2 Perpendicular Lines
+
+Here you'll learn what perpendicular lines are and how to apply some basic properties and theorems about such
+
+lines.
+
+What if you were given a pair of lines that intersect each other at a 90◦ angle? What terminology would you use to
+
+describe such lines? After completing this Concept, you will be able to define perpendicular lines. You'll also be
+
+able to apply the properties associated with such lines to solve for unknown angles.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136581
+
+CK-12 Perpendicular Lines
+
+Watch the portions of this video dealing with perpendicular lines.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1341
+
+James Sousa: Perpendicular Lines
+
+Then watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1344
+
+James Sousa: Perpendicular Line Postulate
+
+Guidance
+
+Two lines are perpendicular when they intersect to form a 90◦ angle. Below, l ⊥ AB.
+
+107
+
+3.2. Perpendicular Lines www.ck12.org
+
+In the definition of perpendicular the word "line" is used. However, line segments, rays and planes can also be
+
+perpendicular. The image below shows two parallel planes, with a third blue plane that is perpendicular to both of
+
+them.
+
+Basic Facts about Perpendicular Lines
+
+Theorem #1: If l||m and n⊥ l, then n⊥ m.
+
+Theorem #2: If l ⊥ n and n⊥ m, then l||m.
+
+Postulate: For any line and a point not on the line, there is one line perpendicular to this line passing through the
+
+point. There are infinitely many lines that pass through A, but only one that is perpendicular to l.
+
+108
+3.2. Perpendicular Lines www.ck12.org
+In the definition of perpendicular the word "line" is used. However, line segments, rays and planes can also be
+perpendicular. The image below shows two parallel planes, with a third blue plane that is perpendicular to both of
+them.
+Basic Facts about Perpendicular Lines
+Theorem #1: If l||m and n⊥ l, then n⊥ m.
+Theorem #2: If l ⊥ n and n⊥ m, then l||m.
+Postulate: For any line and a point not on the line, there is one line perpendicular to this line passing through the
+point. There are infinitely many lines that pass through A, but only one that is perpendicular to l.
+108
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+Example A
+Which of the following is the best example of perpendicular lines?
+1. Latitude on a Globe
+2. Opposite Sides of a Picture Frame
+3. Fence Posts
+4. Adjacent Sides of a Picture Frame
+The best example would be adjacent sides of a picture frame. Remember that adjacent means next to and sharing a
+vertex. The adjacent sides of a picture frame meet at a 90◦ angle and so these sides are perpendicular.
+Example B
+←→
+I SO ⊥−→s GD?
+6 OGD∼= 6 SGD and the angles form a linear pair. This means both angles are 90◦, so the lines are perpendicular.
+Example C
+Write a 2-column proof to prove Theorem #1. Note: You need to understand corresponding angles in order to
+understand this proof. If you have not yet learned corresponding angles, be sure to check out that concept first, or
+skip this example for now.
+Given: l||m, l ⊥ n
+Prove: n⊥ m
+109
+3.2. Perpendicular Lines www.ck12.org
+TABLE 3.2:
+Statement Reason
+1. l||m, l ⊥ n 1. Given
+2. 6 1, 6 2, 6 3, and 6 4 are right angles 2. Definition of perpendicular lines
+3. m6 1 = 90◦ 3. Definition of a right angle
+4. m6 1 = m6 5 4. Corresponding Angles Postulate
+5. m6 5 = 90◦ 5. Transitive PoE
+6. m6 6 = m6 7 = 90◦ 6. Congruent Linear Pairs
+7. m6 8 = 90◦ 7. Vertical Angles Theorem
+8. 6 5, 6 6, 6 7, and 6 8 are right angles 8. Definition of right angle
+9. n⊥ m 9. Definition of perpendicular lines
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136582
+CK-12 Perpendicular Lines
+->
+Guided Practice
+1. Find m6 CTA.
+2. Determine the measure of 6 1.
+110
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+3. Find m6 1.
+Answers:
+1. These two angles form a linear pair and 6 STC is a right angle.
+m6 STC = 90◦
+m6 CTA is 180◦−90◦ = 90◦
+2. We know that both parallel lines are perpendicular to the transversal.
+m6 1 = 90◦.
+3. The two adjacent angles add up to 90◦, so l ⊥ m.
+m6 1 = 90◦
+because it is a vertical angle to the pair of adjacent angles and vertical angles are congruent.
+Explore More
+Use the figure below to answer questions 1-2. The two pentagons are parallel and all of the rectangular sides are
+perpendicular to both of them.
+111
+3.2. Perpendicular Lines www.ck12.org
+1. List a pair of perpendicular lines.
+2. For AB, how many perpendicular lines would pass through point V ? Name this/these line(s).
+Use the picture below for question 3.
+3. If t ⊥ l, is t ⊥ m? Why or why not?
+Find the measure of 6 1 for each problem below.
+4.
+5.
+6.
+112
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+7.
+8.
+9.
+10.
+11.
+12.
+In questions 13-16, determine if l ⊥ m.
+113
+3.2. Perpendicular Lines www.ck12.org
+13.
+14.
+15.
+16.
+Fill in the blanks in the proof below.
+17. Given: l ⊥ m, l ⊥ nProve: m||n
+114
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+TABLE 3.3:
+Statement Reason
+1. 1.
+2. 6 1 and 6 2 are right angles 2.
+3. 3. Definition of right angles
+4. 4. Transitive PoE
+5. m||n 5.
+115
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+
+TABLE 3.3:
+
+Statement Reason
+
+1. 1.
+
+2. 6 1 and 6 2 are right angles 2.
+
+3. 3. Definition of right angles
+
+4. 4. Transitive PoE
+
+5. m||n 5.
+
+115
+

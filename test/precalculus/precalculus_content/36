@@ -1,0 +1,62 @@
+5.1 THE UNIT CIRCLE
+The Unit Circle ! Terminal Points on the Unit Curcle ! The Reference Number
+In this section we explore some properties of the circle of radius 1 centered at the origin.
+These properties are used in the next section to define the trigonometric functions.
+! The Unit Circle
+y The set of points at a distance 1 from the origin is a circle of radius 1 (see Figure 1). In
+Section 1.8 we learned that the equation of this circle is x2 ! y2 " 1.
+THE UNIT CIRCLE
+0 1 x The unit circle is the circle of radius 1 centered at the origin in the xy-plane. Its
+equation is
+≈+¥=1 x2 ! y2 " 1
+F I G U R E  1 The unit circle
+E X A M P L E  1 A 
+P aPo1int3 1 on the Unit Circle6Show that the point ,  b is on the unit circle.
+3 3
+S O L U T I O N We need to show that this point satisfies the equation of the unit circle,
+that is, x2 ! y2 " 1. Since
+a 13 b 2 1! a 6 b 2 3 6" ! " 1
+3 3 9 9
+P is on the unit circle.
+S E C T I O N  5 . 1 | The Unit Circle 371
+cle. The point P1x, y 2 obtained in this way is called the terminal point determined by the
+real number t.
+y y
+P(x, y) t>0
+0 1 x 0 1 x
+t<0
+P(x, y)
+(a) Terminal point P 1x, y 2 determined (b) Terminal point P 1x, y 2 determined
+F I G U R E  2 by t % 0 by t & 0
+The circumference of the unit circle is C " 2p11 2 " 2p. So if a point starts 1at 11, 0 2and m 1, 0 2
+1
+2  
+1
+41 1
+12p 2 oves counterclockwise all the way around the unit circle and returns to , ittravels a distance of 2p. To move halfway around the circle, it travels a distance of" . To move a quarter of the distance around the circle, it travels a distance of
+2p 2 p" p/2
+ 
+1, 0 2 . Where does the point end up when it travels these distances along the cir-cle? From Figure 3 we see, for example, that when it travels a distance of p starting at, its terminal point is 1#1, 0 2 .
+y y y y
+P(0, 1)
+t=pi2 t=pi t=
+3pi
+2 t=2pi
+P(_1, 0) P(1, 0)
+0 1 x 0 1 x 0 1 x 0 1 x
+P(0, _1)
+F I G U R E  3 Terminal
+points determined by E X A M P L E  3 Finding Terminal Points
+t " p 3p2 , p, 2 , and 2p Find the terminal point on the unit circle determined by each real number t.
+(a) t " 3p (b) t " #p (c) pt " # 
+2
+S O L U T I O N From Figure 4 we get the following:
+(a) The terminal point determined by 3p is 1#1 1, 0 2 .(b) The terminal point determined by #p is #11, 0 2 .(c) The terminal point determined by #p/2 is 0, #1 2 .
+y y y
+t=3pi
+P(_1, 0)
+P(_1, 0) 0 1 x 0 1 x 0 1 x
+t=_pi t=_ pi
+P(0, _1) 2
+F I G U R E  4
+Notice that different values of t can determine the same terminal point.

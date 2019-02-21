@@ -1,0 +1,255 @@
+23.6 End of Chapter Exercises
+
+1. The force vs. displacement graph shows the amount of force applied to an object by
+
+three different people. Abdul applies force to the object for the first 4 m of its
+
+displacement, Beth applies force from the 4 m point to the 6 m point, and Charles
+
+applies force from the 6 m point to the 8 m point. Calculate the work done by each
+
+person on the object? Which of the three does the most work on the object?
+
+529
+
+23.6 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+
+Charles
+
+4 b b
+
+3
+
+2
+
+1
+
+0 b
+
+1 2 3 4 5 6 7 8
+
+−1
+
+Ab
+
+du
+
+l
+
+−2
+
+−3
+
+−4 b
+
+2. How much work does a person do in pushing a shopping trolley with a force of 200 N
+
+over a distance of 80 m in the direction of the force?
+
+3. How much work does the force of gravity do in pulling a 20 kg box down a 45◦
+
+frictionless inclined plane of length 18 m?
+
+4. [IEB 2001/11 HG1] Of which one of the following quantities is kg.m2.s−3 the base S.I.
+
+unit?
+
+A Energy
+
+B Force
+
+C Power
+
+D Momentum
+
+5. [IEB 2003/11 HG1] A motor is used to raise a mass m through a vertical height h in time
+
+t.
+
+What is the power of the motor while doing this?
+
+A mght
+
+B mght
+
+C mgt
+
+h
+
+D ht
+
+mg
+
+6. [IEB 2002/11 HG1] An electric motor lifts a load of mass M vertically through a height h
+
+at a constant speed v. Which of the following expressions can be used to correctly
+
+calculate the power transferred by the motor to the load while it is lifted at a constant
+
+speed?
+
+A Mgh
+
+B Mgh+ 12Mv
+
+2
+
+C Mgv
+
+D Mgv + 1 Mv
+
+3
+
+2 h
+
+7. [IEB 2001/11 HG1] An escalator is a moving staircase that is powered by an electric
+
+motor. People are lifted up the escalator at a constant speed of v through a vertical
+
+height h.
+
+What is the energy gained by a person of mass m standing on the escalator when he is
+
+lifted from the bottom to the top?
+
+530
+
+Beth
+23.6 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+Charles
+4 b b
+3
+2
+1
+0 b
+1 2 3 4 5 6 7 8
+−1
+Ab
+du
+l
+−2
+−3
+−4 b
+2. How much work does a person do in pushing a shopping trolley with a force of 200 N
+over a distance of 80 m in the direction of the force?
+3. How much work does the force of gravity do in pulling a 20 kg box down a 45◦
+frictionless inclined plane of length 18 m?
+4. [IEB 2001/11 HG1] Of which one of the following quantities is kg.m2.s−3 the base S.I.
+unit?
+A Energy
+B Force
+C Power
+D Momentum
+5. [IEB 2003/11 HG1] A motor is used to raise a mass m through a vertical height h in time
+t.
+What is the power of the motor while doing this?
+A mght
+B mght
+C mgt
+h
+D ht
+mg
+6. [IEB 2002/11 HG1] An electric motor lifts a load of mass M vertically through a height h
+at a constant speed v. Which of the following expressions can be used to correctly
+calculate the power transferred by the motor to the load while it is lifted at a constant
+speed?
+A Mgh
+B Mgh+ 12Mv
+2
+C Mgv
+D Mgv + 1 Mv
+3
+2 h
+7. [IEB 2001/11 HG1] An escalator is a moving staircase that is powered by an electric
+motor. People are lifted up the escalator at a constant speed of v through a vertical
+height h.
+What is the energy gained by a person of mass m standing on the escalator when he is
+lifted from the bottom to the top?
+530
+Beth
+CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12 23.6
+5
+4
+3
+2
+1
+0
+0 1 2 3 4 5
+A mgh
+B mgh sin θ
+mgh
+C
+sin θ
+D 12mv
+2
+8. [IEB 2003/11 HG1] In which of the following situations is there no work done on the
+object?
+A An apple falls to the ground.
+B A brick is lifted from the ground to the top of a building.
+C A car slows down to a stop.
+D A box moves at constant velocity across a frictionless horizontal surface.
+9. (NOTE TO SELF: exercises are needed.)
+531
+23.6 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+532
+23.6 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+
+532
+
+Chapter 24
+
+Doppler Effect - Grade 12
+
+24.1 Introduction
+
+Have you noticed how the pitch of a car hooter changes as the car passes by or how the pitch
+
+of a radio box on the pavement changes as you drive by? This effect is known as the Doppler
+
+Effect and will be studied in this chapter.
+
+Itneterreessttinigng The Doppler Effect is named after Johann Christian Andreas Doppler (29
+
+FFacctt November 1803 - 17 March 1853), an Austrian mathematician and physicist
+
+who first explained the phenomenon in 1842.
+
+24.2 The Doppler Effect with Sound and Ultrasound
+
+As seen in the introduction, there are two situations which lead to the Doppler Effect:
+
+1. When the source moves relative to the observer, for example the pitch of a car hooter as
+
+it passes by.
+
+2. When the observer moves relative to the source, for example the pitch of a radio on the
+
+pavement as you drive by.
+
+Definition: Doppler Effect
+
+The Doppler effect is the apparent change in frequency and wavelength of a wave when the
+
+observer and the source of the wave move relative to each other.
+
+We experience the Doppler effect quite often in our lives, without realising that it is science
+
+taking place. The changing sound of a taxi hooter or ambulance as it drives past are examples
+
+of this as you have seen in the introduction.
+
+The question is how does the Doppler effect take place. Let us consider a source of sound
+
+waves with a constant frequency and amplitude. The sound waves can be drawn as concentric
+
+circles where each circle represents another wavefront, like in figure 24.1 below.
+
+The sound source is the dot in the middle and is stationary. For the Doppler effect to take
+
+place, the source must be moving. Let's consider the following situation: The source (dot)
+
+emits one peak (represented by a circle) that moves away from the source at the same rate in
+
+all directions.
+
+533

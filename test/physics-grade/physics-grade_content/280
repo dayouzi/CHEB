@@ -1,0 +1,250 @@
+16.7 End of Chapter Exercises
+
+1. A guitar string with a length of 70 cm is plucked. The speed of a wave in the string is
+
+400 m·s−1. Calculate the frequency of the first, second, and third harmonics.
+
+2. A pitch of Middle D (first harmonic = 294 Hz) is sounded out by a vibrating guitar
+
+string. The length of the string is 80 cm. Calculate the speed of the standing wave in the
+
+guitar string.
+
+3. A frequency of the first harmonic is 587 Hz (pitch of D5) is sounded out by a vibrating
+
+guitar string. The speed of the wave is 600 m·s−1. Find the length of the string.
+
+4. Two notes which have a frequency ratio of 2:1 are said to be separated by an octave. A
+
+note which is separated by an octave from middle C (256 Hz) is
+
+A 254 Hz
+
+B 128 Hz
+
+C 258 Hz
+
+D 512 Hz
+
+5. Playing a middle C on a piano keyboard generates a sound at a frequency of 256 Hz. If
+
+the speed of sound in air is 345 m·s−1, calculate the wavelength of the sound
+
+corresponding to the note of middle C.
+
+6. What is resonance? Explain how you would demonstrate what resonance is if you have a
+
+measuring cylinder, tuning fork and water available.
+
+7. A tuning fork with a frequency of 256 Hz produced resonance with an air column of
+
+length 25,2 cm and at 89,5 cm. Calculate the speed of sound in the air column.
+
+386
+
+Chapter 17
+
+Electrostatics - Grade 11
+
+17.1 Introduction
+
+In Grade 10, you learnt about the force between charges. In this chapter you will learn exactly
+
+how to determine this force and about a basic law of electrostatics.
+
+17.2 Forces between charges - Coulomb's Law
+
+Like charges repel each other while opposite charges attract each other. If the charges are at
+
+rest then the force between them is known as the electrostatic force. The electrostatic force
+
+between charges increases when the magnitude of the charges increases or the distance
+
+between the charges decreases.
+
+The electrostatic force was first studied in detail by Charles Coulomb around 1784. Through
+
+his observations he was able to show that the electrostatic force between two point-like charges
+
+is inversely proportional to the square of the distance between the objects. He also discovered
+
+that the force is proportional to the product of the charges on the two objects.
+
+F ∝ Q1Q2 ,
+
+r2
+
+where Q1 is the charge on the one point-like object, Q2 is the charge on the second, and r is
+
+the distance between the two. The magnitude of the electrostatic force between two point-like
+
+charges is given by Coulomb's Law.
+
+Definition: Coulomb's Law
+
+Coulomb's Law states that the magnitude of the electrostatic force between two point
+
+charges is directly proportional to the magnitudes of each charge and inversely proportional
+
+to the square of the distance between the charges.
+
+Q1Q2
+
+F = k
+
+r2
+
+and the proportionality constant k is called the electrostatic constant and has the value:
+
+k = 8,99× 109N ·m2 ·C−2.
+
+Extension: Similarity of Coulomb's Law to the Newton's Universal Law of
+
+Gravitation.
+
+Notice how similar Coulomb's Law is to the form of Newton's Universal Law of
+
+Gravitation between two point-like particles:
+
+m1m2
+
+FG = G ,
+
+r2
+
+387
+16.7 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+
+Extension: Waveforms
+
+Below are some examples of the waveforms produced by a flute, clarinet and
+
+saxophone for different frequencies (i.e. notes):
+
+Flute waveform
+
+B4, 247 Hz
+
+Clarinet waveform
+
+E♭, 156 Hz
+
+Saxophone waveform
+
+C4, 256 Hz
+
+16.7 End of Chapter Exercises
+
+1. A guitar string with a length of 70 cm is plucked. The speed of a wave in the string is
+
+400 m·s−1. Calculate the frequency of the first, second, and third harmonics.
+
+2. A pitch of Middle D (first harmonic = 294 Hz) is sounded out by a vibrating guitar
+
+string. The length of the string is 80 cm. Calculate the speed of the standing wave in the
+
+guitar string.
+
+3. A frequency of the first harmonic is 587 Hz (pitch of D5) is sounded out by a vibrating
+
+guitar string. The speed of the wave is 600 m·s−1. Find the length of the string.
+
+4. Two notes which have a frequency ratio of 2:1 are said to be separated by an octave. A
+
+note which is separated by an octave from middle C (256 Hz) is
+
+A 254 Hz
+
+B 128 Hz
+
+C 258 Hz
+
+D 512 Hz
+
+5. Playing a middle C on a piano keyboard generates a sound at a frequency of 256 Hz. If
+
+the speed of sound in air is 345 m·s−1, calculate the wavelength of the sound
+
+corresponding to the note of middle C.
+
+6. What is resonance? Explain how you would demonstrate what resonance is if you have a
+
+measuring cylinder, tuning fork and water available.
+
+7. A tuning fork with a frequency of 256 Hz produced resonance with an air column of
+
+length 25,2 cm and at 89,5 cm. Calculate the speed of sound in the air column.
+
+386
+
+Chapter 17
+
+Electrostatics - Grade 11
+
+17.1 Introduction
+
+In Grade 10, you learnt about the force between charges. In this chapter you will learn exactly
+
+how to determine this force and about a basic law of electrostatics.
+
+17.2 Forces between charges - Coulomb's Law
+
+Like charges repel each other while opposite charges attract each other. If the charges are at
+
+rest then the force between them is known as the electrostatic force. The electrostatic force
+
+between charges increases when the magnitude of the charges increases or the distance
+
+between the charges decreases.
+
+The electrostatic force was first studied in detail by Charles Coulomb around 1784. Through
+
+his observations he was able to show that the electrostatic force between two point-like charges
+
+is inversely proportional to the square of the distance between the objects. He also discovered
+
+that the force is proportional to the product of the charges on the two objects.
+
+F ∝ Q1Q2 ,
+
+r2
+
+where Q1 is the charge on the one point-like object, Q2 is the charge on the second, and r is
+
+the distance between the two. The magnitude of the electrostatic force between two point-like
+
+charges is given by Coulomb's Law.
+
+Definition: Coulomb's Law
+
+Coulomb's Law states that the magnitude of the electrostatic force between two point
+
+charges is directly proportional to the magnitudes of each charge and inversely proportional
+
+to the square of the distance between the charges.
+
+Q1Q2
+
+F = k
+
+r2
+
+and the proportionality constant k is called the electrostatic constant and has the value:
+
+k = 8,99× 109N ·m2 ·C−2.
+
+Extension: Similarity of Coulomb's Law to the Newton's Universal Law of
+
+Gravitation.
+
+Notice how similar Coulomb's Law is to the form of Newton's Universal Law of
+
+Gravitation between two point-like particles:
+
+m1m2
+
+FG = G ,
+
+r2
+
+387

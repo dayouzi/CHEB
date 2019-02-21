@@ -1,0 +1,60 @@
+2.9 A sanity test
+
+A sanity test is a method of checking whether an answer makes sense. All we have to do is to
+
+take a careful look at our answer and ask the question Does the answer make sense?
+
+Imagine you were calculating the number of people in a classroom. If the answer you got was
+
+1 000 000 people you would know it was wrong - it is not possible to have that many people
+
+in a classroom. That is all a sanity test is - is your answer insane or not?
+
+It is useful to have an idea of some numbers before we start. For example, let us consider masses.
+
+An average person has a mass around 70 kg, while the heaviest person in medical history had a
+
+mass of 635 kg. If you ever have to calculate a person's mass and you get 7 000 kg, this should
+
+fail your sanity check - your answer is insane and you must have made a mistake somewhere.
+
+In the same way an answer of 0.01 kg should fail your sanity test.
+
+The only problem with a sanity check is that you must know what typical values for things are.
+
+For example, finding the number of learners in a classroom you need to know that there are
+
+usually 20-50 people in a classroom. If you get and answer of 2500, you should realise that it is
+
+wrong.
+
+Activity :: The scale of the matter... : Try to get an idea of the typical
+
+values for the following physical quantities and write your answers into the
+
+table:
+
+Category Quantity Minimum Maximum
+
+mass
+
+People
+
+height
+
+speed of cars on freeways
+
+speed of trains
+
+Transport
+
+speed of aeroplanes
+
+distance between home and school
+
+thickness of a sheet of paper
+
+General
+
+height of a doorway
+

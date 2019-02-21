@@ -1,0 +1,142 @@
+3.2 POLYNOMIAL FUNCTIONS AND THEIR GRAPHS
+Graphing Basic Polynomial Functions ! End Behavior and the Leading Term
+! Using Zeros to Graph Polynomials ! Shape of the Graph Near a Zero !
+Local Maxima and Minima of Polynomials
+In this section we study polynomial functions of any degree. But before we work with
+polynomial functions, we must agree on some terminology.
+POLYNOMIAL FUNCTIONS
+A polynomial function of degree n is a function of the form
+P1x 2 ! anxn # a n"1xn"1 # . . . # a1x # a0
+where n is a nonnegative integer and an $ 0.
+The numbers a0, a1, a2, p , an are called the coefficients of the polynomial. 
+The number a0 is the constant coefficient or constant term. 
+The number an, the coefficient of the highest power, is the leading coefficient, and
+the term an xn is the leading term.
+We often refer to polynomial functions simply as polynomials. The following polyno-
+mial has degree 5, leading coefficient 3, and constant term "6.
+Leading Degree 5 Constant term !6
+coefficient 3
+3x5 # 6x4 " 2x3 # x2 # 7x " 6
+Leading term 3x5
+Coefficients 3, 6, !2, 1, 7, and !6
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  3 . 2 | Polynomial Functions and Their Graphs 233
+Here are some more examp
+ P1lex 2s of polynomials.! 3 Degree 0
+ Q
+ R
+ S11
+1x
+x 22 ! 4x " 7 Degree 1
+x 2 ! x2 # x Degree 2! 2x3 " 6x2 " 10 Degree 3
+If a polynomial consists of just a single term, then it is called a monomial. For example,
+P1x 2 ! x3 and Q1x 2 ! "6x5 are monomials.
+! Graphing Basic Polynomial Functions
+The graphs of polynomials of degree 0 or 1 are lines (Section 1.10), and the graphs of
+polynomials of degree 2 are parabolas (Section 3.1). The greater the degree of a polyno-
+mial, the more complicated its graph can be. However, the graph of a polynomial func-
+Continuous functions are studied in tion is continuous. This means that the graph has no breaks or holes (see Figure 1). More-
+Section 13.2, page 851. over, the graph of a polynomial function is a smooth curve; that is, it has no corners or
+sharp points (cusps) as shown in Figure 1.
+y y y y
+smooth and smooth and
+cusp
+continuous continuous
+hole
+break
+corner
+x x x x
+Not the graph of a Not the graph of a Graph of a polynomial Graph of a polynomial
+polynomial function polynomial function function function
+F I G U R E  1
+The simplest polynomial functions are the monomials 
+P1 Px 21x 2 ! xn, whose graphs areshown in Figure 2. As the figure suggests, the graph of ! xn has the same general
+shape as the graph of y ! x2 when n is even and the same general shape as the graph of
+y ! x3 when n is odd. However, as the degree n becomes larger, the graphs become flat-
+ter around the origin and steeper elsewhere.
+y y y y y
+1 1 1 1 1
+0 1 x 0 1 x 0 1 x 0 1 x 0 1 x
+(a)  y=x (b)  y=≈ (c)  y=x£ (d)  y=x¢ (e)  y=x∞
+F I G U R E  2 Graphs of monomials
+E X A M P L E  1 | Transformations of Monomials
+Sketch the graphs of the following functions.
+(a) P1x 2 ! "x3 (b) Q1x 2 ! 1x " 2 2 4
+(c) R1x 2 ! "2x5 # 4
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  3 . 2 | Polynomial Functions and Their Graphs 233
+Here are some more examp
+ P1lex 2s of polynomials.! 3 Degree 0
+ Q
+ R
+ S11
+1x
+x 22 ! 4x " 7 Degree 1
+x 2 ! x2 # x Degree 2! 2x3 " 6x2 " 10 Degree 3
+If a polynomial consists of just a single term, then it is called a monomial. For example,
+P1x 2 ! x3 and Q1x 2 ! "6x5 are monomials.
+! Graphing Basic Polynomial Functions
+The graphs of polynomials of degree 0 or 1 are lines (Section 1.10), and the graphs of
+polynomials of degree 2 are parabolas (Section 3.1). The greater the degree of a polyno-
+mial, the more complicated its graph can be. However, the graph of a polynomial func-
+Continuous functions are studied in tion is continuous. This means that the graph has no breaks or holes (see Figure 1). More-
+Section 13.2, page 851. over, the graph of a polynomial function is a smooth curve; that is, it has no corners or
+sharp points (cusps) as shown in Figure 1.
+y y y y
+smooth and smooth and
+cusp
+continuous continuous
+hole
+break
+corner
+x x x x
+Not the graph of a Not the graph of a Graph of a polynomial Graph of a polynomial
+polynomial function polynomial function function function
+F I G U R E  1
+The simplest polynomial functions are the monomials 
+P1 Px 21x 2 ! xn, whose graphs areshown in Figure 2. As the figure suggests, the graph of ! xn has the same general
+shape as the graph of y ! x2 when n is even and the same general shape as the graph of
+y ! x3 when n is odd. However, as the degree n becomes larger, the graphs become flat-
+ter around the origin and steeper elsewhere.
+y y y y y
+1 1 1 1 1
+0 1 x 0 1 x 0 1 x 0 1 x 0 1 x
+(a)  y=x (b)  y=≈ (c)  y=x£ (d)  y=x¢ (e)  y=x∞
+F I G U R E  2 Graphs of monomials
+E X A M P L E  1 | Transformations of Monomials
+Sketch the graphs of the following functions.
+(a) P1x 2 ! "x3 (b) Q1x 2 ! 1x " 2 2 4
+(c) R1x 2 ! "2x5 # 4
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+234 C H A P T E R  3 | Polynomial and Rational Functions
+M AT H E M AT I C S  I N  S O L U T I O N We use the graphs in Figure 2 and transform them using the techniques of
+T H E  M O D E R N  W O R L D Section 2.5.
+Splines (a) The graph of P1x
+Q1 2x 2 ! "x
+3 is the reflection of the graph of y ! x3 in the x-axis, as
+shown in Figure 3(a) below.
+(b) The graph of ! 1x " 2 2 4 is the graph of y ! x4 shifted to the right 2 units, as
+shown in Figure 3(b).
+(c) We begin with the graph of y ! x5. The graph of y ! "2x5 is obtained by stretch-
+ing the graph vertically and reflecting it in the x-axis (see the dashed blue graph in
+A spline is a long strip of wood that is Figure 3(c)). Finally, the graph of R1x 2 ! "2x5 # 4 is obtained by shifting upward
+curved while held fixed at certain 4 units (see the red graph in Figure 3(c)).
+points. In the old days shipbuilders
+used splines to create the curved
+shape of a boat's hull. Splines are also
+used to make the curves of a piano, a P(x)=_x£ Q(x)=(x-2)¢
+violin, or the spout of a teapot. y y y
+16 8
+R(x)=_2x ∞+4
+1 4Mathematicians discovered that 8
+the shapes of splines can be obtained
+by piecing together parts of polyno-
+mials. For example, the graph of a cu- 0 1 x _2 0 2 4 x _1 0 1 x
+bic polynomial can be made to fit
+specified points by adjusting the
+coefficients of the polynomial (see 
+Example 10, page 242). (a) (b) (c)
+Curves obtained in this way are F I G U R E  3
+called cubic splines. In modern com-
+puter design programs, such as Adobe
+Illustrator or Microsoft Paint, a curve

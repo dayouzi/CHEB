@@ -1,0 +1,239 @@
+8.8. Trigonometric Ratios with a Calculator www.ck12.org
+
+8.8 Trigonometric Ratios with a Calculator
+
+Here you'll learn how to solve for missing sides in right triangles that are not one of the special right triangles.
+
+What if you were given a 20-70-90 triangle? How could you find the sine, cosine, and tangent of the 20◦ and 70◦
+
+angles? After completing this Concept, you'll be able to use a calculator to find the trigonometric ratios for angles
+
+that do not measure 45◦, 30◦, or 60◦.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136650
+
+CK-12 Foundation: The Trigonometric Ratios with a Calculator
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1371
+
+James Sousa: Determining Trigonometric Function Values on the Calculator
+
+Guidance
+
+There is a fixed sine, cosine, and tangent value for every angle, from 0◦ to 90◦. Your scientific (or graphing)
+
+calculator knows all the trigonometric values for any angle. Your calculator, should have [SIN], [COS], and [TAN]
+
+buttons. You can use your calculator and the trigonometric ratios is to find the missing sides of a right triangle by
+
+setting up a trig equation.
+
+Example A
+
+Find the trigonometric value, using your calculator. Round to 4 decimal places.
+
+a) sin78◦
+
+b) cos60◦
+
+c) tan15◦
+
+Depending on your calculator, you enter the degree and then press the trig button or the other way around. Also,
+
+make sure the mode of your calculator is in DEGREES.
+
+448
+
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+
+a) sin78◦ = 0.97815
+
+b) cos60◦ = 0.5
+
+c) tan15◦ = 0.26795
+
+Example B
+
+Find the value of each variable. Round your answer to the nearest tenth.
+
+We are given the hypotenuse. Use sine to find b, and cosine to find a. Use your calculator to evaluate the sine and
+
+cosine of the angles.
+
+b
+
+sin22◦
+
+a
+
+= cos22◦ =
+
+30 30
+
+30 · sin22◦ = b 30 · cos22◦ = a
+
+b≈ 11.2 a≈ 27.8
+
+Example C
+
+Find the value of each variable. Round your answer to the nearest tenth.
+
+We are given the adjacent leg to 42◦. To find c, use cosine and use tangent to find d.
+
+ad jacent 9 opposite
+
+cos42◦ = = tan42◦
+
+d
+
+= =
+
+hypotenuse c ad jacent 9
+
+c · cos42◦ = 9 9 · tan42◦ = d
+
+9
+
+c =
+
+cos42◦
+
+≈ 12.1 d ≈ 27.0
+
+449
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+a) sin78◦ = 0.97815
+b) cos60◦ = 0.5
+c) tan15◦ = 0.26795
+Example B
+Find the value of each variable. Round your answer to the nearest tenth.
+We are given the hypotenuse. Use sine to find b, and cosine to find a. Use your calculator to evaluate the sine and
+cosine of the angles.
+b
+sin22◦
+a
+= cos22◦ =
+30 30
+30 · sin22◦ = b 30 · cos22◦ = a
+b≈ 11.2 a≈ 27.8
+Example C
+Find the value of each variable. Round your answer to the nearest tenth.
+We are given the adjacent leg to 42◦. To find c, use cosine and use tangent to find d.
+ad jacent 9 opposite
+cos42◦ = = tan42◦
+d
+= =
+hypotenuse c ad jacent 9
+c · cos42◦ = 9 9 · tan42◦ = d
+9
+c =
+cos42◦
+≈ 12.1 d ≈ 27.0
+449
+8.8. Trigonometric Ratios with a Calculator www.ck12.org
+Any time you use trigonometric ratios, use only the information that you are given. This will result in the most
+accurate answers.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136651
+CK-12 Foundation: The Trigonometric Ratios with a Calculator
+->
+Guided Practice
+1. What is tan45◦?
+2. Find the length of the missing sides and round your answers to the nearest tenth:
+3. Find the length of the missing sides and round your answers to the nearest tenth:
+Answers:
+1. Using your calculator, you should find that tan45◦ = 1?
+2. Use tangent for x and cosine for y.
+x
+tan28◦
+11
+= cos28◦ =
+11 y
+11 · tan28◦ 11= x = y
+cos28◦
+x≈ 5.8 y≈ 12.5
+3. Use tangent for y and cosine for x.
+450
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+y
+tan40◦
+16
+= cos40◦ =
+16 x
+16 · tan40◦ 16= y = x
+cos40◦
+y≈ 13.4 x≈ 20.9
+Explore More
+Use your calculator to find the value of each trig function below. Round to four decimal places.
+1. sin24◦
+2. cos45◦
+3. tan88◦
+4. sin43◦
+5. tan12◦
+6. cos79◦
+7. sin82◦
+Find the length of the missing sides. Round your answers to the nearest tenth.
+8.
+9.
+10.
+11.
+451
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+
+y
+
+tan40◦
+
+16
+
+= cos40◦ =
+
+16 x
+
+16 · tan40◦ 16= y = x
+
+cos40◦
+
+y≈ 13.4 x≈ 20.9
+
+Explore More
+
+Use your calculator to find the value of each trig function below. Round to four decimal places.
+
+1. sin24◦
+
+2. cos45◦
+
+3. tan88◦
+
+4. sin43◦
+
+5. tan12◦
+
+6. cos79◦
+
+7. sin82◦
+
+Find the length of the missing sides. Round your answers to the nearest tenth.
+
+8.
+
+9.
+
+10.
+
+11.
+
+451
+

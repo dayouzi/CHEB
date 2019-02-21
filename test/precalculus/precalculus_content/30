@@ -1,0 +1,58 @@
+4.2 THE NATURAL EXPONENTIAL FUNCTION
+The Number e ! The Natural Exponential Function ! Continuously 
+Compounded Interest
+Any positive number can be used as a base for an exponential function. In this section we
+study the special base e, which is convenient for applications involving calculus. 
+! The Number e
+The number e is defined as the value that 11 & 1/n 2 n approaches as n becomes large. (In
+calculus this idea is made more precise through the concept of a limit. See Chapter 13.) The
+table shows the values of the expression 11 & 1/n 2 n for increasingly large values of n. 
+n a 1 n1 $ b
+n
+1 2.00000
+The Gateway Arch in St.Louis,Missouri, 5 2.48832
+is shaped in the form of the graph of a 10 2.59374
+combination of exponential functions 100 2.70481
+(not a parabola,as it might first appear). 1000 2.71692
+Specifically, it is a catenary,which is the 10,000 2.71815
+graph of an equation of the form
+y ! a1ebx & e$bx 2 100,000 2.718271,000,000 2.71828
+(see Exercise 17).This shape was chosen
+because it is optimal for distributing the
+internal structural forces of the arch. It appears that, correct to five decimal places, e ! 2.71828; in fact, the approximate
+Chains and cables suspended between
+two points (for example, the stretches of value to 20 decimal places is
+cable between pairs of telephone e ! 2.71828182845904523536
+poles) hang in the shape of a catenary.
+It can be shown that e is an irrational number, so we cannot write its exact value in deci-
+mal form.
+! The Natural Exponential Function
+The notation e was chosen by Leon- The number e is the base for the natural exponential function. Why use such a strange base
+hard Euler (see page 266), probably for an exponential function? It might seem at first that a base such as 10 is easier to work
+because it is the first letter of the word with. We will see, however, that in certain applications the number e is the best possible
+exponential. base. In this section we study how e occurs in the description of compound interest.
+y y=3˛
+THE NATURAL EXPONENTIAL FUNCTION
+y=2˛
+The natural exponential function is the exponential function
+y=e˛ f 1x 2 ! e x
+with base e. It is often referred to as the exponential function.
+1
+0 1 x Since 2 % e % 3, the graph of the natural exponential function lies between the graphs
+of y ! 2x and y ! 3x, as shown in Figure 1.
+F I G U R E  1 Graph of the f 1x 2 ! e xnatural ex- Scientific calculators have a special key for the function . We use this key in
+ponential function the next example.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+© Garry McMichael /Photo Researchers, Inc.
+S E C T I O N  4 . 2 | The Natural Exponential Function 311
+E X A M P L E  1 | Evaluating the Exponential Function
+Evaluate each expression rounded to five decimal places.
+(a) e3 (b) 2e$0.53 (c) e4.8
+S O L U T I O N We use the eX key on a calculator to evaluate the exponential function.
+(a) e3 ! 20.08554 (b) 2e$0.53 ! 1.17721 (c) e4.8 ! 121.51042
+S E C T I O N  4 . 2 | The Natural Exponential Function 311
+E X A M P L E  1 | Evaluating the Exponential Function
+Evaluate each expression rounded to five decimal places.
+(a) e3 (b) 2e$0.53 (c) e4.8
+S O L U T I O N We use the eX key on a calculator to evaluate the exponential function.
+(a) e3 ! 20.08554 (b) 2e$0.53 ! 1.17721 (c) e4.8 ! 121.51042

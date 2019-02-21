@@ -1,0 +1,204 @@
+7.7 SAS Similarity
+
+Here you'll learn how to determine if triangles are similar using Side-Angle-Side (SAS).
+
+What if you were given a pair of triangles, the lengths of two of their sides, and the measure of the angle between
+
+those two sides? How could you use this information to determine if the two triangles are similar? After completing
+
+this Concept, you'll be able to use the SAS Similarity Theorem to decide if two triangles are congruent.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136685
+
+CK-12 Foundation: SAS Similarity
+
+Watch this video beginning at the 2:09 mark.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1302
+
+James Sousa: Similar Triangles
+
+Now watch the second part of this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1349
+
+James Sousa: Similar Triangles Using SSS andSAS
+
+Guidance
+
+By definition, two triangles are similar if all their corresponding angles are congruent and their corresponding sides
+
+are proportional. It is not necessary to check all angles and sides in order to tell if two triangles are similar. In fact,
+
+365
+
+7.7. SAS Similarity www.ck12.org
+
+if you know only that two pairs of sides are proportional and their included angles are congruent, that is enough
+
+information to know that the triangles are similar. This is called the SAS Similarity Theorem.
+
+SAS Similarity Theorem: If two sides in one triangle are proportional to two sides in another triangle and the
+
+included angle in both are congruent, then the two triangles are similar.
+
+If ABXY =
+
+AC
+
+XZ and 6 A∼= 6 X , then4ABC ∼4XY Z.
+
+Example A
+
+Are the two triangles similar? How do you know?
+
+We know that 6 B∼= 6 Z because they are both right angles and 1015 = 2436 . So, ABXZ = BCZY and4ABC ∼4XZY by SAS.
+
+Example B
+
+Are there any similar triangles in the figure? How do you know?
+
+6 A is shared by4EAB and4DAC, so it is congruent to itself. Let's see if AEAD = ABAC .
+
+9 12
+
+=
+
+9+3 12+5
+
+9 3 12
+
+= 6= The two triangles are not similar.
+
+12 4 17
+
+366
+7.7. SAS Similarity www.ck12.org
+if you know only that two pairs of sides are proportional and their included angles are congruent, that is enough
+information to know that the triangles are similar. This is called the SAS Similarity Theorem.
+SAS Similarity Theorem: If two sides in one triangle are proportional to two sides in another triangle and the
+included angle in both are congruent, then the two triangles are similar.
+If ABXY =
+AC
+XZ and 6 A∼= 6 X , then4ABC ∼4XY Z.
+Example A
+Are the two triangles similar? How do you know?
+We know that 6 B∼= 6 Z because they are both right angles and 1015 = 2436 . So, ABXZ = BCZY and4ABC ∼4XZY by SAS.
+Example B
+Are there any similar triangles in the figure? How do you know?
+6 A is shared by4EAB and4DAC, so it is congruent to itself. Let's see if AEAD = ABAC .
+9 12
+=
+9+3 12+5
+9 3 12
+= 6= The two triangles are not similar.
+12 4 17
+366
+www.ck12.org Chapter 7. Similarity
+Example C
+From Example B, what should BC equal for4EAB∼4DAC?
+The proportion we ended up with was 912 =
+3
+4 6= 1217 . AC needs to equal 16, so that 1216 = 34 . AC = AB+BC and
+16 = 12+BC. BC should equal 4.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136686
+CK-12 Foundation: SAS Similarity
+->
+Guided Practice
+Determine if the following triangles are similar. If so, write the similarity theorem and statement.
+1.
+2.
+3.
+Answers:
+367
+7.7. SAS Similarity www.ck12.org
+1. We can see that 6 B ∼= 6 F and these are both included angles. We just have to check that the sides around the
+angles are proportional.
+AB
+DF =
+12
+8 =
+3
+2
+BC
+FE =
+24
+16 =
+3
+2
+Since the ratios are the same4ABC ∼4DFE by the SAS Similarity Theorem.
+2. The triangles are not similar because the angle is not the included angle for both triangles.
+3. 6 A is the included angle for both triangles, so we have a pair of congruent angles. Now we have to check that the
+sides around the angles are proportional.
+AE
+AD =
+16
+16+4 =
+16
+20 =
+4
+5
+AB
+AC =
+24
+24+8 =
+24
+32 =
+3
+4
+The ratios are not the same so the triangles are not similar.
+Explore More
+Fill in the blanks.
+1. If two sides in one triangle are _________________ to two sides in another and the ________________ angles
+are _________________, then the triangles are ______________.
+Determine if the following triangles are similar. If so, write the similarity theorem and statement.
+2.
+Find the value of the missing variable(s) that makes the two triangles similar.
+3.
+4.
+368
+www.ck12.org Chapter 7. Similarity
+5.
+Determine if the triangles are similar. If so, write the similarity theorem and statement.
+6. ∆ABC is a right triangle with legs that measure 3 and 4. ∆DEF is a right triangle with legs that measure 6 and
+8.
+7. ∆GHI is a right triangle with a leg that measures 12 and a hypotenuse that measures 13. ∆JKL is a right
+triangle with legs that measure 1 and 2.
+8.
+9.
+10.
+369
+7.7. SAS Similarity www.ck12.org
+11.
+12. AC = 3
+DF = 6
+13.
+370
+www.ck12.org Chapter 7. Similarity
+14.
+15.
+371
+www.ck12.org Chapter 7. Similarity
+
+14.
+
+15.
+
+371
+

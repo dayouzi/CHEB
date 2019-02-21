@@ -1,0 +1,150 @@
+2.6 COMBINING FUNCTIONS
+Sums, Differences, Products, and Quotients ! Composition of Functions
+In this section we study different ways to combine functions to make new functions.
+! Sums, Differences, Products, and Quotients
+The sum1  of ff % g 2a1ndx 2  g is defined ! f 1x 2 % g1byx 2 Two functions f and g can be combined to form new functions f % g, f $ g, fg, and f/gin a manner similar to the way we add, subtract, multiply, and divide real numbers. For
+example, we define the function1  f % g byThe name of the new function is "f % g." So this % sign stands for the f % g 2 1x 2 ! f 1x 2 % g1x 2
+operation of addition of functions. 
+The % sign on the right side, ho f % gwever,
+stands
+g1 fox 2 r addition of the number f1x 2
+T
+f 1hex %
+s
+and g1 2 2 fx 2
+ new 
+g1function is called the sum of the functions f and g; its value at x isx . Of course, the sum on the right-hand side makes sense only if both 1x 2 and
+are defined, that is, if x belongs to the domain of f and also to the domain of g. So if
+.
+the domain of f is A and the domain of g is B, then the domain of f % g is the intersec-
+tion of these domains, that is, A % B. Similarly, we can define the difference f $ g, the
+product fg, and the quotient f/g of the functions f and g. Their domains are A % B, but
+in the case of the quotient we must remember not to divide by 0.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+190 C H A P T E R  2 | Functions
+86. The graph of f 1x 2 ! x is shown. Use this graph to
+sketch the graph of g 1 4x 2$ 4x2! 0 x4 $ 4x2 0 90. Changing Temperature Scales The temperature on a. certain afternoon is modeled by the function
+y C1t 2 ! 1 22 t % 2
+where t represents hours after 12 noon 10 & t & 6 2 and C is
+4 measured in °C.
+(a) What shifting and shrinking operations must be performed
+2 on the function y ! t2 to obtain the function y ! C1t 2?
+(b) Suppose you wa
+_3 _1 1 3 x y ! C1nt 2t to measure the temperature in °F in-stead. What transformation would you have to apply to thefunction to accomplish this? (Use the fact that
+the relationship between Celsius and Fahrenheit degrees is
+_4 given by F !
+9
+5C % 32.) Write the new function y ! F1t 2
+that results from this transformation.
+87-88 " Sketch the graph of each function.
+87. (a) f 1x 2 D I S C O V E R Y " D I S C U S S I O N " W R I T I N G! 4x $ x2 (b) 2 ! 0 4x $ x2 0
+f 1x 2 g 1x88. (a) ! x3 (b) g 1x 2 ! 0 x3 0 91. Sums of Even and Odd Functions If f and g are botheven functions, is f % g necessarily even? If both are odd, is
+their sum necessarily odd? What can you say about the sum if
+one is odd and one is even? In each case, prove your answer.
+A P P L I C A T I O N S 92. Products of Even and Odd Functions Answer the
+89. Sales Growth The annual sales of a certain company can same questions as in Exercise 91, except this time consider the
+be modeled by the function f 1 2 ! 4 % 0.01t2
+f 1 t , where t repre- product of f and g instead of the sum.sents years since 1990 and t 2 is measured in millions of 93. Even and Odd Power Functions What must be true
+dollars.
+(a) about the integer n if the functionWhat shifting and shrinking operations must be performed
+on the function y ! t2 to obtain the function y ! f 1t 2? f 1x 2 ! x n
+(b) Suppose you want t to represent years since 2000 instead is an even function? If it is an odd function? Why do you think
+of 1990. What t
+y ! f 1t 2
+y ! g 1rat 2nsformation would you have to apply to the names "even" and "odd" were chosen for these functionthe function to accomplish this? Write the new properties?function that results from this transformation.
+2.6 COMBINING FUNCTIONS
+Sums, Differences, Products, and Quotients ! Composition of Functions
+In this section we study different ways to combine functions to make new functions.
+! Sums, Differences, Products, and Quotients
+The sum1  of ff % g 2a1ndx 2  g is defined ! f 1x 2 % g1byx 2 Two functions f and g can be combined to form new functions f % g, f $ g, fg, and f/gin a manner similar to the way we add, subtract, multiply, and divide real numbers. For
+example, we define the function1  f % g byThe name of the new function is "f % g." So this % sign stands for the f % g 2 1x 2 ! f 1x 2 % g1x 2
+operation of addition of functions. 
+The % sign on the right side, ho f % gwever,
+stands
+g1 fox 2 r addition of the number f1x 2
+T
+f 1hex %
+s
+and g1 2 2 fx 2
+ new 
+g1function is called the sum of the functions f and g; its value at x isx . Of course, the sum on the right-hand side makes sense only if both 1x 2 and
+are defined, that is, if x belongs to the domain of f and also to the domain of g. So if
+.
+the domain of f is A and the domain of g is B, then the domain of f % g is the intersec-
+tion of these domains, that is, A % B. Similarly, we can define the difference f $ g, the
+product fg, and the quotient f/g of the functions f and g. Their domains are A % B, but
+in the case of the quotient we must remember not to divide by 0.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+190 C H A P T E R  2 | Functions
+86. The graph of f 1x 2 ! x is shown. Use this graph to
+sketch the graph of g 1 4x 2$ 4x2! 0 x4 $ 4x2 0 90. Changing Temperature Scales The temperature on a. certain afternoon is modeled by the function
+y C1t 2 ! 1 22 t % 2
+where t represents hours after 12 noon 10 & t & 6 2 and C is
+4 measured in °C.
+(a) What shifting and shrinking operations must be performed
+2 on the function y ! t2 to obtain the function y ! C1t 2?
+(b) Suppose you wa
+_3 _1 1 3 x y ! C1nt 2t to measure the temperature in °F in-stead. What transformation would you have to apply to thefunction to accomplish this? (Use the fact that
+the relationship between Celsius and Fahrenheit degrees is
+_4 given by F !
+9
+5C % 32.) Write the new function y ! F1t 2
+that results from this transformation.
+87-88 " Sketch the graph of each function.
+87. (a) f 1x 2 D I S C O V E R Y " D I S C U S S I O N " W R I T I N G! 4x $ x2 (b) 2 ! 0 4x $ x2 0
+f 1x 2 g 1x88. (a) ! x3 (b) g 1x 2 ! 0 x3 0 91. Sums of Even and Odd Functions If f and g are botheven functions, is f % g necessarily even? If both are odd, is
+their sum necessarily odd? What can you say about the sum if
+one is odd and one is even? In each case, prove your answer.
+A P P L I C A T I O N S 92. Products of Even and Odd Functions Answer the
+89. Sales Growth The annual sales of a certain company can same questions as in Exercise 91, except this time consider the
+be modeled by the function f 1 2 ! 4 % 0.01t2
+f 1 t , where t repre- product of f and g instead of the sum.sents years since 1990 and t 2 is measured in millions of 93. Even and Odd Power Functions What must be true
+dollars.
+(a) about the integer n if the functionWhat shifting and shrinking operations must be performed
+on the function y ! t2 to obtain the function y ! f 1t 2? f 1x 2 ! x n
+(b) Suppose you want t to represent years since 2000 instead is an even function? If it is an odd function? Why do you think
+of 1990. What t
+y ! f 1t 2
+y ! g 1rat 2nsformation would you have to apply to the names "even" and "odd" were chosen for these functionthe function to accomplish this? Write the new properties?function that results from this transformation.
+2.6 COMBINING FUNCTIONS
+Sums, Differences, Products, and Quotients ! Composition of Functions
+In this section we study different ways to combine functions to make new functions.
+! Sums, Differences, Products, and Quotients
+The sum1  of ff % g 2a1ndx 2  g is defined ! f 1x 2 % g1byx 2 Two functions f and g can be combined to form new functions f % g, f $ g, fg, and f/gin a manner similar to the way we add, subtract, multiply, and divide real numbers. For
+example, we define the function1  f % g byThe name of the new function is "f % g." So this % sign stands for the f % g 2 1x 2 ! f 1x 2 % g1x 2
+operation of addition of functions. 
+The % sign on the right side, ho f % gwever,
+stands
+g1 fox 2 r addition of the number f1x 2
+T
+f 1hex %
+s
+and g1 2 2 fx 2
+ new 
+g1function is called the sum of the functions f and g; its value at x isx . Of course, the sum on the right-hand side makes sense only if both 1x 2 and
+are defined, that is, if x belongs to the domain of f and also to the domain of g. So if
+.
+the domain of f is A and the domain of g is B, then the domain of f % g is the intersec-
+tion of these domains, that is, A % B. Similarly, we can define the difference f $ g, the
+product fg, and the quotient f/g of the functions f and g. Their domains are A % B, but
+in the case of the quotient we must remember not to divide by 0.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+192 C H A P T E R  2 | Functions
+The graph of the function f % g can be obtained from the graphs of f and g by graph-
+ical addition. This means that we add corresponding y-coordinates, as illustrated in the
+next example.
+E X A M P L E  2 | Using Graphical Addition
+The graphs of f and g are shown in Figure 1. Use graphical addition to graph the function
+f % g.
+S
+g1O L f gx 2 U T I O N We obtain the graph of % by "graphically adding" the value of f 1x 2 toas shown in Figure 2. This is implemented by copying the line segment PQ on top
+of PR to obtain the point S on the graph of f % g.
+y y y=(f+g)(x)
+y=˝ y=˝
+S
+R f(x)
+y=Ï g(x) y=Ï
+Q
+f(x)
+x P x
+F I G U R E  1 F I G U R E  2 Graphical addition

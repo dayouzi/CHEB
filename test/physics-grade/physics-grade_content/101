@@ -1,0 +1,356 @@
+7.4.2 Snell's Law
+
+Now that we know that the degree of bending, or the angle of refraction, is dependent on the
+
+refractive index of a medium, how do we calculate the angle of refraction?
+
+The angles of incidence and refraction when light travels from one medium to another can be
+
+calculated using Snell's Law.
+
+139
+
+7.4 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+
+Medium Refractive Index
+
+Vacuum 1
+
+Helium 1,000036
+
+Air* 1,0002926
+
+Carbon dioxide 1,00045
+
+Water: Ice 1,31
+
+Water: Liquid (20◦C) 1,333
+
+Acetone 1,36
+
+Ethyl Alcohol (Ethanol) 1,36
+
+Sugar solution (30%) 1,38
+
+Fused quartz 1,46
+
+Glycerine 1,4729
+
+Sugar solution (80%) 1,49
+
+Rock salt 1,516
+
+Crown Glass 1,52
+
+Sodium chloride 1,54
+
+Polystyrene 1,55 to 1,59
+
+Bromine 1,661
+
+Sapphire 1,77
+
+Glass (typical) 1,5 to 1,9
+
+Cubic zirconia 2,15 to 2,18
+
+Diamond 2,419
+
+Silicon 4,01
+
+Table 7.1: Refractive indices of some materials. nair is calculated at STP and all values are
+
+determined for yellow sodium light which has a wavelength of 589,3 nm.
+
+Definition: Snell's Law
+
+n1 sin θ1 = n2 sin θ2
+
+where
+
+n1 = Refractive index of material 1
+
+n2 = Refractive index of material 2
+
+θ1 = Angle of incidence
+
+θ2 = Angle of refraction
+
+Remember that angles of incidence and refraction are measured from the normal, which is an
+
+imaginary line perpendicular to the surface.
+
+Suppose we have two media with refractive indices n1 and n2. A light ray is incident on the
+
+surface between these materials with an angle of incidence θ1. The refracted ray that passes
+
+through the second medium will have an angle of refraction θ2.
+
+Worked Example 32: Using Snell's Law
+
+Question: A light ray with an angle of incidence of 35◦ passes from water to air.
+
+Find the angle of refraction using Snell's Law and Table 7.4.1. Discuss the meaning
+
+of your answer.
+
+Answer
+
+Step 1 : Determine the refractive indices of water and air
+
+From Table 7.4.1, the refractive index is 1,333 for water and about 1 for air. We
+
+know the angle of incidence, so we are ready to use Snell's Law.
+
+Step 2 : Substitute values
+
+140
+7.4 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+Medium Refractive Index
+Vacuum 1
+Helium 1,000036
+Air* 1,0002926
+Carbon dioxide 1,00045
+Water: Ice 1,31
+Water: Liquid (20◦C) 1,333
+Acetone 1,36
+Ethyl Alcohol (Ethanol) 1,36
+Sugar solution (30%) 1,38
+Fused quartz 1,46
+Glycerine 1,4729
+Sugar solution (80%) 1,49
+Rock salt 1,516
+Crown Glass 1,52
+Sodium chloride 1,54
+Polystyrene 1,55 to 1,59
+Bromine 1,661
+Sapphire 1,77
+Glass (typical) 1,5 to 1,9
+Cubic zirconia 2,15 to 2,18
+Diamond 2,419
+Silicon 4,01
+Table 7.1: Refractive indices of some materials. nair is calculated at STP and all values are
+determined for yellow sodium light which has a wavelength of 589,3 nm.
+Definition: Snell's Law
+n1 sin θ1 = n2 sin θ2
+where
+n1 = Refractive index of material 1
+n2 = Refractive index of material 2
+θ1 = Angle of incidence
+θ2 = Angle of refraction
+Remember that angles of incidence and refraction are measured from the normal, which is an
+imaginary line perpendicular to the surface.
+Suppose we have two media with refractive indices n1 and n2. A light ray is incident on the
+surface between these materials with an angle of incidence θ1. The refracted ray that passes
+through the second medium will have an angle of refraction θ2.
+Worked Example 32: Using Snell's Law
+Question: A light ray with an angle of incidence of 35◦ passes from water to air.
+Find the angle of refraction using Snell's Law and Table 7.4.1. Discuss the meaning
+of your answer.
+Answer
+Step 1 : Determine the refractive indices of water and air
+From Table 7.4.1, the refractive index is 1,333 for water and about 1 for air. We
+know the angle of incidence, so we are ready to use Snell's Law.
+Step 2 : Substitute values
+140
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.4
+According to Snell's Law:
+n1 sin θ1 = n2 sin θ2
+1,33 sin35◦ = 1 sin θ2
+sin θ2 = 0,763
+θ2 = 49,7
+◦.
+Step 3 : Discuss the answer
+The light ray passes from a medium of high refractive index to one of low refractive
+index. Therefore, the light ray is bent away from the normal.
+Worked Example 33: Using Snell's Law
+Question: A light ray passes from water to diamond with an angle of incidence of
+75◦. Calculate the angle of refraction. Discuss the meaning of your answer.
+Answer
+Step 1 : Determine the refractive indices of water and air
+From Table 7.4.1, the refractive index is 1,333 for water and 2,42 for diamond. We
+know the angle of incidence, so we are ready to use Snell's Law.
+Step 2 : Substitute values and solve
+According to Snell's Law:
+n1 sin θ1 = n2 sin θ2
+1,33 sin75◦ = 2,42 sin θ2
+sin θ2 = 0,531
+θ2 = 32,1
+◦.
+Step 3 : Discuss the answer
+The light ray passes from a medium of low refractive index to one of high refractive
+index. Therefore, the light ray is bent towards the normal.
+If
+n2 > n1
+then from Snell's Law,
+sin θ1 > sin θ2.
+For angles smaller than 90◦, sin θ increases as θ increases. Therefore,
+θ1 > θ2.
+This means that the angle of incidence is greater than the angle of refraction and the light ray
+is bent toward the normal.
+Similarly, if
+n2 < n1
+then from Snell's Law,
+sin θ1 < sin θ2.
+For angles smaller than 90◦, sin θ increases as θ increases. Therefore,
+θ1 < θ2.
+141
+7.4 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+This means that the angle of incidence is less than the angle of refraction and the light ray is
+away toward the normal.
+Both these situations can be seen in Figure 7.12.
+normal normal
+n1 n2 n1 n2
+(a) n1 < n2 (b) n1 > n2
+Figure 7.12: Refraction of two light rays. (a) A ray travels from a medium of low refractive
+index to one of high refractive index. The ray is bent towards the normal. (b) A ray travels from
+a medium with a high refractive index to one with a low refractive index. The ray is bent away
+from the normal.
+What happens to a ray that lies along the normal line? In this case, the angle of incidence is 0◦
+and
+n1
+sin θ2 = sin θ1
+n2
+= 0
+∴ θ2 = 0.
+This shows that if the light ray is incident at 0◦, then the angle of refraction is also 0◦. The ray
+passes through the surface unchanged, i.e. no refraction occurs.
+Activity :: Investigation : Snell's Law 1
+The angles of incidence and refraction were measured in five unknown media and
+recorded in the table below. Use your knowledge about Snell's Law to identify each
+of the unknown media A - E. Use Table 7.4.1 to help you.
+Medium 1 n1 θ1 θ2 n2 Unknown Medium
+Air 1,000036 38 11,6 ? A
+Air 1,000036 65 38,4 ? B
+Vacuum 1 44 0,419 ? C
+Air 1,000036 15 29,3 ? D
+Vacuum 1 20 36,9 ? E
+Activity :: Investigation : Snell's Law 2
+Zingi and Tumi performed an investigation to identify an unknown liquid. They
+shone a beam of light into the unknown liquid, varying the angle of incidence and
+recording the angle of refraction. Their results are recorded in the following table:
+142
+surface
+surface
+7.4 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+
+This means that the angle of incidence is less than the angle of refraction and the light ray is
+
+away toward the normal.
+
+Both these situations can be seen in Figure 7.12.
+
+normal normal
+
+n1 n2 n1 n2
+
+(a) n1 < n2 (b) n1 > n2
+
+Figure 7.12: Refraction of two light rays. (a) A ray travels from a medium of low refractive
+
+index to one of high refractive index. The ray is bent towards the normal. (b) A ray travels from
+
+a medium with a high refractive index to one with a low refractive index. The ray is bent away
+
+from the normal.
+
+What happens to a ray that lies along the normal line? In this case, the angle of incidence is 0◦
+
+and
+
+n1
+
+sin θ2 = sin θ1
+
+n2
+
+= 0
+
+∴ θ2 = 0.
+
+This shows that if the light ray is incident at 0◦, then the angle of refraction is also 0◦. The ray
+
+passes through the surface unchanged, i.e. no refraction occurs.
+
+Activity :: Investigation : Snell's Law 1
+
+The angles of incidence and refraction were measured in five unknown media and
+
+recorded in the table below. Use your knowledge about Snell's Law to identify each
+
+of the unknown media A - E. Use Table 7.4.1 to help you.
+
+Medium 1 n1 θ1 θ2 n2 Unknown Medium
+
+Air 1,000036 38 11,6 ? A
+
+Air 1,000036 65 38,4 ? B
+
+Vacuum 1 44 0,419 ? C
+
+Air 1,000036 15 29,3 ? D
+
+Vacuum 1 20 36,9 ? E
+
+Activity :: Investigation : Snell's Law 2
+
+Zingi and Tumi performed an investigation to identify an unknown liquid. They
+
+shone a beam of light into the unknown liquid, varying the angle of incidence and
+
+recording the angle of refraction. Their results are recorded in the following table:
+
+142
+
+surface
+
+surface
+
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.4
+
+Angle of Incidence Angle of Refraction
+
+0,0◦ 0,00◦
+
+5,0◦ 3,76◦
+
+10,0◦ 7,50◦
+
+15,0◦ 11,2◦
+
+20,0◦ 14,9◦
+
+25,0◦ 18,5◦
+
+30,0◦ 22,1◦
+
+35,0◦ 25,5◦
+
+40,0◦ 28,9◦
+
+45,0◦ 32,1◦
+
+50,0◦ 35,2◦
+
+55,0◦ 38,0◦
+
+60,0◦ 40,6◦
+
+65,0◦ 43,0◦
+
+70,0◦ ?
+
+75,0◦ ?
+
+80,0◦ ?
+
+85,0◦ ?
+
+1. Write down an aim for the investigation.
+
+2. Make a list of all the apparatus they used.
+
+3. Identify the unknown liquid.
+
+4. Predict what the angle of refraction will be for 70◦, 75◦, 80◦ and 85◦.
+

@@ -1,0 +1,167 @@
+2.1 WHAT IS A FUNCTION?
+Functions All Around Us ! Definition of Function ! Evaluating a Function
+! Domain of a Function ! Four Ways to Represent a Function
+In this section we explore the idea of a function and then give the mathematical definition
+of function.
+! Functions All Around Us
+In nearly every physical phenomenon we observe that one quantity depends on another.
+For example, your height depends on your age, the temperature depends on the date, the
+cost of mailing a package depends on its weight (see Figure 1). We use the term function
+to describe this dependence of one quantity on another. That is, we say the following:
+" Height is a function of age.
+" Temperature is a function of date.
+" Cost of mailing a package is a function of weight.
+The U.S. Post Office uses a simple rule to determine the cost of mailing a first-class par-
+cel on the basis of its weight. But it's not so easy to describe the rule that relates height
+to age or the rule that relates temperature to date.
+* F
+7 100 „ (ounces) Postage (dollars)6
+80 0 < „≤1 1.22
+Height 54 1 < „≤2 1.39
+(in feet) 3 60 2 < „≤3 1.56
+2 40 Daily high temperature 3 < „≤4 1.73
+1 Columbia, MO, May 2010 4 < „≤5 1.90
+0 5 10 15 20 25 0 5 10 15 20 25 30 Date 5 < „≤6 2.07
+Age (in years)
+F I G U R E  1 Height is a function of age. Temperature is a function of date. Postage is a function of weight.
+Can you think of other functions? Here are some more examples:
+" The area of a circle is a function of its radius.
+" The number of bacteria in a culture is a function of time.
+" The weight of an astronaut is a function of her elevation.
+" The price of a commodity is a function of the demand for that commodity.
+The rule that describes how the area A of a circle depends on its radius r is given by
+the formula A ! pr2. Even when a precise rule or formula describing a function is not
+available, we can still describe the function by a graph. For example, when you turn on a
+hot water faucet, the temperature of the water depends on how long the water has been
+running. So we can say:
+" The temperature of water from the faucet is a function of time.
+Figure 2 shows a rough graph of the temperature T of the water as a function of the time
+t that has elapsed since the faucet was turned on. The graph shows that the initial temper-
+ature of the water is close to room temperature. When the water from the hot water tank
+reaches the faucet, the water's temperature T increases quickly. In the next phase, T is con-
+stant at the temperature of the water in the tank. When the tank is drained, T decreases to
+the temperature of the cold water supply.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  2 . 1 | What Is a Function? 143
+T (°F)
+110
+100
+90
+80
+70
+60
+50
+F I G U R E  2 Graph of water tempera- 0 t
+ture T as a function of time t
+! Definition of Function
+We have previously used letters to A function is a rule. To talk about a function, we need to give it a name. We will use let-
+stand for numbers. Here we do some- ters such as f, g, h, . . . to represent functions. For example, we can use the letter f to rep-
+thing quite different: We use letters resent a rule as follows:
+to represent rules.
+"f " is the rule "square the number"
+When we write f 122, we mean "apply the rule f to the number 2." Applying the rule gives
+f 122 ! 22 ! 4. Similarly, f 132 ! 32 ! 9, f 142 ! 42 ! 16, and in general f 1x 2 ! x2.
+DEFINITION OF A FUNCTION
+A function f is a rule that assigns to each element x in a set A exactly one 
+element, called f 1x 2, in a set B.
+We usually consider functions for which the sets A and B are sets of real numbers. The
+The 1 key on your calculator is a symbol f 1x 2 is read "f of x" or "f at x" and is called the value of f at x, or the image of
+good example of a function as a ma- x under f. The set A is called the domain of the function. The range of f is the set of all
+chine. First you input x into the display. possible values of f 1x 2 as x varies throughout the domain, that is,
+Then you press the key labeled 1 .
+(On most graphing calculators the or- range of f ! 5f 1x 2 ƒ  x ! A6
+der of these operations is reversed.) If The symbol that represents an arbitrary number in the domain of a function f is called
+x " 0, then x is not in the domain of
+this function; that is, x is an independent variable. The symbol that represents a number in the range of f is callednot an accept-
+able input, and the calculator will indi-
+cate an error. If x # 0, then an approxi-
+mation to 1 a dependent variable. So if we write y ! f 1x 2, then x is the independent variable and yis the dependent variable.x appears in the display,
+correct to a certain number of decimal
+places. (Thus, the 1 It is helpful to think of a function as a machine (see Figure 3). If x is in the domain ofthe function f, then when x enters the machine, it is accepted as an input and the machinekey on your cal- produces an output f 1x 2 according to the rule of the function. Thus, we can think of the
+cu
+f1 lax 2 tor i! 1s not quite the same as the ex- domain as the set of all possible inputs and the range as the set of all possible outputs.act mathematical function f defined byx.)
+F I G U R E  3 Machine x f Ï
+diagram of input output f
+Another way to picture a function is by an arrow diagram as in Figure 4. Each arrow
+connects an element of A to an element of B. The arrow indicates that f 1x 2 is associated
+with x, f 1a2 is associated with a, and so on.
+A B
+x Ï
+a f(a)
+F I G U R E  4 Arrow 
+diagram of f f
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  2 . 1 | What Is a Function? 143
+T (°F)
+110
+100
+90
+80
+70
+60
+50
+F I G U R E  2 Graph of water tempera- 0 t
+ture T as a function of time t
+! Definition of Function
+We have previously used letters to A function is a rule. To talk about a function, we need to give it a name. We will use let-
+stand for numbers. Here we do some- ters such as f, g, h, . . . to represent functions. For example, we can use the letter f to rep-
+thing quite different: We use letters resent a rule as follows:
+to represent rules.
+"f " is the rule "square the number"
+When we write f 122, we mean "apply the rule f to the number 2." Applying the rule gives
+f 122 ! 22 ! 4. Similarly, f 132 ! 32 ! 9, f 142 ! 42 ! 16, and in general f 1x 2 ! x2.
+DEFINITION OF A FUNCTION
+A function f is a rule that assigns to each element x in a set A exactly one 
+element, called f 1x 2, in a set B.
+We usually consider functions for which the sets A and B are sets of real numbers. The
+The 1 key on your calculator is a symbol f 1x 2 is read "f of x" or "f at x" and is called the value of f at x, or the image of
+good example of a function as a ma- x under f. The set A is called the domain of the function. The range of f is the set of all
+chine. First you input x into the display. possible values of f 1x 2 as x varies throughout the domain, that is,
+Then you press the key labeled 1 .
+(On most graphing calculators the or- range of f ! 5f 1x 2 ƒ  x ! A6
+der of these operations is reversed.) If The symbol that represents an arbitrary number in the domain of a function f is called
+x " 0, then x is not in the domain of
+this function; that is, x is an independent variable. The symbol that represents a number in the range of f is callednot an accept-
+able input, and the calculator will indi-
+cate an error. If x # 0, then an approxi-
+mation to 1 a dependent variable. So if we write y ! f 1x 2, then x is the independent variable and yis the dependent variable.x appears in the display,
+correct to a certain number of decimal
+places. (Thus, the 1 It is helpful to think of a function as a machine (see Figure 3). If x is in the domain ofthe function f, then when x enters the machine, it is accepted as an input and the machinekey on your cal- produces an output f 1x 2 according to the rule of the function. Thus, we can think of the
+cu
+f1 lax 2 tor i! 1s not quite the same as the ex- domain as the set of all possible inputs and the range as the set of all possible outputs.act mathematical function f defined byx.)
+F I G U R E  3 Machine x f Ï
+diagram of input output f
+Another way to picture a function is by an arrow diagram as in Figure 4. Each arrow
+connects an element of A to an element of B. The arrow indicates that f 1x 2 is associated
+with x, f 1a2 is associated with a, and so on.
+A B
+x Ï
+a f(a)
+F I G U R E  4 Arrow 
+diagram of f f
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+144 C H A P T E R  2 | Functions
+E X A M P L E  1 | Analyzing a Function
+A function f is defined by the formula
+f 1x 2 ! x2 % 4
+(a) Express in words how f acts
+f 1 1on t5 2he input x to produce the output f 1x 2.(b) Evaluate f 132, f 1$22, and .
+(c) Find the domain and range of f.
+(d) Draw a machine diagram for f.
+S O L U T I O N
+(a) The formula tells us that f first squares the input x and then adds 4 to the result. 
+So f is the function
+"square, then add 4"
+(b) The values of f ar
+f 1e 3 2found by substituting for x in the formula f 1x 2 ! x2 % 4.! 32 % 4 ! 13
+x square and x2+4 f 1$2 2 ! 1 Replace x by 3$2 2 2 % 4 ! 8
+input add 4 output f 115 2 ! 11 Replace x by -25 2 2 % 4 ! 9 Replace x by !"5"
+3 square and
+(c) The domain of f consists of all possible inputs for f. Since we can evaluate the for-
+add 4 13 mula f 1x 2 ! x2 % 4 for every real number x, the domain of f is the set # of all real
+numbers.
+The range of f consists of all possible outputs of f. Because x2 # 0 for all real
+_2 square andd 8a d 4 numbers x, we have x
+2 % 4 # 4, so for every output of f we have f 1x 2 # 4. Thus,
+the range of f is 5y 0  y # 46 ! 34, q 2 .
+F I G U R E  5 Machine diagram (d) A machine diagram for f is shown in Figure 5.

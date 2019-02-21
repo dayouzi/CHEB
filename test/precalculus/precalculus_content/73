@@ -1,0 +1,163 @@
+10.6 DETERMINANTS AND CRAMER'S RULE
+Determinant of a 2 " 2 Matrix ! Determinant of an n" n Matrix ! Row 
+and Column Transformations ! Cramer's Rule ! Areas of Triangles Using 
+Determinants
+If a matrix is square (that is, if it has the same number of rows as columns), then we can
+assign to it a number called its determinant. Determinants can be used to solve systems
+of linear equations, as we will see later in this section. They are also useful in determin-
+ing whether a matrix has an inverse.
+! Determinant of a 2 ! 2 Matrix
+We denote the determinant of a square matrix A by the symbol det1A2 or !A !. We first de-
+fine det1A2 for the simplest cases. If A ! "a' is a 1 " 1 matrix, then det1A2 ! a. The fol-
+lowing box gives the definition of a 2 " 2 determinant. 
+DETERMINANT OF A 2 ! 2 MATRIX
+We will use both notations, det1A2 and
+!A ! A ! c a bThe determinant of the 2 " 2 matrix d is, for the determinant of A. Although c d
+the symbol !A ! looks like the absolute
+value symbol, it will be clear from the
+context which meaning is intended. det1A 2 ! ƒ A ƒ ! ` a b ` ! ad # bc
+c d
+E X A M P L E  1 | Determinant of a 2 " 2 Matrix
+A ! c 6 #3Evaluate !A ! for  d .
+2 3
+To evaluate a 2 " 2 determinant, we S O L U T I O N
+take the product of the diagonal from
+top left to bottom right and subtract the ` 6 #3←→ ` ! 6 # 3 # 1#3 22 ! 18 # 1#6 2 ! 242 product from top right to bottom left,    3
+as indicated by the arrows.
+S E C T I O N  1 0 . 6 | Determinants and Cramer's Rule 683
+For example, if A is the matrix
+£ 2    3   #10 2 4 §
+#2 5 6
+then the minor M12 is the determinant of the matrix obtained by deleting the first row and
+second column from A. Thus
+12 ! 3 2 3 #1 0 4M 0 2 4 3 ! ` ` ! 016 2 # 41#2 2 ! 8
+DAVID HILBERT (1862-1943) was 2 6
+born in Königsberg, Germany, and be- #2 5
+#
+6
+came a professor at Göttingen Univer-
+sity. He is considered by many to be the
+greatest mathematician of the 20th cen- So the cofactor A ! 1#1 2 1$212 M12 ! #8. Similarly,
+tury. At the International Congress of
+Mathematicians held in Paris in 1900,
+Hilbert set the direction of mathematics #1
+for the about-to-dawn 20th century by 2M
+posing 23 problems that he believed to 33
+! 3 2 30 2 4 3 ! ` 3 ` ! 2 # 2 # 3 # 0 ! 4
+0 2
+be of crucial importance. He said that #2 5 6
+"these are problems whose solutions we
+expect from the future." Most of
+Hilbert's problems have now been So A33 ! 1#1 2 3$3M33 ! 4.
+solved (see Julia Robinson, page 663, Note that the cofactor of aij is simply the minor of aij multiplied by either 1 or #1,
+and Alan Turing, page 100), and their so- depending on whether i $ j is even or odd. Thus in a 3 " 3 matrix we obtain the cofac-
+lutions have led to important new areas tor of any element by prefixing its minor with the sign obtained from the following
+of mathematical research.Yet as we pro- checkerboard pattern.
+ceed into the new millennium, some of
+his problems remain unsolved. In his
+work, Hilbert emphasized structure,
+logic, and the foundations of mathemat- £$ # $# $ # §
+ics. Part of his genius lay in his ability to
+see the most general possible state- $ # $
+ment of a problem. For instance, Euler
+proved that every whole number is the We are now ready to define the determinant of any square matrix.
+sum of four squares; Hilbert proved a
+similar statement for all powers of posi-
+tive integers.
+THE DETERMINANT OF A SQUARE MATRIX
+If A is an n " n matrix, then the determinant of A is obtained by multiplying
+each element of the first row by its cofactor and then adding the results. In 
+symbols,
+det1A 2 ! 0 A 0 ! 4 a11 a12 p a1na21 a22 p a2n 4 ! a
+o o ∞ o 11
+ A11 $ a12 A $ .   12  . . $ a1n A   1n
+an1 an2 p ann
+E X A M P L E  2 | Determinant of a 3 " 3 Matrix
+Evaluate the determinant of the matrix.
+A ! C 2 3 #10 2 4S
+#2 5 6
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+© Baldwin H. Ward & 
+Katherine C. Ward/CORBIS
+S E C T I O N  1 0 . 6 | Determinants and Cramer's Rule 683
+For example, if A is the matrix
+£ 2    3   #10 2 4 §
+#2 5 6
+then the minor M12 is the determinant of the matrix obtained by deleting the first row and
+second column from A. Thus
+12 ! 3 2 3 #1 0 4M 0 2 4 3 ! ` ` ! 016 2 # 41#2 2 ! 8
+DAVID HILBERT (1862-1943) was 2 6
+born in Königsberg, Germany, and be- #2 5
+#
+6
+came a professor at Göttingen Univer-
+sity. He is considered by many to be the
+greatest mathematician of the 20th cen- So the cofactor A ! 1#1 2 1$212 M12 ! #8. Similarly,
+tury. At the International Congress of
+Mathematicians held in Paris in 1900,
+Hilbert set the direction of mathematics #1
+for the about-to-dawn 20th century by 2M
+posing 23 problems that he believed to 33
+! 3 2 30 2 4 3 ! ` 3 ` ! 2 # 2 # 3 # 0 ! 4
+0 2
+be of crucial importance. He said that #2 5 6
+"these are problems whose solutions we
+expect from the future." Most of
+Hilbert's problems have now been So A33 ! 1#1 2 3$3M33 ! 4.
+solved (see Julia Robinson, page 663, Note that the cofactor of aij is simply the minor of aij multiplied by either 1 or #1,
+and Alan Turing, page 100), and their so- depending on whether i $ j is even or odd. Thus in a 3 " 3 matrix we obtain the cofac-
+lutions have led to important new areas tor of any element by prefixing its minor with the sign obtained from the following
+of mathematical research.Yet as we pro- checkerboard pattern.
+ceed into the new millennium, some of
+his problems remain unsolved. In his
+work, Hilbert emphasized structure,
+logic, and the foundations of mathemat- £$ # $# $ # §
+ics. Part of his genius lay in his ability to
+see the most general possible state- $ # $
+ment of a problem. For instance, Euler
+proved that every whole number is the We are now ready to define the determinant of any square matrix.
+sum of four squares; Hilbert proved a
+similar statement for all powers of posi-
+tive integers.
+THE DETERMINANT OF A SQUARE MATRIX
+If A is an n " n matrix, then the determinant of A is obtained by multiplying
+each element of the first row by its cofactor and then adding the results. In 
+symbols,
+det1A 2 ! 0 A 0 ! 4 a11 a12 p a1na21 a22 p a2n 4 ! a
+o o ∞ o 11
+ A11 $ a12 A $ .   12  . . $ a1n A   1n
+an1 an2 p ann
+E X A M P L E  2 | Determinant of a 3 " 3 Matrix
+Evaluate the determinant of the matrix.
+A ! C 2 3 #10 2 4S
+#2 5 6
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+© Baldwin H. Ward & 
+Katherine C. Ward/CORBIS
+S E C T I O N  1 0 . 6 | Determinants and Cramer's Rule 685
+The following criterion allows us to determine whether a square matrix has an inverse
+without actually calculating the inverse. This is one of the most important uses of the
+determinant in matrix algebra, and it is the reason for the name determinant.
+INVERTIBILIT Y CRITERION
+If A is a square matrix, then A has an inverse if and only if det1A2 % 0.
+We will not prove this fact, but from the formula for the inverse of a 2 " 2 matrix 
+(page 674) you can see why it is true in the 2 " 2 case.
+E X A M P L E  4 Using the Determinant to Show That a Matrix Is 
+Not Invertible
+Show that the matrix A has no inverse.
+A ! D1 2 0 40 0 0 35 6 2 6T
+2 4 0 9
+S O L U T I O N We begin by calculating the determinant of A. Since all but one of the 
+elements of the second row is zero, we expand the determinant by the second row. If we
+do this, we see from the following equation that only the cofactor A24 will have to be 
+calculated.
+1
+det1A 2 2! 4 0 40 0 0 35 6 2 6 4
+2 4 0 9
+! # # A24 ! 3A24
+! 3 30 # A21 $ 0 # A22 # 0 # A23 $ 31 2 05 6 2 3 Expand this by column 3
+2 4 0
+! 31#2 2 2 1 2 2
+2 4
+! 31#2 2 11 # 4 # 2 # 2 2 ! 0
+Since the determinant of A is zero, A cannot have an inverse, by the Invertibility Criterion.

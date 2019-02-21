@@ -1,0 +1,228 @@
+5.7. Triangle Inequality Theorem www.ck12.org
+
+5.7 Triangle Inequality Theorem
+
+Here you'll learn the Triangle Inequality Theorem, which states that to make a triangle, two sides must add up to be
+
+greater than the third side.
+
+What if you were given three lengths, like 5, 7 and 10? How could you determine if sides with these lengths form a
+
+triangle? After completing this Concept, you'll be able to use the Triangle Inequality Theorem to determine if any
+
+three side lengths make a triangle.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136667
+
+CK-12 Triangle Inequality Theorem
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1291
+
+James Sousa: Triangle Inequality Theorem
+
+Guidance
+
+Can any three lengths make a triangle? The answer is no. For example, the lengths 1, 2, 3 cannot make a triangle
+
+because 1+2 = 3, so they would all lie on the same line. The lengths 4, 5, 10 also cannot make a triangle because
+
+4+5 = 9 < 10. Look at the pictures below:
+
+The arcs show that the two sides would never meet to form a triangle.
+
+274
+
+www.ck12.org Chapter 5. Triangle Relationships
+
+To make a triangle, two sides must add up to be greater than the third side. This is called the Triangle Inequality
+
+Theorem. This means that if you know two sides of a triangle, there are only certain lengths that the third side could
+
+be. If two sides have lengths a and b, then the length of the third side, s, has the range a−b < s < a+b.
+
+Example A
+
+Do the lengths 4, 11, 8 make a triangle?
+
+To solve this problem, check to make sure that the smaller two numbers add up to be greater than the biggest number.
+
+4+8 = 12 and 12 > 11 so yes these lengths make a triangle.
+
+Example B
+
+Find the length of the third side of a triangle if the other two sides are 10 and 6.
+
+The Triangle Inequality Theorem can also help you find the range of the third side. The two given sides are 6 and
+
+10. The third side, s, must be between 10− 6 = 4 and 10+ 6 = 16. In other words, the range of values for s is
+
+4 < s < 16.
+
+Notice the range is no less than 4, and not equal to 4. The third side could be 4.1 because 4.1+6 > 10. For the same
+
+reason, s cannot be greater than 16, but it could 15.9, 10+6 > 15.9.
+
+Example C
+
+The base of an isosceles triangle has length 24. What can you say about the length of each leg?
+
+To solve this problem, remember that an isosceles triangle has two congruent sides (the legs). We have to make sure
+
+that the sum of the lengths of the legs is greater than 24. In other words, if x is the length of a leg:
+
+x+ x > 24
+
+2x > 24
+
+x > 12
+
+Each leg must have a length greater than 12.
+
+275
+www.ck12.org Chapter 5. Triangle Relationships
+To make a triangle, two sides must add up to be greater than the third side. This is called the Triangle Inequality
+Theorem. This means that if you know two sides of a triangle, there are only certain lengths that the third side could
+be. If two sides have lengths a and b, then the length of the third side, s, has the range a−b < s < a+b.
+Example A
+Do the lengths 4, 11, 8 make a triangle?
+To solve this problem, check to make sure that the smaller two numbers add up to be greater than the biggest number.
+4+8 = 12 and 12 > 11 so yes these lengths make a triangle.
+Example B
+Find the length of the third side of a triangle if the other two sides are 10 and 6.
+The Triangle Inequality Theorem can also help you find the range of the third side. The two given sides are 6 and
+10. The third side, s, must be between 10− 6 = 4 and 10+ 6 = 16. In other words, the range of values for s is
+4 < s < 16.
+Notice the range is no less than 4, and not equal to 4. The third side could be 4.1 because 4.1+6 > 10. For the same
+reason, s cannot be greater than 16, but it could 15.9, 10+6 > 15.9.
+Example C
+The base of an isosceles triangle has length 24. What can you say about the length of each leg?
+To solve this problem, remember that an isosceles triangle has two congruent sides (the legs). We have to make sure
+that the sum of the lengths of the legs is greater than 24. In other words, if x is the length of a leg:
+x+ x > 24
+2x > 24
+x > 12
+Each leg must have a length greater than 12.
+275
+5.7. Triangle Inequality Theorem www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136668
+CK-12 Triangle Inequality Theorem
+->
+Guided Practice
+Do the lengths below make a triangle?
+1. 4.1, 3.5, 7.5
+2. 4, 4, 8
+3. 6, 7, 8
+Answers:
+Use the Triangle Inequality Theorem. Test to see if the smaller two numbers add up to be greater than the largest
+number.
+1. 4.1+3.5 > 7.5. Yes this is a triangle because 7.6 > 7.5.
+2. 4+4 = 8. No this is not a triangle because two lengths cannot equal the third.
+3. 6+7 > 8. Yes this is a triangle because 13 > 8.
+Explore More
+Determine if the sets of lengths below can make a triangle. If not, state why.
+1. 6, 6, 13
+2. 1, 2, 3
+3. 7, 8, 10
+4. 5, 4, 3
+5. 23, 56, 85
+6. 30, 40, 50
+7. 7, 8, 14
+8. 7, 8, 15
+9. 7, 8, 14.99
+If two lengths of the sides of a triangle are given, determine the range of the length of the third side.
+10. 8 and 9
+11. 4 and 15
+12. 20 and 32
+13. 2 and 5
+14. 10 and 8
+15. x and 2x
+16. The legs of an isosceles triangle have a length of 12 each. What can you say about the length of the base?
+276
+5.7. Triangle Inequality Theorem www.ck12.org
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136668
+
+CK-12 Triangle Inequality Theorem
+
+->
+
+Guided Practice
+
+Do the lengths below make a triangle?
+
+1. 4.1, 3.5, 7.5
+
+2. 4, 4, 8
+
+3. 6, 7, 8
+
+Answers:
+
+Use the Triangle Inequality Theorem. Test to see if the smaller two numbers add up to be greater than the largest
+
+number.
+
+1. 4.1+3.5 > 7.5. Yes this is a triangle because 7.6 > 7.5.
+
+2. 4+4 = 8. No this is not a triangle because two lengths cannot equal the third.
+
+3. 6+7 > 8. Yes this is a triangle because 13 > 8.
+
+Explore More
+
+Determine if the sets of lengths below can make a triangle. If not, state why.
+
+1. 6, 6, 13
+
+2. 1, 2, 3
+
+3. 7, 8, 10
+
+4. 5, 4, 3
+
+5. 23, 56, 85
+
+6. 30, 40, 50
+
+7. 7, 8, 14
+
+8. 7, 8, 15
+
+9. 7, 8, 14.99
+
+If two lengths of the sides of a triangle are given, determine the range of the length of the third side.
+
+10. 8 and 9
+
+11. 4 and 15
+
+12. 20 and 32
+
+13. 2 and 5
+
+14. 10 and 8
+
+15. x and 2x
+
+16. The legs of an isosceles triangle have a length of 12 each. What can you say about the length of the base?
+
+276
+
+www.ck12.org Chapter 5. Triangle Relationships
+

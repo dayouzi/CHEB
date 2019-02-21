@@ -1,0 +1,365 @@
+12.5.6 Impulse
+
+Impulse is the product of the net force and the time interval for which the force acts. Impulse is
+
+defined as:
+
+Impulse = F ·∆t (12.8)
+
+However, from Newton's Second Law, we know that
+
+∆p
+
+F =
+
+∆t
+
+∴ F ·∆t = ∆p
+
+= Impulse
+
+Therefore,
+
+Impulse = ∆p
+
+Impulse is equal to the change in momentum of an object. From this equation we see, that
+
+for a given change in momentum, Fnet∆t is fixed. Thus, if Fnet is reduced, ∆t must be in-
+
+creased (i.e. a smaller resultant force must be applied for longer to bring about the same change
+
+in momentum). Alternatively if ∆t is reduced (i.e. the resultant force is applied for a shorter
+
+period) then the resultant force must be increased to bring about the same change in momentum.
+
+Worked Example 90: Impulse and Change in momentum
+
+Question: A 150 N resultant force acts on a 300 kg trailer. Calculate how long it
+
+takes this force to change the trailer's velocity from 2 m·s−1to 6 m·s−1in the same
+
+direction. Assume that the forces acts to the right.
+
+Answer
+
+Step 1 : Identify what information is given and what is asked for
+
+The question explicitly gives
+
+• the trailer's mass as 300 kg,
+
+• the trailer's initial velocity as 2 m·s−1to the right,
+
+• the trailer's final velocity as 6 m·s−1to the right, and
+
+• the resultant force acting on the object
+
+all in the correct units!
+
+We are asked to calculate the time taken ∆t to accelerate the trailer from the 2 to
+
+6 m·s−1. From the Law of Momentum,
+
+Fnet∆t = ∆p
+
+= mvf −mvi
+
+= m(vf − vi).
+
+Thus we have everything we need to find ∆t!
+
+Step 2 : Choose a frame of reference
+
+Choose right as the positive direction.
+
+Step 3 : Do the calculation and quote the final answer
+
+Fnet∆t = m(vf − vi)
+
+(+150)∆t = (300)((+6)− (+2))
+
+(+150)∆t = (300)(+4)
+
+(300)(+4)
+
+∆t =
+
++150
+
+∆t = 8 s
+
+294
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.5
+
+It takes 8 s for the force to change the object's velocity from 2 m·s−1to the right to
+
+6 m·s−1to the right.
+
+Worked Example 91: Impulsive cricketers!
+
+Question: A cricket ball weighing 156 g is moving at 54 km·hr−1towards a batsman.
+
+It is hit by the batsman back towards the bowler at 36 km·hr−1. Calculate
+
+1. the ball's impulse, and
+
+2. the average force exerted by the bat if the ball is in contact with the bat for
+
+0,13 s.
+
+Answer
+
+Step 1 : Identify what information is given and what is asked for
+
+The question explicitly gives
+
+• the ball's mass,
+
+• the ball's initial velocity,
+
+• the ball's final velocity, and
+
+• the time of contact between bat and ball
+
+We are asked to calculate the impulse
+
+Impulse = ∆p = Fnet∆t
+
+Since we do not have the force exerted by the bat on the ball (Fnet), we have to
+
+calculate the impulse from the change in momentum of the ball. Now, since
+
+∆p = pf − pi
+
+= mvf −mvi,
+
+we need the ball's mass, initial velocity and final velocity, which we are given.
+
+Step 2 : Convert to S.I. units
+
+Firstly let us change units for the mass
+
+1000 g = 1 kg
+
+1
+
+So, 1 g = kg
+
+1000
+
+1
+
+∴ 156× 1 g = 156× kg
+
+1000
+
+= 0,156 kg
+
+Next we change units for the velocity
+
+1 km · h−1 1000m=
+
+3 600 s
+
+∴ 54× 1 km · h−1 = 54× 1 000m
+
+3 600 s
+
+= 15m · s−1
+
+Similarly, 36 km·hr−1= 10 m·s−1.
+
+Step 3 : Choose a frame of reference
+
+Let us choose the direction from the batsman to the bowler as the positive direction.
+
+Then the initial velocity of the ball is vi = -15 m·s−1, while the final velocity of the
+
+ball is vf = 10 m·s−1.
+
+Step 4 : Calculate the momentum
+
+295
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.5
+It takes 8 s for the force to change the object's velocity from 2 m·s−1to the right to
+6 m·s−1to the right.
+Worked Example 91: Impulsive cricketers!
+Question: A cricket ball weighing 156 g is moving at 54 km·hr−1towards a batsman.
+It is hit by the batsman back towards the bowler at 36 km·hr−1. Calculate
+1. the ball's impulse, and
+2. the average force exerted by the bat if the ball is in contact with the bat for
+0,13 s.
+Answer
+Step 1 : Identify what information is given and what is asked for
+The question explicitly gives
+• the ball's mass,
+• the ball's initial velocity,
+• the ball's final velocity, and
+• the time of contact between bat and ball
+We are asked to calculate the impulse
+Impulse = ∆p = Fnet∆t
+Since we do not have the force exerted by the bat on the ball (Fnet), we have to
+calculate the impulse from the change in momentum of the ball. Now, since
+∆p = pf − pi
+= mvf −mvi,
+we need the ball's mass, initial velocity and final velocity, which we are given.
+Step 2 : Convert to S.I. units
+Firstly let us change units for the mass
+1000 g = 1 kg
+1
+So, 1 g = kg
+1000
+1
+∴ 156× 1 g = 156× kg
+1000
+= 0,156 kg
+Next we change units for the velocity
+1 km · h−1 1000m=
+3 600 s
+∴ 54× 1 km · h−1 = 54× 1 000m
+3 600 s
+= 15m · s−1
+Similarly, 36 km·hr−1= 10 m·s−1.
+Step 3 : Choose a frame of reference
+Let us choose the direction from the batsman to the bowler as the positive direction.
+Then the initial velocity of the ball is vi = -15 m·s−1, while the final velocity of the
+ball is vf = 10 m·s−1.
+Step 4 : Calculate the momentum
+295
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.5
+
+It takes 8 s for the force to change the object's velocity from 2 m·s−1to the right to
+
+6 m·s−1to the right.
+
+Worked Example 91: Impulsive cricketers!
+
+Question: A cricket ball weighing 156 g is moving at 54 km·hr−1towards a batsman.
+
+It is hit by the batsman back towards the bowler at 36 km·hr−1. Calculate
+
+1. the ball's impulse, and
+
+2. the average force exerted by the bat if the ball is in contact with the bat for
+
+0,13 s.
+
+Answer
+
+Step 1 : Identify what information is given and what is asked for
+
+The question explicitly gives
+
+• the ball's mass,
+
+• the ball's initial velocity,
+
+• the ball's final velocity, and
+
+• the time of contact between bat and ball
+
+We are asked to calculate the impulse
+
+Impulse = ∆p = Fnet∆t
+
+Since we do not have the force exerted by the bat on the ball (Fnet), we have to
+
+calculate the impulse from the change in momentum of the ball. Now, since
+
+∆p = pf − pi
+
+= mvf −mvi,
+
+we need the ball's mass, initial velocity and final velocity, which we are given.
+
+Step 2 : Convert to S.I. units
+
+Firstly let us change units for the mass
+
+1000 g = 1 kg
+
+1
+
+So, 1 g = kg
+
+1000
+
+1
+
+∴ 156× 1 g = 156× kg
+
+1000
+
+= 0,156 kg
+
+Next we change units for the velocity
+
+1 km · h−1 1000m=
+
+3 600 s
+
+∴ 54× 1 km · h−1 = 54× 1 000m
+
+3 600 s
+
+= 15m · s−1
+
+Similarly, 36 km·hr−1= 10 m·s−1.
+
+Step 3 : Choose a frame of reference
+
+Let us choose the direction from the batsman to the bowler as the positive direction.
+
+Then the initial velocity of the ball is vi = -15 m·s−1, while the final velocity of the
+
+ball is vf = 10 m·s−1.
+
+Step 4 : Calculate the momentum
+
+295
+
+12.5 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+Now we calculate the change in momentum,
+
+p = pf − pi
+
+= mvf −mvi
+
+= m(vf − vi)
+
+= (0,156)((+10)− (−15))
+
+= +3,9
+
+= 3,9 kg · m · s−1in the direction from batsman to bowler
+
+Step 5 : Determine the impulse
+
+Finally since impulse is just the change in momentum of the ball,
+
+Impulse = ∆p
+
+= 3,9 kg · m · s−1in the direction from batsman to bowler
+
+Step 6 : Determine the average force exerted by the bat
+
+Impulse = Fnet∆t = ∆p
+
+We are given ∆t and we have calculated the impulse of the ball.
+
+Fnet∆t = Impulse
+
+Fnet(0,13) = +3,9
+
++3,9
+
+Fnet =
+
+0,13
+
+= +30
+
+= 30N in the direction from batsman to bowler
+

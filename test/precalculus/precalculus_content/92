@@ -1,0 +1,141 @@
+13.1 FINDING LIMITS NUMERICALLY AND GRAPHICALLY
+Definition of Limit ! Estimating Limits Numerically and Graphically !
+Limits That Fail to Exist ! One-Sided Limits
+In this section we use ta
+f 1blx 2es of values and graphs of functions to answer the question, Whathappens to the values of a function f as the variable x approaches the number a?
+! Definition of Limit
+We begin by investigating the behavior of the function f defined by
+f 1x 2 $ x2 " x # 2
+for values of x near 2. The following tables give values of f 1x 2 for values of x close to 2
+but not equal to 2.
+x f 1x2 yx f 1x2
+1.0 2.000000 3.0 8.000000
+1.5 2.750000 2.5 5.750000
+1.8 3.440000 2.2 4.640000 Ï 4 y=≈-x+2
+1.9 3.710000 2.1 4.310000 approaches
+1.95 3.852500 2.05 4.152500 4 . . .
+1.99 3.970100 2.01 4.030100
+1.995 3.985025 2.005 4.015025
+1.999 3.997001 2.001 4.003001
+0 2 x
+. . . as x approaches 2
+F I G U R E  1
+From the table and the graph of f (a parabola) shown in Figure 1 we see that when x is
+close to 2 (1onx 2 either side of 2), f 1x 2 is close to 4. In fact, it appears that we can make thevalues of f as close as we like to 4 by taking x sufficiently close to 2. We express this
+by saying "the limit of the function f 1x 2 $ x2 " x # 2 as x approaches 2 is equal to 4."
+The notation for this is
+ lim 1x2 " x # 2 2 $ 4
+xS2 
+In general, we use the following notation.
+DEFINITION OF THE LIMIT OF A FUNCTION
+We write
+lim f 1x 2 $ L
+xSa 
+and say
+"the limit of f
+f 1 1x 2 , as x approaches a, equals L"if we can make the values of x 2 arbitrarily close to L (as close to L as we like)
+by taking x to be sufficiently close to a, but not equal to a.
+Roughly speaking, this says that the values of f 1x 2 get closer and closer to the number
+L as x gets closer and closer to the number a (from either side of a) but x ! a.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 1 | Finding Limits Numerically and Graphically 841
+An alternative notation for limxSa f 1x 2 $ L 
+  x! a
+f 1x 2 f 1x 2
+is
+! L  as
+which is usually read " approaches L as x approaches a." This is the notation we used
+in Section
+f 1 3x 2.7 when discussing asymptotes of rational functions.Notice the phrase "but x ! a" in the definition of limit. This means that in finding thelimit of as x approaches a, we never consider x $ a. In fact, f 1x 2 need not even be
+defined when x $ a. The only thing that matters is how f is defined near a.
+Figure 2 shows the graphs of three functions. Note that in part (c), is not defined,
+and in f 1 fa 2 1a 2! L
+limxSa f 1pax 2rt (b), . But in each case, regardless of what happens at a,$ L. 
+y y y
+L L L
+0 a x 0 a x 0 a x
+(a) (b) (c)
+F I G U R E  2 lim f 1x 2 $ L in all three cases
+xSa 
+! Estimating Limits Numerically and Graphically
+In Section 13.2 we will develop techniques for finding exact values of limits. For now, we
+use tables and graphs to estimate limits of functions.
+E X A M P L E  1 Estimating a Limit Numerically and Graphically
+Estimate the value of the following limit by making a table of values. Check your work
+with a graph.
+x " 1
+lim 
+x!1 x 2 " 1
+S O L U T I O N Notice that the function f 1x 2 $ 1x " 1 2 / 1x2 " 1 2 is not defined when 
+x $ mxSa f 1x 2 
+f 11x 2, but this doesn't matter because the definition of li says that we con-sider values of x that are close to a but not equal to a. The following tables give valuesof (rounded to six decimal places) for values of x that approach 1 (but are not equal
+to 1).
+x % 1 f 1x2 x % 1 f 1x2
+0.5 0.666667 1.5 0.400000
+0.9 0.526316 1.1 0.476190
+0.99 0.502513 1.01 0.497512
+0.999 0.500250 1.001 0.499750
+0.9999 0.500025 1.0001 0.499975
+On the basis of the values in the two tables, we make the guess that
+x " 1
+lim $ 0 5
+xS1 x 2
+.
+" 1
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 3 . 1 | Finding Limits Numerically and Graphically 841
+An alternative notation for limxSa f 1x 2 $ L 
+  x! a
+f 1x 2 f 1x 2
+is
+! L  as
+which is usually read " approaches L as x approaches a." This is the notation we used
+in Section
+f 1 3x 2.7 when discussing asymptotes of rational functions.Notice the phrase "but x ! a" in the definition of limit. This means that in finding thelimit of as x approaches a, we never consider x $ a. In fact, f 1x 2 need not even be
+defined when x $ a. The only thing that matters is how f is defined near a.
+Figure 2 shows the graphs of three functions. Note that in part (c), is not defined,
+and in f 1 fa 2 1a 2! L
+limxSa f 1pax 2rt (b), . But in each case, regardless of what happens at a,$ L. 
+y y y
+L L L
+0 a x 0 a x 0 a x
+(a) (b) (c)
+F I G U R E  2 lim f 1x 2 $ L in all three cases
+xSa 
+! Estimating Limits Numerically and Graphically
+In Section 13.2 we will develop techniques for finding exact values of limits. For now, we
+use tables and graphs to estimate limits of functions.
+E X A M P L E  1 Estimating a Limit Numerically and Graphically
+Estimate the value of the following limit by making a table of values. Check your work
+with a graph.
+x " 1
+lim 
+x!1 x 2 " 1
+S O L U T I O N Notice that the function f 1x 2 $ 1x " 1 2 / 1x2 " 1 2 is not defined when 
+x $ mxSa f 1x 2 
+f 11x 2, but this doesn't matter because the definition of li says that we con-sider values of x that are close to a but not equal to a. The following tables give valuesof (rounded to six decimal places) for values of x that approach 1 (but are not equal
+to 1).
+x % 1 f 1x2 x % 1 f 1x2
+0.5 0.666667 1.5 0.400000
+0.9 0.526316 1.1 0.476190
+0.99 0.502513 1.01 0.497512
+0.999 0.500250 1.001 0.499750
+0.9999 0.500025 1.0001 0.499975
+On the basis of the values in the two tables, we make the guess that
+x " 1
+lim $ 0 5
+xS1 x 2
+.
+" 1
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+842 C H A P T E R  1 3 | Limits: A Preview of Calculus
+As a graphical verification we use a graphing device to produce Figure 3. We see that
+when x is close to 1, y is close to 0.5. If we use the ZOOM and TRACE features to get a
+closer look, as in Figure 4, we notice that as x gets closer and closer to 1, y becomes closer
+and closer to 0.5. This reinforces our conclusion.
+1 0.6
+(1, 0.5) (1, 0.5)
+0 2
+0.9
+0.4 1.1
+F I G U R E  3 F I G U R E  4

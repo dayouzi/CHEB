@@ -1,0 +1,304 @@
+6.4 Quadrilaterals that are Parallelograms
+
+Here you'll learn how to apply various quadrilateral theorems to prove that a quadrilateral is a parallelogram.
+
+What if you were given four pairs of coordinates that form a quadrilateral? How could you determine if that
+
+quadrilateral is a parallelogram? After completing this Concept, you'll be able to use the Parallel Congruent Sides
+
+Theorem and other quadrilateral theorems to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136707
+
+CK-12 Proving a Quadrilateral is a Parallelogram
+
+Guidance
+
+Recall that a parallelogram is a quadrilateral with two pairs of parallel sides. Even if a quadrilateral is not marked
+
+with having two pairs of sides, it still might be a parallelogram. The following is a list of theorems that will help you
+
+decide if a quadrilateral is a parallelogram or not.
+
+1) Opposite Sides Theorem Converse: If both pairs of opposite sides of a quadrilateral are congruent, then the
+
+figure is a parallelogram.
+
+If
+
+then
+
+2) Opposite Angles Theorem Converse: If both pairs of opposite angles of a quadrilateral are congruent, then the
+
+figure is a parallelogram.
+
+If
+
+299
+
+6.4. Quadrilaterals that are Parallelograms www.ck12.org
+
+then
+
+3) Parallelogram Diagonals Theorem Converse: If the diagonals of a quadrilateral bisect each other, then the
+
+figure is a parallelogram.
+
+If
+
+then
+
+4) Parallel Congruent Sides Theorem: If a quadrilateral has one set of parallel lines that are also congruent, then
+
+it is a parallelogram.
+
+If
+
+then
+
+You can use any of the above theorems to help show that a quadrilateral is a parallelogram. If you are working in the
+
+x− y plane, you might need to know the formulas shown below to help you use the theorems.
+
+• The Slope Formula, y2−y1x2−x√. (Remember that if slopes are the same then lines are parallel).1
+
+• The Distance Formula, ( (x2− x1)2 +(y2− y1)2. (This will help you to show that two sides are congruent).
+
+• The Midpoint Formula, x
+
+)
+
+1+x2
+
+2 ,
+
+y1+y2
+
+2 . (If the midpoints of the diagonals are the same then the diagonals
+
+bisect each other).
+
+300
+6.4. Quadrilaterals that are Parallelograms www.ck12.org
+then
+3) Parallelogram Diagonals Theorem Converse: If the diagonals of a quadrilateral bisect each other, then the
+figure is a parallelogram.
+If
+then
+4) Parallel Congruent Sides Theorem: If a quadrilateral has one set of parallel lines that are also congruent, then
+it is a parallelogram.
+If
+then
+You can use any of the above theorems to help show that a quadrilateral is a parallelogram. If you are working in the
+x− y plane, you might need to know the formulas shown below to help you use the theorems.
+• The Slope Formula, y2−y1x2−x√. (Remember that if slopes are the same then lines are parallel).1
+• The Distance Formula, ( (x2− x1)2 +(y2− y1)2. (This will help you to show that two sides are congruent).
+• The Midpoint Formula, x
+)
+1+x2
+2 ,
+y1+y2
+2 . (If the midpoints of the diagonals are the same then the diagonals
+bisect each other).
+300
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+Example A
+Prove the Opposite Sides Theorem Converse.
+Given: AB∼= DC,AD∼= BC
+Prove: ABCD is a parallelogram
+TABLE 6.5:
+Statement Reason
+1. AB∼= DC,AD∼= BC 1.Given
+2. DB∼= DB 2. Reflexive PoC
+3. 4ABD∼=4CDB 3. SSS
+4. 6 ABD∼= 6 BDC, 6 ADB∼= 6 DBC 4. CPCTC
+5. AB‖DC,AD‖BC 5. Alternate Interior Angles Converse
+6. ABCD is a parallelogram 6. Definition of a parallelogram
+Example B
+Is quadrilateral EFGH a parallelogram? How do you know?
+a) By the Opposite Angles Theorem Converse, EFGH is a parallelogram.
+b) EFGH is not a parallelogram because the diagonals do not bisect each other.
+Example C
+Is the quadrilateral ABCD a parallelogram?
+301
+6.4. Quadrilaterals that are Parallelograms www.ck12.org
+Let's use the Parallel Congruent Sides Theorem to see if ABCD is a parallelogram. First, find the length of AB and
+CD using the distance formula.
+√ √
+AB = √(−1−3)2 +(5−3)2 CD√= (2−6)2 +(−2+4)2
+= (−4)2 +22 = (−4)2 +22
+√ √
+= √16+4 = √16+4
+= 20 = 20
+Next find the slopes to check if the lines are parallel.
+Slope AB = 5−3−1−3 =
+2
+−4 =−12 Slope CD = −2+42−6 = 2−4 =−12
+AB =CD and the slopes are the same (implying that the lines are parallel), so ABCD is a parallelogram.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136708
+CK-12 Proving a Quadrilateral is a Parallelogram
+->
+Guided Practice
+1. Prove the Parallel Congruent Sides Theorem.
+302
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+Given: AB‖DC, and AB∼= DC
+Prove: ABCD is a parallelogram
+2. What value of x would make ABCD a parallelogram?
+3. Is the quadrilateral RSTU a parallelogram?
+Answers:
+1.
+TABLE 6.6:
+Statement Reason
+1. AB‖DC, and AB∼= DC 1. Given
+2. 6 ABD∼= 6 BDC 2. Alternate Interior Angles
+3. DB∼= DB 3. Reflexive PoC
+4. 4ABD∼=4CDB 4. SAS
+5. AD∼= BC 5. CPCTC
+6. ABCD is a parallelogram 6. Opposite Sides Converse
+2. AB‖DC. By the Parallel Congruent Sides Theorem, ABCD would be a parallelogram if AB = DC.
+5x−8 = 2x+13
+3x = 21
+x = 7
+303
+6.4. Quadrilaterals that are Parallelograms www.ck12.org
+3. Let's use the Parallelogram Diagonals Converse to see if RSTU is a parallelogram. Find the midpoint of each
+diagonal.
+(− )4+3 3−4
+Midpoint of RT =( , = (−0.5,−0.5)2 2
+4−5 5− )5
+Midpoint of SU = , = (−0.5,0)
+2 2
+RSTU is not a parallelogram because the midpoints are not the same.
+Explore More
+For questions 1-12, determine if the quadrilaterals are parallelograms.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+304
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+8.
+9.
+10.
+11.
+12.
+For questions 13-18, determine the value of x and y that would make the quadrilateral a parallelogram.
+13.
+14.
+15.
+305
+6.4. Quadrilaterals that are Parallelograms www.ck12.org
+16.
+17.
+18.
+For questions 19-22, determine if ABCD is a parallelogram.
+19. A(8,−1),B(6,5),C(−7,2),D(−5,−4)
+20. A(−5,8),B(−2,9),C(3,4),D(0,3)
+21. A(−2,6),B(4,−4),C(13,−7),D(4,−10)
+22. A(−9,−1),B(−7,5),C(3,8),D(1,2)
+Fill in the blanks in the proofs below.
+23. Opposite Angles Theorem Converse
+Given: 6 A∼= 6 C, 6 D∼= 6 B
+Prove: ABCD is a parallelogram
+TABLE 6.7:
+Statement Reason
+1. 1.
+2. m6 A = m 6 C,m 6 D = m6 B 2.
+3. 3. Definition of a quadrilateral
+4. m6 A+m 6 A+m6 B+m6 B = 360◦ 4.
+5. 5. Combine Like Terms
+6. 6. Division PoE
+306
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+TABLE 6.7: (continued)
+Statement Reason
+7. 6 A and 6 B are supplementary 6 A and 6 D are 7.
+supplementary
+8. 8. Consecutive Interior Angles Converse
+9. ABCD is a parallelogram 9.
+24. Parallelogram Diagonals Theorem Converse
+Given: AE ∼= EC,DE ∼= EB
+Prove: ABCD is a parallelogram
+TABLE 6.8:
+Statement Reason
+1. 1.
+2. 2. Vertical Angles Theorem
+3. 4AED&∼=4CEB
+4AEB&∼
+3.
+=4CED
+4. 4.
+5. ABCD is a parallelogram 5.
+25. Given: 6 ADB∼= 6 CBD,AD∼= BCProve: ABCD is a parallelogram
+TABLE 6.9:
+Statement Reason
+1. 1.
+2. AD‖BC 2.
+3. ABCD is a parallelogram 3.
+307
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+
+TABLE 6.7: (continued)
+
+Statement Reason
+
+7. 6 A and 6 B are supplementary 6 A and 6 D are 7.
+
+supplementary
+
+8. 8. Consecutive Interior Angles Converse
+
+9. ABCD is a parallelogram 9.
+
+24. Parallelogram Diagonals Theorem Converse
+
+Given: AE ∼= EC,DE ∼= EB
+
+Prove: ABCD is a parallelogram
+
+TABLE 6.8:
+
+Statement Reason
+
+1. 1.
+
+2. 2. Vertical Angles Theorem
+
+3. 4AED&∼=4CEB
+
+4AEB&∼
+
+3.
+
+=4CED
+
+4. 4.
+
+5. ABCD is a parallelogram 5.
+
+25. Given: 6 ADB∼= 6 CBD,AD∼= BCProve: ABCD is a parallelogram
+
+TABLE 6.9:
+
+Statement Reason
+
+1. 1.
+
+2. AD‖BC 2.
+
+3. ABCD is a parallelogram 3.
+
+307
+

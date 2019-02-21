@@ -1,0 +1,230 @@
+7.5.3 Ray Diagrams
+
+We draw ray diagrams to predict the image that is formed by a plane mirror. A ray diagram is
+
+a geometrical picture that is used for analyzing the images formed by mirrors and lenses. We
+
+draw a few characteristic rays from the object to the mirror. We then follow ray-tracing rules to
+
+find the path of the rays and locate the image.
+
+Important: A mirror obeys the Law of Reflection.
+
+The ray diagram for the image formed by a plane mirror is the simplest possible ray diagram.
+
+Figure 7.15 shows an object placed in front of a plane mirror. It is convenient to have a central
+
+line that runs perpendicular to the mirror. This imaginary line is called the principal axis.
+
+Important: Ray diagrams
+
+The following should be remembered when drawing ray diagrams:
+
+1. Objects are represented by arrows. The length of the arrow represents the height of
+
+the object.
+
+2. If the arrow points upwards, then the object is described as upright or erect. If the
+
+arrow points downwards then the object is described as inverted.
+
+3. If the object is real, then the arrow is drawn with a solid line. If the object is virtual,
+
+then the arrow is drawn with a dashed line.
+
+148
+
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.5
+
+Method: Ray Diagrams for Plane Mirrors
+
+Ray diagrams are used to find the position and size and whether the image is real or virtual.
+
+1. Draw the plane mirror as a straight line on a principal axis.
+
+mirror
+
+Principal
+
+Axis
+
+2. Draw the object as an arrow in front of the mirror.
+
+mirror
+
+object
+
+distance
+
+Principal
+
+Axis Object
+
+3. Draw the image of the object, by using the principle that the image is placed at the same
+
+distance behind the mirror that the object is in front of the mirror. The image size is also
+
+the same as the object size.
+
+age
+
+mi Imrror
+
+image size the
+
+P same as objectrincipal
+
+Axis Object image distance
+
+same as object distance
+
+4. Place a dot at the point the eye is located.
+
+5. Pick one point on the image and draw the reflected ray that travels to the eye as it sees
+
+this point. Remember to add an arrowhead.
+
+mirror
+
+Object Image
+
+b
+
+6. Draw the incident ray for light traveling from the corresponding point on the object to the
+
+mirror, such that the law of reflection is obeyed.
+
+149
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.5
+Method: Ray Diagrams for Plane Mirrors
+Ray diagrams are used to find the position and size and whether the image is real or virtual.
+1. Draw the plane mirror as a straight line on a principal axis.
+mirror
+Principal
+Axis
+2. Draw the object as an arrow in front of the mirror.
+mirror
+object
+distance
+Principal
+Axis Object
+3. Draw the image of the object, by using the principle that the image is placed at the same
+distance behind the mirror that the object is in front of the mirror. The image size is also
+the same as the object size.
+age
+mi Imrror
+image size the
+P same as objectrincipal
+Axis Object image distance
+same as object distance
+4. Place a dot at the point the eye is located.
+5. Pick one point on the image and draw the reflected ray that travels to the eye as it sees
+this point. Remember to add an arrowhead.
+mirror
+Object Image
+b
+6. Draw the incident ray for light traveling from the corresponding point on the object to the
+mirror, such that the law of reflection is obeyed.
+149
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.5
+
+Method: Ray Diagrams for Plane Mirrors
+
+Ray diagrams are used to find the position and size and whether the image is real or virtual.
+
+1. Draw the plane mirror as a straight line on a principal axis.
+
+mirror
+
+Principal
+
+Axis
+
+2. Draw the object as an arrow in front of the mirror.
+
+mirror
+
+object
+
+distance
+
+Principal
+
+Axis Object
+
+3. Draw the image of the object, by using the principle that the image is placed at the same
+
+distance behind the mirror that the object is in front of the mirror. The image size is also
+
+the same as the object size.
+
+age
+
+mi Imrror
+
+image size the
+
+P same as objectrincipal
+
+Axis Object image distance
+
+same as object distance
+
+4. Place a dot at the point the eye is located.
+
+5. Pick one point on the image and draw the reflected ray that travels to the eye as it sees
+
+this point. Remember to add an arrowhead.
+
+mirror
+
+Object Image
+
+b
+
+6. Draw the incident ray for light traveling from the corresponding point on the object to the
+
+mirror, such that the law of reflection is obeyed.
+
+149
+
+7.5 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+
+θi
+
+Object θr Image
+
+θi = θr
+
+b
+
+7. Continue for other extreme points on the object.
+
+Object Image
+
+Figure 7.15: Ray diagram to predict the image formed by a plane mirror.
+
+Suppose a light ray leaves the top of the object traveling parallel to the principal axis. The ray
+
+will hit the mirror at an angle of incidence of 0 degrees. We say that the ray hits the mirror
+
+normally. According to the law of reflection, the ray will be reflected at 0 degrees. The ray then
+
+bounces back in the same direction. We also project the ray back behind the mirror because this
+
+is what your eye does.
+
+Another light ray leaves the top of the object and hits the mirror at its centre. This ray will be
+
+reflected at the same angle as its angle of incidence, as shown. If we project the ray backward
+
+behind the mirror, it will eventually cross the projection of the first ray we drew. We have found
+
+the location of the image! It is a virtual image since it appears in an area that light cannot
+
+actually reach (behind the mirror). You can see from the diagram that the image is erect and is
+
+the same size as the object. This is exactly as we expected.
+
+We use a dashed line to indicate that the image is virtual.
+

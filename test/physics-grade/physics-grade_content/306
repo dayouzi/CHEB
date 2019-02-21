@@ -1,0 +1,338 @@
+18.3 Current induced by a changing magnetic field
+
+While Oersted's surprising discovery of electromagnetism paved the way for more practical
+
+applications of electricity, it was Michael Faraday who gave us the key to the practical
+
+generation of electricity: electromagnetic induction.
+
+Faraday discovered that a voltage was generated across a length of wire while moving a magnet
+
+nearby, such that the distance between the two changed. This meant that the wire was
+
+exposed to a magnetic field flux of changing intensity. Furthermore, the voltage also depended
+
+on the orientation of the magnet; this is easily understood again in terms of the magnetic flux.
+
+The flux will be at its maximum as the magnet is aligned perpendicular to the wire. The
+
+magnitude of the changing flux and the voltage are linked. In fact, if the lines of flux are
+
+parallel to the wire, there will be no induced voltage.
+
+Definition: Faraday's Law
+
+The emf, ǫ, produced around a loop of conductor is proportional to the rate of change of
+
+the magnetic flux, φ, through the area, A, of the loop. This can be stated mathematically
+
+as:
+
+∆
+
+ǫ = − φN
+
+∆t
+
+where φ = B ·A and B is the strength of the magnetic field.
+
+Faraday's Law relates induced emf to the rate of change of flux, which is the product of the
+
+magnetic field and the cross-sectional area the field lines pass through.
+
+coil with N turns
+
+and cross-sectional
+
+area, A
+
+induced
+
+current N S
+
+direction
+
+magnetic field, B
+
+moving to the left at
+
+a rate ∆A∆ .t
+
+A
+
+When the north pole of a magnet is pushed into a solenoid, the flux in the solenoid increases so
+
+the induced current will have an associated magnetic field pointing out of the solenoid
+
+420
+
+CHAPTER 18. ELECTROMAGNETISM - GRADE 11 18.3
+
+(opposite to the magnet's field). When the north pole is pulled out, the flux decreases, so the
+
+induced current will have an associated magnetic field pointing into the solenoid (same
+
+direction as the magnet's field) to try to oppose the change. The directions of currents and
+
+associated magnetic fields can all be found using only the Right Hand Rule. When the fingers
+
+of the right hand are pointed in the direction of the current, the thumb points in the direction
+
+of the magnetic field. When the thumb is pointed in the direction of the magnetic field, the
+
+fingers point in the direction of the current.
+
+Important: An easy way to create a magnetic field of changing intensity is to move a
+
+permanent magnet next to a wire or coil of wire. The magnetic field must increase or
+
+decrease in intensity perpendicular to the wire (so that the lines of flux "cut across" the
+
+conductor), or else no voltage will be induced.
+
+Important: Finding the direction of the induced current
+
+The induced current generates a magnetic field. The induced magnetic field is in a direction
+
+that cancels out the magnetic field in which the conductor is moving. So, you can use the
+
+Right Hand Rule to find the direction of the induced current by remembering that the induced
+
+magnetic field is opposite in direction to the magnetic field causing the change.
+
+Electromganetic induction is put into practical use in the construction of electrical generators,
+
+which use mechanical power to move a magnetic field past coils of wire to generate voltage.
+
+However, this is by no means the only practical use for this principle.
+
+If we recall that the magnetic field produced by a current-carrying wire was always
+
+perpendicular to that wire, and that the flux intensity of that magnetic field varied with the
+
+amount of current through it, we can see that a wire is capable of inducing a voltage along its
+
+own length simply due to a change in current through it. This effect is called self-induction.
+
+Self-induction is when a changing magnetic field is produced by changes in current through a
+
+wire inducing voltage along the length of that same wire.
+
+If the magnetic field flux is enhanced by bending the wire into the shape of a coil, and/or
+
+wrapping that coil around a material of high permeability, this effect of self-induced voltage will
+
+be more intense. A device constructed to take advantage of this effect is called an inductor,
+
+and will be discussed in greater detail in the next chapter.
+
+Extension: Lenz's Law
+
+The induced current will create a magnetic field that opposes the change in the
+
+magnetic flux.
+
+Worked Example 121: Faraday's Law
+
+Question: Consider a flat square coil with 5 turns. The coil is 0,50 m on each
+
+side, and has a magnetic field of 0,5 T passing through it. The plane of the coil is
+
+perpendicular to the magnetic field: the field points out of the page. Use Faraday's
+
+Law to calculate the induced emf if the magnetic field is increases uniformly from
+
+0,5 T to 1 T in 10 s. Determine the direction of the induced current.
+
+Answer
+
+Step 1 : Identify what is required
+
+We are required to use Faraday's Law to calculate the induced emf.
+
+Step 2 : Write Faraday's Law
+
+∆
+
+ǫ = − φN
+
+∆t
+
+421
+CHAPTER 18. ELECTROMAGNETISM - GRADE 11 18.3
+(opposite to the magnet's field). When the north pole is pulled out, the flux decreases, so the
+induced current will have an associated magnetic field pointing into the solenoid (same
+direction as the magnet's field) to try to oppose the change. The directions of currents and
+associated magnetic fields can all be found using only the Right Hand Rule. When the fingers
+of the right hand are pointed in the direction of the current, the thumb points in the direction
+of the magnetic field. When the thumb is pointed in the direction of the magnetic field, the
+fingers point in the direction of the current.
+Important: An easy way to create a magnetic field of changing intensity is to move a
+permanent magnet next to a wire or coil of wire. The magnetic field must increase or
+decrease in intensity perpendicular to the wire (so that the lines of flux "cut across" the
+conductor), or else no voltage will be induced.
+Important: Finding the direction of the induced current
+The induced current generates a magnetic field. The induced magnetic field is in a direction
+that cancels out the magnetic field in which the conductor is moving. So, you can use the
+Right Hand Rule to find the direction of the induced current by remembering that the induced
+magnetic field is opposite in direction to the magnetic field causing the change.
+Electromganetic induction is put into practical use in the construction of electrical generators,
+which use mechanical power to move a magnetic field past coils of wire to generate voltage.
+However, this is by no means the only practical use for this principle.
+If we recall that the magnetic field produced by a current-carrying wire was always
+perpendicular to that wire, and that the flux intensity of that magnetic field varied with the
+amount of current through it, we can see that a wire is capable of inducing a voltage along its
+own length simply due to a change in current through it. This effect is called self-induction.
+Self-induction is when a changing magnetic field is produced by changes in current through a
+wire inducing voltage along the length of that same wire.
+If the magnetic field flux is enhanced by bending the wire into the shape of a coil, and/or
+wrapping that coil around a material of high permeability, this effect of self-induced voltage will
+be more intense. A device constructed to take advantage of this effect is called an inductor,
+and will be discussed in greater detail in the next chapter.
+Extension: Lenz's Law
+The induced current will create a magnetic field that opposes the change in the
+magnetic flux.
+Worked Example 121: Faraday's Law
+Question: Consider a flat square coil with 5 turns. The coil is 0,50 m on each
+side, and has a magnetic field of 0,5 T passing through it. The plane of the coil is
+perpendicular to the magnetic field: the field points out of the page. Use Faraday's
+Law to calculate the induced emf if the magnetic field is increases uniformly from
+0,5 T to 1 T in 10 s. Determine the direction of the induced current.
+Answer
+Step 1 : Identify what is required
+We are required to use Faraday's Law to calculate the induced emf.
+Step 2 : Write Faraday's Law
+∆
+ǫ = − φN
+∆t
+421
+CHAPTER 18. ELECTROMAGNETISM - GRADE 11 18.3
+
+(opposite to the magnet's field). When the north pole is pulled out, the flux decreases, so the
+
+induced current will have an associated magnetic field pointing into the solenoid (same
+
+direction as the magnet's field) to try to oppose the change. The directions of currents and
+
+associated magnetic fields can all be found using only the Right Hand Rule. When the fingers
+
+of the right hand are pointed in the direction of the current, the thumb points in the direction
+
+of the magnetic field. When the thumb is pointed in the direction of the magnetic field, the
+
+fingers point in the direction of the current.
+
+Important: An easy way to create a magnetic field of changing intensity is to move a
+
+permanent magnet next to a wire or coil of wire. The magnetic field must increase or
+
+decrease in intensity perpendicular to the wire (so that the lines of flux "cut across" the
+
+conductor), or else no voltage will be induced.
+
+Important: Finding the direction of the induced current
+
+The induced current generates a magnetic field. The induced magnetic field is in a direction
+
+that cancels out the magnetic field in which the conductor is moving. So, you can use the
+
+Right Hand Rule to find the direction of the induced current by remembering that the induced
+
+magnetic field is opposite in direction to the magnetic field causing the change.
+
+Electromganetic induction is put into practical use in the construction of electrical generators,
+
+which use mechanical power to move a magnetic field past coils of wire to generate voltage.
+
+However, this is by no means the only practical use for this principle.
+
+If we recall that the magnetic field produced by a current-carrying wire was always
+
+perpendicular to that wire, and that the flux intensity of that magnetic field varied with the
+
+amount of current through it, we can see that a wire is capable of inducing a voltage along its
+
+own length simply due to a change in current through it. This effect is called self-induction.
+
+Self-induction is when a changing magnetic field is produced by changes in current through a
+
+wire inducing voltage along the length of that same wire.
+
+If the magnetic field flux is enhanced by bending the wire into the shape of a coil, and/or
+
+wrapping that coil around a material of high permeability, this effect of self-induced voltage will
+
+be more intense. A device constructed to take advantage of this effect is called an inductor,
+
+and will be discussed in greater detail in the next chapter.
+
+Extension: Lenz's Law
+
+The induced current will create a magnetic field that opposes the change in the
+
+magnetic flux.
+
+Worked Example 121: Faraday's Law
+
+Question: Consider a flat square coil with 5 turns. The coil is 0,50 m on each
+
+side, and has a magnetic field of 0,5 T passing through it. The plane of the coil is
+
+perpendicular to the magnetic field: the field points out of the page. Use Faraday's
+
+Law to calculate the induced emf if the magnetic field is increases uniformly from
+
+0,5 T to 1 T in 10 s. Determine the direction of the induced current.
+
+Answer
+
+Step 1 : Identify what is required
+
+We are required to use Faraday's Law to calculate the induced emf.
+
+Step 2 : Write Faraday's Law
+
+∆
+
+ǫ = − φN
+
+∆t
+
+421
+
+18.3 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+
+Step 3 : Solve Problem
+
+∆
+
+ǫ = − φN
+
+∆t
+
+f φ
+
+= − φ − iN
+
+∆t
+
+f A−B · A
+
+= − B · iN
+
+∆t
+
+A( f B )
+
+= − B − iN
+
+∆t
+
+(0, )2(1− 0,5)
+
+= − 5(5)
+
+10
+
+= 0,0625 V
+

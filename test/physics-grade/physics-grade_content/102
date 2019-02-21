@@ -1,0 +1,353 @@
+7.4.3 Apparent Depth
+
+Imagine a coin on the bottom of a shallow pool of water. If you reach for the coin, you will miss
+
+it because the light rays from the coin are refracted at the water's surface.
+
+Consider a light ray that travels from an underwater object to your eye. The ray is refracted at
+
+the water surface and then reaches your eye. Your eye does not know Snell's Law; it assumes
+
+light rays travel in straight lines. Your eye therefore sees the image of the at coin shallower
+
+location. This shallower location is known as the apparent depth.
+
+The refractive index of a medium can also be expressed as
+
+real depth
+
+n = .
+
+apparent depth
+
+real apparent
+
+depth depth
+
+Worked Example 34: Apparent Depth 1
+
+143
+
+7.4 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+
+Question: A coin is placed at the bottom of a 40 cm deep pond. The refractive
+
+index for water is 1,33. How deep does the coin appear to be?
+
+Answer
+
+Step 1 : Identify what is given and what is asked
+
+n = 1,33
+
+real depth = 40 cm
+
+apparent depth = ?
+
+Step 2 : Substitute values and find answer
+
+real depth
+
+n =
+
+apparent depth
+
+40
+
+1,33 =
+
+x
+
+40
+
+x = = 30,08 cm
+
+1,33
+
+The coin appears to be 30,08 cm deep.
+
+Worked Example 35: Apparent Depth 2
+
+Question: A R1 coin appears to be 7 cm deep in a colourless liquid. The depth of
+
+the liquid is 10,43 cm.
+
+1. Determine the refractive index of the liquid.
+
+2. Identify the liquid.
+
+Answer
+
+Step 1 : Identify what is given and what is asked
+
+real depth = 7 cm
+
+apparent depth = 10,43 cm
+
+n = ?
+
+Identify the liquid.
+
+Step 2 : Calculate refractive index
+
+real depth
+
+n =
+
+apparent depth
+
+10,43
+
+=
+
+7
+
+= 1,49
+
+Step 3 : Identify the liquid
+
+Use Table 7.4.1. The liquid is an 80% sugar solution.
+
+Exercise: Refraction
+
+1. Explain refraction in terms of a change of wave speed in different media.
+
+2. In the diagram, label the following:
+
+(a) angle of incidence
+
+(b) angle of refraction
+
+144
+7.4 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+Question: A coin is placed at the bottom of a 40 cm deep pond. The refractive
+index for water is 1,33. How deep does the coin appear to be?
+Answer
+Step 1 : Identify what is given and what is asked
+n = 1,33
+real depth = 40 cm
+apparent depth = ?
+Step 2 : Substitute values and find answer
+real depth
+n =
+apparent depth
+40
+1,33 =
+x
+40
+x = = 30,08 cm
+1,33
+The coin appears to be 30,08 cm deep.
+Worked Example 35: Apparent Depth 2
+Question: A R1 coin appears to be 7 cm deep in a colourless liquid. The depth of
+the liquid is 10,43 cm.
+1. Determine the refractive index of the liquid.
+2. Identify the liquid.
+Answer
+Step 1 : Identify what is given and what is asked
+real depth = 7 cm
+apparent depth = 10,43 cm
+n = ?
+Identify the liquid.
+Step 2 : Calculate refractive index
+real depth
+n =
+apparent depth
+10,43
+=
+7
+= 1,49
+Step 3 : Identify the liquid
+Use Table 7.4.1. The liquid is an 80% sugar solution.
+Exercise: Refraction
+1. Explain refraction in terms of a change of wave speed in different media.
+2. In the diagram, label the following:
+(a) angle of incidence
+(b) angle of refraction
+144
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.4
+(c) incident ray
+(d) refracted ray
+(e) normal
+A
+G
+E
+Medium 1 F
+Medium 2 C
+B
+D
+3. What is the angle of refraction?
+4. Describe what is meant by the refractive index of a medium.
+5. State Snell's Law.
+6. In the diagram, a ray of light strikes the interface between two media.
+normal
+Medium 1
+Medium 2
+Draw what the refracted ray would look like if:
+(a) medium 1 had a higher refractive index than medium 2.
+(b) medium 1 had a lower refractive index than medium 2.
+7. Light travels from a region of glass into a region of glycerine, making an angle
+of incidence of 40◦.
+(a) Describe the path of the light as it moves into the glycerine.
+(b) Calculate the angle of refraction.
+8. A ray of light travels from silicon to water. If the ray of light in the water
+makes an angle of 69◦ to the surface normal, what is the angle of incidence in
+the silicon?
+9. Light travels from a medium with n = 1,25 into a medium of n = 1,34, at an
+angle of 27◦ from the interface normal.
+(a) What happens to the speed of the light? Does it increase, decrease, or
+remain the same?
+(b) What happens to the wavelength of the light? Does it increase, decrease,
+or remain the same?
+(c) Does the light bend towards the normal, away from the normal, or not at
+all?
+10. Light travels from a medium with n = 1,63 into a medium of n = 1,42.
+(a) What happens to the speed of the light? Does it increase, decrease, or
+remain the same?
+(b) What happens to the wavelength of the light? Does it increase, decrease,
+or remain the same?
+145
+CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10 7.4
+
+(c) incident ray
+
+(d) refracted ray
+
+(e) normal
+
+A
+
+G
+
+E
+
+Medium 1 F
+
+Medium 2 C
+
+B
+
+D
+
+3. What is the angle of refraction?
+
+4. Describe what is meant by the refractive index of a medium.
+
+5. State Snell's Law.
+
+6. In the diagram, a ray of light strikes the interface between two media.
+
+normal
+
+Medium 1
+
+Medium 2
+
+Draw what the refracted ray would look like if:
+
+(a) medium 1 had a higher refractive index than medium 2.
+
+(b) medium 1 had a lower refractive index than medium 2.
+
+7. Light travels from a region of glass into a region of glycerine, making an angle
+
+of incidence of 40◦.
+
+(a) Describe the path of the light as it moves into the glycerine.
+
+(b) Calculate the angle of refraction.
+
+8. A ray of light travels from silicon to water. If the ray of light in the water
+
+makes an angle of 69◦ to the surface normal, what is the angle of incidence in
+
+the silicon?
+
+9. Light travels from a medium with n = 1,25 into a medium of n = 1,34, at an
+
+angle of 27◦ from the interface normal.
+
+(a) What happens to the speed of the light? Does it increase, decrease, or
+
+remain the same?
+
+(b) What happens to the wavelength of the light? Does it increase, decrease,
+
+or remain the same?
+
+(c) Does the light bend towards the normal, away from the normal, or not at
+
+all?
+
+10. Light travels from a medium with n = 1,63 into a medium of n = 1,42.
+
+(a) What happens to the speed of the light? Does it increase, decrease, or
+
+remain the same?
+
+(b) What happens to the wavelength of the light? Does it increase, decrease,
+
+or remain the same?
+
+145
+
+7.5 CHAPTER 7. GEOMETRICAL OPTICS - GRADE 10
+
+(c) Does the light bend towards the normal, away from the normal, or not at
+
+all?
+
+11. Light is incident on a glass prism. The prism is surrounded by air. The angle of
+
+incidence is 23◦. Calculate the angle of reflection and the angle of refraction.
+
+12. Light is refracted at the interface between air and an unknown medium. If
+
+the angle of incidence is 53◦ and the angle of refraction is 37◦, calculate the
+
+refractive index of the unknown, second medium.
+
+13. A coin is placed in a bowl of acetone (n = 1,36). The coin appears to be 10
+
+cm deep. What is the depth of the acetone?
+
+14. A dot is drawn on a piece of paper and a glass prism placed on the dot according
+
+to the diagram.
+
+6 cm 4 cm
+
+glass
+
+dot
+
+(a) Use the information supplied to determine the refractive index of glass.
+
+(b) Draw a ray diagram to explain how the image of the dot is above where
+
+the dot really is.
+
+15. Light is refracted at the interface between a medium of refractive index 1,5
+
+and a second medium of refractive index 2,1. If the angle of incidence is 45◦,
+
+calculate the angle of refraction.
+
+16. A ray of light strikes the interface between air and diamond. If the incident
+
+ray makes an angle of 30◦ with the interface, calculate the angle made by the
+
+refracted ray with the interface.
+
+17. Challenge Question: What values of n are physically impossible to achieve?
+
+Explain your answer. The values provide the limits of possible refractive indices.
+
+18. Challenge Question: You have been given a glass beaker full of an unknown
+
+liquid. How would you identify what the liquid is? You have the following
+
+pieces of equipment available for the experiment: a laser, a protractor, a ruler,
+
+a pencil, and a reference guide containing optical properties of various liquids.
+

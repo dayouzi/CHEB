@@ -1,0 +1,215 @@
+13.6 Microscopes
+
+We have seen how lenses and mirrors are combined to magnify objects that are far away in a
+
+telescope. Lenses can also be used to make very small objects bigger.
+
+Figure 13.10 shows that when an object is placed at a distance less than f from the lens, the
+
+image formed is virtual, upright and is larger than the object. This set-up is a simple magnifier.
+
+If you want to look at something very small, two lenses may work better than one. Microscopes
+
+and telescopes often use two lenses to make an image large enough to see.
+
+A compound microscope uses two lenses to achieve high magnification (Figure 13.22). Both
+
+lenses are convex, or converging. Light from the object first passes through the objective lens.
+
+The lens that you look through is called the eyepiece. The focus of the system can be
+
+adjusted by changing the length of the tube between the lenses.
+
+349
+
+13.6 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+
+Objective Lens Eyepiece
+
+Object
+
+First image
+
+Final image
+
+Figure 13.22: Compound microscope
+
+Drawing a Ray Diagram for a Two-Lens System
+
+You already have all the tools to analyze a two-lens system. Just consider one lens at a time.
+
+1. Use ray tracing or the lens equation to find the image for the first lens.
+
+2. Use the image of the first lens as the object of the second lens.
+
+3. To find the magnification, multiply: mtotal = m1 ×m2 ×m3 × ...
+
+Worked Example 101: The Compound Microscope
+
+Question: A compound microscope consists of two convex lenses. The eyepiece
+
+has a focal length of 10 cm. The objective lens has a focal length of 6 cm. The two
+
+lenses are 30 cm apart. A 2 cm-tall object is placed 8 cm from the objective lens.
+
+1. Where is the final image?
+
+2. Is the final image real or virtual?
+
+Answer
+
+We can use ray tracing to follow light rays through the microscope, one lens at a
+
+time.
+
+Step 1 : Set up the system
+
+To prepare to trace the light rays, make a diagram. In the diagram here, we place
+
+the image on the left side of the microscope. Since the light will pass through the
+
+objective lens first, we'll call this Lens 1. The eyepiece will be called Lens 2. Be
+
+sure to include the focal points of both lenses in your diagram.
+
+30 cm
+
+8cm
+
+6cm 6cm 10 cm 10 cm
+
+Object
+
+b b b b b b
+
+f1 f1 f2 f2
+
+Lens 1 (Objective) Lens 2 (Eyepiece)
+
+Step 2 : Find the image for the objective lens.
+
+350
+13.6 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+Objective Lens Eyepiece
+Object
+First image
+Final image
+Figure 13.22: Compound microscope
+Drawing a Ray Diagram for a Two-Lens System
+You already have all the tools to analyze a two-lens system. Just consider one lens at a time.
+1. Use ray tracing or the lens equation to find the image for the first lens.
+2. Use the image of the first lens as the object of the second lens.
+3. To find the magnification, multiply: mtotal = m1 ×m2 ×m3 × ...
+Worked Example 101: The Compound Microscope
+Question: A compound microscope consists of two convex lenses. The eyepiece
+has a focal length of 10 cm. The objective lens has a focal length of 6 cm. The two
+lenses are 30 cm apart. A 2 cm-tall object is placed 8 cm from the objective lens.
+1. Where is the final image?
+2. Is the final image real or virtual?
+Answer
+We can use ray tracing to follow light rays through the microscope, one lens at a
+time.
+Step 1 : Set up the system
+To prepare to trace the light rays, make a diagram. In the diagram here, we place
+the image on the left side of the microscope. Since the light will pass through the
+objective lens first, we'll call this Lens 1. The eyepiece will be called Lens 2. Be
+sure to include the focal points of both lenses in your diagram.
+30 cm
+8cm
+6cm 6cm 10 cm 10 cm
+Object
+b b b b b b
+f1 f1 f2 f2
+Lens 1 (Objective) Lens 2 (Eyepiece)
+Step 2 : Find the image for the objective lens.
+350
+13.6 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+
+Objective Lens Eyepiece
+
+Object
+
+First image
+
+Final image
+
+Figure 13.22: Compound microscope
+
+Drawing a Ray Diagram for a Two-Lens System
+
+You already have all the tools to analyze a two-lens system. Just consider one lens at a time.
+
+1. Use ray tracing or the lens equation to find the image for the first lens.
+
+2. Use the image of the first lens as the object of the second lens.
+
+3. To find the magnification, multiply: mtotal = m1 ×m2 ×m3 × ...
+
+Worked Example 101: The Compound Microscope
+
+Question: A compound microscope consists of two convex lenses. The eyepiece
+
+has a focal length of 10 cm. The objective lens has a focal length of 6 cm. The two
+
+lenses are 30 cm apart. A 2 cm-tall object is placed 8 cm from the objective lens.
+
+1. Where is the final image?
+
+2. Is the final image real or virtual?
+
+Answer
+
+We can use ray tracing to follow light rays through the microscope, one lens at a
+
+time.
+
+Step 1 : Set up the system
+
+To prepare to trace the light rays, make a diagram. In the diagram here, we place
+
+the image on the left side of the microscope. Since the light will pass through the
+
+objective lens first, we'll call this Lens 1. The eyepiece will be called Lens 2. Be
+
+sure to include the focal points of both lenses in your diagram.
+
+30 cm
+
+8cm
+
+6cm 6cm 10 cm 10 cm
+
+Object
+
+b b b b b b
+
+f1 f1 f2 f2
+
+Lens 1 (Objective) Lens 2 (Eyepiece)
+
+Step 2 : Find the image for the objective lens.
+
+350
+
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.7
+
+30 cm
+
+f1 Image
+
+b b b b b b
+
+Object f2 f2
+
+Step 3 : Find the image for the eyepiece.
+
+The image we just found becomes the object for the second lens.
+
+Object
+
+Image Object
+
+b b b b b b
+
+f1 f1 f2 f2
+

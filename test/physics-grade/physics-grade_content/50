@@ -1,0 +1,178 @@
+4.4.1 Checking units
+
+According to the equation for kinetic energy, the unit should be kg·m2 ·s−2. We can prove that
+
+this unit is equal to the joule, the unit for energy.
+
+(kg)(m · s−1)2 = (kg ·m · s−2) ·m
+
+= N · m (because Force (N) = mass (kg) × acceleration (m·s−2))
+
+= J (Work (J) = Force (N) × distance (m))
+
+We can do the same to prove that the unit for potential energy is equal to the joule:
+
+(kg)(m · s−2)(m) = N · m
+
+= J
+
+Worked Example 19: Mixing Units & Energy Calculations
+
+Question: A bullet, having a mass of 150 g, is shot with a muzzle velocity of
+
+960 m·s−1. Calculate its kinetic energy?
+
+Answer
+
+Step 1 : Analyse the question to determine what information is provided
+
+• We are given the mass of the bullet m = 150 g. This is not the unit we want
+
+mass to be in. We need to convert to kg.
+
+Mass in grams÷ 1000 = Mass in kg
+
+150 g ÷ 1000 = 0,150 kg
+
+• We are given the initial velocity with which the bullet leaves the barrel, called
+
+the muzzle velocity, and it is v = 960 m·s−1.
+
+Step 2 : Analyse the question to determine what is being asked
+
+• We are asked to find the kinetic energy.
+
+Step 3 : Substitute and calculate
+
+We just substitute the mass and velocity (which are known) into the equation for
+
+kinetic energy:
+
+1
+
+KE = mv2
+
+2
+
+1
+
+= (150)(960)2
+
+2
+
+= 69 120 J
+
+Exercise: Kinetic Energy
+
+1. Describe the relationship between an object's kinetic energy and its:
+
+(a) mass and
+
+(b) velocity
+
+2. A stone with a mass of 100 g is thrown up into the air. It has an initial velocity
+
+of 3 m·s−1. Calculate its kinetic energy
+
+(a) as it leaves the thrower's hand.
+
+(b) when it reaches its turning point.
+
+77
+
+4.5 CHAPTER 4. GRAVITY AND MECHANICAL ENERGY - GRADE 10
+
+3. A car with a mass of 700 kg is travelling at a constant velocity of 100 km·hr−1.
+
+Calculate the kinetic energy of the car.
+
+CHAPTER 4. GRAVITY AND MECHANICAL ENERGY - GRADE 10 4.4
+
+4.4.1 Checking units
+
+According to the equation for kinetic energy, the unit should be kg·m2 ·s−2. We can prove that
+
+this unit is equal to the joule, the unit for energy.
+
+(kg)(m · s−1)2 = (kg ·m · s−2) ·m
+
+= N · m (because Force (N) = mass (kg) × acceleration (m·s−2))
+
+= J (Work (J) = Force (N) × distance (m))
+
+We can do the same to prove that the unit for potential energy is equal to the joule:
+
+(kg)(m · s−2)(m) = N · m
+
+= J
+
+Worked Example 19: Mixing Units & Energy Calculations
+
+Question: A bullet, having a mass of 150 g, is shot with a muzzle velocity of
+
+960 m·s−1. Calculate its kinetic energy?
+
+Answer
+
+Step 1 : Analyse the question to determine what information is provided
+
+• We are given the mass of the bullet m = 150 g. This is not the unit we want
+
+mass to be in. We need to convert to kg.
+
+Mass in grams÷ 1000 = Mass in kg
+
+150 g ÷ 1000 = 0,150 kg
+
+• We are given the initial velocity with which the bullet leaves the barrel, called
+
+the muzzle velocity, and it is v = 960 m·s−1.
+
+Step 2 : Analyse the question to determine what is being asked
+
+• We are asked to find the kinetic energy.
+
+Step 3 : Substitute and calculate
+
+We just substitute the mass and velocity (which are known) into the equation for
+
+kinetic energy:
+
+1
+
+KE = mv2
+
+2
+
+1
+
+= (150)(960)2
+
+2
+
+= 69 120 J
+
+Exercise: Kinetic Energy
+
+1. Describe the relationship between an object's kinetic energy and its:
+
+(a) mass and
+
+(b) velocity
+
+2. A stone with a mass of 100 g is thrown up into the air. It has an initial velocity
+
+of 3 m·s−1. Calculate its kinetic energy
+
+(a) as it leaves the thrower's hand.
+
+(b) when it reaches its turning point.
+
+77
+
+4.5 CHAPTER 4. GRAVITY AND MECHANICAL ENERGY - GRADE 10
+
+3. A car with a mass of 700 kg is travelling at a constant velocity of 100 km·hr−1.
+
+Calculate the kinetic energy of the car.
+

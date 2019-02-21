@@ -1,0 +1,210 @@
+2.6 Prefixes of Base Units
+
+Now that you know how to write numbers in scientific notation, another important aspect of
+
+units is the prefixes that are used with the units.
+
+Definition: Prefix
+
+A prefix is a group of letters that are placed in front of a word. The effect of the prefix is to
+
+change meaning of the word. For example, the prefix un is often added to a word to mean
+
+not, as in unnecessary which means not necessary.
+
+In the case of units, the prefixes have a special use. The kilogram (kg) is a simple example.
+
+1 kg is equal to 1 000 g or 1 × 103 g. Grouping the 103 and the g together we can replace the
+
+103 with the prefix k (kilo). Therefore the k takes the place of the 103.
+
+The kilogram is unique in that it is the only SI base unit containing a prefix.
+
+In Science, all the prefixes used with units are some power of 10. Table 2.4 lists some of
+
+these prefixes. You will not use most of these prefixes, but those prefixes listed in bold should
+
+be learnt. The case of the prefix symbol is very important. Where a letter features twice in the
+
+table, it is written in uppercase for exponents bigger than one and in lowercase for exponents
+
+less than one. For example M means mega (106) and m means milli (10−3).
+
+15
+
+2.6 CHAPTER 2. UNITS
+
+Prefix Symbol Exponent Prefix Symbol Exponent
+
+yotta Y 1024 yocto y 10−24
+
+zetta Z 1021 zepto z 10−21
+
+exa E 1018 atto a 10−18
+
+peta P 1015 femto f 10−15
+
+tera T 1012 pico p 10−12
+
+giga G 109 nano n 10−9
+
+mega M 106 micro µ 10−6
+
+kilo k 103 milli m 10−3
+
+hecto h 102 centi c 10−2
+
+deca da 101 deci d 10−1
+
+Table 2.4: Unit Prefixes
+
+Important: There is no space and no dot between the prefix and the symbol for the unit.
+
+Here are some examples of the use of prefixes:
+
+• 40000 m can be written as 40 km (kilometre)
+
+• 0,001 g is the same as 1× 10−3 g and can be written as 1 mg (milligram)
+
+• 2,5× 106 N can be written as 2,5 MN (meganewton)
+
+• 250000 A can be written as 250 kA (kiloampere) or 0,250 MA (megaampere)
+
+• 0,000000075 s can be written as 75 ns (nanoseconds)
+
+• 3×10−7 mol can be rewritten as 0,3×10−6 mol, which is the same as 0,3 µmol (micromol)
+
+Exercise: Using Scientific Notation
+
+1. Write the following in scientific notation using Table 2.4 as a reference.
+
+(a) 0,511 MV
+
+(b) 10 cℓ
+
+(c) 0,5 µm
+
+(d) 250 nm
+
+(e) 0,00035 hg
+
+2. Write the following using the prefixes in Table 2.4.
+
+(a) 1,602 ×10−19 C
+
+(b) 1,992 ×106 J
+
+(c) 5,98 ×104 N
+
+(d) 25 ×10−4 A
+
+(e) 0,0075 ×106 m
+
+16
+2.6 CHAPTER 2. UNITS
+Prefix Symbol Exponent Prefix Symbol Exponent
+yotta Y 1024 yocto y 10−24
+zetta Z 1021 zepto z 10−21
+exa E 1018 atto a 10−18
+peta P 1015 femto f 10−15
+tera T 1012 pico p 10−12
+giga G 109 nano n 10−9
+mega M 106 micro µ 10−6
+kilo k 103 milli m 10−3
+hecto h 102 centi c 10−2
+deca da 101 deci d 10−1
+Table 2.4: Unit Prefixes
+Important: There is no space and no dot between the prefix and the symbol for the unit.
+Here are some examples of the use of prefixes:
+• 40000 m can be written as 40 km (kilometre)
+• 0,001 g is the same as 1× 10−3 g and can be written as 1 mg (milligram)
+• 2,5× 106 N can be written as 2,5 MN (meganewton)
+• 250000 A can be written as 250 kA (kiloampere) or 0,250 MA (megaampere)
+• 0,000000075 s can be written as 75 ns (nanoseconds)
+• 3×10−7 mol can be rewritten as 0,3×10−6 mol, which is the same as 0,3 µmol (micromol)
+Exercise: Using Scientific Notation
+1. Write the following in scientific notation using Table 2.4 as a reference.
+(a) 0,511 MV
+(b) 10 cℓ
+(c) 0,5 µm
+(d) 250 nm
+(e) 0,00035 hg
+2. Write the following using the prefixes in Table 2.4.
+(a) 1,602 ×10−19 C
+(b) 1,992 ×106 J
+(c) 5,98 ×104 N
+(d) 25 ×10−4 A
+(e) 0,0075 ×106 m
+16
+2.6 CHAPTER 2. UNITS
+
+Prefix Symbol Exponent Prefix Symbol Exponent
+
+yotta Y 1024 yocto y 10−24
+
+zetta Z 1021 zepto z 10−21
+
+exa E 1018 atto a 10−18
+
+peta P 1015 femto f 10−15
+
+tera T 1012 pico p 10−12
+
+giga G 109 nano n 10−9
+
+mega M 106 micro µ 10−6
+
+kilo k 103 milli m 10−3
+
+hecto h 102 centi c 10−2
+
+deca da 101 deci d 10−1
+
+Table 2.4: Unit Prefixes
+
+Important: There is no space and no dot between the prefix and the symbol for the unit.
+
+Here are some examples of the use of prefixes:
+
+• 40000 m can be written as 40 km (kilometre)
+
+• 0,001 g is the same as 1× 10−3 g and can be written as 1 mg (milligram)
+
+• 2,5× 106 N can be written as 2,5 MN (meganewton)
+
+• 250000 A can be written as 250 kA (kiloampere) or 0,250 MA (megaampere)
+
+• 0,000000075 s can be written as 75 ns (nanoseconds)
+
+• 3×10−7 mol can be rewritten as 0,3×10−6 mol, which is the same as 0,3 µmol (micromol)
+
+Exercise: Using Scientific Notation
+
+1. Write the following in scientific notation using Table 2.4 as a reference.
+
+(a) 0,511 MV
+
+(b) 10 cℓ
+
+(c) 0,5 µm
+
+(d) 250 nm
+
+(e) 0,00035 hg
+
+2. Write the following using the prefixes in Table 2.4.
+
+(a) 1,602 ×10−19 C
+
+(b) 1,992 ×106 J
+
+(c) 5,98 ×104 N
+
+(d) 25 ×10−4 A
+
+(e) 0,0075 ×106 m
+
+16
+
+CHAPTER 2. UNITS 2.7
+

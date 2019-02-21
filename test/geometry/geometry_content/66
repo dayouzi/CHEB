@@ -1,0 +1,221 @@
+7.3 Similar Polygons and Scale Factors
+
+Here you'll learn what properties two or more polygons must possess to be similar. You'll also learn what a scale
+
+factor is and how to solve for missing information in similar polygon problems.
+
+What if you were told that two pentagons were similar and you were given the lengths of each pentagon's sides.
+
+How could you determine the scale factor of pentagon #1 to pentagon #2? After completing this Concept, you'll be
+
+able to answer questions like this one about similar polygons.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136679
+
+CK-12 Similar Polygons and Scale Factors
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1346
+
+James Sousa: Similar Polygons
+
+Now watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1347
+
+James Sousa: Scale Factor
+
+Guidance
+
+Similar polygons are two polygons with the same shape, but not the same size. Similar polygons have corresponding
+
+angles that are congruent, and corresponding sides that are proportional.
+
+343
+
+7.3. Similar Polygons and Scale Factors www.ck12.org
+
+These polygons are not similar:
+
+Think about similar polygons as enlarging or shrinking the same shape. The symbol∼ is used to represent similarity.
+
+Specific types of triangles, quadrilaterals, and polygons will always be similar. For example, all equilateral triangles
+
+are similar and all squares are similar. If two polygons are similar, we know the lengths of corresponding sides are
+
+proportional. In similar polygons, the ratio of one side of a polygon to the corresponding side of the other is called
+
+the scale factor. The ratio of all parts of a polygon (including the perimeters, diagonals, medians, midsegments,
+
+altitudes) is the same as the ratio of the sides.
+
+Example A
+
+Suppose 4ABC ∼ 4JKL. Based on the similarity statement, which angles are congruent and which sides are
+
+proportional?
+
+Just like in a congruence statement, the congruent angles line up within the similarity statement. So, 6 A∼= 6 J, 6 B∼=
+
+6 K, and 6 C ∼= 6 L. Write the sides in a proportion: ABJK = BCKL = ACJL . Note that the proportion could be written in
+
+different ways. For example, ABBC =
+
+JK
+
+KL is also true.
+
+Example B
+
+MNPQ∼ RSTU . What are the values of x,y and z?
+
+In the similarity statement, 6 M ∼= 6 R, so z = 115◦. For x and y, set up proportions.
+
+18 x 18 15
+
+= =
+
+30 25 30 y
+
+450 = 30x 18y = 450
+
+x = 15 y = 25
+
+344
+7.3. Similar Polygons and Scale Factors www.ck12.org
+These polygons are not similar:
+Think about similar polygons as enlarging or shrinking the same shape. The symbol∼ is used to represent similarity.
+Specific types of triangles, quadrilaterals, and polygons will always be similar. For example, all equilateral triangles
+are similar and all squares are similar. If two polygons are similar, we know the lengths of corresponding sides are
+proportional. In similar polygons, the ratio of one side of a polygon to the corresponding side of the other is called
+the scale factor. The ratio of all parts of a polygon (including the perimeters, diagonals, medians, midsegments,
+altitudes) is the same as the ratio of the sides.
+Example A
+Suppose 4ABC ∼ 4JKL. Based on the similarity statement, which angles are congruent and which sides are
+proportional?
+Just like in a congruence statement, the congruent angles line up within the similarity statement. So, 6 A∼= 6 J, 6 B∼=
+6 K, and 6 C ∼= 6 L. Write the sides in a proportion: ABJK = BCKL = ACJL . Note that the proportion could be written in
+different ways. For example, ABBC =
+JK
+KL is also true.
+Example B
+MNPQ∼ RSTU . What are the values of x,y and z?
+In the similarity statement, 6 M ∼= 6 R, so z = 115◦. For x and y, set up proportions.
+18 x 18 15
+= =
+30 25 30 y
+450 = 30x 18y = 450
+x = 15 y = 25
+344
+www.ck12.org Chapter 7. Similarity
+Example C
+ABCD∼ AMNP. Find the scale factor and the length of BC.
+Line up the corresponding sides, AB and AM = CD, so the scale factor is 3045 =
+2
+3 or
+3
+2 . Because BC is in the bigger
+rectangle, we will multiply 40 by 32 because
+3
+2 is greater than 1. BC =
+3
+2(40) = 60.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136680
+CK-12 Similar Polygons and Scale Factors
+->
+Guided Practice
+1. ABCD and UVWX are below. Are these two rectangles similar?
+2. What is the scale factor of4ABC to4XY Z? Write the similarity statement.
+3. 4ABC ∼4MNP. The perimeter of4ABC is 150, AB = 32 and MN = 48. Find the perimeter of4MNP.
+Answers:
+1. All the corresponding angles are congruent because the shapes are rectangles.
+345
+7.3. Similar Polygons and Scale Factors www.ck12.org
+Let's see if the sides are proportional. 812 =
+2
+3 and
+18
+24 =
+3
+4 .
+2
+3 6= 34 , so the sides are not in the same proportion, and the
+rectangles are not similar.
+2. All the sides are in the same ratio. Pick the two largest (or smallest) sides to find the ratio.
+15 3
+=
+20 4
+For the similarity statement, line up the proportional sides. AB→ XY,BC→ XZ,AC→ Y Z, so4ABC ∼4Y XZ.
+3. From the similarity statement, AB and MN are corresponding sides. The scale factor is 3248 =
+2
+3 or
+3
+2 . 4ABC is the
+smaller triangle, so the perimeter of4MNP is 32(150) = 225.
+Explore More
+For questions 1-8, determine whether the following statements are true or false.
+1. All equilateral triangles are similar.
+2. All isosceles triangles are similar.
+3. All rectangles are similar.
+4. All rhombuses are similar.
+5. All squares are similar.
+6. All congruent polygons are similar.
+7. All similar polygons are congruent.
+8. All regular pentagons are similar.
+9. 4BIG∼4HAT . List the congruent angles and proportions for the sides.
+10. If BI = 9 and HA = 15, find the scale factor.
+11. If BG = 21, find HT .
+12. If AT = 45, find IG.
+13. Find the perimeter of4BIG and4HAT . What is the ratio of the perimeters?
+14. An NBA basketball court is a rectangle that is 94 feet by 50 feet. A high school basketball court is a rectangle
+that is 84 feet by 50 feet. Are the two rectangles similar?
+15. HD TVs have sides in a ratio of 16:9. Non-HD TVs have sides in a ratio of 4:3. Are these two ratios equivalent?
+Use the picture to the right to answer questions 16-20.
+16. Find m6 E and m 6 Q.
+17. ABCDE ∼ QLMNP, find the scale factor.
+18. Find BC.
+19. Find CD.
+20. Find NP.
+346
+www.ck12.org Chapter 7. Similarity
+Determine if the following triangles and quadrilaterals are similar. If they are, write the similarity statement.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+347
+7.3. Similar Polygons and Scale Factors www.ck12.org
+28.
+29.
+30.
+348
+7.3. Similar Polygons and Scale Factors www.ck12.org
+
+28.
+
+29.
+
+30.
+
+348
+
+www.ck12.org Chapter 7. Similarity
+

@@ -1,0 +1,56 @@
+29.3.1 Capacitors and Inductors as Filters
+
+We have already seen how capacitors and inductors pass current more easily at certain
+
+frequencies than others. To recap: if we examine the equation for the reactance of a capacitor,
+
+we see that the frequency is in the denominator. Therefore, when the frequency is low, the
+
+capacitive reactance is very high. This is why a capacitor blocks the flow of DC and low
+
+frequency AC because its reactance increases with decreasing frequency.
+
+When the frequency is high, the capacitive reactance is low. This is why a capacitor allows the
+
+flow of high frequency AC because its reactance decreases with increasing frequency.
+
+Therefore putting a capacitor in a circuit blocks the low frequencies and allows the high
+
+frequencies to pass. This is called a high pass filter. A filter like this can be used in the ‘treble'
+
+setting of a sound mixer or music player which controls the amount of high frequency signal
+
+reaching the speaker. The more high frequency signal there is, the ‘tinnier' the sound. A simple
+
+high pass filter circuit is shown in Figure 29.5.
+
+Similarly, if we examine the equation for the reactance of an inductor, we see that inductive
+
+reactance increases with increasing frequency. Therefore, when the frequency is low, the
+
+inductive reactance is very low. This is why an inductor allows the flow of DC and low
+
+frequency AC because its reactance decreases with decreasing frequency.
+
+When the frequency is high, the inductive reactance is high. This is why an inductor blocks the
+
+flow of high frequency AC because its reactance increases with increasing frequency.
+
+Therefore putting an inductor in a circuit blocks the high frequencies and allows the low
+
+frequencies to pass. This is called a low pass filter. A filter like this can be used in the ‘bass'
+
+setting of a sound mixer or music player which controls the amount of low frequency signal
+
+reaching the speaker. The more low frequency signal there is, the more the sound ‘booms'. A
+
+simple low pass filter circuit is shown in Figure 29.6.
+
+C
+
+L
+
+Figure 29.5: A high pass filter. High frequencies easily pass through the capacitor and into the
+
+next part of the circuit, while low frequencies pass through the inductor straight to ground.
+

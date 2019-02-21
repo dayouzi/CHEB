@@ -1,0 +1,286 @@
+10.1.2 Representing electric circuits
+
+Components of electrical circuits
+
+Some common elements (components) which can be found in electrical circuits include light
+
+bulbs, batteries, connecting leads, switches, resistors, voltmeters and ammeters. You will learn
+
+more about these items in later sections, but it is important to know what their symbols are and
+
+how to represent them in circuit diagrams. Below is a table with the items and their symbols:
+
+Circuit diagrams
+
+Definition: Representing circuits
+
+A physical circuit is the electric circuit you create with real components.
+
+A circuit diagram is a drawing which uses symbols to represent the different components
+
+in the physical circuit.
+
+188
+
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.1
+
+Component Symbol Usage
+
+light bulb glows when charge moves through it
+
+battery provides energy for charge to move
+
+switch allows a circuit to be open or closed
+
+resistor resists the flow of charge
+
+voltmeter V measures potential difference
+
+ammeter A measures current in a circuit
+
+connecting lead connects circuit elements together
+
+We use circuit diagrams to represent circuits because they are much simpler and more general
+
+than drawing the physical circuit because they only show the workings of the electrical compo-
+
+nents. You can see this in the two pictures below. The first picture shows the physical circuit
+
+for an electric torch. You can see the light bulb, the batteries, the switch and the outside plastic
+
+casing of the torch. The picture is actually a cross-section of the torch so that we can see inside
+
+it.
+
+Switch
+
+Bulb
+
+Batteries
+
+Figure 10.1: Physical components of an electric torch. The dotted line shows the path of the
+
+electrical circuit.
+
+Below is the circuit diagram for the electric torch. Now the light bulb is represented by its
+
+symbol, as are the batteries, the switch and the connecting wires. It is not necessary to show
+
+the plastic casing of the torch since it has nothing to do with the electric workings of the torch.
+
+You can see that the circuit diagram is much simpler than the physical circuit drawing!
+
+Series and parallel circuits
+
+There are two ways to connect electrical components in a circuit: in series or in parallel.
+
+Definition: Series circuit
+
+In a series circuit, the charge has a single path from the battery, returning to the battery.
+
+189
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.1
+Component Symbol Usage
+light bulb glows when charge moves through it
+battery provides energy for charge to move
+switch allows a circuit to be open or closed
+resistor resists the flow of charge
+voltmeter V measures potential difference
+ammeter A measures current in a circuit
+connecting lead connects circuit elements together
+We use circuit diagrams to represent circuits because they are much simpler and more general
+than drawing the physical circuit because they only show the workings of the electrical compo-
+nents. You can see this in the two pictures below. The first picture shows the physical circuit
+for an electric torch. You can see the light bulb, the batteries, the switch and the outside plastic
+casing of the torch. The picture is actually a cross-section of the torch so that we can see inside
+it.
+Switch
+Bulb
+Batteries
+Figure 10.1: Physical components of an electric torch. The dotted line shows the path of the
+electrical circuit.
+Below is the circuit diagram for the electric torch. Now the light bulb is represented by its
+symbol, as are the batteries, the switch and the connecting wires. It is not necessary to show
+the plastic casing of the torch since it has nothing to do with the electric workings of the torch.
+You can see that the circuit diagram is much simpler than the physical circuit drawing!
+Series and parallel circuits
+There are two ways to connect electrical components in a circuit: in series or in parallel.
+Definition: Series circuit
+In a series circuit, the charge has a single path from the battery, returning to the battery.
+189
+10.1 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+On/off switch
+2 Batteries Lightbulb
+Figure 10.2: Circuit diagram of an electric torch.
+Definition: Parallel circuit
+In a parallel circuit, the charge has multiple paths from the battery, returning to the battery.
+The picture below shows a circuit with three resistors connected in series on the left and a circuit
+with three resistors connected in parallel on the right:
+R1
+R3
+3 resistors in a series circuit 3 resistors in a parallel circuit
+Worked Example 43: Drawing circuits I
+Question: Draw the circuit diagram for a circuit which has the following compo-
+nents:
+1. 1 battery
+2. 1 lightbulb connected in series
+3. 2 resistors connected in parallel
+Answer
+Step 1 : Identify the components and their symbols and draw according to
+the instructions:
+light bulb
+battery
+190
+R2
+resistor
+resistor
+R1
+R2
+R3
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.1
+Worked Example 44: Drawing circuits II
+Question: Draw the circuit diagram for a circuit which has the following compo-
+nents:
+1. 3 batteries in series
+2. 1 lightbulb connected in parallel with 1 resistor
+3. a switch in series
+Answer
+Step 1 : Identify the symbol for each component and draw according to the
+instructions:
+switch
+3 batteries
+light bulb
+resistor
+Exercise: Circuits
+1. Using physical components, set up the physical circuit which is described by
+the circuit diagram below:
+1.1 Now draw a picture of the physical circuit you have built.
+2. Using physical components, set up a closed circuit which has one battery and
+a light bulb in series with a resistor.
+2.1 Draw the physical circuit.
+2.2 Draw the resulting circuit diagram.
+2.3 How do you know that you have built a closed circuit? (What happens to
+the light bulb?)
+2.4 If you add one more resistor to your circuit (also in series), what do you
+notice? (What happens to the light from the light bulb?)
+2.5 Draw the new circuit diagram which includes the second resistor.
+3. Draw the circuit diagram for the following circuit: 2 batteries, a switch in series
+and 1 lightbulb which is in parallel with two resistors.
+3.1 Now use physical components to set up the circuit.
+191
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.1
+
+Worked Example 44: Drawing circuits II
+
+Question: Draw the circuit diagram for a circuit which has the following compo-
+
+nents:
+
+1. 3 batteries in series
+
+2. 1 lightbulb connected in parallel with 1 resistor
+
+3. a switch in series
+
+Answer
+
+Step 1 : Identify the symbol for each component and draw according to the
+
+instructions:
+
+switch
+
+3 batteries
+
+light bulb
+
+resistor
+
+Exercise: Circuits
+
+1. Using physical components, set up the physical circuit which is described by
+
+the circuit diagram below:
+
+1.1 Now draw a picture of the physical circuit you have built.
+
+2. Using physical components, set up a closed circuit which has one battery and
+
+a light bulb in series with a resistor.
+
+2.1 Draw the physical circuit.
+
+2.2 Draw the resulting circuit diagram.
+
+2.3 How do you know that you have built a closed circuit? (What happens to
+
+the light bulb?)
+
+2.4 If you add one more resistor to your circuit (also in series), what do you
+
+notice? (What happens to the light from the light bulb?)
+
+2.5 Draw the new circuit diagram which includes the second resistor.
+
+3. Draw the circuit diagram for the following circuit: 2 batteries, a switch in series
+
+and 1 lightbulb which is in parallel with two resistors.
+
+3.1 Now use physical components to set up the circuit.
+
+191
+
+10.2 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+
+3.2 What happens when you close the switch? What does does this mean
+
+about the circuit?
+
+3.3 Draw the physical circuit.
+
+Activity :: Discussion : Alternative Energy
+
+At the moment, electric power is produced by burning fossil fuels such as coal and oil.
+
+In South Africa, our main source of electric power is coal burning power stations. (We
+
+also have one nuclear power plant called Koeberg in the Western Cape). However,
+
+burning fossil fuels releases large amounts of pollution into the earth's atmosphere
+
+and can contribute to global warming. Also, the earth's fossil fuel reserves (especially
+
+oil) are starting to run low. For these reasons, people all across the world are
+
+working to find alternative/other sources of energy and on ways to conserve/save
+
+energy. Other sources of energy include wind power, solar power (from the sun),
+
+hydro-electric power (from water) among others.
+
+With a partner, take out the lists you made earlier of the item/appliances/machines
+
+which used electricity in the following environments. For each item, try to think of
+
+an alternative AND a way to conserve or save power.
+
+For example, if you had a flourescent light as an item used in the home, then:
+
+• Alternative: use candles at supper time to reduce electricity consumption
+
+• Conservation: turn off lights when not in a room, or during the day.
+
+Topics:
+
+• At home
+
+• At school
+
+• At the hospital
+
+• In the city
+
+Once you have finished making your lists, compare with the lists of other people in
+
+your class.
+

@@ -1,0 +1,177 @@
+10.3. Area and Perimeter of Triangles www.ck12.org
+
+10.3 Area and Perimeter of Triangles
+
+Here you'll learn how to find the area and perimeter of a triangle given its base and height.
+
+What if you were given a triangle and the size of its base and height? How could you find the total distance around
+
+the triangle and the amount of space it takes up? After completing this Concept, you'll be able to use the formulas
+
+for the perimeter and area of a triangle to solve problems like this.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136620
+
+Area and Perimeter of Triangles CK-12
+
+Guidance
+
+The formula for the area of a triangle is half the area of a parallelogram.
+
+Area of a Triangle: A = 12 bh or A =
+
+bh
+
+2 .
+
+Example A
+
+Find the area of the triangle.
+
+558
+
+www.ck12.org Chapter 10. Perimeter and Area
+
+To find the area, we need to find the height of the triangle. We are given two sides of the small right triangle, where
+
+the hypotenuse is also the short side of the obtuse triangle.
+
+32 +h2 = 52
+
+9+h2 = 25
+
+h2 = 16
+
+h = 4
+
+1
+
+A = (4)(7) = 14 units2
+
+2
+
+Example B
+
+Find the perimeter of the triangle in Example A.
+
+To find the perimeter, we need to find the longest side of the obtuse triangle. If we used the black lines in the picture,
+
+we would see that the longest side is also the hypotenuse of the right triangle with legs 4 and 10.
+
+42 +102 = c2
+
+16+100 = c2√
+
+c = 116≈ 10.77
+
+The perimeter is 7+5+10.77≈ 22.77 units
+
+Example C
+
+Find the area of a triangle with base of length 28 cm and height of 15 cm.
+
+The area is 12(28)(15) = 210 cm
+
+2.
+
+559
+www.ck12.org Chapter 10. Perimeter and Area
+To find the area, we need to find the height of the triangle. We are given two sides of the small right triangle, where
+the hypotenuse is also the short side of the obtuse triangle.
+32 +h2 = 52
+9+h2 = 25
+h2 = 16
+h = 4
+1
+A = (4)(7) = 14 units2
+2
+Example B
+Find the perimeter of the triangle in Example A.
+To find the perimeter, we need to find the longest side of the obtuse triangle. If we used the black lines in the picture,
+we would see that the longest side is also the hypotenuse of the right triangle with legs 4 and 10.
+42 +102 = c2
+16+100 = c2√
+c = 116≈ 10.77
+The perimeter is 7+5+10.77≈ 22.77 units
+Example C
+Find the area of a triangle with base of length 28 cm and height of 15 cm.
+The area is 12(28)(15) = 210 cm
+2.
+559
+10.3. Area and Perimeter of Triangles www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136621
+Area and Perimeter of Triangles CK-12
+->
+Guided Practice
+Use the triangle to answer the following questions.
+1. Find the height of the triangle.
+2. Find the perimeter.
+3. Find the area.
+Answers:
+1. Use the Pythagorean Theorem to find the height.
+82 +h2 = 172
+h2 = 225
+h = 15 in
+2. We need to find the hypotenuse. Use the Pythagorean Theorem again.
+(8+24)2 +152 = h2
+h2 = 1249
+h≈ 35.3 in
+The perimeter is 24+35.3+17≈ 76.3 in.
+3. The area is 12(24)(15) = 180 in
+2.
+Explore More
+Use the triangle to answer the following questions.
+560
+www.ck12.org Chapter 10. Perimeter and Area
+1. Find the height of the triangle by using the geometric mean.
+2. Find the perimeter.
+3. Find the area.
+Find the area of the following shape.
+4.
+5. What is the height of a triangle with area 144 m2 and a base of 24 m?
+In questions 6-11 we are going to derive a formula for the area of an equilateral triangle.
+6. What kind of triangle is4ABD? Find AD and BD.
+7. Find the area of4ABC.
+8. If each side is x, what is AD and BD?
+9. If each side is x, find the area of4ABC.
+10. Using your formula from #9, find the area of an equilateral triangle with 12 inch sides.
+11. Using your formula from #9, find the area of an equilateral triangle with 5 inch sides.
+561
+www.ck12.org Chapter 10. Perimeter and Area
+
+1. Find the height of the triangle by using the geometric mean.
+
+2. Find the perimeter.
+
+3. Find the area.
+
+Find the area of the following shape.
+
+4.
+
+5. What is the height of a triangle with area 144 m2 and a base of 24 m?
+
+In questions 6-11 we are going to derive a formula for the area of an equilateral triangle.
+
+6. What kind of triangle is4ABD? Find AD and BD.
+
+7. Find the area of4ABC.
+
+8. If each side is x, what is AD and BD?
+
+9. If each side is x, find the area of4ABC.
+
+10. Using your formula from #9, find the area of an equilateral triangle with 12 inch sides.
+
+11. Using your formula from #9, find the area of an equilateral triangle with 5 inch sides.
+
+561
+

@@ -1,0 +1,293 @@
+11.8 CHAPTER 11. VECTORS
+
+2. Sandra walks to the shop by walking 500 m Northwest and then 400 m N 30◦
+
+E. Determine her resultant displacement by doing appropriate calculations.
+
+11.8 Components of Vectors
+
+In the discussion of vector addition we saw that a number of vectors acting together can be
+
+combined to give a single vector (the resultant). In much the same way a single vector can be
+
+broken down into a number of vectors which when added give that original vector. These vectors
+
+which sum to the original are called components of the original vector. The process of breaking
+
+a vector into its components is called resolving into components.
+
+While summing a given set of vectors gives just one answer (the resultant), a single vector can be
+
+resolved into infinitely many sets of components. In the diagrams below the same black vector
+
+is resolved into different pairs of components. These components are shown as dashed lines.
+
+When added together the dashed vectors give the original black vector (i.e. the original vector
+
+is the resultant of its components).
+
+In practice it is most useful to resolve a vector into components which are at right angles to one
+
+another, usually horizontal and vertical.
+
+Any vector can be resolved into a horizontal and a vertical component. If A~ is a vector, then
+
+the horizontal component of A~ is A~x and the vertical component is A~y.
+
+A~ A~y
+
+A~x
+
+Worked Example 57: Resolving a vector into components
+
+Question: A motorist undergoes a displacement of 250 km in a direction 30◦ north
+
+of east. Resolve this displacement into components in the directions north (~xN ) and
+
+east (~xE).
+
+Answer
+
+Step 1 : Draw a rough sketch of the original vector
+
+228
+
+CHAPTER 11. VECTORS 11.8
+
+25
+
+0 k
+
+m
+
+N
+
+W E
+
+30◦
+
+S
+
+Step 2 : Determine the vector component
+
+Next we resolve the displacement into its components north and east. Since these
+
+directions are perpendicular to one another, the components form a right-angled
+
+triangle with the original displacement as its hypotenuse.
+
+25
+
+0 k
+
+m
+
+~xN
+
+N
+
+W E
+
+30◦
+
+~x SE
+
+Notice how the two components acting together give the original vector as their
+
+resultant.
+
+Step 3 : Determine the lengths of the component vectors
+
+Now we can use trigonometry to calculate the magnitudes of the components of the
+
+original displacement:
+
+xN = (250)(sin 30
+
+◦)
+
+= 125 km
+
+and
+
+xE = (250)(cos 30
+
+◦)
+
+= 216,5 km
+
+Remember xN and xE are the magnitudes of the components - they are in the
+
+directions north and east respectively.
+
+Extension: Block on an incline
+
+As a further example of components let us consider a block of mass m placed on
+
+a frictionless surface inclined at some angle θ to the horizontal. The block will
+
+obviously slide down the incline, but what causes this motion?
+
+The forces acting on the block are its weight mg and the normal force N exerted
+
+by the surface on the object. These two forces are shown in the diagram below.
+
+229
+CHAPTER 11. VECTORS 11.8
+25
+0 k
+m
+N
+W E
+30◦
+S
+Step 2 : Determine the vector component
+Next we resolve the displacement into its components north and east. Since these
+directions are perpendicular to one another, the components form a right-angled
+triangle with the original displacement as its hypotenuse.
+25
+0 k
+m
+~xN
+N
+W E
+30◦
+~x SE
+Notice how the two components acting together give the original vector as their
+resultant.
+Step 3 : Determine the lengths of the component vectors
+Now we can use trigonometry to calculate the magnitudes of the components of the
+original displacement:
+xN = (250)(sin 30
+◦)
+= 125 km
+and
+xE = (250)(cos 30
+◦)
+= 216,5 km
+Remember xN and xE are the magnitudes of the components - they are in the
+directions north and east respectively.
+Extension: Block on an incline
+As a further example of components let us consider a block of mass m placed on
+a frictionless surface inclined at some angle θ to the horizontal. The block will
+obviously slide down the incline, but what causes this motion?
+The forces acting on the block are its weight mg and the normal force N exerted
+by the surface on the object. These two forces are shown in the diagram below.
+229
+11.8 CHAPTER 11. VECTORS
+N
+Fg‖
+θ
+mg Fg⊥
+θ
+Now the object's weight can be resolved into components parallel and perpen-
+dicular to the inclined surface. These components are shown as dashed arrows in
+the diagram above and are at right angles to each other. The components have
+been drawn acting from the same point. Applying the parallelogram method, the
+two components of the block's weight sum to the weight vector.
+To find the components in terms of the weight we can use trigonometry:
+Fg‖ = mg sin θ
+Fg⊥ = mg cos θ
+The component of the weight perpendicular to the slope Fg⊥ exactly balances the
+normal force N exerted by the surface. The parallel component, however, Fg‖ is
+unbalanced and causes the block to slide down the slope.
+Extension: Worked example
+Worked Example 58: Block on an incline plane
+Question: Determine the force needed to keep a 10 kg block from slid-
+ing down a frictionless slope. The slope makes an angle of 30◦ with the
+horizontal.
+Answer
+Step 1 : Draw a diagram of the situation
+App
+lied
+Forc
+e
+b
+Fg‖
+30◦
+The force that will keep the block from sliding is equal to the parallel
+component of the weight, but its direction is up the slope.
+Step 2 : Calculate Fg‖
+230
+11.8 CHAPTER 11. VECTORS
+
+N
+
+Fg‖
+
+θ
+
+mg Fg⊥
+
+θ
+
+Now the object's weight can be resolved into components parallel and perpen-
+
+dicular to the inclined surface. These components are shown as dashed arrows in
+
+the diagram above and are at right angles to each other. The components have
+
+been drawn acting from the same point. Applying the parallelogram method, the
+
+two components of the block's weight sum to the weight vector.
+
+To find the components in terms of the weight we can use trigonometry:
+
+Fg‖ = mg sin θ
+
+Fg⊥ = mg cos θ
+
+The component of the weight perpendicular to the slope Fg⊥ exactly balances the
+
+normal force N exerted by the surface. The parallel component, however, Fg‖ is
+
+unbalanced and causes the block to slide down the slope.
+
+Extension: Worked example
+
+Worked Example 58: Block on an incline plane
+
+Question: Determine the force needed to keep a 10 kg block from slid-
+
+ing down a frictionless slope. The slope makes an angle of 30◦ with the
+
+horizontal.
+
+Answer
+
+Step 1 : Draw a diagram of the situation
+
+App
+
+lied
+
+Forc
+
+e
+
+b
+
+Fg‖
+
+30◦
+
+The force that will keep the block from sliding is equal to the parallel
+
+component of the weight, but its direction is up the slope.
+
+Step 2 : Calculate Fg‖
+
+230
+
+CHAPTER 11. VECTORS 11.8
+
+Fg‖ = mg sin θ
+
+= (10)(9,8)(sin 30◦)
+
+= 49N
+
+Step 3 : Write final answer
+
+The force is 49 N up the slope.
+

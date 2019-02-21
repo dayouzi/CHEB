@@ -1,0 +1,405 @@
+11.8.1 Vector addition using components
+
+Components can also be used to find the resultant of vectors. This technique can be applied
+
+to both graphical and algebraic methods of finding the resultant. The method is simple: make
+
+a rough sketch of the problem, find the horizontal and vertical components of each vector, find
+
+the sum of all horizontal components and the sum of all the vertical components and then use
+
+them to find the resultant.
+
+Consider the two vectors, A~ and B~ , in Figure 11.3, together with their resultant, R~ .
+
+~R
+
+A~
+
+Figure 11.3: An example of two vectors being added to give a resultant
+
+Each vector in Figure 11.3 can be broken down into a component in the x-direction and one
+
+in the y-direction. These components are two vectors which when added give you the original
+
+vector as the resultant. This is shown in Figure 11.4 where we can see that:
+
+A~ = A~x +A~y
+
+But, R~ ~x = A ~x +
+
+B~ = B~ ~
+
+Bx
+
+x +By
+
+and R~ ~y = Ay +B~y
+
+R~ = R~x +R~y
+
+In summary, addition of the x components of the two original vectors gives the x component of
+
+the resultant. The same applies to the y components. So if we just added all the components
+
+together we would get the same answer! This is another important property of vectors.
+
+Worked Example 59: Adding Vectors Using Components
+
+Question: If in Figure 11.4, A~ = 5,385m at an angle of 21.8◦ to the horizontal and
+
+B~ = 5m at an angle of 53,13◦ to the horizontal, find R~ .
+
+Answer
+
+Step 1 : Decide how to tackle the problem
+
+231
+
+B~
+
+11.8 CHAPTER 11. VECTORS
+
+A~ B~x x
+
+R~x
+
+~R
+
+B~x
+
+A~
+
+A~x
+
+Figure 11.4: Adding vectors using components.
+
+The first thing we must realise is that the order that we add the vectors does not
+
+matter. Therefore, we can work through the vectors to be added in any order.
+
+Step 2 : Resolve A~ into components
+
+We find the components of A~ by using known trigonometric ratios. First we find the
+
+magnitude of the vertical component, Ay:
+
+Ay
+
+sin θ =
+
+A
+
+Ay
+
+sin 21,8◦ =
+
+5,385
+
+Ay = (5,385)(sin 21,8
+
+◦)
+
+= 2m
+
+Secondly we find the magnitude of the horizontal component, Ax:
+
+Ax
+
+cos θ =
+
+A
+
+Ax
+
+cos 21.8◦ =
+
+5,385
+
+Ax = (5,385)(cos 21,8
+
+◦)
+
+= 5m
+
+5,38
+
+5 m
+
+5 m
+
+The components give the sides of the right angle triangle, for which the original
+
+vector is the hypotenuse.
+
+Step 3 : Resolve B~ into components
+
+We find the components of B~ by using known trigonometric ratios. First we find
+
+232
+
+A~y B~y
+
+R~ y
+
+A~y
+
+2 m
+
+B~
+
+B~y
+11.8 CHAPTER 11. VECTORS
+A~ B~x x
+R~x
+~R
+B~x
+A~
+A~x
+Figure 11.4: Adding vectors using components.
+The first thing we must realise is that the order that we add the vectors does not
+matter. Therefore, we can work through the vectors to be added in any order.
+Step 2 : Resolve A~ into components
+We find the components of A~ by using known trigonometric ratios. First we find the
+magnitude of the vertical component, Ay:
+Ay
+sin θ =
+A
+Ay
+sin 21,8◦ =
+5,385
+Ay = (5,385)(sin 21,8
+◦)
+= 2m
+Secondly we find the magnitude of the horizontal component, Ax:
+Ax
+cos θ =
+A
+Ax
+cos 21.8◦ =
+5,385
+Ax = (5,385)(cos 21,8
+◦)
+= 5m
+5,38
+5 m
+5 m
+The components give the sides of the right angle triangle, for which the original
+vector is the hypotenuse.
+Step 3 : Resolve B~ into components
+We find the components of B~ by using known trigonometric ratios. First we find
+232
+A~y B~y
+R~ y
+A~y
+2 m
+B~
+B~y
+CHAPTER 11. VECTORS 11.8
+the magnitude of the vertical component, By:
+By
+sin θ =
+B
+By
+sin 53,13◦ =
+5
+By = (5)(sin 53,13
+◦)
+= 4m
+Secondly we find the magnitude of the horizontal component, Bx:
+Bx
+cos θ =
+B
+Bx
+cos 21,8◦ =
+5,385
+Bx = (5,385)(cos 53,13
+◦)
+= 5m
+3 m
+Step 4 : Determine the components of the resultant vector
+Now we have all the components. If we add all the horizontal components then we
+will have the x-component of the resultant vector, R~x. Similarly, we add all the
+vertical components then we will have the y-component of the resultant vector, R~y.
+Rx = Ax +Bx
+= 5m+ 3m
+= 8m
+Therefore, R~x is 8 m to the right.
+Ry = Ay +By
+= 2m+ 4m
+= 6m
+Therefore, R~y is 6 m up.
+Step 5 : Determine the magnitude and direction of the resultant vector
+Now that we have the components of the resultant, we can use the Theorem of
+Pythagoras to determine the magnitude of the resultant, R.
+R2 = (Rx)
+2 + (Ry)
+2
+R2 = (6)2 + (8)2
+R2 = 100
+∴ R = 10m
+233
+5
+m
+4 m
+11.8 CHAPTER 11. VECTORS
+8 m
+10
+m
+α
+The magnitude of the resultant, R is 10 m. So all we have to do is calculate its
+direction. We can specify the direction as the angle the vectors makes with a known
+direction. To do this you only need to visualise the vector as starting at the origin
+of a coordinate system. We have drawn this explicitly below and the angle we will
+calculate is labeled α.
+Using our known trigonometric ratios we can calculate the value of α;
+6m
+tanα =
+8m
+α = tan−1
+6m
+8m
+α = 36,8o.
+Step 6 : Quote the final answer
+R~ is 10 m at an angle of 36,8◦ to the positive x-axis.
+Exercise: Adding and Subtracting Components of Vectors
+1. Harold walks to school by walking 600 m Northeast and then 500 m N 40o W.
+Determine his resultant displacement by means of addition of components of
+vectors.
+2. A dove flies from her nest, looking for food for her chick. She flies at a velocity
+of 2 m·s−1on a bearing of 135o and then at a velocity of 1,2 m·s−1on a bearing
+of 230o. Calculate her resultant velocity by adding the horizontal and vertical
+components of vectors.
+Extension: Vector Multiplication
+Vectors are special, they are more than just numbers. This means that multiplying
+vectors is not necessarily the same as just multiplying their magnitudes. There are
+two different types of multiplication defined for vectors. You can find the dot product
+of two vectors or the cross product.
+234
+6 m
+11.8 CHAPTER 11. VECTORS
+
+8 m
+
+10
+
+m
+
+α
+
+The magnitude of the resultant, R is 10 m. So all we have to do is calculate its
+
+direction. We can specify the direction as the angle the vectors makes with a known
+
+direction. To do this you only need to visualise the vector as starting at the origin
+
+of a coordinate system. We have drawn this explicitly below and the angle we will
+
+calculate is labeled α.
+
+Using our known trigonometric ratios we can calculate the value of α;
+
+6m
+
+tanα =
+
+8m
+
+α = tan−1
+
+6m
+
+8m
+
+α = 36,8o.
+
+Step 6 : Quote the final answer
+
+R~ is 10 m at an angle of 36,8◦ to the positive x-axis.
+
+Exercise: Adding and Subtracting Components of Vectors
+
+1. Harold walks to school by walking 600 m Northeast and then 500 m N 40o W.
+
+Determine his resultant displacement by means of addition of components of
+
+vectors.
+
+2. A dove flies from her nest, looking for food for her chick. She flies at a velocity
+
+of 2 m·s−1on a bearing of 135o and then at a velocity of 1,2 m·s−1on a bearing
+
+of 230o. Calculate her resultant velocity by adding the horizontal and vertical
+
+components of vectors.
+
+Extension: Vector Multiplication
+
+Vectors are special, they are more than just numbers. This means that multiplying
+
+vectors is not necessarily the same as just multiplying their magnitudes. There are
+
+two different types of multiplication defined for vectors. You can find the dot product
+
+of two vectors or the cross product.
+
+234
+
+6 m
+
+CHAPTER 11. VECTORS 11.8
+
+The dot product is most similar to regular multiplication between scalars. To
+
+take the dot product of two vectors, you just multiply their magnitudes to get out a
+
+scalar answer. The maths definition of the dot product is:
+
+~a •~b = |~a| · |~b| cos θ
+
+Take two vectors ~a and ~b:
+
+b
+
+a
+
+You can draw in the component of ~b that is parallel to ~a:
+
+b
+
+a θ
+
+b cos θ
+
+In this way we can arrive at the definition of the dot product. You find how much
+
+of ~b is lined up with ~a by finding the component of ~b parallel to ~a. Then multiply
+
+the magnitude of that component, |~b| cos θ, with the magnitude of ~a to get a scalar.
+
+The second type of multiplication is more subtle and uses the directions of the
+
+vectors in a more complicated way to get another vector as the answer. The maths
+
+definition of the cross product is:
+
+~a×~b = |~a||~b| sin θ
+
+This gives the magnitude of the answer, but we still need to find the direction of
+
+the resultant vector. We do this by applying the right hand rule.
+
+Method: Right Hand Rule
+
+1. Using your right hand: a
+
+2. Point your index finger in the direction of ~a. θ
+
+a×b
+
+b
+
+3. Point the middle finger in the direction of ~b.
+
+4. Your thumb will show the direction of ~a×~b.
+

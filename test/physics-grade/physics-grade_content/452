@@ -1,0 +1,383 @@
+29.4.3 Transistor
+
+The diode is the simplest semiconductor device, made up of a p-type semiconductor and an
+
+n-type semiconductor in contact. It can conduct in only one direction, but it cannot control the
+
+size of an electric current. Transistors are more complicated electronic components which can
+
+control the size of the electric current flowing through them.
+
+This enables them to be used in amplifiers. A small signal from a microphone or a radio
+
+antenna can be used to control the transistor. In response, the transistor will then increase and
+
+decrease a much larger current which flows through the speakers.
+
+Itneterreessttinigng One of the earliest popular uses of transistors was in cheap and portable radios.
+
+FFacctt Before that, radios were much more expensive and contained glass valves which
+
+were fragile and needed replacing. In some parts of the world you can still hear
+
+people talking about their ‘transistor' - they mean their portable radio.
+
+You can also use a small current to turn the transistor on and off. The transistor then controls
+
+a more complicated or powerful current through other components. When a transistor is used
+
+in this way it is said to be in switching mode as it is acting as a remotely controlled switch. As
+
+we shall see in the final sections of this chapter, switching circuits can be used in a computer
+
+to process and store digital information. A computer would not work without the millions (or
+
+billions) of transistors in it.
+
+There are two main types of transistor - bipolar transistors (NPN or PNP), and field effect
+
+transistors (FETs). Both use doped semiconductors, but in different ways. You are mainly
+
+required to know about field effect transistors (FETs), however we have to give a brief
+
+description of bipolar transistors so that you see the difference.
+
+Bipolar Transistors
+
+Bipolar transistors are made of a doped semiconductor ‘sandwich'. In an NPN transistor, a
+
+very thin layer of p-type semiconductor is in between two thicker layers of n-type
+
+603
+
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+
+Emitter N P N Collector
+
+Base
+
+Figure 29.11: An NPN transistor. This is a type of bipolar transistor.
+
+semiconductor. This is shown in Figure 29.11. Similarly an PNP transistor consists of a very
+
+thin n-type layer in between two thicker layers of p-type semiconductor.
+
+In an NPN transistor a small current of electrons flows from the emitter (E) to the base (B).
+
+Simultaneously, a much larger current of electrons flows from the emitter (E) to the collector
+
+(C). If you lower the number of electrons able to leave the transistor at the base (B), the
+
+transistor automatically reduces the number of electrons flowing from emitter (E) to collector
+
+(C). Similarly, if you increase the current of electrons flowing out of the base (B), the transistor
+
+automatically also increases the current of electrons flowing from emitter (E) to collector (C).
+
+The transistor is designed so that the current of electrons from emitter to collector (IEC) is
+
+proportional to the current of electrons from emitter to base (IEB). The constant of
+
+proportionality is known as the current gain β. So IEC = βIEB .
+
+How does it do it? The answer comes from our work with diodes. Electrons arriving at the
+
+emitter (n-type semiconductor) will naturally flow through into the central p-type since the
+
+base-emitter junction is forward biased. However if none of these electrons are removed from
+
+the base, the electrons flowing into the base from the emitter will fill all of the available ‘holes'.
+
+Accordingly, a large depletion band will be set up. This will act as an insulator preventing
+
+current flow into the collector as well. On the other hand, if the base is connected to a positive
+
+voltage, a small number of electrons will be removed by the base connection. This will prevent
+
+the ‘holes' in the base becoming filled up, and no depletion band will form. While some
+
+electrons from the emitter leave via the base connection, the bulk of them flow straight on to
+
+the collector. You may wonder how the electrons get from the base into the collector (it seems
+
+to be reverse biased). The answer is complicated, but the important fact is that the p-type
+
+layer is extremely thin. As long as there is no depletion layer, the bulk of the electrons will have
+
+no difficulty passing straight from the n-type emitter into the n-type collector. A more
+
+satisfactory answer can be given to a university student once band theory has been explained.
+
+Summing up, in an NPN transistor, a small flow of electrons from emitter (E) to base (B)
+
+allows a much larger flow of electrons from emitter (E) to collector (C). Given that
+
+conventional current (flowing from + to −) is in the opposite direction to electron flow, we say
+
+that a small conventional current from base to emitter allows a large current to flow from
+
+collector to emitter.
+
+A PNP transistor works the other way. A small conventional current from emitter to base
+
+allows a much larger conventional current to flow from emitter to collector. The operation is
+
+more complicated to explain since the principal charge carrier in a PNP transistor is not the
+
+electron but the ‘hole'.
+
+The operation of NPN and PNP transistors (in terms of conventional currents) is summarized
+
+in Figure 29.12.
+
+Itneterreessttinigng The transistor is considered by many to be one of the greatest discoveries or
+
+FFacctt inventions in modern history, ranking with banking and the printing press. Key
+
+to the importance of the transistor in modern society is its ability to be
+
+produced in huge numbers using simple techniques, resulting in vanishingly
+
+small prices. Computer "chips" consist of millions of transistors and sell for
+
+604
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+Emitter N P N Collector
+Base
+Figure 29.11: An NPN transistor. This is a type of bipolar transistor.
+semiconductor. This is shown in Figure 29.11. Similarly an PNP transistor consists of a very
+thin n-type layer in between two thicker layers of p-type semiconductor.
+In an NPN transistor a small current of electrons flows from the emitter (E) to the base (B).
+Simultaneously, a much larger current of electrons flows from the emitter (E) to the collector
+(C). If you lower the number of electrons able to leave the transistor at the base (B), the
+transistor automatically reduces the number of electrons flowing from emitter (E) to collector
+(C). Similarly, if you increase the current of electrons flowing out of the base (B), the transistor
+automatically also increases the current of electrons flowing from emitter (E) to collector (C).
+The transistor is designed so that the current of electrons from emitter to collector (IEC) is
+proportional to the current of electrons from emitter to base (IEB). The constant of
+proportionality is known as the current gain β. So IEC = βIEB .
+How does it do it? The answer comes from our work with diodes. Electrons arriving at the
+emitter (n-type semiconductor) will naturally flow through into the central p-type since the
+base-emitter junction is forward biased. However if none of these electrons are removed from
+the base, the electrons flowing into the base from the emitter will fill all of the available ‘holes'.
+Accordingly, a large depletion band will be set up. This will act as an insulator preventing
+current flow into the collector as well. On the other hand, if the base is connected to a positive
+voltage, a small number of electrons will be removed by the base connection. This will prevent
+the ‘holes' in the base becoming filled up, and no depletion band will form. While some
+electrons from the emitter leave via the base connection, the bulk of them flow straight on to
+the collector. You may wonder how the electrons get from the base into the collector (it seems
+to be reverse biased). The answer is complicated, but the important fact is that the p-type
+layer is extremely thin. As long as there is no depletion layer, the bulk of the electrons will have
+no difficulty passing straight from the n-type emitter into the n-type collector. A more
+satisfactory answer can be given to a university student once band theory has been explained.
+Summing up, in an NPN transistor, a small flow of electrons from emitter (E) to base (B)
+allows a much larger flow of electrons from emitter (E) to collector (C). Given that
+conventional current (flowing from + to −) is in the opposite direction to electron flow, we say
+that a small conventional current from base to emitter allows a large current to flow from
+collector to emitter.
+A PNP transistor works the other way. A small conventional current from emitter to base
+allows a much larger conventional current to flow from emitter to collector. The operation is
+more complicated to explain since the principal charge carrier in a PNP transistor is not the
+electron but the ‘hole'.
+The operation of NPN and PNP transistors (in terms of conventional currents) is summarized
+in Figure 29.12.
+Itneterreessttinigng The transistor is considered by many to be one of the greatest discoveries or
+FFacctt inventions in modern history, ranking with banking and the printing press. Key
+to the importance of the transistor in modern society is its ability to be
+produced in huge numbers using simple techniques, resulting in vanishingly
+small prices. Computer "chips" consist of millions of transistors and sell for
+604
+CHAPTER 29. ELECTRONICS - GRADE 12 29.4
+Figure 29.12: An overview of bipolar transistors as current amplifiers.
+Rands, with per-transistor costs in the thousandths-of-cents. The low cost has
+meant that the transistor has become an almost universal tool for
+non-mechanical tasks. Whereas a common device, say a refrigerator, would
+have used a mechanical device for control, today it is often less expensive to
+simply use a few million transistors and the appropriate computer program to
+carry out the same task through "brute force". Today transistors have replaced
+almost all electromechanical devices, most simple feedback systems, and appear
+in huge numbers in everything from computers to cars.
+Itneterreessttinigng The transistor was invented at Bell Laboratories in December 1947 (first
+FFacctt demonstrated on December 23) by John Bardeen, Walter Houser Brattain, and
+William Bradford Shockley, who were awarded the Nobel Prize in physics in
+1956.
+The Field Effect Transistor (FET)
+To control a bipolar transistors, you control the current flowing into or out of its base. The
+other type of transistor is the field effect transistor (FET). FETs work using control voltages
+instead. Accordingly they can be controlled with much smaller currents and are much more
+economic to use.
+Itneterreessttinigng No-one would build a computer with billions of bipolar transistors - the
+FFacctt current in each transistor's base might be small, but when you add up all of the
+605
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+base currents in the millions of transistors, the computer as a whole would be
+consuming a great deal of electricity and making a great deal of heat. Not only
+is this wasteful, it would prevent manufacturers making a computer of
+convenient size. If the transistors were too close together, they would overheat.
+Drain
+Source Channel Drain
+N N
+P
+Gate
+Gate
+Source
+Figure 29.13: A field effect transistor (FET). The diagram on the left shows the semiconductor
+structure. The diagram on the right shows its circuit symbol.
+The three terminals of the FET are called the source (S), drain (D) and gate (G), as shown in
+Figure 29.13. When the gate is not connected, a current of electrons can flow from source (S)
+to drain (D) easily along the channel. The source is, accordingly, the negative terminal of the
+transistor. The drain, where the electrons come out, is the positive terminal of the transistor.
+A few electrons will flow from the n-type channel into the p-type semiconductor of the gate
+when the device is manufactured. However, as these electrons are not removed (the gate is not
+connected), a depletion band is set up which prevents further flow into the gate.
+In operation, the gate is connected to negative voltages relative to the source. This makes the
+p-n junction between gate and channel reverse-biased. Accordingly no current flows from the
+source into the gate. When the voltage of the gate is lowered (made more negative), the
+depletion band becomes wider. This enlarged depletion band takes up some of the space of the
+channel. So the lower the voltage of the gate (the more negative it is relative to the source),
+the larger the depletion band. The larger the depletion band, the narrower the channel. The
+narrower the channel, the harder it is for electrons to flow from source to drain.
+The voltage of the gate is not the only factor affecting the current of electrons between the
+source and the drain. If the external circuit has a low resistance, electrons are able to leave the
+drain easily. If the external circuit has a high resistance, electrons leave the drain slowly. This
+creates a kind of ‘traffic jam' which slows the passage of further electrons. In this way, the
+voltage of the drain regulates itself, and is more or less independent of the current demanded
+from the drain.
+Once these two factors have been taken into account, it is fair to say that the positive output
+voltage (the voltage of the drain relative to the source) is proportional to the negative input
+voltage (the voltage of the gate relative to the source).
+For this reason, the field effect transistor is known as a voltage amplifier. This contrasts with
+the bipolar transistor which is a current amplifier.
+Exercise: Field Effect Transistors
+1. What are the two types of bipolar transistor? How does their construction
+differ?
+2. What are the three connections to a bipolar transistor called?
+3. Why are very few electrons able to flow from emitter to collector in an NPN
+transistor if the base is not connected?
+606
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+
+base currents in the millions of transistors, the computer as a whole would be
+
+consuming a great deal of electricity and making a great deal of heat. Not only
+
+is this wasteful, it would prevent manufacturers making a computer of
+
+convenient size. If the transistors were too close together, they would overheat.
+
+Drain
+
+Source Channel Drain
+
+N N
+
+P
+
+Gate
+
+Gate
+
+Source
+
+Figure 29.13: A field effect transistor (FET). The diagram on the left shows the semiconductor
+
+structure. The diagram on the right shows its circuit symbol.
+
+The three terminals of the FET are called the source (S), drain (D) and gate (G), as shown in
+
+Figure 29.13. When the gate is not connected, a current of electrons can flow from source (S)
+
+to drain (D) easily along the channel. The source is, accordingly, the negative terminal of the
+
+transistor. The drain, where the electrons come out, is the positive terminal of the transistor.
+
+A few electrons will flow from the n-type channel into the p-type semiconductor of the gate
+
+when the device is manufactured. However, as these electrons are not removed (the gate is not
+
+connected), a depletion band is set up which prevents further flow into the gate.
+
+In operation, the gate is connected to negative voltages relative to the source. This makes the
+
+p-n junction between gate and channel reverse-biased. Accordingly no current flows from the
+
+source into the gate. When the voltage of the gate is lowered (made more negative), the
+
+depletion band becomes wider. This enlarged depletion band takes up some of the space of the
+
+channel. So the lower the voltage of the gate (the more negative it is relative to the source),
+
+the larger the depletion band. The larger the depletion band, the narrower the channel. The
+
+narrower the channel, the harder it is for electrons to flow from source to drain.
+
+The voltage of the gate is not the only factor affecting the current of electrons between the
+
+source and the drain. If the external circuit has a low resistance, electrons are able to leave the
+
+drain easily. If the external circuit has a high resistance, electrons leave the drain slowly. This
+
+creates a kind of ‘traffic jam' which slows the passage of further electrons. In this way, the
+
+voltage of the drain regulates itself, and is more or less independent of the current demanded
+
+from the drain.
+
+Once these two factors have been taken into account, it is fair to say that the positive output
+
+voltage (the voltage of the drain relative to the source) is proportional to the negative input
+
+voltage (the voltage of the gate relative to the source).
+
+For this reason, the field effect transistor is known as a voltage amplifier. This contrasts with
+
+the bipolar transistor which is a current amplifier.
+
+Exercise: Field Effect Transistors
+
+1. What are the two types of bipolar transistor? How does their construction
+
+differ?
+
+2. What are the three connections to a bipolar transistor called?
+
+3. Why are very few electrons able to flow from emitter to collector in an NPN
+
+transistor if the base is not connected?
+
+606
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.4
+
+4. Why do you think a bipolar transistor would not work if the base layer were
+
+too thick?
+
+5. "The bipolar transistor is a current amplifier." What does this statement
+
+mean?
+
+6. Describe the structure of a FET.
+
+7. Define what is meant by the source, drain and gate. During normal operation,
+
+what will the voltages of drain and gate be with respect to the source?
+
+8. Describe how a depletion layer forms when the gate voltage is made more
+
+negative. What controls the width of the depletion layer?
+
+9. "The field effect transistor is a voltage amplifier." What does this statement
+
+mean?
+
+10. The amplifier in a cheap radio will probably contain bipolar transistors. A
+
+computer contains many field effect transistors. Bipolar transistors are more
+
+rugged and less sensitive to interference than field effect transistors, which
+
+makes them more suitable for a simple radio. Why are FETs preferred for the
+
+computer?
+

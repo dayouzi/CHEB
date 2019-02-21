@@ -1,0 +1,237 @@
+8.2. Pythagorean Theorem and Pythagorean Triples www.ck12.org
+
+8.2 Pythagorean Theorem and Pythagorean
+
+Triples
+
+Here you'll learn how to use the Pythagorean Theorem, which states that given a right triangle with legs of lengths
+
+a and b and a hypotenuse of length c, a2 +b2 = c2. You'll also learn the theorem's converse and what a Pythagorean
+
+Triple is.
+
+What if you were told that a triangle had side lengths of 5, 12, and 13? How could you determine if the triangle were
+
+a right one? After completing this Concept, you'll be able to use the Pythagorean Theorem to solve problems like
+
+this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136652
+
+CK-12 Foundation: Using The Pythagorean Theorem
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1372
+
+James Sousa: Pythagorean Theorem
+
+Guidance
+
+The two shorter sides of a right triangle (the sides that form the right angle) are the legs and the longer side (the
+
+side opposite the right angle) is the hypotenuse. For the Pythagorean Theorem, the legs are "a" and "b" and the
+
+hypotenuse is "c".
+
+412
+
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+
+Pythagorean Theorem: Given a right triangle with legs of lengths a and b and a hypotenuse of length c, a2+b2 = c2.
+
+For proofs of the Pythagorean Theorem go to: http://www.mathsisfun.com/pythagoras.html and scroll down to "And
+
+You Can Prove the Theorem Yourself."
+
+The converse of the Pythagorean Theorem is also true. It allows you to prove that a triangle is a right triangle even
+
+if you do not know its angle measures.
+
+Pythagorean Theorem Converse: If the square of the longest side of a triangle is equal to the sum of the squares
+
+of the other two sides, then the triangle is a right triangle.
+
+If a2 +b2 = c2, then4ABC is a right triangle.
+
+Pythagorean Triples
+
+A combination of three numbers that makes the Pythagorean Theorem true is called a Pythagorean triple. Each set
+
+of numbers below is a Pythagorean triple.
+
+3,4,5 5,12,13 7,24,25 8,15,17 9,12,15 10,24,26
+
+Any multiple of a Pythagorean triple is also considered a Pythagorean triple. Multiplying 3, 4, 5 by 2 gives 6, 8,
+
+10, which is another triple. To see if a set of numbers makes a Pythagorean triple, plug them into the Pythagorean
+
+Theorem.
+
+Example A
+
+Do 6, 7, and 8 make the sides of a right triangle?
+
+Plug the three numbers into the Pythagorean Theorem. Remember that the largest length will always be the
+
+hypotenuse, c. If 62 +72 = 82, then they are the sides of a right triangle.
+
+62 +72 = 36+49 = 85
+
+82 = 64 85 6= 64, so the lengths are not the sides of a right triangle.
+
+413
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+Pythagorean Theorem: Given a right triangle with legs of lengths a and b and a hypotenuse of length c, a2+b2 = c2.
+For proofs of the Pythagorean Theorem go to: http://www.mathsisfun.com/pythagoras.html and scroll down to "And
+You Can Prove the Theorem Yourself."
+The converse of the Pythagorean Theorem is also true. It allows you to prove that a triangle is a right triangle even
+if you do not know its angle measures.
+Pythagorean Theorem Converse: If the square of the longest side of a triangle is equal to the sum of the squares
+of the other two sides, then the triangle is a right triangle.
+If a2 +b2 = c2, then4ABC is a right triangle.
+Pythagorean Triples
+A combination of three numbers that makes the Pythagorean Theorem true is called a Pythagorean triple. Each set
+of numbers below is a Pythagorean triple.
+3,4,5 5,12,13 7,24,25 8,15,17 9,12,15 10,24,26
+Any multiple of a Pythagorean triple is also considered a Pythagorean triple. Multiplying 3, 4, 5 by 2 gives 6, 8,
+10, which is another triple. To see if a set of numbers makes a Pythagorean triple, plug them into the Pythagorean
+Theorem.
+Example A
+Do 6, 7, and 8 make the sides of a right triangle?
+Plug the three numbers into the Pythagorean Theorem. Remember that the largest length will always be the
+hypotenuse, c. If 62 +72 = 82, then they are the sides of a right triangle.
+62 +72 = 36+49 = 85
+82 = 64 85 6= 64, so the lengths are not the sides of a right triangle.
+413
+8.2. Pythagorean Theorem and Pythagorean Triples www.ck12.org
+Example B
+Find the length of the hypotenuse.
+Use the Pythagorean Theorem. Set a = 8 and b = 15. Solve for c.
+82 +152 = c2
+64+225 = c2
+289 = c2 Take the square root o f both sides.
+17 = c
+Example C
+Is 20, 21, 29 a Pythagorean triple?
+If 202 +212 = 292, then the set is a Pythagorean triple.
+202 +212 = 400+441 = 841
+292 = 841
+Therefore, 20, 21, and 29 is a Pythagorean triple.
+Example D
+Determine if the triangles below are right triangles.
+a)
+b)
+414
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+Check to see if the three lengths satisfy the Pythagorean Theorem. Let the longest side represent c.
+a)
+a2 +b2 = c(2 √ )
+82 +162 ?
+2
+= 8 5
+64+256 ?= 64 ·5
+320 = 320 Yes
+b)
+a2 +b2 = c2
+222 +242 ?= 262
+484+576 ?= 676
+1060 6= 676 No
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136653
+CK-12 Foundation: Using The Pythagorean Theorem
+->
+Guided Practice
+1. Find the missing side of the right triangle below.
+415
+8.2. Pythagorean Theorem and Pythagorean Triples www.ck12.org
+2. What is the diagonal of a rectangle with sides 10 and 16?
+3. D√o the√following lengths make a right triangle?
+a) 5,√3, 14
+b) 6,√2 3,√8 √
+c) 3 2,4 2,5 2
+Answers:
+1. Here, we are given the hypotenuse and a leg. Let's solve for b.
+72 +b2 = 142
+49+b2 = 196
+b2 = 1√47 √ √
+b = 147 = 49 ·3 = 7 3
+2. For any square and rectangle, you can use the Pythagorean Theorem to find the length of a diagonal. Plug in the
+sides to find d.
+102 +162 = d2
+100+256 = d2
+356 = d2√ √
+d = 356 = 2 89≈ 18.87
+3. Even though there is no picture, you can still use the Pythagorean Theorem. Again, the longest length will be c.
+a) (√ )2 √ 2
+5 +32 = 14
+5+9 = 14
+Yes
+b) ( √ )2
+62 + 2 3 = 82
+36+(4 ·3) = 64
+36+12 6= 64
+√
+c) This is a multiple of 2 of a 3, 4, 5 right triangle. Yes, this is a right triangle.
+416
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+Explore More
+Find the length of the missing side. Simplify all radicals.
+1.
+2.
+3.
+4.
+5.
+6.
+7. If the legs of a right triangle are 10 and 24, then the hypotenuse is __________.
+8. If the sides of a rectangle are 12 and 15, then the diagonal is _____________.
+9. If the sides of a square are 16, then the diagonal is ____________.
+10. If the sides of a square are 9, then the diagonal is _____________.
+Determine if the following sets of numbers are Pythagorean Triples.
+11. 12, 35, 37
+12. 9, 17, 18
+13. 10, 15, 21
+14. 11, 60, 61
+15. 15, 20, 25
+417
+8.2. Pythagorean Theorem and Pythagorean Triples www.ck12.org
+16. 18, 73, 75
+Determine if the following lengths make a right triangle.
+17. 7√, 24, 2√5 √
+18. √5,2√10,3 5
+19. 2 3, 6,8
+20. 15, 20, 25
+21. 20√, 25, 30√
+22. 8 3,6,2 39
+418
+8.2. Pythagorean Theorem and Pythagorean Triples www.ck12.org
+
+16. 18, 73, 75
+
+Determine if the following lengths make a right triangle.
+
+17. 7√, 24, 2√5 √
+
+18. √5,2√10,3 5
+
+19. 2 3, 6,8
+
+20. 15, 20, 25
+
+21. 20√, 25, 30√
+
+22. 8 3,6,2 39
+
+418
+
+www.ck12.org Chapter 8. Right Triangle Trigonometry
+

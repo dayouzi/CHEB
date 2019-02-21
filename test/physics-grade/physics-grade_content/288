@@ -1,0 +1,308 @@
+17.3.4 Parallel plates
+
+One very important example of electric fields which is used extensively is the electric field
+
+between two charged parallel plates. In this situation the electric field is constant. This is used
+
+for many practical purposes and later we will explain how Millikan used it to measure the
+
+charge on the electron.
+
+Field map for oppositely charged parallel plates
+
++ + + + + + + + +
+
+- - - - - - - - -
+
+397
+
+17.3 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+This means that the force that a test charge would feel at any point between the plates would
+
+be identical in magnitude and direction. The fields on the edges exhibit fringe effects, i.e. they
+
+bulge outwards. This is because a test charge placed here would feel the effects of charges only
+
+on one side (either left or right depending on which side it is placed). Test charges placed in
+
+the middle experience the effects of charges on both sides so they balance the components in
+
+the horizontal direction. This is clearly not the case on the edges.
+
+Strength of an electric field
+
+When we started making field maps we drew arrows to indicate the strength of the field and
+
+the direction. When we moved to lines you might have asked "Did we forget about the field
+
+strength?". We did not. Consider the case for a single positive charge again:
+
++Q
+
+Notice that as you move further away from the charge the field lines become more spread out.
+
+In field map diagrams the closer field lines are together the stronger the field. Therefore, the
+
+electric field is stronger closer to the charge (the electric field lines are closer together) and
+
+weaker further from the charge (the electric field lines are further apart).
+
+The magnitude of the electric field at a point as the force per unit charge. Therefore,
+
+F
+
+E =
+
+q
+
+E and F are vectors. From this we see that the force on a charge q is simply:
+
+F = E · q
+
+The force between two electric charges is given by:
+
+Qq
+
+F = k .
+
+r2
+
+(if we make the one charge Q and the other q.) Therefore, the electric field can be written as:
+
+Q
+
+E = k
+
+r2
+
+The electric field is the force per unit of charge and hence has units of newtons per coulomb.
+
+As with Coulomb's law calculations, do not substitute the sign of the charge into the equation
+
+for electric field. Instead, choose a positive direction, and then either add or subtract the
+
+contribution to the electric field due to each charge depending upon whether it points in the
+
+positive or negative direction, respectively.
+
+Worked Example 114: Electric field 1
+
+398
+17.3 CHAPTER 17. ELECTROSTATICS - GRADE 11
+This means that the force that a test charge would feel at any point between the plates would
+be identical in magnitude and direction. The fields on the edges exhibit fringe effects, i.e. they
+bulge outwards. This is because a test charge placed here would feel the effects of charges only
+on one side (either left or right depending on which side it is placed). Test charges placed in
+the middle experience the effects of charges on both sides so they balance the components in
+the horizontal direction. This is clearly not the case on the edges.
+Strength of an electric field
+When we started making field maps we drew arrows to indicate the strength of the field and
+the direction. When we moved to lines you might have asked "Did we forget about the field
+strength?". We did not. Consider the case for a single positive charge again:
++Q
+Notice that as you move further away from the charge the field lines become more spread out.
+In field map diagrams the closer field lines are together the stronger the field. Therefore, the
+electric field is stronger closer to the charge (the electric field lines are closer together) and
+weaker further from the charge (the electric field lines are further apart).
+The magnitude of the electric field at a point as the force per unit charge. Therefore,
+F
+E =
+q
+E and F are vectors. From this we see that the force on a charge q is simply:
+F = E · q
+The force between two electric charges is given by:
+Qq
+F = k .
+r2
+(if we make the one charge Q and the other q.) Therefore, the electric field can be written as:
+Q
+E = k
+r2
+The electric field is the force per unit of charge and hence has units of newtons per coulomb.
+As with Coulomb's law calculations, do not substitute the sign of the charge into the equation
+for electric field. Instead, choose a positive direction, and then either add or subtract the
+contribution to the electric field due to each charge depending upon whether it points in the
+positive or negative direction, respectively.
+Worked Example 114: Electric field 1
+398
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.3
+Question: Calculate the electric field strength 30/rmcm from a 5/rmnC charge.
++5nC
+b x
+30 cm
+Answer
+Step 1 : Determine what is required
+We need to calculate the electric field a distance from a given charge.
+Step 2 : Determine what is given
+We are given the magnitude of the charge and the distance from the charge.
+Step 3 : Determine how to approach the problem
+We will use the equation:
+Q
+E = k .
+r2
+Step 4 : Solve the problem
+Q
+E = k
+r2
+(8.99× 109)(5 × 10−9)
+=
+(0,3)2
+= 4,99× 102N.C−1
+Worked Example 115: Electric field 2
+Question: Two charges of Q1 = +3/rmnC and Q2 = −4/rmnC are separated
+by a distance of 50/rmcm. What is the electric field strength at a point that is
+20/rmcm from Q1 and 50/rmcm from Q2? The point lies beween Q1 and Q2.
++3nC -4nC
+b x b
+10 cm 30 cm
+Answer
+Step 1 : Determine what is required
+We need to calculate the electric field a distance from two given charges.
+Step 2 : Determine what is given
+We are given the magnitude of the charges and the distances from the charges.
+Step 3 : Determine how to approach the problem
+We will use the equation:
+Q
+E = k .
+r2
+We need to work out the electric field for each charge separately and then add
+them to get the resultant field.
+Step 4 : Solve the problem
+We first solve for Q1:
+Q
+E = k
+r2
+(8.99× 109)(3 × 10−9)
+=
+(0,2)2
+= 6,74× 102N.C−1
+399
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.3
+
+Question: Calculate the electric field strength 30/rmcm from a 5/rmnC charge.
+
++5nC
+
+b x
+
+30 cm
+
+Answer
+
+Step 1 : Determine what is required
+
+We need to calculate the electric field a distance from a given charge.
+
+Step 2 : Determine what is given
+
+We are given the magnitude of the charge and the distance from the charge.
+
+Step 3 : Determine how to approach the problem
+
+We will use the equation:
+
+Q
+
+E = k .
+
+r2
+
+Step 4 : Solve the problem
+
+Q
+
+E = k
+
+r2
+
+(8.99× 109)(5 × 10−9)
+
+=
+
+(0,3)2
+
+= 4,99× 102N.C−1
+
+Worked Example 115: Electric field 2
+
+Question: Two charges of Q1 = +3/rmnC and Q2 = −4/rmnC are separated
+
+by a distance of 50/rmcm. What is the electric field strength at a point that is
+
+20/rmcm from Q1 and 50/rmcm from Q2? The point lies beween Q1 and Q2.
+
++3nC -4nC
+
+b x b
+
+10 cm 30 cm
+
+Answer
+
+Step 1 : Determine what is required
+
+We need to calculate the electric field a distance from two given charges.
+
+Step 2 : Determine what is given
+
+We are given the magnitude of the charges and the distances from the charges.
+
+Step 3 : Determine how to approach the problem
+
+We will use the equation:
+
+Q
+
+E = k .
+
+r2
+
+We need to work out the electric field for each charge separately and then add
+
+them to get the resultant field.
+
+Step 4 : Solve the problem
+
+We first solve for Q1:
+
+Q
+
+E = k
+
+r2
+
+(8.99× 109)(3 × 10−9)
+
+=
+
+(0,2)2
+
+= 6,74× 102N.C−1
+
+399
+
+17.4 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+Then for Q2:
+
+Q
+
+E = k
+
+r2
+
+(8.99× 109)(4 × 10−9)
+
+=
+
+(0,3)2
+
+= 2,70× 102N.C−1
+
+We need to add the two electric field beacuse both are in the same direction. The
+
+field is away from Q1 and towards Q2. Therefore,
+
+Etotal = 6,74× 102 + 2,70× 102 = 9,44× 102N.C−1
+

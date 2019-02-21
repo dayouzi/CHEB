@@ -1,0 +1,191 @@
+13.2 Lenses
+
+In this section we will discuss properties of thin lenses. In Grade 10, you learnt about two kinds
+
+of mirrors: concave mirrors which were also known as converging mirrors and convex mirrors
+
+which were also known as diverging mirrors. Similarly, there are two types of lenses: converging
+
+and diverging lenses.
+
+We have learnt how light travels in different materials, and we are now ready to learn how we
+
+can control the direction of light rays. We use lenses to control the direction of light. When
+
+light enters a lens, the light rays bend or change direction as shown in Figure 13.1.
+
+Definition: Lens
+
+A lens is any transparent material (e.g. glass) of an appropriate shape that can take parallel
+
+rays of incident light and either converge the rays to a point or diverge the rays from a
+
+point.
+
+Some lenses will focus light rays to a single point. These lenses are called converging or concave
+
+lenses. Other lenses spread out the light rays so that it looks like they all come from the same
+
+point. These lenses are called diverging or convex lenses. Lenses change the direction of light
+
+rays by refraction. They are designed so that the image appears in a certain place or as a certain
+
+size. Lenses are used in eyeglasses, cameras, microscopes, and telescopes. You also have lenses
+
+in your eyes!
+
+Definition: Converging Lenses
+
+Converging lenses converge parallel rays of light and are thicker in the middle than at the
+
+edges.
+
+Definition: Diverging Lenses
+
+Diverging lenses diverge parallel rays of light and are thicker at the edges than in the middle.
+
+327
+
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+
+parallel rays of rays are focused
+
+light enter the lens at the same point
+
+(a) A converging lens will focus the rays that enter the lens
+
+parallel rays of rays are spread out
+
+light enter the lens as if they are comingfrom the same point
+
+(b) A diverging lens will spread out the rays that enter the lens
+
+Figure 13.1: The behaviour of parallel light rays entering either a converging or diverging lens.
+
+Examples of converging and diverging lenses are shown in Figure 13.2.
+
+converging lenses diverging lenses
+
+Figure 13.2: Types of lenses
+
+Before we study lenses in detail, there are a few important terms that must be defined. Figure 13.3
+
+shows important lens properties:
+
+• The principal axis is the line which runs horizontally straight through the optical centre
+
+of the lens. It is also sometimes called the optic axis.
+
+• The optical centre (O) of a convex lens is usually the centre point of the lens. The
+
+direction of all light rays which pass through the optical centre, remains unchanged.
+
+• The focus or focal point of the lens is the position on the principal axis where all light
+
+rays which run parallel to the principal axis through the lens converge (come together) at
+
+a point. Since light can pass through the lens either from right to left or left to right,
+
+there is a focal point on each side of the lens (F1 and F2), at the same distance from the
+
+optical centre in each direction. (Note: the plural form of the word focus is foci.)
+
+• The focal length (f) is the distance between the optical centre and the focal point.
+
+328
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+parallel rays of rays are focused
+light enter the lens at the same point
+(a) A converging lens will focus the rays that enter the lens
+parallel rays of rays are spread out
+light enter the lens as if they are comingfrom the same point
+(b) A diverging lens will spread out the rays that enter the lens
+Figure 13.1: The behaviour of parallel light rays entering either a converging or diverging lens.
+Examples of converging and diverging lenses are shown in Figure 13.2.
+converging lenses diverging lenses
+Figure 13.2: Types of lenses
+Before we study lenses in detail, there are a few important terms that must be defined. Figure 13.3
+shows important lens properties:
+• The principal axis is the line which runs horizontally straight through the optical centre
+of the lens. It is also sometimes called the optic axis.
+• The optical centre (O) of a convex lens is usually the centre point of the lens. The
+direction of all light rays which pass through the optical centre, remains unchanged.
+• The focus or focal point of the lens is the position on the principal axis where all light
+rays which run parallel to the principal axis through the lens converge (come together) at
+a point. Since light can pass through the lens either from right to left or left to right,
+there is a focal point on each side of the lens (F1 and F2), at the same distance from the
+optical centre in each direction. (Note: the plural form of the word focus is foci.)
+• The focal length (f) is the distance between the optical centre and the focal point.
+328
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+
+parallel rays of rays are focused
+
+light enter the lens at the same point
+
+(a) A converging lens will focus the rays that enter the lens
+
+parallel rays of rays are spread out
+
+light enter the lens as if they are comingfrom the same point
+
+(b) A diverging lens will spread out the rays that enter the lens
+
+Figure 13.1: The behaviour of parallel light rays entering either a converging or diverging lens.
+
+Examples of converging and diverging lenses are shown in Figure 13.2.
+
+converging lenses diverging lenses
+
+Figure 13.2: Types of lenses
+
+Before we study lenses in detail, there are a few important terms that must be defined. Figure 13.3
+
+shows important lens properties:
+
+• The principal axis is the line which runs horizontally straight through the optical centre
+
+of the lens. It is also sometimes called the optic axis.
+
+• The optical centre (O) of a convex lens is usually the centre point of the lens. The
+
+direction of all light rays which pass through the optical centre, remains unchanged.
+
+• The focus or focal point of the lens is the position on the principal axis where all light
+
+rays which run parallel to the principal axis through the lens converge (come together) at
+
+a point. Since light can pass through the lens either from right to left or left to right,
+
+there is a focal point on each side of the lens (F1 and F2), at the same distance from the
+
+optical centre in each direction. (Note: the plural form of the word focus is foci.)
+
+• The focal length (f) is the distance between the optical centre and the focal point.
+
+328
+
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+
+Principal axis
+
+F1 O F2
+
+Optical centre
+
+f f
+
+(a) converging lens
+
+Principal axis
+
+F1 O F2
+
+Optical centre
+
+f f
+
+(b) diverging lens
+
+Figure 13.3: Properties of lenses.
+

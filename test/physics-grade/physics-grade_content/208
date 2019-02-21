@@ -1,0 +1,335 @@
+12.4.1 Newton's Law of Universal Gravitation
+
+Definition: Newton's Law of Universal Gravitation
+
+Every point mass attracts every other point mass by a force directed along the line connecting
+
+the two. This force is proportional to the product of the masses and inversely proportional
+
+to the square of the distance between them.
+
+The magnitude of the attractive gravitational force between the two point masses, F is given
+
+by:
+
+m1m2
+
+F = G (12.2)
+
+r2
+
+where: G is the gravitational constant, m1 is the mass of the first point mass, m2 is the mass
+
+of the second point mass and r is the distance between the two point masses.
+
+Assuming SI units, F is measured in newtons (N), m1 and m2 in kilograms (kg), r in meters
+
+(m), and the constant G is approximately equal to 6,67× 10−11N ·m2 · kg−2. Remember that
+
+this is a force of attraction.
+
+For example, consider a man of mass 80 kg standing 10 m from a woman with a mass of 65 kg.
+
+282
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.4
+
+The attractive gravitational force between them would be:
+
+m1m2
+
+F = G
+
+r2
+
+(80)(65)
+
+= (6,67× 10−11)( )
+
+(10)2
+
+= 3,47× 10−9 N
+
+If the man and woman move to 1 m apart, then the force is:
+
+m1m2
+
+F = G
+
+r2
+
+(80)(65)
+
+= (6,67× 10−11)( )
+
+(1)2
+
+= 3,47× 10−7 N
+
+As you can see, these forces are very small.
+
+Now consider the gravitational force between the Earth and the Moon. The mass of the Earth is
+
+5,98×1024 kg, the mass of the Moon is 7,35×1022 kg and the Earth and Moon are 0,38×109 m
+
+apart. The gravitational force between the Earth and Moon is:
+
+m1m2
+
+F = G
+
+r2
+
+(5,98× 1024)
+
+= (6,67× 10−11 (7,35× 10
+
+22)
+
+)( )
+
+(0,38× 109)2
+
+= 2,03× 1020 N
+
+From this example you can see that the force is very large.
+
+These two examples demonstrate that the bigger the masses, the greater the force between them.
+
+The 1/r2 factor tells us that the distance between the two bodies plays a role as well. The closer
+
+two bodies are, the stronger the gravitational force between them is. We feel the gravitational
+
+attraction of the Earth most at the surface since that is the closest we can get to it, but if we
+
+were in outer-space, we would barely even know the Earth's gravity existed!
+
+Remember that
+
+F = m · a (12.3)
+
+which means that every object on Earth feels the same gravitational acceleration! That means
+
+whether you drop a pen or a book (from the same height), they will both take the same length
+
+of time to hit the ground... in fact they will be head to head for the entire fall if you drop them
+
+at the same time. We can show this easily by using the two equations above (Equations 12.2
+
+and 12.3). The force between the Earth (which has the mass me) and an object of mass mo is
+
+Gmome
+
+F = (12.4)
+
+r2
+
+and the acceleration of an object of mass mo (in terms of the force acting on it) is
+
+F
+
+ao = (12.5)
+
+mo
+
+So we substitute equation (12.4) into Equation (12.5), and we find that
+
+Gme
+
+ao = (12.6)
+
+r2
+
+Since it doesn't matter what mo is, this tells us that the acceleration on a body (due to the
+
+Earth's gravity) does not depend on the mass of the body. Thus all objects experience the same
+
+gravitational acceleration. The force on different bodies will be different but the acceleration will
+
+be the same. Due to the fact that this acceleration caused by gravity is the same on all objects
+
+we label it differently, instead of using a we use g which we call the gravitational acceleration.
+
+283
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.4
+The attractive gravitational force between them would be:
+m1m2
+F = G
+r2
+(80)(65)
+= (6,67× 10−11)( )
+(10)2
+= 3,47× 10−9 N
+If the man and woman move to 1 m apart, then the force is:
+m1m2
+F = G
+r2
+(80)(65)
+= (6,67× 10−11)( )
+(1)2
+= 3,47× 10−7 N
+As you can see, these forces are very small.
+Now consider the gravitational force between the Earth and the Moon. The mass of the Earth is
+5,98×1024 kg, the mass of the Moon is 7,35×1022 kg and the Earth and Moon are 0,38×109 m
+apart. The gravitational force between the Earth and Moon is:
+m1m2
+F = G
+r2
+(5,98× 1024)
+= (6,67× 10−11 (7,35× 10
+22)
+)( )
+(0,38× 109)2
+= 2,03× 1020 N
+From this example you can see that the force is very large.
+These two examples demonstrate that the bigger the masses, the greater the force between them.
+The 1/r2 factor tells us that the distance between the two bodies plays a role as well. The closer
+two bodies are, the stronger the gravitational force between them is. We feel the gravitational
+attraction of the Earth most at the surface since that is the closest we can get to it, but if we
+were in outer-space, we would barely even know the Earth's gravity existed!
+Remember that
+F = m · a (12.3)
+which means that every object on Earth feels the same gravitational acceleration! That means
+whether you drop a pen or a book (from the same height), they will both take the same length
+of time to hit the ground... in fact they will be head to head for the entire fall if you drop them
+at the same time. We can show this easily by using the two equations above (Equations 12.2
+and 12.3). The force between the Earth (which has the mass me) and an object of mass mo is
+Gmome
+F = (12.4)
+r2
+and the acceleration of an object of mass mo (in terms of the force acting on it) is
+F
+ao = (12.5)
+mo
+So we substitute equation (12.4) into Equation (12.5), and we find that
+Gme
+ao = (12.6)
+r2
+Since it doesn't matter what mo is, this tells us that the acceleration on a body (due to the
+Earth's gravity) does not depend on the mass of the body. Thus all objects experience the same
+gravitational acceleration. The force on different bodies will be different but the acceleration will
+be the same. Due to the fact that this acceleration caused by gravity is the same on all objects
+we label it differently, instead of using a we use g which we call the gravitational acceleration.
+283
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.4
+
+The attractive gravitational force between them would be:
+
+m1m2
+
+F = G
+
+r2
+
+(80)(65)
+
+= (6,67× 10−11)( )
+
+(10)2
+
+= 3,47× 10−9 N
+
+If the man and woman move to 1 m apart, then the force is:
+
+m1m2
+
+F = G
+
+r2
+
+(80)(65)
+
+= (6,67× 10−11)( )
+
+(1)2
+
+= 3,47× 10−7 N
+
+As you can see, these forces are very small.
+
+Now consider the gravitational force between the Earth and the Moon. The mass of the Earth is
+
+5,98×1024 kg, the mass of the Moon is 7,35×1022 kg and the Earth and Moon are 0,38×109 m
+
+apart. The gravitational force between the Earth and Moon is:
+
+m1m2
+
+F = G
+
+r2
+
+(5,98× 1024)
+
+= (6,67× 10−11 (7,35× 10
+
+22)
+
+)( )
+
+(0,38× 109)2
+
+= 2,03× 1020 N
+
+From this example you can see that the force is very large.
+
+These two examples demonstrate that the bigger the masses, the greater the force between them.
+
+The 1/r2 factor tells us that the distance between the two bodies plays a role as well. The closer
+
+two bodies are, the stronger the gravitational force between them is. We feel the gravitational
+
+attraction of the Earth most at the surface since that is the closest we can get to it, but if we
+
+were in outer-space, we would barely even know the Earth's gravity existed!
+
+Remember that
+
+F = m · a (12.3)
+
+which means that every object on Earth feels the same gravitational acceleration! That means
+
+whether you drop a pen or a book (from the same height), they will both take the same length
+
+of time to hit the ground... in fact they will be head to head for the entire fall if you drop them
+
+at the same time. We can show this easily by using the two equations above (Equations 12.2
+
+and 12.3). The force between the Earth (which has the mass me) and an object of mass mo is
+
+Gmome
+
+F = (12.4)
+
+r2
+
+and the acceleration of an object of mass mo (in terms of the force acting on it) is
+
+F
+
+ao = (12.5)
+
+mo
+
+So we substitute equation (12.4) into Equation (12.5), and we find that
+
+Gme
+
+ao = (12.6)
+
+r2
+
+Since it doesn't matter what mo is, this tells us that the acceleration on a body (due to the
+
+Earth's gravity) does not depend on the mass of the body. Thus all objects experience the same
+
+gravitational acceleration. The force on different bodies will be different but the acceleration will
+
+be the same. Due to the fact that this acceleration caused by gravity is the same on all objects
+
+we label it differently, instead of using a we use g which we call the gravitational acceleration.
+
+283
+
+12.4 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+

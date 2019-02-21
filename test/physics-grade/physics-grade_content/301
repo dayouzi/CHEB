@@ -1,0 +1,324 @@
+17.8 Exercises - Electrostatics
+
+1. Two charges of +3nC and −5nC are separated by a distance of 40cm. What is the
+
+electrostatic force between the two charges?
+
+2. Two insulated metal spheres carrying charges of +6nC and −10nC are separated by a
+
+distance of 20 mm.
+
+A What is the electrostatic force between the spheres?
+
+B The two spheres are touched and then separated by a distance of 60mm. What are
+
+the new charges on the spheres?
+
+C What is new electrostatic force between the spheres at this distance?
+
+3. The electrostatic force between two charged spheres of +3nC and +4nC respectively is
+
+0,04N. What is the distance between the spheres?
+
+4. Calculate the potential difference between two parallel plates if it takes 5000J of energy
+
+to move 25C of charge between the plates?
+
+5. Draw the electric field pattern lines between:
+
+A two equal positive point charges.
+
+B two equal negative point charges.
+
+6. Calculate the electric field between the plates of a capacitor if the plates are 20mm apart
+
+and the potential difference between the plates is 300V.
+
+7. Calculate the electrical potential energy of a 6nC charge that is 20cm from a 10nC
+
+charge.
+
+8. What is the capacitance of a capacitor if it has a charge of 0,02C on each of its plates
+
+when the potential difference between the plates is 12V?
+
+407
+
+17.8 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+9. [SC 2003/11] Two small identical metal spheres, on insulated stands, carry charges -q
+
+and +3q respectively. When the centres of the spheres are separated by a distance d the
+
+one exerts an electrostatic force of magnitude F on the other.
+
+−q +3q
+
+d
+
+The spheres are now made to touch each other and are then brought back to the same
+
+distance d apart. What will be the magnitude of the electrostatic force which one sphere
+
+now exerts on the other?
+
+A 14F
+
+B 13F
+
+C 12F
+
+D 3F
+
+10. [SC 2003/11] Three point charges of magnitude +1 µC, +1 µC and -1 µC respectively
+
+are placed on the three corners of an equilateral triangle as shown.
+
++1 µC +1 µC
+
+b b
+
+b
+
+-1 µC
+
+Which vector best represents the direction of the resultant force acting on the -1 µC
+
+charge as a result of the forces exerted by the other two charges?
+
+(a) (b) (c) (d)
+
+11. [IEB 2003/11 HG1 - Force Fields] Electric Fields
+
+A Write a statement of Coulomb's law.
+
+B Calculate the magnitude of the force exerted by a point charge of +2 nC on another
+
+point charge of -3 nC separated by a distance of 60 mm.
+
+C Sketch the electric field between two point charges of +2 nC and -3 nC,
+
+respectively, placed 60 mm apart from each other.
+
+12. [IEB 2003/11 HG1 - Electrostatic Ping-Pong]
+
+Two charged parallel metal plates, X and Y, separated by a distance of 60 mm, are
+
+connected to a d.c. supply of emf 2 000 V in series with a microammeter. An initially
+
+uncharged conducting sphere (a graphite-coated ping pong ball) is suspended from an
+
+insulating thread between the metal plates as shown in the diagram.
+
+408
+17.8 CHAPTER 17. ELECTROSTATICS - GRADE 11
+9. [SC 2003/11] Two small identical metal spheres, on insulated stands, carry charges -q
+and +3q respectively. When the centres of the spheres are separated by a distance d the
+one exerts an electrostatic force of magnitude F on the other.
+−q +3q
+d
+The spheres are now made to touch each other and are then brought back to the same
+distance d apart. What will be the magnitude of the electrostatic force which one sphere
+now exerts on the other?
+A 14F
+B 13F
+C 12F
+D 3F
+10. [SC 2003/11] Three point charges of magnitude +1 µC, +1 µC and -1 µC respectively
+are placed on the three corners of an equilateral triangle as shown.
++1 µC +1 µC
+b b
+b
+-1 µC
+Which vector best represents the direction of the resultant force acting on the -1 µC
+charge as a result of the forces exerted by the other two charges?
+(a) (b) (c) (d)
+11. [IEB 2003/11 HG1 - Force Fields] Electric Fields
+A Write a statement of Coulomb's law.
+B Calculate the magnitude of the force exerted by a point charge of +2 nC on another
+point charge of -3 nC separated by a distance of 60 mm.
+C Sketch the electric field between two point charges of +2 nC and -3 nC,
+respectively, placed 60 mm apart from each other.
+12. [IEB 2003/11 HG1 - Electrostatic Ping-Pong]
+Two charged parallel metal plates, X and Y, separated by a distance of 60 mm, are
+connected to a d.c. supply of emf 2 000 V in series with a microammeter. An initially
+uncharged conducting sphere (a graphite-coated ping pong ball) is suspended from an
+insulating thread between the metal plates as shown in the diagram.
+408
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.8
+plate A
+bS
+32 mm V +1000V
+Q
+b
+plate B
+When the ping pong ball is moved to the right to touch the positive plate, it acquires a
+charge of +9 nC. It is then released. The ball swings to and fro between the two plates,
+touching each plate in turn.
+A How many electrons are removed from the ball when it acquires a charge of +9 nC?
+B Explain why a current is established in the circuit.
+C Determine the current if the ball takes 0,25 s to swing from Y to X.
+D Using the same graphite-coated ping pong ball, and the same two metal plates, give
+TWO ways in which this current could be increased.
+E Sketch the electric field between the plates X and Y.
+F How does the electric force exerted on the ball change as it moves from Y to X?
+13. [IEB 2005/11 HG] A positive charge Q is released from rest at the centre of a uniform
+electric field.
+positive plate
++Q b
+negative plate
+How does Q move immediately after it is released?
+A It accelerates uniformly.
+B It moves with an increasing acceleration.
+C It moves with constant speed.
+D It remains at rest in its initial position.
+14. [SC 2002/03 HG1] The sketch below shows two sets of parallel plates which are
+connected together. A potential difference of 200 V is applied across both sets of plates.
+The distances between the two sets of plates are 20 mm and 40 mm respectively.
+A B
+bP 200 V
+C D
+R
+b
+When a charged particle Q is placed at point R, it experiences a force of magnitude F . Q
+is now moved to point P, halfway between plates AB and CD. Q now experiences a force
+of magnitude ...
+A 12F
+B F
+C 2F
+409
+40 mm
+20 mm
+17.8 CHAPTER 17. ELECTROSTATICS - GRADE 11
+D 4F
+15. [SC 2002/03 HG1] The electric field strength at a distance x from a point charge is E.
+What is the magnitude of the electric field strength at a distance 2x away from the point
+charge?
+A 14E
+B 12E
+C 2E
+D 4E
+16. [IEB 2005/11 HG1]
+An electron (mass 9,11 × 10−31 kg) travels horizontally in a vacuum. It enters the
+shaded regions between two horizontal metal plates as shown in the diagram below.
++400 V
+P
+b
+0 V
+A potential difference of 400 V is applied across the places which are separated by 8,00
+mm.
+The electric field intensity in the shaded region between the metal plates is uniform.
+Outside this region, it is zero.
+A Explain what is meant by the phrase "the electric field intensity is uniform".
+B Copy the diagram and draw the following:
+i. The electric field between the metal plates.
+ii. An arrow showing the direction of the electrostatic force on the electron when
+it is at P.
+C Determine the magnitude of the electric field intensity between the metal plates.
+D Calculate the magnitude of the electrical force on the electron during its passage
+through the electric field between the plates.
+E Calculate the magnitude of the acceleration of the electron (due to the electrical
+force on it) during its passage through the electric field between the plates.
+F After the electron has passed through the electric field between these plates, it
+collides with phosphorescent paint on a TV screen and this causes the paint to
+glow. What energy transfer takes place during this collision?
+17. [IEB 2004/11 HG1] A positively-charged particle is placed in a uniform electric field.
+Which of the following pairs of statements correctly describes the potential energy of the
+charge, and the force which the charge experiences in this field?
+Potential energy - Force
+A Greatest near the negative plate - Same everywhere in the field
+B Greatest near the negative plate - Greatest near the positive and negative plates
+C Greatest near the positive plate - Greatest near the positive and negative plates
+410
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.8
+D Greatest near the positive plate - Same everywhere in the field
+18. [IEB 2004/11 HG1 - TV Tube]
+A speck of dust is attracted to a TV screen. The screen is negatively charged, because
+this is where the electron beam strikes it. The speck of dust is neutral.
+A What is the name of the electrostatic process which causes dust to be attracted to
+a TV screen?
+B Explain why a neutral speck of dust is attracted to the negatively-charged TV
+screen?
+C Inside the TV tube, electrons are accelerated through a uniform electric field.
+Determine the magnitude of the electric force exerted on an electron when it
+accelerates through a potential difference of 2 000 V over a distance of 50 mm.
+D How much kinetic energy (in J) does one electron gain while it accelerates over this
+distance?
+E The TV tube has a power rating of 300 W. Estimate the maximum number of
+electrons striking the screen per second.
+19. [IEB 2003/11 HG1] A point charge is held stationary between two charged parallel plates
+that are separated by a distance d. The point charge experiences an electrical force F due
+to the electric field E between the parallel plates.
+What is the electrical force on the point charge when the plate separation is increased to
+2d?
+A 14 F
+B 12 F
+C 2 F
+D 4 F
+20. [IEB 2001/11 HG1] - Parallel Plates
+A distance of 32 mm separates the horizontal parallel plates A and B.
+B is at a potential of +1 000 V.
+plate A
+bS
+32 mm V +1000V
+Q
+b
+plate B
+A Draw a sketch to show the electric field lines between the plates A and B.
+B Calculate the magnitude of the electric field intensity (strength) between the plates.
+A tiny charged particle is stationary at S, 8 mm below plate A that is at zero
+electrical potential. It has a charge of 3,2 × 10−12 C.
+C State whether the charge on this particle is positive or negative.
+D Calculate the force due to the electric field on the charge.
+E Determine the mass of the charged particle.
+The charge is now moved from S to Q.
+F What is the magnitude of the force exerted by the electric field on the charge at Q?
+G Calculate the work done when the particle is moved from S to Q.
+411
+17.8 CHAPTER 17. ELECTROSTATICS - GRADE 11
+412
+17.8 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+412
+
+Chapter 18
+
+Electromagnetism - Grade 11
+
+18.1 Introduction
+
+Electromagnetism is the science of the properties and relationship between electric currents and
+
+magnetism. An electric current creates a magnetic field and a moving magnetic field will create
+
+a flow of charge. This relationship between electricity and magnetism has resulted in the
+
+invention of many devices which are useful to humans.
+
+18.2 Magnetic field associated with a current
+
+If you hold a compass near a wire through which current is flowing, the needle on the compass
+
+will be deflected.
+
+conductor conductor
+
+N N
+
+compass compass
+
+no current current is
+
+is flowing flowing
+
+There is no deflection on The compass needle de-
+
+the compass when there is flects when there is current
+
+no current flowing in the flowing in the conductor.
+
+conductor.
+
+Activity :: Case Study : Magnetic field near a current carrying conductor
+
+413

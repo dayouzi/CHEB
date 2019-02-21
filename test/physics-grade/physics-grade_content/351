@@ -1,0 +1,438 @@
+21.3 Conservation of Momentum in Two Dimensions
+
+We have seen in Chapter ?? that the momentum of a system is conserved when there are no
+
+external forces acting on the system. Conversely, an external force causes a change in
+
+momentum ∆p, with the impulse delivered by the force, F acting for a time ∆t given by:
+
+∆p = F ·∆t
+
+The same principles that were studied in applying the conservation of momentum to problems
+
+in one dimension, can be applied to solving problems in two dimensions.
+
+The calculation of momentum is the same in two dimensions as in one dimension. The
+
+calculation of momentum in two dimensions is broken down into determining the x and y
+
+components of momentum and applying the conservation of momentum to each set of
+
+components.
+
+Consider two objects moving towards each other as shown in Figure 21.4. We analyse this
+
+situation by calculating the x and y components of the momentum of each object.
+
+v vf2y vf1yP f2 vf1
+
+b
+
+v φ2f2x m m
+
+φ1
+
+2 1 vf1x
+
+vi1y vv v i2yi1 i2
+
+m θ
+
+P
+
+1
+
+1 vi1x v
+
+θ2
+
+i2x m2 b
+
+(a) Before the collision (b) After the collision
+
+Figure 21.4: Two balls collide at point P.
+
+Before the collision
+
+Total momentum:
+
+pi1 = m1vi1
+
+pi2 = m2vi2
+
+475
+
+21.3 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+
+x-component of momentum:
+
+pi1x = m1vi1x = m1vi1 cos θ1
+
+pi2x = m2ui2x = m2vi2 sin θ2
+
+y-component of momentum:
+
+pi1y = m1vi1y = m1vi1 cos θ1
+
+pi2y = m2vi2y = m2vi2 sin θ2
+
+After the collision
+
+Total momentum:
+
+pf1 = m1vf1
+
+pf2 = m2vf2
+
+x-component of momentum:
+
+pf1x = m1vf1x = m1vf1 cosφ1
+
+pf2x = m2vf2x = m2vf2 sinφ2
+
+y-component of momentum:
+
+pf1y = m1vf1y = m1vf1 cosφ1
+
+pf2y = m2vf2y = m2vf2 sinφ2
+
+Conservation of momentum
+
+The initial momentum is equal to the final momentum:
+
+pi = pf
+
+pi = pi1 + pi2
+
+pf = pf1 + pf2
+
+This forms the basis of analysing momentum conservation problems in two dimensions.
+
+Worked Example 137: 2D Conservation of Momentum
+
+Question: In a rugby game, Player 1 is running with the ball at 5 m·s−1 straight
+
+down the field parallel to the edge of the field. Player 2 runs at 6 m·s−1 an angle
+
+of 60◦ to the edge of the field and tackles Player 1. In the tackle, Player 2 stops
+
+completely while Player 1 bounces off Player 2. Calculate the velocity (magnitude
+
+and direction) at which Player 1 bounces off Player 2. Both the players have a
+
+mass of 90 kg.
+
+Answer
+
+Step 1 : Understand what is given and what is being asked
+
+The first step is to draw the picture to work out what the situation is. Mark the
+
+initial velocities of both players in the picture.
+
+476
+21.3 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+x-component of momentum:
+pi1x = m1vi1x = m1vi1 cos θ1
+pi2x = m2ui2x = m2vi2 sin θ2
+y-component of momentum:
+pi1y = m1vi1y = m1vi1 cos θ1
+pi2y = m2vi2y = m2vi2 sin θ2
+After the collision
+Total momentum:
+pf1 = m1vf1
+pf2 = m2vf2
+x-component of momentum:
+pf1x = m1vf1x = m1vf1 cosφ1
+pf2x = m2vf2x = m2vf2 sinφ2
+y-component of momentum:
+pf1y = m1vf1y = m1vf1 cosφ1
+pf2y = m2vf2y = m2vf2 sinφ2
+Conservation of momentum
+The initial momentum is equal to the final momentum:
+pi = pf
+pi = pi1 + pi2
+pf = pf1 + pf2
+This forms the basis of analysing momentum conservation problems in two dimensions.
+Worked Example 137: 2D Conservation of Momentum
+Question: In a rugby game, Player 1 is running with the ball at 5 m·s−1 straight
+down the field parallel to the edge of the field. Player 2 runs at 6 m·s−1 an angle
+of 60◦ to the edge of the field and tackles Player 1. In the tackle, Player 2 stops
+completely while Player 1 bounces off Player 2. Calculate the velocity (magnitude
+and direction) at which Player 1 bounces off Player 2. Both the players have a
+mass of 90 kg.
+Answer
+Step 1 : Understand what is given and what is being asked
+The first step is to draw the picture to work out what the situation is. Mark the
+initial velocities of both players in the picture.
+476
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.3
+v2xi
+v
+2i =
+8
+m 60
+◦
+s −
+1
+We also know that m1 = m2 = 90 kg and vf2 = 0 ms
+−1.
+We need to find the final velocity and angle at which Player 1 bounces off Player 2.
+Step 2 : Use conservation of momentum to solve the problem. First find
+the initial total momentum:
+Total initial momentum = Total final momentum. But we have a two dimensional
+problem, and we need to break up the initial momentum into x and y components.
+pix = pfx
+piy = pfy
+For Player 1:
+pix1 = m1vi1x = 90× 0 = 0
+piy1 = m1vi1y = 90× 5
+For Player 2:
+pix2 = m2vi2x = 90× 8× sin 60◦
+piy2 = m2vi2y = 90× 8× cos 60◦
+Step 3 : Now write down what we know about the final momentum:
+For Player 1:
+pfx1 = m1vfx1 = 90× vfx1
+pfy1 = m1vfy1 = 90× vfy1
+For Player 2:
+pfx2 = m2vfx2 = 90× 0 = 0
+pfy2 = m2vfy2 = 90× 0 = 0
+Step 4 : Use conservation of momentum:
+The initial total momentum in the x direction is equal to the final total momentum
+in the x direction.
+The initial total momentum in the y direction is equal to the final total momentum
+in the y direction.
+If we find the final x and y components, then we can find the final total
+momentum.
+pix1 + pix2 = pfx1 + pfx2
+0 + 90× 8× sin 60◦ = 90× vfx1 + 0
+90× 8× sin 60◦
+vfx1 =
+90
+vfx1 = 6.928ms
+−1
+477
+v1i =5 ms − 1
+v2y i
+21.3 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+piy1 + piy2 = pfy1 + pfy2
+90× 5 + 90× 8× cos 60◦ = 90× vfy1 + 0
+90× 5 + 90× 8× cos 60◦
+vfy1 =
+90
+vfy1 = 9.0ms
+−1
+Step 5 : Using the x and y components, calculate the final total v
+Use Pythagoras's theorem to find the total final velocity:
+θ
+vfx1
+√
+v 2ftot = √v 2fx1 + vfx2
+= 6.9282 + 92
+= 11.36
+Calculate the angle θ to find the direction of Player 1's final velocity:
+vfxy1
+sin θ =
+vftot
+θ = 52.4◦
+Therefore Player 1 bounces off Player 2 with a final velocity of 11.36 m·s−1 at an
+angle of 52.4◦ from the horizontal.
+Worked Example 138: 2D Conservation of Momentum: II
+Question: In a soccer game, Player 1 is running with the ball at 5 m·s−1 across
+the pitch at an angle of 75◦ from the horizontal. Player 2 runs towards Player 1 at
+6 m·s−1 an angle of 60◦ to the horizontal and tackles Player 1. In the tackle, the
+two players bounce off each other. Player 2 moves off with a velocity in the
+opposite x-direction of 0.3 m·s−1 and a velocity in the y-direction of 6 m·s−1.
+Both the players have a mass of 80 kg. What is the final total velocity of Player 1?
+Answer
+Step 1 : Understand what is given and what is being asked
+The first step is to draw the picture to work out what the situation is. Mark the
+initial velocities of both players in the picture.
+v
+i2=6
+ms −
+1
+60◦
+vix2
+75◦
+vix1
+478
+vi1 =5 ms −1
+v
+v f y 1iy 1
+viy 2
+vf
+to
+t
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.3
+We also know that m1 = m2 = 80 kg. And vfx2=-0.3 ms
+−1 and vfy2=6 ms
+−1.
+We need to find the final velocity and angle at which Player 1 bounces off Player 2.
+Step 2 : Use conservation of momentum to solve the problem. First find
+the initial total momentum:
+Total initial momentum = Total final momentum. But we have a two dimensional
+problem, and we need to break up the initial momentum into x and y components.
+pix = pfx
+piy = pfy
+For Player 1:
+pix1 = m1vi1x = 80× 5× cos 75◦
+piy1 = m1vi1y = 80× 5× sin 75◦
+For Player 2:
+pix2 = m2vi2x = 80× 6× cos 60◦
+piy2 = m2vi2y = 80× 6× sin 60◦
+Step 3 : Now write down what we know about the final momentum:
+For Player 1:
+pfx1 = m1vfx1 = 80× vfx1
+pfy1 = m1vfy1 = 80× vfy1
+For Player 2:
+pfx2 = m2vfx2 = 80× (−0.3)× cos 60◦
+pfy2 = m2vfy2 = 80× 6× sin 60◦
+Step 4 : Use conservation of momentum:
+The initial total momentum in the x direction is equal to the final total momentum
+in the x direction.
+The initial total momentum in the y direction is equal to the final total momentum
+in the y direction.
+If we find the final x and y components, then we can find the final total
+momentum.
+pix1 + pix2 = pfx1 + pfx2
+80× 5 cos 75◦ + 80× cos 60◦ = 80× vfx1 + 80× (−0.3)
+80× 5 cos 75◦ + 80× cos 60◦ + 80× (−0.3)
+vfx1 =
+80
+vfx1 = 2.0ms
+−1
+piy1 + piy2 = pfy1 + pfy2
+80× 5 sin 75◦ + 80× sin 60◦ = 80× vfy1 + 80× 6
+80× 5 sin 75◦ + 80× sin 60◦ − 80× 6
+vfy1 =
+80
+vfy1 = 4.0ms
+−1
+Step 5 : Using the x and y components, calculate the final total v
+Use Pythagoras's theorem to find the total final velocity:
+479
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.3
+
+We also know that m1 = m2 = 80 kg. And vfx2=-0.3 ms
+
+−1 and vfy2=6 ms
+
+−1.
+
+We need to find the final velocity and angle at which Player 1 bounces off Player 2.
+
+Step 2 : Use conservation of momentum to solve the problem. First find
+
+the initial total momentum:
+
+Total initial momentum = Total final momentum. But we have a two dimensional
+
+problem, and we need to break up the initial momentum into x and y components.
+
+pix = pfx
+
+piy = pfy
+
+For Player 1:
+
+pix1 = m1vi1x = 80× 5× cos 75◦
+
+piy1 = m1vi1y = 80× 5× sin 75◦
+
+For Player 2:
+
+pix2 = m2vi2x = 80× 6× cos 60◦
+
+piy2 = m2vi2y = 80× 6× sin 60◦
+
+Step 3 : Now write down what we know about the final momentum:
+
+For Player 1:
+
+pfx1 = m1vfx1 = 80× vfx1
+
+pfy1 = m1vfy1 = 80× vfy1
+
+For Player 2:
+
+pfx2 = m2vfx2 = 80× (−0.3)× cos 60◦
+
+pfy2 = m2vfy2 = 80× 6× sin 60◦
+
+Step 4 : Use conservation of momentum:
+
+The initial total momentum in the x direction is equal to the final total momentum
+
+in the x direction.
+
+The initial total momentum in the y direction is equal to the final total momentum
+
+in the y direction.
+
+If we find the final x and y components, then we can find the final total
+
+momentum.
+
+pix1 + pix2 = pfx1 + pfx2
+
+80× 5 cos 75◦ + 80× cos 60◦ = 80× vfx1 + 80× (−0.3)
+
+80× 5 cos 75◦ + 80× cos 60◦ + 80× (−0.3)
+
+vfx1 =
+
+80
+
+vfx1 = 2.0ms
+
+−1
+
+piy1 + piy2 = pfy1 + pfy2
+
+80× 5 sin 75◦ + 80× sin 60◦ = 80× vfy1 + 80× 6
+
+80× 5 sin 75◦ + 80× sin 60◦ − 80× 6
+
+vfy1 =
+
+80
+
+vfy1 = 4.0ms
+
+−1
+
+Step 5 : Using the x and y components, calculate the final total v
+
+Use Pythagoras's theorem to find the total final velocity:
+
+479
+
+21.4 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+
+θ
+
+vfx1
+
+√
+
+v 2ftot = √v 2fx1 + vfx2
+
+= 22 + 42
+
+= 4.5
+
+Calculate the angle θ to find the direction of Player 1's final velocity:
+
+vfy1
+
+tan θ =
+
+vfx1
+
+θ = 26.6◦
+
+Therefore Player 1 bounces off Player 2 with a final velocity of 4.5 m·s−1 at an
+
+angle of 26.6◦ from the horizontal.
+

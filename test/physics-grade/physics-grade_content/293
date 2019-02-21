@@ -1,0 +1,206 @@
+17.5.1 Capacitors and capacitance
+
+A parallel plate capacitor is a device that consists of two oppositely charged conducting plates
+
+separated by a small distance, which stores charge. When voltage is applied to the capacitor,
+
+electric charge of equal magnitude, but opposite polarity, build up on each plate.
+
+R
+
+E
+
+C
+
+Figure 17.1: A capacitor (C) connected in series with a resistor (R) and an energy source (E).
+
+Definition: Capacitance
+
+Capacitance is the charge stored per volt and is measured in farad (F)
+
+Mathematically, capacitance is the ratio of the charge on a single plate to the voltage across
+
+the plates of the capacitor:
+
+Q
+
+C = .
+
+V
+
+403
+
+17.5 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+Capacitance is measured in farads (F). Since capacitance is defined as C = QV , the units are in
+
+terms of charge over potential difference. The unit of charge is the coulomb and the unit of the
+
+potential difference is the volt. One farad is therefore the capacitance if one coulomb of charge
+
+was stored on a capacitor for every volt applied.
+
+1 C of charge is a very large amount of charge. So, for a small amount of voltage applied, a
+
+1 F capacitor can store a enormous amount of charge. Therefore, capacitors are often denoted
+
+in terms of microfarads (1 × 10−6), nanofarads (1× 10−9), or picofarads (1× 10−12).
+
+Important: Q is the magnitude of the charge stored on either plate, not on both plates
+
+added together. Since one plate stores positive charge and the other stores negative charge,
+
+the total charge on the two plates is zero.
+
+Worked Example 118: Capacitance
+
+Question: Suppose that a 5 V battery is connected in a circuit to a 5 pF
+
+capacitor. After the battery has been connected for a long time, what is the charge
+
+stored on each of the plates?
+
+Answer
+
+To begin remember that after a voltage has been applied for a long time the
+
+capacitor is fully charged. The relation between voltage and the maximum charge
+
+of a capacitor is found in equation ??.
+
+CV = Q
+
+Inserting the given values of C = 5F and V = 5V, we find that:
+
+Q = CV
+
+= (5× 10−12F )(5V )
+
+= 2,5× 10−11C
+
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.5
+
+objects simultaneously, with only one connecting with the leader and forming
+
+the main discharge path. Photographs have been taken on which
+
+non-connected streamers are clearly visible. When the two leaders meet, the
+
+electric current greatly increases. The region of high current propagates back
+
+up the positive stepped leader into the cloud with a "return stroke" that is
+
+the most luminous part of the lightning discharge.
+
+3. Discharge When the electric field becomes strong enough, an electrical
+
+discharge (the bolt of lightning) occurs within clouds or between clouds and
+
+the ground. During the strike, successive portions of air become a conductive
+
+discharge channel as the electrons and positive ions of air molecules are pulled
+
+away from each other and forced to flow in opposite directions. The electrical
+
+discharge rapidly superheats the discharge channel, causing the air to expand
+
+rapidly and produce a shock wave heard as thunder. The rolling and gradually
+
+dissipating rumble of thunder is caused by the time delay of sound coming
+
+from different portions of a long stroke.
+
+Important: Estimating distance of a lightning strike
+
+The flash of a lightning strike and resulting thunder occur at roughly the same time. But light
+
+travels at 300 000 kilometres in a second, almost a million times the speed of sound. Sound
+
+travels at the slower speed of 330 m/s in the same time, so the flash of lightning is seen before
+
+thunder is heard. By counting the seconds between the flash and the thunder and dividing by 3,
+
+you can estimate your distance from the strike and initially the actual storm cell (in kilometres).
+
+17.5 Capacitance and the parallel plate capacitor
+
+17.5.1 Capacitors and capacitance
+
+A parallel plate capacitor is a device that consists of two oppositely charged conducting plates
+
+separated by a small distance, which stores charge. When voltage is applied to the capacitor,
+
+electric charge of equal magnitude, but opposite polarity, build up on each plate.
+
+R
+
+E
+
+C
+
+Figure 17.1: A capacitor (C) connected in series with a resistor (R) and an energy source (E).
+
+Definition: Capacitance
+
+Capacitance is the charge stored per volt and is measured in farad (F)
+
+Mathematically, capacitance is the ratio of the charge on a single plate to the voltage across
+
+the plates of the capacitor:
+
+Q
+
+C = .
+
+V
+
+403
+
+17.5 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+Capacitance is measured in farads (F). Since capacitance is defined as C = QV , the units are in
+
+terms of charge over potential difference. The unit of charge is the coulomb and the unit of the
+
+potential difference is the volt. One farad is therefore the capacitance if one coulomb of charge
+
+was stored on a capacitor for every volt applied.
+
+1 C of charge is a very large amount of charge. So, for a small amount of voltage applied, a
+
+1 F capacitor can store a enormous amount of charge. Therefore, capacitors are often denoted
+
+in terms of microfarads (1 × 10−6), nanofarads (1× 10−9), or picofarads (1× 10−12).
+
+Important: Q is the magnitude of the charge stored on either plate, not on both plates
+
+added together. Since one plate stores positive charge and the other stores negative charge,
+
+the total charge on the two plates is zero.
+
+Worked Example 118: Capacitance
+
+Question: Suppose that a 5 V battery is connected in a circuit to a 5 pF
+
+capacitor. After the battery has been connected for a long time, what is the charge
+
+stored on each of the plates?
+
+Answer
+
+To begin remember that after a voltage has been applied for a long time the
+
+capacitor is fully charged. The relation between voltage and the maximum charge
+
+of a capacitor is found in equation ??.
+
+CV = Q
+
+Inserting the given values of C = 5F and V = 5V, we find that:
+
+Q = CV
+
+= (5× 10−12F )(5V )
+
+= 2,5× 10−11C
+

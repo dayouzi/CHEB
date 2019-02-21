@@ -1,0 +1,451 @@
+12.3.6 Different types of forces
+
+Tension
+
+Tension is the magnitude of the force that exists in objects like ropes, chains and struts that are
+
+providing support. For example, there are tension forces in the ropes supporting a child's swing
+
+hanging from a tree.
+
+Contact and non-contact forces
+
+In this chapter we have come across a number of different types of forces, for example a push
+
+or a pull, tension in a string, frictional forces and the normal. These are all examples of contact
+
+forces where there is a physical point of contact between applying the force and the object.
+
+Non-contact forces are forces that act over a distance, for example magnetic forces, electrostatic
+
+268
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+
+forces and gravitational forces.
+
+When an object is placed on a surface, two types of surface forces can be identified. Fric-
+
+tion is a force that acts between the surface and the object and parallel to the surface. The
+
+normal force is a force that acts between the object and the surface and parallel to the surface.
+
+The normal force
+
+A 5 kg box is placed on a rough surface and a 10 N force is applied at an angle of 36,9◦ to
+
+the horizontal. The box does not move. The normal force (N or FN ) is the force between
+
+the box and the surface acting in the vertical direction. If this force is not present the box
+
+would fall through the surface because the force of gravity pulls it downwards. The normal force
+
+therefore acts upwards. We can calculate the normal force by considering all the forces in the
+
+vertical direction. All the forces in the vertical direction must add up to zero because there is
+
+no movement in the vertical direction.
+
+N + Fy + Fg = 0
+
+N + 6 + (−49) = 0
+
+N = 43N upwards
+
+N 10 N Fy = 10 sin 36,9◦ = 6 N
+
+Ff Fx = 10 cos 36,9◦ = 8 N5 kg
+
+Fg = 5 x 9,8 = 49 N
+
+Figure 12.12: Friction and the normal force
+
+The most interesting and illustrative normal force question, that is often asked, has to do with
+
+a scale in a lift. Using Newton's third law we can solve these problems quite easily.
+
+When you stand on a scale to measure your weight you are pulled down by gravity. There is no
+
+acceleration downwards because there is a reaction force we call the normal force acting upwards
+
+on you. This is the force that the scale would measure. If the gravitational force were less then
+
+the reading on the scale would be less.
+
+Worked Example 76: Normal Forces 1
+
+Question: A man with a mass of 100 kg stands on a scale (measuring newtons).
+
+What is the reading on the scale?
+
+Answer
+
+Step 1 : Identify what information is given and what is asked for
+
+We are given the mass of the man. We know the gravitational acceleration that acts
+
+on him is 9,8 = m·s−2.
+
+Step 2 : Decide what equation to use to solve the problem
+
+The scale measures the normal force on the man. This is the force that balances
+
+gravity. We can use Newton's laws to solve the problem:
+
+Fr = Fg + FN
+
+269
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+forces and gravitational forces.
+When an object is placed on a surface, two types of surface forces can be identified. Fric-
+tion is a force that acts between the surface and the object and parallel to the surface. The
+normal force is a force that acts between the object and the surface and parallel to the surface.
+The normal force
+A 5 kg box is placed on a rough surface and a 10 N force is applied at an angle of 36,9◦ to
+the horizontal. The box does not move. The normal force (N or FN ) is the force between
+the box and the surface acting in the vertical direction. If this force is not present the box
+would fall through the surface because the force of gravity pulls it downwards. The normal force
+therefore acts upwards. We can calculate the normal force by considering all the forces in the
+vertical direction. All the forces in the vertical direction must add up to zero because there is
+no movement in the vertical direction.
+N + Fy + Fg = 0
+N + 6 + (−49) = 0
+N = 43N upwards
+N 10 N Fy = 10 sin 36,9◦ = 6 N
+Ff Fx = 10 cos 36,9◦ = 8 N5 kg
+Fg = 5 x 9,8 = 49 N
+Figure 12.12: Friction and the normal force
+The most interesting and illustrative normal force question, that is often asked, has to do with
+a scale in a lift. Using Newton's third law we can solve these problems quite easily.
+When you stand on a scale to measure your weight you are pulled down by gravity. There is no
+acceleration downwards because there is a reaction force we call the normal force acting upwards
+on you. This is the force that the scale would measure. If the gravitational force were less then
+the reading on the scale would be less.
+Worked Example 76: Normal Forces 1
+Question: A man with a mass of 100 kg stands on a scale (measuring newtons).
+What is the reading on the scale?
+Answer
+Step 1 : Identify what information is given and what is asked for
+We are given the mass of the man. We know the gravitational acceleration that acts
+on him is 9,8 = m·s−2.
+Step 2 : Decide what equation to use to solve the problem
+The scale measures the normal force on the man. This is the force that balances
+gravity. We can use Newton's laws to solve the problem:
+Fr = Fg + FN
+269
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+where Fr is the resultant force on the man.
+Step 3 : Firstly we determine the force on the man due to gravity
+Fg = mg
+= (100 kg)(9,8m · s−2)
+= 980 kg · m · s−2
+= 980N downwards
+Step 4 : Now determine the normal force acting upwards on the man
+We now know the gravitational force downwards. We know that the sum of all the
+forces must equal the resultant acceleration times the mass. The overall resultant
+acceleration of the man on the scale is 0 - so Fr = 0.
+Fr = Fg + FN
+0 = −980N+ FN
+FN = 980N upwards
+Step 5 : Quote the final answer
+The normal force is 980 N upwards. It exactly balances the gravitational force
+downwards so there is no net force and no acceleration on the man. The reading on
+the scale is 980 N.
+Now we are going to add things to exactly the same problem to show how things change slightly.
+We will now move to a lift moving at constant velocity. Remember if velocity is constant then
+acceleration is zero.
+Worked Example 77: Normal Forces 2
+Question: A man with a mass of 100 kg stands on a scale (measuring newtons)
+inside a lift that moving downwards at a constant velocity of 2 m·s−1. What is the
+reading on the scale?
+Answer
+Step 6 : Identify what information is given and what is asked for
+We are given the mass of the man and the acceleration of the lift. We know the
+gravitational acceleration that acts on him.
+Step 7 : Decide which equation to use to solve the problem
+Once again we can use Newton's laws. We know that the sum of all the forces must
+equal the resultant force, Fr .
+Fr = Fg + FN
+Step 8 : Determine the force due to gravity
+Fg = mg
+= (100 kg)(9,8m · s−2)
+= 980 kg · m · s−2
+= 980N downwards
+Step 9 : Now determine the normal force acting upwards on the man
+The scale measures this normal force, so once we have determined it we will know
+the reading on the scale. Because the lift is moving at constant velocity the overall
+270
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+resultant acceleration of the man on the scale is 0. If we write out the equation:
+Fr = Fg + FN
+ma = Fg + FN
+(100)(0) = −980N+ FN
+FN = 980N upwards
+Step 10 : Quote the final answer
+The normal force is 980 N upwards. It exactly balances the gravitational force
+downwards so there is no net force and no acceleration on the man. The reading on
+the scale is 980 N.
+In the previous two examples we got exactly the same result because the net acceleration on the
+man was zero! If the lift is accelerating downwards things are slightly different and now we will
+get a more interesting answer!
+Worked Example 78: Normal Forces 3
+Question: A man with a mass of 100 kg stands on a scale (measuring newtons)
+inside a lift that is accelerating downwards at 2 m·s−2. What is the reading on the
+scale?
+Answer
+Step 1 : Identify what information is given and what is asked for
+We are given the mass of the man and his resultant acceleration - this is just the
+acceleration of the lift. We know the gravitational acceleration also acts on him.
+Step 2 : Decide which equation to use to solve the problem
+Once again we can use Newton's laws. We know that the sum of all the forces must
+equal the resultant force, Fr .
+Fr = Fg + FN
+Step 3 : Determine the force due to gravity, Fg
+Fg = mg
+= (100 kg)(9,8m · s−2)
+= 980 kg · m · s−2
+= 980N downwards
+Step 4 : Determine the resultant force, Fr
+The resultant force can be calculated by applying Newton's Second Law:
+Fr = ma
+Fr = (100)(−2)
+= −200 N
+= 200 N down
+Step 5 : Determine the normal force, FN
+The sum of all the vertical forces is equal to the resultant force, therefore
+Fr = Fg + FN
+−200 = −980 + FN
+FN = 780N upwards
+Step 6 : Quote the final answer
+271
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+The normal force is 780 N upwards. It balances the gravitational force downwards
+just enough so that the man only accelerates downwards at 2 m·s−2. The reading
+on the scale is 780 N.
+Worked Example 79: Normal Forces 4
+Question: A man with a mass of 100 kg stands on a scale (measuring newtons)
+inside a lift that is accelerating upwards at 4 m·s−2. What is the reading on the
+scale?
+Answer
+Step 1 : Identify what information is given and what is asked for
+We are given the mass of the man and his resultant acceleration - this is just the
+acceleration of the lift. We know the gravitational acceleration also acts on him.
+Step 2 : Decide which equation to use to solve the problem
+Once again we can use Newton's laws. We know that the sum of all the forces must
+equal the resultant force, Fr .
+Fr = Fg + FN
+Step 3 : Determine the force due to gravity, Fg
+Fg = mg
+= (100 kg)(9,8m · s−2)
+= 980 kg · m · s−2
+= 980N downwards
+Step 4 : Determine the resultant force, Fr
+The resultant force can be calculated by applying Newton's Second Law:
+Fr = ma
+Fr = (100)(4)
+= 400 N upwards
+Step 5 : Determine the normal force, FN
+The sum of all the vertical forces is equal to the resultant force, therefore
+Fr = Fg + FN
+400 = −980 + FN
+FN = 1380N upwards
+Step 6 : Quote the final answer
+The normal force is 1380 N upwards. It balances the gravitational force downwards
+and then in addition applies sufficient force to accelerate the man upwards at 4m·s−2.
+The reading on the scale is 1380 N.
+Friction forces
+When the surface of one object slides over the surface of another, each body exerts a frictional
+force on the other. For example if a book slides across a table, the table exerts a frictional
+force onto the book and the book exerts a frictional force onto the table (Newton's Third Law).
+Frictional forces act parallel to the surfaces.
+272
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+A force is not always big enough to make an object move, for example a small applied force
+might not be able to move a heavy crate. The frictional force opposing the motion of the crate
+is equal to the applied force but acting in the opposite direction. This frictional force is called
+static friction. When we increase the applied force (push harder), the frictional force will also
+increase until the applied force overcomes it. This frictional force can vary from zero (when
+no other forces are present and the object is stationary) to a maximum that depends on the
+surfaces. When the applied force is greater than the frictional force and the crate will move.
+The frictional force will now decrease to a new constant value which is also dependent on the
+surfaces. This is called kinetic friction. In both cases the maximum frictional force is related to
+the normal force and can be calculated as follows:
+For static friction: Ff ≤ µs N
+Where µs = the coefficient of static friction
+and N = normal force
+For kinetic friction: Ff = µk N
+Where µk = the coefficient of kinetic friction
+and N = normal force
+Remember that static friction is present when the object is not moving and kinetic friction
+while the object is moving. For example when you drive at constant velocity in a car on a tar
+road you have to keep the accelerator pushed in slightly to overcome the kinetic friction between
+the tar road and the wheels of the car. The higher the value for the coefficient of friction, the
+more 'sticky' the surface is and the lower the value, the more 'slippery' the surface is.
+The frictional force (Ff ) acts in the horizontal direction and can be calculated in a similar way
+to the normal for as long as there is no movement. If we use the same example as in figure 12.12
+and we choose to the right as positive,
+Ff + Fx = 0
+Ff + (+8) = 0
+Ff = −8
+Ff = 8N to the left
+Worked Example 80: Forces on a slope
+Question: A 50 kg crate is placed on a slope that makes an angle of 30◦ with the
+horizontal. The box does not slide down the slope. Calculate the magnitude and
+direction of the frictional force and the normal force present in this situation.
+Answer
+Step 1 : Draw a force diagram
+Draw a force diagram and fill in all the details on the diagram. This makes it easier
+to understand the problem.
+273
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+N Ff
+50 k
+g
+30◦
+F 50 x 9 8 Fy = 490 cos 30◦ = 224 Ng = , = 490 N
+30◦
+Fx = 490 sin 30◦ = 245 N
+Figure 12.13: Friction and the normal forces on a slope
+Step 2 : Calculate the normal force
+The normal force acts perpendicular to the surface (and not vertically upwards).
+It's magnitude is equal to the component of the weight perpendicular to the slope.
+Therefore:
+N = Fg cos 30
+◦
+N = 490 cos 30◦
+N = 224N perpendicular to the surface
+Step 3 : Calculate the frictional force
+The frictional force acts parallel to the surface and up the slope. It's magnitude is
+equal to the component of the weight parallel to the slope. Therefore:
+Ff = Fg sin 30
+◦
+Ff = 490 sin 30
+◦
+Ff = 245N up the slope
+We often think about friction in a negative way but very often friction is useful without us
+realizing it. If there was no friction and you tried to prop a ladder up against a wall, it would
+simply slide to the ground. Rock climbers use friction to maintain their grip on cliffs. The brakes
+of cars would be useless if it wasn't for friction!
+Worked Example 81: Coefficients of friction
+Question: A block of wood weighing 32 N is placed on a rough slope and a rope is
+tied to it. The tension in the rope can be increased to 8 N before the block starts
+to slide. A force of 4 N will keep the block moving at constant speed once it has
+been set in motion. Determine the coefficients of static and kinetic friction.
+Answer
+Step 1 : Analyse the question and determine what is asked
+The weight of the block is given (32 N) and two situations are identified: One where
+the block is not moving (applied force is 8 N), and one where the block is moving
+(applied force is 4 N).
+We are asked to find the coefficient for static friction µs and kinetic friction µk.
+Step 2 : Find the coefficient of static friction
+274
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+N Ff
+
+50 k
+
+g
+
+30◦
+
+F 50 x 9 8 Fy = 490 cos 30◦ = 224 Ng = , = 490 N
+
+30◦
+
+Fx = 490 sin 30◦ = 245 N
+
+Figure 12.13: Friction and the normal forces on a slope
+
+Step 2 : Calculate the normal force
+
+The normal force acts perpendicular to the surface (and not vertically upwards).
+
+It's magnitude is equal to the component of the weight perpendicular to the slope.
+
+Therefore:
+
+N = Fg cos 30
+
+◦
+
+N = 490 cos 30◦
+
+N = 224N perpendicular to the surface
+
+Step 3 : Calculate the frictional force
+
+The frictional force acts parallel to the surface and up the slope. It's magnitude is
+
+equal to the component of the weight parallel to the slope. Therefore:
+
+Ff = Fg sin 30
+
+◦
+
+Ff = 490 sin 30
+
+◦
+
+Ff = 245N up the slope
+
+We often think about friction in a negative way but very often friction is useful without us
+
+realizing it. If there was no friction and you tried to prop a ladder up against a wall, it would
+
+simply slide to the ground. Rock climbers use friction to maintain their grip on cliffs. The brakes
+
+of cars would be useless if it wasn't for friction!
+
+Worked Example 81: Coefficients of friction
+
+Question: A block of wood weighing 32 N is placed on a rough slope and a rope is
+
+tied to it. The tension in the rope can be increased to 8 N before the block starts
+
+to slide. A force of 4 N will keep the block moving at constant speed once it has
+
+been set in motion. Determine the coefficients of static and kinetic friction.
+
+Answer
+
+Step 1 : Analyse the question and determine what is asked
+
+The weight of the block is given (32 N) and two situations are identified: One where
+
+the block is not moving (applied force is 8 N), and one where the block is moving
+
+(applied force is 4 N).
+
+We are asked to find the coefficient for static friction µs and kinetic friction µk.
+
+Step 2 : Find the coefficient of static friction
+
+274
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.3
+
+Ff = µsN
+
+8 = µs(32)
+
+µs = 0,25
+
+Note that the coefficient of friction does not have a unit as it shows a ratio. The value
+
+for the coefficient of friction friction can have any value up to a maximum of 0,25.
+
+When a force less than 8 N is applied, the coefficient of friction will be less than 0,25.
+
+Step 3 : Find the coefficient of kinetic friction
+
+The coefficient of kinetic friction is sometimes also called the coefficient of dynamic
+
+friction. Here we look at when the block is moving:
+
+Ff = µkN
+
+4 = µk(32)
+
+µk = 0,125
+

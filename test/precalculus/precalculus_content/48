@@ -1,0 +1,93 @@
+6.6 THE LAW OF COSINES
+The Law of Cosines ! Navigation: Heading and Bearing ! The Area of a Triangle
+! The Law of Cosines
+The Law of Sines cannot be used directly to solve triangles if we know two sides and the
+angle between them or if we know all three sides (these are Cases 3 and 4 of the preced-
+ing section). In these two cases the Law of Cosines applies.
+C
+THE L AW OF COSINES
+b a In any triangle ABC (see Figure 1), we have
+ a2 " b2 $ c2 # 2bc cos A
+ b2 " a2 $ c2 # 2ac cos B
+A c B  c2 " a2 $ b2 # 2ab cos C
+F I G U R E  1
+P R O O F To prove the Law of Cosines, place triangle ABC so that "A is at the origin, as
+y shown in Figure 2. The coordinates of vertices B and C are 1c, 0 2 and (b cos A, b sin A),
+respectively. (You should check that the coordinates of these points will be the same if we
+C(b ç A, b ß A) draw angle A as an ac
+ a2 " 1ute angle.) Using the Distance Formula, we getb cos A # c 2 2 $ 1b sin A # 0 2 2
+b a
+ " b2 cos2 A # 2bc cos A $ c2 $ b2 sin2 A
+ " 2 b 1cos2 A $ sin2 A 2 # 2bc cos A $ c2
+A(0, 0) c B(c, 0) x  " b
+2 $ c2 # 2bc cos A Because sin2A $ cos2A " 1
+This proves the first formula. The other two formulas are obtained in the same way by
+placing each of the other vertices of the triangle at the origin and repeating the preceding
+F I G U R E  2 argument. "
+In words, the Law of Cosines says that the square of any side of a triangle is equal to
+the sum of the squares of the other two sides, minus twice the product of those two sides
+times the cosine of the included angle.
+If one of the angles of a triangle, say "C, is a right angle, then cos C " 0, and the Law
+of Cosines reduces to the Pythagorean Theorem, c2 " a2 $ b2. Thus the Pythagorean
+Theorem is a special case of the Law of Cosines.
+E X A M P L E  1 Length of a Tunnel
+A tunnel is to be built through a mountain. To estimate the length of the tunnel, a surveyor
+makes the measurements shown in Figure 3. Use the surveyor's data to approximate the
+A B
+length of the tunnel.
+S O L U T I O N To approximate the length c of the tunnel, we use the Law of Cosines:
+ c2 " a2 $ b2 # 2ab cos C Law of Cosines
+388 ft 212 ft
+ " 3882 $ 2122 # 21388 2 1212 2  cos 82.4° Substitute
+82.4º
+ ! 173730.2367 Use a calculator
+C  c ! 1173730.2367 ! 416.8 Take square roots
+Thus the tunnel will be approximately 417 ft long.
+F I G U R E  3
+476 C H A P T E R  6 | Trigonometric Functions: Right Triangle Approach
+6.6 THE LAW OF COSINES
+The Law of Cosines ! Navigation: Heading and Bearing ! The Area of a Triangle
+! The Law of Cosines
+The Law of Sines cannot be used directly to solve triangles if we know two sides and the
+angle between them or if we know all three sides (these are Cases 3 and 4 of the preced-
+ing section). In these two cases the Law of Cosines applies.
+C
+THE L AW OF COSINES
+b a In any triangle ABC (see Figure 1), we have
+ a2 " b2 $ c2 # 2bc cos A
+ b2 " a2 $ c2 # 2ac cos B
+A c B  c2 " a2 $ b2 # 2ab cos C
+F I G U R E  1
+P R O O F To prove the Law of Cosines, place triangle ABC so that "A is at the origin, as
+y shown in Figure 2. The coordinates of vertices B and C are 1c, 0 2 and (b cos A, b sin A),
+respectively. (You should check that the coordinates of these points will be the same if we
+C(b ç A, b ß A) draw angle A as an ac
+ a2 " 1ute angle.) Using the Distance Formula, we getb cos A # c 2 2 $ 1b sin A # 0 2 2
+b a
+ " b2 cos2 A # 2bc cos A $ c2 $ b2 sin2 A
+ " 2 b 1cos2 A $ sin2 A 2 # 2bc cos A $ c2
+A(0, 0) c B(c, 0) x  " b
+2 $ c2 # 2bc cos A Because sin2A $ cos2A " 1
+This proves the first formula. The other two formulas are obtained in the same way by
+placing each of the other vertices of the triangle at the origin and repeating the preceding
+F I G U R E  2 argument. "
+In words, the Law of Cosines says that the square of any side of a triangle is equal to
+the sum of the squares of the other two sides, minus twice the product of those two sides
+times the cosine of the included angle.
+If one of the angles of a triangle, say "C, is a right angle, then cos C " 0, and the Law
+of Cosines reduces to the Pythagorean Theorem, c2 " a2 $ b2. Thus the Pythagorean
+Theorem is a special case of the Law of Cosines.
+E X A M P L E  1 Length of a Tunnel
+A tunnel is to be built through a mountain. To estimate the length of the tunnel, a surveyor
+makes the measurements shown in Figure 3. Use the surveyor's data to approximate the
+A B
+length of the tunnel.
+S O L U T I O N To approximate the length c of the tunnel, we use the Law of Cosines:
+ c2 " a2 $ b2 # 2ab cos C Law of Cosines
+388 ft 212 ft
+ " 3882 $ 2122 # 21388 2 1212 2  cos 82.4° Substitute
+82.4º
+ ! 173730.2367 Use a calculator
+C  c ! 1173730.2367 ! 416.8 Take square roots
+Thus the tunnel will be approximately 417 ft long.
+F I G U R E  3

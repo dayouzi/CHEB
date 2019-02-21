@@ -1,0 +1,272 @@
+12.2.6 Finding the Resultant Force
+
+The easiest way to determine a resultant force is to draw a free body diagram. Remember from
+
+Chapter ?? that we use the length of the arrow to indicate the vector's magnitude and the
+
+direction of the arrow to show which direction it acts in.
+
+After we have done this, we have a diagram of vectors and we simply find the sum of the vectors
+
+to get the resultant force.
+
+244
+
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.2
+
+4 N 6 N 6 N 4 N
+
+b
+
+(a) (b)
+
+Figure 12.1: (a) Force diagram of 2 forces acting on a box. (b) Free body diagram of the box.
+
+For example, two people push on a box from opposite sides with forces of 4 N and 6 N respectively
+
+as shown in Figure 12.1(a). The free body diagram in Figure 12.1(b) shows the object represented
+
+by a dot and the two forces are represented by arrows with their tails on the dot.
+
+As you can see, the arrows point in opposite directions and have different lengths. The resultant
+
+force is 2 N to the left. This result can be obtained algebraically too, since the two forces act
+
+along the same line. First, as in motion in one direction, choose a frame of reference. Secondly,
+
+add the two vectors taking their directions into account.
+
+For the example, assume that the positive direction is to the right, then:
+
+FR = (+4N) + (−6N)
+
+= −2N
+
+= 2N to the left
+
+Remember that a negative answer means that the force acts in the opposite direction to the one
+
+that you chose to be positive. You can choose the positive direction to be any way you want,
+
+but once you have chosen it you must keep it.
+
+As you work with more force diagrams in which the forces exactly balance, you may notice that
+
+you get a zero answer (e.g. 0 N). This simply means that the forces are balanced and that the
+
+object will not move.
+
+Once a force diagram has been drawn the techniques of vector addition introduced in Chapter ??
+
+can be used. Depending on the situation you might choose to use a graphical technique such as
+
+the tail-to-head method or the parallelogram method, or else an algebraic approach to determine
+
+the resultant. Since force is a vector all of these methods apply.
+
+Worked Example 62: Finding the resultant force
+
+Question: A car (mass 1200 kg) applies a force of 2000 N on a trailer (mass 250
+
+kg). A constant frictional force of 200 N is acting on the trailer, and 300 N is acting
+
+on the car.
+
+1. Draw a force diagram of all the forces acting on the car.
+
+2. Draw a free body diagram of all the horizontal forces acting on the trailer.
+
+3. Use the force diagram to determine the resultant force on the trailer.
+
+Answer
+
+Step 1 : Draw the force diagram for the car.
+
+The question asks us to draw all the forces on the car. This means that we must
+
+include horizontal and vertical forces.
+
+FN : Upward force of road on car (12000 N)
+
+b
+
+F1: Force of trailer on car
+
+(to the left) (2000 N)
+
+b
+
+b
+
+b
+
+Ff : Frictional force on car
+
+(to the left) (300 N) Fg: Downward force of the Earth on car (12 000 N)
+
+245
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.2
+4 N 6 N 6 N 4 N
+b
+(a) (b)
+Figure 12.1: (a) Force diagram of 2 forces acting on a box. (b) Free body diagram of the box.
+For example, two people push on a box from opposite sides with forces of 4 N and 6 N respectively
+as shown in Figure 12.1(a). The free body diagram in Figure 12.1(b) shows the object represented
+by a dot and the two forces are represented by arrows with their tails on the dot.
+As you can see, the arrows point in opposite directions and have different lengths. The resultant
+force is 2 N to the left. This result can be obtained algebraically too, since the two forces act
+along the same line. First, as in motion in one direction, choose a frame of reference. Secondly,
+add the two vectors taking their directions into account.
+For the example, assume that the positive direction is to the right, then:
+FR = (+4N) + (−6N)
+= −2N
+= 2N to the left
+Remember that a negative answer means that the force acts in the opposite direction to the one
+that you chose to be positive. You can choose the positive direction to be any way you want,
+but once you have chosen it you must keep it.
+As you work with more force diagrams in which the forces exactly balance, you may notice that
+you get a zero answer (e.g. 0 N). This simply means that the forces are balanced and that the
+object will not move.
+Once a force diagram has been drawn the techniques of vector addition introduced in Chapter ??
+can be used. Depending on the situation you might choose to use a graphical technique such as
+the tail-to-head method or the parallelogram method, or else an algebraic approach to determine
+the resultant. Since force is a vector all of these methods apply.
+Worked Example 62: Finding the resultant force
+Question: A car (mass 1200 kg) applies a force of 2000 N on a trailer (mass 250
+kg). A constant frictional force of 200 N is acting on the trailer, and 300 N is acting
+on the car.
+1. Draw a force diagram of all the forces acting on the car.
+2. Draw a free body diagram of all the horizontal forces acting on the trailer.
+3. Use the force diagram to determine the resultant force on the trailer.
+Answer
+Step 1 : Draw the force diagram for the car.
+The question asks us to draw all the forces on the car. This means that we must
+include horizontal and vertical forces.
+FN : Upward force of road on car (12000 N)
+b
+F1: Force of trailer on car
+(to the left) (2000 N)
+b
+b
+b
+Ff : Frictional force on car
+(to the left) (300 N) Fg: Downward force of the Earth on car (12 000 N)
+245
+CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11 12.2
+
+4 N 6 N 6 N 4 N
+
+b
+
+(a) (b)
+
+Figure 12.1: (a) Force diagram of 2 forces acting on a box. (b) Free body diagram of the box.
+
+For example, two people push on a box from opposite sides with forces of 4 N and 6 N respectively
+
+as shown in Figure 12.1(a). The free body diagram in Figure 12.1(b) shows the object represented
+
+by a dot and the two forces are represented by arrows with their tails on the dot.
+
+As you can see, the arrows point in opposite directions and have different lengths. The resultant
+
+force is 2 N to the left. This result can be obtained algebraically too, since the two forces act
+
+along the same line. First, as in motion in one direction, choose a frame of reference. Secondly,
+
+add the two vectors taking their directions into account.
+
+For the example, assume that the positive direction is to the right, then:
+
+FR = (+4N) + (−6N)
+
+= −2N
+
+= 2N to the left
+
+Remember that a negative answer means that the force acts in the opposite direction to the one
+
+that you chose to be positive. You can choose the positive direction to be any way you want,
+
+but once you have chosen it you must keep it.
+
+As you work with more force diagrams in which the forces exactly balance, you may notice that
+
+you get a zero answer (e.g. 0 N). This simply means that the forces are balanced and that the
+
+object will not move.
+
+Once a force diagram has been drawn the techniques of vector addition introduced in Chapter ??
+
+can be used. Depending on the situation you might choose to use a graphical technique such as
+
+the tail-to-head method or the parallelogram method, or else an algebraic approach to determine
+
+the resultant. Since force is a vector all of these methods apply.
+
+Worked Example 62: Finding the resultant force
+
+Question: A car (mass 1200 kg) applies a force of 2000 N on a trailer (mass 250
+
+kg). A constant frictional force of 200 N is acting on the trailer, and 300 N is acting
+
+on the car.
+
+1. Draw a force diagram of all the forces acting on the car.
+
+2. Draw a free body diagram of all the horizontal forces acting on the trailer.
+
+3. Use the force diagram to determine the resultant force on the trailer.
+
+Answer
+
+Step 1 : Draw the force diagram for the car.
+
+The question asks us to draw all the forces on the car. This means that we must
+
+include horizontal and vertical forces.
+
+FN : Upward force of road on car (12000 N)
+
+b
+
+F1: Force of trailer on car
+
+(to the left) (2000 N)
+
+b
+
+b
+
+b
+
+Ff : Frictional force on car
+
+(to the left) (300 N) Fg: Downward force of the Earth on car (12 000 N)
+
+245
+
+12.3 CHAPTER 12. FORCE, MOMENTUM AND IMPULSE - GRADE 11
+
+Step 2 : Draw the free body diagram for the trailer.
+
+The question only asks for horizontal forces. We will therefore not include the force
+
+of the Earth on the trailer, or the force of the road on the trailer as these forces are
+
+in a vertical direction.
+
+F1: Force of car on trailer (to the right) (2000 N)
+
+b
+
+Ff : Frictional force on trailer (to the left) (200 N)
+
+Step 3 : Determine the resultant force on the trailer.
+
+To find the resultant force we need to add all the horizontal forces together. We do
+
+not add vertical forces as the movement of the car and trailer will be in a horizontal
+
+direction, and not up and down. FR = 2000 + (-200) = 1800 N to the right.
+

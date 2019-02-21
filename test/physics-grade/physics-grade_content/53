@@ -1,0 +1,387 @@
+4.5.2 Using the Law of Conservation of Energy
+
+Mechanical energy is conserved (in the absence of friction). Therefore we can say that the sum
+
+of the PE and the KE anywhere during the motion must be equal to the sum of the PE and
+
+the KE anywhere else in the motion.
+
+We can now apply this to the example of the suitcase on the cupboard. Consider the mechanical
+
+energy of the suitcase at the top and at the bottom. We can say:
+
+The mechanical energy (U) at the top.
+
+The mechanical energy will remain constant
+
+throughout the motion and will always be a maximum.
+
+The mechanical energy (U) at the bottom.
+
+Utop = Ubottom
+
+PEtop +KEtop = PEbottom +KEbottom
+
+1 1
+
+mgh+ mv2 = mgh+ mv2
+
+2 2
+
+1
+
+(1)(9,8)(2) + 0 = 0 + (1)(v2)
+
+2
+
+1
+
+19,6 J = v2
+
+2
+
+39,2 = v2
+
+v = 6,26m · s−1
+
+79
+
+4.5 CHAPTER 4. GRAVITY AND MECHANICAL ENERGY - GRADE 10
+
+The suitcase will strike the ground with a velocity of 6,26 m·s−1.
+
+From this we see that when an object is lifted, like the suitcase in our example, it gains potential
+
+energy. As it falls back to the ground, it will lose this potential energy, but gain kinetic en-
+
+ergy. We know that energy cannot be created or destroyed, but only changed from one form into
+
+another. In our example, the potential energy that the suitcase loses is changed to kinetic energy.
+
+The suitcase will have maximum potential energy at the top of the cupboard and maximum
+
+kinetic energy at the bottom of the cupboard. Halfway down it will have half kinetic energy and
+
+half potential energy. As it moves down, the potential energy will be converted (changed) into
+
+kinetic energy until all the potential energy is gone and only kinetic energy is left. The 19,6 J of
+
+potential energy at the top will become 19,6 J of kinetic energy at the bottom.
+
+Worked Example 20: Using the Law of Conservation of Mechanical Energy
+
+Question: During a flood a tree truck of mass 100 kg falls down a waterfall. The
+
+waterfall is 5 m high. If air resistance is ignored, calculate
+
+1. the potential energy of the tree trunk at the top of the waterfall.
+
+2. the kinetic energy of the tree trunk at the bottom of the waterfall.
+
+3. the magnitude of the velocity of the tree trunk at the bottom of the waterfall.
+
+m = 100 kg
+
+waterfall
+
+5 m
+
+Answer
+
+Step 1 : Analyse the question to determine what information is provided
+
+• The mass of the tree trunk m = 100 kg
+
+• The height of the waterfall h = 5 m.
+
+These are all in SI units so we do not have to convert.
+
+Step 2 : Analyse the question to determine what is being asked
+
+• Potential energy at the top
+
+• Kinetic energy at the bottom
+
+• Velocity at the bottom
+
+Step 3 : Calculate the potential energy.
+
+PE = mgh
+
+PE = (100)(9,8)(5)
+
+PE = 4900 J
+
+Step 4 : Calculate the kinetic energy.
+
+The kinetic energy of the tree trunk at the bottom of the waterfall is equal to the
+
+potential energy it had at the top of the waterfall. Therefore KE = 4900 J.
+
+Step 5 : Calculate the velocity.
+
+80
+4.5 CHAPTER 4. GRAVITY AND MECHANICAL ENERGY - GRADE 10
+The suitcase will strike the ground with a velocity of 6,26 m·s−1.
+From this we see that when an object is lifted, like the suitcase in our example, it gains potential
+energy. As it falls back to the ground, it will lose this potential energy, but gain kinetic en-
+ergy. We know that energy cannot be created or destroyed, but only changed from one form into
+another. In our example, the potential energy that the suitcase loses is changed to kinetic energy.
+The suitcase will have maximum potential energy at the top of the cupboard and maximum
+kinetic energy at the bottom of the cupboard. Halfway down it will have half kinetic energy and
+half potential energy. As it moves down, the potential energy will be converted (changed) into
+kinetic energy until all the potential energy is gone and only kinetic energy is left. The 19,6 J of
+potential energy at the top will become 19,6 J of kinetic energy at the bottom.
+Worked Example 20: Using the Law of Conservation of Mechanical Energy
+Question: During a flood a tree truck of mass 100 kg falls down a waterfall. The
+waterfall is 5 m high. If air resistance is ignored, calculate
+1. the potential energy of the tree trunk at the top of the waterfall.
+2. the kinetic energy of the tree trunk at the bottom of the waterfall.
+3. the magnitude of the velocity of the tree trunk at the bottom of the waterfall.
+m = 100 kg
+waterfall
+5 m
+Answer
+Step 1 : Analyse the question to determine what information is provided
+• The mass of the tree trunk m = 100 kg
+• The height of the waterfall h = 5 m.
+These are all in SI units so we do not have to convert.
+Step 2 : Analyse the question to determine what is being asked
+• Potential energy at the top
+• Kinetic energy at the bottom
+• Velocity at the bottom
+Step 3 : Calculate the potential energy.
+PE = mgh
+PE = (100)(9,8)(5)
+PE = 4900 J
+Step 4 : Calculate the kinetic energy.
+The kinetic energy of the tree trunk at the bottom of the waterfall is equal to the
+potential energy it had at the top of the waterfall. Therefore KE = 4900 J.
+Step 5 : Calculate the velocity.
+80
+CHAPTER 4. GRAVITY AND MECHANICAL ENERGY - GRADE 10 4.5
+To calculate the velocity of the tree trunk we need to use the equation for kinetic
+energy.
+1
+KE = mv2
+2
+1
+4900 = (100)(v2)
+2
+98 = v2
+v = 9,899...
+v = 9,90m · s−1downwards
+Worked Example 21: Pendulum
+Question: A 2 kg metal ball is suspended from a rope. If it is released from point
+A and swings down to the point B (the bottom of its arc):
+1. Show that the velocity of the ball is independent of it mass.
+2. Calculate the velocity of the ball at point B.
+A
+0.5m
+B
+Answer
+Step 1 : Analyse the question to determine what information is provided
+• The mass of the metal ball is m = 2 kg
+• The change in height going from point A to point B is h = 0,5 m
+• The ball is released from point A so the velocity at point, vA = 0 m·s−1.
+All quantities are in SI units.
+Step 2 : Analyse the question to determine what is being asked
+• Prove that the velocity is independent of mass.
+• Find the velocity of the metal ball at point B.
+Step 3 : Apply the Law of Conservation of Mechanical Energy to the situation
+As there is no friction, mechanical energy is conserved. Therefore:
+UA = UB
+PEA +KEA = PEB +KEB
+1 1
+mghA + m(vA)
+2 = mghB + m(vB)
+2
+2 2
+1
+mghA + 0 = 0 + m(vB)
+2
+2
+1
+mghA = m(vB)
+2
+2
+As the mass of the ball m appears on both sides of the equation, it can be eliminated
+so that the equation becomes:
+1
+ghA = (v
+2
+B)
+2
+81
+CHAPTER 4. GRAVITY AND MECHANICAL ENERGY - GRADE 10 4.5
+
+To calculate the velocity of the tree trunk we need to use the equation for kinetic
+
+energy.
+
+1
+
+KE = mv2
+
+2
+
+1
+
+4900 = (100)(v2)
+
+2
+
+98 = v2
+
+v = 9,899...
+
+v = 9,90m · s−1downwards
+
+Worked Example 21: Pendulum
+
+Question: A 2 kg metal ball is suspended from a rope. If it is released from point
+
+A and swings down to the point B (the bottom of its arc):
+
+1. Show that the velocity of the ball is independent of it mass.
+
+2. Calculate the velocity of the ball at point B.
+
+A
+
+0.5m
+
+B
+
+Answer
+
+Step 1 : Analyse the question to determine what information is provided
+
+• The mass of the metal ball is m = 2 kg
+
+• The change in height going from point A to point B is h = 0,5 m
+
+• The ball is released from point A so the velocity at point, vA = 0 m·s−1.
+
+All quantities are in SI units.
+
+Step 2 : Analyse the question to determine what is being asked
+
+• Prove that the velocity is independent of mass.
+
+• Find the velocity of the metal ball at point B.
+
+Step 3 : Apply the Law of Conservation of Mechanical Energy to the situation
+
+As there is no friction, mechanical energy is conserved. Therefore:
+
+UA = UB
+
+PEA +KEA = PEB +KEB
+
+1 1
+
+mghA + m(vA)
+
+2 = mghB + m(vB)
+
+2
+
+2 2
+
+1
+
+mghA + 0 = 0 + m(vB)
+
+2
+
+2
+
+1
+
+mghA = m(vB)
+
+2
+
+2
+
+As the mass of the ball m appears on both sides of the equation, it can be eliminated
+
+so that the equation becomes:
+
+1
+
+ghA = (v
+
+2
+
+B)
+
+2
+
+81
+
+4.6 CHAPTER 4. GRAVITY AND MECHANICAL ENERGY - GRADE 10
+
+2ghA = (vB)
+
+2
+
+This proves that the velocity of the ball is independent of its mass. It does not
+
+matter what its mass is, it will always have the same velocity when it falls through
+
+this height.
+
+Step 4 : Calculate the velocity of the ball
+
+We can use the equation above, or do the calculation from 'first principles':
+
+(vB)
+
+2 = 2ghA
+
+(vB)
+
+2 = (2)(9.8)(0,5)
+
+(vB)
+
+2 = √9,8
+
+vB = 9,8 m · s−1
+
+Exercise: Potential Energy
+
+1. A tennis ball, of mass 120 g, is dropped from a height of 5 m. Ignore air
+
+friction.
+
+(a) What is the potential energy of the ball when it has fallen 3 m?
+
+(b) What is the velocity of the ball when it hits the ground?
+
+2. A bullet, mass 50 g, is shot vertically up in the air with a muzzle velocity of 200
+
+m·s−1. Use the Principle of Conservation of Mechanical Energy to determine
+
+the height that the bullet will reach. Ignore air friction.
+
+3. A skier, mass 50 kg, is at the top of a 6,4 m ski slope.
+
+(a) Determine the maximum velocity that she can reach when she skies to the
+
+bottom of the slope.
+
+(b) Do you think that she will reach this velocity? Why/Why not?
+
+4. A pendulum bob of mass 1,5 kg, swings from a height A to the bottom of its
+
+arc at B. The velocity of the bob at B is 4 m·s−1. Calculate the height A from
+
+which the bob was released. Ignore the effects of air friction.
+
+5. Prove that the velocity of an object, in free fall, in a closed system, is indepen-
+
+dent of its mass.
+

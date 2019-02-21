@@ -1,0 +1,214 @@
+29.5 The Principles of Digital Electronics
+
+The circuits and components we have discussed are very useful. You can build a radio or
+
+television with them. You can make a telephone. Even if that was all there was to electronics,
+
+it would still be very useful. However, the great breakthrough in the last fifty years or so has
+
+been in digital electronics. This is the subject which gave us the computer. The computer has
+
+revolutionized the way business, engineering and science are done. Small computers
+
+programmed to do a specific job (called microprocessors) are now used in almost every
+
+electronic machine from cars to washing machines. Computers have also changed the way we
+
+communicate. We used to have telegraph or telephone wires passing up and down a country -
+
+each one carrying one telephone call or signal. We now have optic fibres each capable of
+
+carrying tens of thousands of telephone calls using digital signals.
+
+So, what is a digital signal? Look at Figure 29.16. A normal signal, called an analogue signal,
+
+carries a smooth wave. At any time, the voltage of the signal could take any value. It could be
+
+2,00 V or 3,53 V or anything else. A digital signal can only take certain voltages. The simplest
+
+case is shown in the figure - the voltage takes one of two values. It is either high, or it is low.
+
+It never has any other value.
+
+These two special voltages are given symbols. The low voltage level is written 0, while the high
+
+voltage level is written as 1. When you send a digital signal, you set the voltage you want (0 or
+
+1), then keep this fixed for a fixed amount of time (for example 0.01 µs), then you send the
+
+next 0 or 1. The digital signal in Figure 29.16 could be written 01100101.
+
+Why are digital signals so good?
+
+609
+
+29.5 CHAPTER 29. ELECTRONICS - GRADE 12
+
+Analogue Digital
+
+0 1 1 0 0 1 0 1
+
+time time
+
+Figure 29.16: The difference between normal (analogue) signals and digital signals. The analogue
+
+signal is on the left.
+
+1. Using a computer, any information can be turned into a pattern of 0s and 1s. Pictures,
+
+recorded music, text and motion pictures can all be turned into a string of 0s and 1s and
+
+transmitted or stored in the same way. The computer receiving the signal at the other
+
+end converts it back again. A Compact Disc (CD) for example, can store music or text or
+
+pictures, and all can be read using a computer.
+
+2. The 0 and the 1 look very different. You can immediately tell if a 0 or a 1 is being sent.
+
+Even if there is interference, you can still tell whether the sender sent a 0 or a 1. This
+
+means that fewer mistakes are made when reading a digital signal. This is why the best
+
+music recording technologies, and the most modern cameras, for example, all use digital
+
+technology.
+
+3. Using the 0s and 1s you can count, and do all kinds of mathematics. This will be
+
+explained in more detail in the next section.
+
+The simplest digital circuits are called logic gates. Each logic gate makes a decision based on
+
+the information it receives. Different logic gates are set up to make the decisions in different
+
+ways. Each logic gate will be made of many microscopic transistors connected together within
+
+a thin wafer of silicon. This tiny circuit is called an Integrated Circuit or I.C. - all the parts are
+
+in one place (integrated) on the silicon wafer.
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.5
+
+R2
+
+R
+
+Input 1 −
+
+Output
+
++
+
++
+
+R3
+
+Figure 29.15: An inverting amplifier built using an operational amplifier. The connections from
+
+battery to operational amplifier are not shown. The output voltage Vout = −R2Vin/R1, as
+
+explained in the text. The potentiometer R3 is a trimming potentiometer. To set it, the input
+
+is connected to zero volts. The trimming potentiometer is then adjusted until Vout = 0. In all
+
+operational amplifier circuits, zero volts is midway between the + and − of the supply.
+
+Exercise: Operational Amplifiers
+
+1. What are operational amplifiers used for?
+
+2. Draw a simple diagram of an operational amplifier and label its terminals.
+
+3. Why is a trimming potentiometer is needed when using an op-amp?
+
+29.5 The Principles of Digital Electronics
+
+The circuits and components we have discussed are very useful. You can build a radio or
+
+television with them. You can make a telephone. Even if that was all there was to electronics,
+
+it would still be very useful. However, the great breakthrough in the last fifty years or so has
+
+been in digital electronics. This is the subject which gave us the computer. The computer has
+
+revolutionized the way business, engineering and science are done. Small computers
+
+programmed to do a specific job (called microprocessors) are now used in almost every
+
+electronic machine from cars to washing machines. Computers have also changed the way we
+
+communicate. We used to have telegraph or telephone wires passing up and down a country -
+
+each one carrying one telephone call or signal. We now have optic fibres each capable of
+
+carrying tens of thousands of telephone calls using digital signals.
+
+So, what is a digital signal? Look at Figure 29.16. A normal signal, called an analogue signal,
+
+carries a smooth wave. At any time, the voltage of the signal could take any value. It could be
+
+2,00 V or 3,53 V or anything else. A digital signal can only take certain voltages. The simplest
+
+case is shown in the figure - the voltage takes one of two values. It is either high, or it is low.
+
+It never has any other value.
+
+These two special voltages are given symbols. The low voltage level is written 0, while the high
+
+voltage level is written as 1. When you send a digital signal, you set the voltage you want (0 or
+
+1), then keep this fixed for a fixed amount of time (for example 0.01 µs), then you send the
+
+next 0 or 1. The digital signal in Figure 29.16 could be written 01100101.
+
+Why are digital signals so good?
+
+609
+
+29.5 CHAPTER 29. ELECTRONICS - GRADE 12
+
+Analogue Digital
+
+0 1 1 0 0 1 0 1
+
+time time
+
+Figure 29.16: The difference between normal (analogue) signals and digital signals. The analogue
+
+signal is on the left.
+
+1. Using a computer, any information can be turned into a pattern of 0s and 1s. Pictures,
+
+recorded music, text and motion pictures can all be turned into a string of 0s and 1s and
+
+transmitted or stored in the same way. The computer receiving the signal at the other
+
+end converts it back again. A Compact Disc (CD) for example, can store music or text or
+
+pictures, and all can be read using a computer.
+
+2. The 0 and the 1 look very different. You can immediately tell if a 0 or a 1 is being sent.
+
+Even if there is interference, you can still tell whether the sender sent a 0 or a 1. This
+
+means that fewer mistakes are made when reading a digital signal. This is why the best
+
+music recording technologies, and the most modern cameras, for example, all use digital
+
+technology.
+
+3. Using the 0s and 1s you can count, and do all kinds of mathematics. This will be
+
+explained in more detail in the next section.
+
+The simplest digital circuits are called logic gates. Each logic gate makes a decision based on
+
+the information it receives. Different logic gates are set up to make the decisions in different
+
+ways. Each logic gate will be made of many microscopic transistors connected together within
+
+a thin wafer of silicon. This tiny circuit is called an Integrated Circuit or I.C. - all the parts are
+
+in one place (integrated) on the silicon wafer.
+

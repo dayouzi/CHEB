@@ -1,0 +1,240 @@
+9.8 Angles Outside a Circle
+
+Here you'll learn how to use the Outside Angle Theorem to solve problems containing angles that are outside a
+
+circle.
+
+What if you were given a circle with either two secents, two tangents, or one of each that share a common point
+
+outside the circle? How could you use the measure of the arcs formed by those circle parts to find the measure of
+
+the angle they make outside the circle? After completing this Concept, you'll be able to apply the Outside Angle
+
+Theorem to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136557
+
+Angles Outside a Circle CK-12
+
+Guidance
+
+An angle is outside a circle if its vertex is outside the circle and its sides are tangents or secants. The possibilities are:
+
+an angle formed by two tangents, an angle formed by a tangent and a secant, and an angle formed by two secants.
+
+Outside Angle Theorem: The measure of an angle formed by two secants, two tangents, or a secant and a tangent
+
+from a point outside the circle is half the difference of the measures of the intercepted arcs.
+
+m6 D = mÊF−mĜH2 , m6 L =
+
+mM̂PN−mM̂N
+
+2 , m6 Q =
+
+mR̂S−mR̂T
+
+2
+
+Example A
+
+Find the value of x.
+
+513
+
+9.8. Angles Outside a Circle www.ck12.org
+
+x = 72
+
+◦−22◦
+
+2 =
+
+50◦
+
+2 = 25
+
+◦.
+
+Example B
+
+Find the value of x.
+
+x = 120
+
+◦−32◦
+
+2 =
+
+88◦
+
+2 = 44
+
+◦.
+
+Example C
+
+Find the value of x.
+
+First note that the missing arc by angle x measures 32◦ because the complete circle must make 360◦. Then, x =
+
+141◦−32◦
+
+2 =
+
+109◦
+
+2 = 54.5
+
+◦.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136558
+
+Angles Outside a Circle CK-12
+
+->
+
+Guided Practice
+
+Find the measure of x.
+
+1.
+
+514
+9.8. Angles Outside a Circle www.ck12.org
+x = 72
+◦−22◦
+2 =
+50◦
+2 = 25
+◦.
+Example B
+Find the value of x.
+x = 120
+◦−32◦
+2 =
+88◦
+2 = 44
+◦.
+Example C
+Find the value of x.
+First note that the missing arc by angle x measures 32◦ because the complete circle must make 360◦. Then, x =
+141◦−32◦
+2 =
+109◦
+2 = 54.5
+◦.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136558
+Angles Outside a Circle CK-12
+->
+Guided Practice
+Find the measure of x.
+1.
+514
+www.ck12.org Chapter 9. Circles
+2.
+3.
+Answers:
+For all of the above problems we can use the Outside Angle Theorem.
+1. x = 125
+◦−27◦
+2 =
+98◦
+2 = 49
+◦
+2. 40◦ is not the intercepted arc. The intercepted arc is 120◦, (360◦−200◦−40◦). x = 200◦−120◦2 = 80
+◦
+2 = 40
+◦
+3. Find the other intercepted arc, 360◦−265◦ = 95◦x = 265◦−95◦2 = 170
+◦
+2 = 85
+◦
+Explore More
+Find the value of the missing variable(s).
+1.
+515
+9.8. Angles Outside a Circle www.ck12.org
+2.
+3.
+4.
+5.
+6.
+7.
+Solve for x.
+516
+www.ck12.org Chapter 9. Circles
+8.
+9.
+10. Fill in the blanks of the proof for the Outside Angle Theorem
+Given: Secant ra( −→ −→ys AB and AC)
+Prove: m6 a = 12 mB̂C−mD̂E
+TABLE 9.4:
+Statement −→ −→ Reason
+1. Intersecting secants AB and AC. 1.
+2. Draw BE. 2. Construction
+m6
+1
+BEC = mB̂C
+3. 2 3.
+1
+m6 DBE = mD̂E
+2
+4. m6 a+m 6 DBE = m6 BEC 4.
+5. ( 5. Subtraction PoE6. ) 6. Substitution
+7. m6 a = 12 mB̂C−mD̂E 7.
+517
+www.ck12.org Chapter 9. Circles
+
+8.
+
+9.
+
+10. Fill in the blanks of the proof for the Outside Angle Theorem
+
+Given: Secant ra( −→ −→ys AB and AC)
+
+Prove: m6 a = 12 mB̂C−mD̂E
+
+TABLE 9.4:
+
+Statement −→ −→ Reason
+
+1. Intersecting secants AB and AC. 1.
+
+2. Draw BE. 2. Construction
+
+m6
+
+1
+
+BEC = mB̂C
+
+3. 2 3.
+
+1
+
+m6 DBE = mD̂E
+
+2
+
+4. m6 a+m 6 DBE = m6 BEC 4.
+
+5. ( 5. Subtraction PoE6. ) 6. Substitution
+
+7. m6 a = 12 mB̂C−mD̂E 7.
+
+517
+

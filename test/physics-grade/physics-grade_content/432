@@ -1,0 +1,44 @@
+28.2.2 Electric motors
+
+The basic principles of operation for a motor are the same as that of a generator, except that a
+
+motor converts electrical energy into mechanical energy.
+
+Definition: Motor
+
+An electric motor converts electrical energy into mechanical energy.
+
+Both motors and generators can be explained in terms of a coil that rotates in a magnetic field.
+
+In a generator the coil is attached to an external circuit and it is mechanically turned, resulting
+
+in a changing flux that induces an emf. In a motor, a current-carrying coil in a magnetic field
+
+experiences a force on both sides of the coil, creating a torque which makes it turn.
+
+Any coil carrying current can feel a force in a magnetic field, the force is the Lorentz force on
+
+the moving charges in the conductor. We know that if the coil is parallel to the magnetic field
+
+then the Lorentz force will be zero. The charge of opposite sides of the coil will be in opposite
+
+directions because the charges are moving in opposite directions. This means the coil will
+
+rotate.
+
+resultant force is into the page
+
+resultant force is out of the page
+
+Instead of rotating the loops through a magnetic field to create electricity, a current is sent
+
+through the wires, creating electromagnets. The outer magnets will then repel the
+
+electromagnets and rotate the shaft as an electric motor. If the current is AC, the two slip
+
+rings are required to create an AC motor. An AC motor is shown in Figure 28.6
+
+If the current is DC, split-ring commutators are required to create a DC motor. This is shown
+
+in Figure 28.7.
+

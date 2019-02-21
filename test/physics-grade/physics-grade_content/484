@@ -1,0 +1,139 @@
+31.4 Emission and absorption spectra
+
+31.4.1 Emission Spectra
+
+You have learnt previously about the structure of an atom. The electrons surrounding the
+
+atomic nucleus are arranged in a series of levels of increasing energy. Each element has its own
+
+distinct set of energy levels. This arrangement of energy levels serves as the atom's unique
+
+fingerprint.
+
+In the early 1900s, scientists found that a liquid or solid heated to high temperatures would
+
+give off a broad range of colours of light. However, a gas heated to similar temperatures would
+
+emit light only at certain specific colours (wavelengths). The reason for this observation was
+
+not understood at the time.
+
+Scientists studied this effect using a discharge tube.
+
+Photons of
+
+various energies
+
+Gas Current
+
+V
+
+Current
+
+Figure 31.3: Diagram of a discharge tube. The tube is filled with a gas. When a high enough
+
+voltage is applied to both ends of the tube, the gas ionises and acts like a conductor, allowing a
+
+current to flow through the circuit. The current excites the atoms of the ionised gas. When the
+
+atoms fall back to their ground state, they emit photons to carry off the excess energy.
+
+A discharge tube (Figure 31.3) is a glass gas-filled tube with a metal plate at both ends. If a
+
+large enough voltage difference is applied between the two metal plates, the gas atoms inside
+
+the tube will absorb enough energy to make some of their electrons come off i.e. the gas atoms
+
+are ionised. These electrons start moving through the gas and create a current, which raises
+
+some electrons in other atoms to higher energy levels. Then as the electrons in the atoms fall
+
+643
+
+31.4CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 12
+
+back down, they emit electromagnetic radiation. The amount of light emitted at different
+
+wavelengths, called the emission spectrum, is shown for a discharge tube filled with hydrogen
+
+gas in figure 31.4 below. Only certain wavelengths (i.e. colours) of light are seen as shown by
+
+the thick black lines in the picture.
+
+410 nm 434nm 486 nm 656 nm
+
+400 nm 500 nm 600 nm 700 nm
+
+Figure 31.4: Diagram of the emission spectrum of hydrogen in the visible spectrum. Four lines
+
+are visible, and are labeled with their wavelengths. The three lines in the 400-500 nm range are
+
+in the blue part of the spectrum, while the higher line (656 nm) is in the red/orange part.
+
+Eventually, scientists realized that these lines come from photons of a specific energy, emitted
+
+by electrons making transitions between specific energy levels of the atom. Figure ?? shows an
+
+example of this happening. When an electron in an atom falls from a higher energy level to a
+
+lower energy level, it emits a photon to carry off the extra energy. This photon's energy is
+
+equal to the energy difference between the two energy levels. As we previously discussed, the
+
+frequency of a photon is related to its energy through the equation E = hf . Since a specific
+
+photon frequency (or wavelength) gives us a specific colour, we can see how each coloured line
+
+is associated with a specific transition.
+
+Energy Energy
+
+Level
+
+∞ 21, −198 × 10 J
+
+6 −121, 93 × 10 J
+
+5 −21, 190 × 10 J
+
+4 −1920,5 × 10 J
+
+3 19, −194 × 10 J
+
+infrared
+
+2 −1916,3 × 10 J
+
+visible light
+
+ultraviolet
+
+1 0 J ground state
+
+Figure 31.5: In this diagram are shown some of the electron energy levels for the hydrogen atom.
+
+The arrows show the electron transitions from higher energy levels to lower energy levels. The
+
+energies of the emitted photons are the same as the energy difference between two energy levels.
+
+You can think of absorption as the opposite process. The arrows would point upwards and the
+
+electrons would jump up to higher levels when they absorp a photon of the right energy.
+
+Visible light is not the only kind of electromagnetic radiation emitted. More energetic or less
+
+energetic transitions can produce ultraviolet or infrared radiation. However, because each atom
+
+has its own distinct set of energy levels (its fingerprint!), each atom has its own distinct
+
+emission spectrum.
+
+31.4.2 Absorption spectra
+
+As you know, atoms do not only emit photons; they also absorb photons. If a photon hits an
+
+atom and the energy of the photon is the same as the gap between two electron energy levels
+
+in the atom, then the electron can absorb the photon and jump up to the higher energy level.
+
+644

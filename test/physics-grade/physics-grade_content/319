@@ -1,0 +1,178 @@
+19.2.3 Using Ohm's Law
+
+We are now ready to see how Ohm's Law is used to analyse circuits.
+
+Consider the circuit with an ohmic resistor, R. If the resistor has a resistance of 5 Ω and
+
+voltage across the resistor is 5V, then we can use Ohm's law to calculate the current flowing
+
+through the resistor.
+
+R
+
+Ohm's law is:
+
+V = R · I
+
+which can be rearranged to:
+
+V
+
+I =
+
+R
+
+The current flowing in the resistor is:
+
+V
+
+I =
+
+R
+
+5 V
+
+=
+
+5 Ω
+
+= 1 A
+
+Worked Example 124: Ohm's Law
+
+Question:
+
+R
+
+The resistance of the above resistor is 10 Ω and the current going through the
+
+resistor is 4 A. What is the potential difference (voltage) across the resistor?
+
+Answer
+
+432
+
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.3
+
+Step 1 : Determine how to approach the problem
+
+It is an Ohm's Law problem. So we use the equation:
+
+V = R · I
+
+Step 2 : Solve the problem
+
+V = R · I
+
+= (10)(4)
+
+= 40 V
+
+Step 3 : Write the final answer
+
+The voltage across the resistor is 40 V.
+
+Exercise: Ohm's Law
+
+1. Calculate the resistance of a resistor that has a potential difference of 8 V
+
+across it when a current of 2 A flows through it.
+
+2. What current will flow through a resistor of 6 Ω when there is a potential
+
+difference of 18 V across its ends?
+
+3. What is the voltage acroos a 10 Ω resistor when a current of 1,5 A flows
+
+though it?
+
+19.2 CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11
+
+19.2.3 Using Ohm's Law
+
+We are now ready to see how Ohm's Law is used to analyse circuits.
+
+Consider the circuit with an ohmic resistor, R. If the resistor has a resistance of 5 Ω and
+
+voltage across the resistor is 5V, then we can use Ohm's law to calculate the current flowing
+
+through the resistor.
+
+R
+
+Ohm's law is:
+
+V = R · I
+
+which can be rearranged to:
+
+V
+
+I =
+
+R
+
+The current flowing in the resistor is:
+
+V
+
+I =
+
+R
+
+5 V
+
+=
+
+5 Ω
+
+= 1 A
+
+Worked Example 124: Ohm's Law
+
+Question:
+
+R
+
+The resistance of the above resistor is 10 Ω and the current going through the
+
+resistor is 4 A. What is the potential difference (voltage) across the resistor?
+
+Answer
+
+432
+
+CHAPTER 19. ELECTRIC CIRCUITS - GRADE 11 19.3
+
+Step 1 : Determine how to approach the problem
+
+It is an Ohm's Law problem. So we use the equation:
+
+V = R · I
+
+Step 2 : Solve the problem
+
+V = R · I
+
+= (10)(4)
+
+= 40 V
+
+Step 3 : Write the final answer
+
+The voltage across the resistor is 40 V.
+
+Exercise: Ohm's Law
+
+1. Calculate the resistance of a resistor that has a potential difference of 8 V
+
+across it when a current of 2 A flows through it.
+
+2. What current will flow through a resistor of 6 Ω when there is a potential
+
+difference of 18 V across its ends?
+
+3. What is the voltage acroos a 10 Ω resistor when a current of 1,5 A flows
+
+though it?
+

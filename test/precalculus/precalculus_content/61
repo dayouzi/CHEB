@@ -1,0 +1,181 @@
+9.1 VECTORS IN TWO DIMENSIONS
+Geometric Description of Vectors ! Vectors in the Coordinate Plane
+! Using Vectors to Model Velocity and Force
+In applications of mathematics, certain quantities are determined completely by their
+magnitude-for example, length, mass, area, temperature, and energy. We speak of a
+length of 5 m or a mass of 3 kg; only one number is needed to describe each of these quan-
+tities. Such a quantity is called a scalar.
+On the other hand, to describe the displacement of an object, two numbers are re-
+quired: the magnitude and the direction of the displacement. To describe the velocity of a
+moving object, we must specify both the speed and the direction of travel. Quantities such
+B as displacement, velocity, acceleration, and force that involve magnitude as well as direc-
+tion are called directed quantities. One way to represent such quantities mathematically
+u=AB is through the use of vectors.
+A
+! Geometric Description of Vectors
+F I G U R E  1
+A vector in the plane is a line segment with an assigned direction. We sketch a vector a!s
+shown in Figure 1 with an arrow to specify the direction. We denote this! vector by AB .
+P0 oint AB! !AB 0 A is the initial point, and B is the terminal point of the vector . The length ofthe line segment AB is called the magnitude or length of the vector and is denoted by. We use boldface letters to denote vectors. Thus we write u $ AB .
+Two vectors are considered equal if they have equal magnitude and the same direction.
+Thus all the vectors in Figure 2 are equal. This definition of equality makes sense if we
+think of a vector as representing a displacement. Two such displacements are the same if
+F I G U R E  2 they have equal magnitudes and the same direction. So the vectors in Figure 2 can be
+thought of as the same displace!ment applied to objects in different locati!ons in the plane.
+C If the displacement !u $ AB is followed by the displacement v $ BC , then the result-
+ing displacement is AC as! shown in Figure 3. In other words, the single displacement rep-
+AC=AB+BC resented by the vec!tor AC has the same effect aBC !
+s the othe! r two displacemen!ts toget!her. W!e
+call the vector AC the sum of the vectors AB and BC , and we write AC $ AB ! BC .
+(The zero vector, denoted by 0, represents no displacement.) Thus to find the sum of any
+two vectors u and v, we sketch vectors equal to u and v with the initial point of one at the
+A BAB terminal point of the other (see Figure 4(a)). If we draw u and v starting at the same point,
+then u ! v is the vector that is the diagonal of the parallelogram formed by u and v shown
+F I G U R E  3 in Figure 4(b).
+u+v v u+v
+v
+u u
+F I G U R E  4 Addition of vectors (a) (b)
+If a is a real numbe0r ana 0 d 0  vv 0 is a vector, we define a new vector av as follows: The vec-tor av has magnitude and has the same direction as v if a " 0 and the opposite
+direction if a # 0. If a $ 0, then av $ 0, the zero vector. This process is called multipli-
+cation of a vector by a1  sca%1 2lar. Multiplying a vector by a scalar has the effect of stretch-ing or shrinking the vector. Figure 5 shows graphs of the vector av for different values ofa. We write the vector v as %v. Thus %v is the vector with the same length as v but
+with the opposite direction.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  9 . 1 | Vectors in Two Dimensions 581
+The difference of two vectors u and v is defined by u % v $ u ! 1%v 2 . Figure 6 shows
+that the vector u % v is the other diagonal of the parallelogram formed by u and v.
+_v
+u-v
+u+v u
+1
+v 2 _v _ 1v 2 v 3 v _2v u
+v
+F I G U R E  5 Multiplication of a vector by a scalar F I G U R E  6 Subtraction of
+vectors
+! Vectors in the Coordinate Plane
+So far, we've discussed vectors geometrically. By placing a vector in a coordinate plane,
+we can describe it analytically (that is, by using components). In Figure 7(a), to go from
+the initial point of the vector v to the terminal point, we move a units to the right and b
+units upward. We represent v as an ordered pair o
+Note the distinction between the vector
+!a, b" and the point 1a, b 2 v $ 8a,  b9 f real numbers..
+where a is the horizontal component of v and b is the vertical component of v. Re-
+member that a vector represents a magnitude and a direction, not a particular arrow in the
+plane. Thus the vector !a, b" has many different representations, depending on its initial
+point (see Figure 7(b)).
+y y
+v
+v b b v b
+a a a
+v b
+0 x 0 x
+a
+(a) (b)
+F I G U R E  7
+y
+Q Using Figure 8, we can state the relationship between a geometric representation of a
+y¤ vector and the analytic one as follows.
+v y¤-y⁄
+y⁄ P COMPONENT FORM OF A VECTOR
+x¤-x⁄ If a vect
+Q1or v is represented in the plane with initial point x2, y2 2 P1x1, y1 2 and terminal0 x⁄ x¤ x point , then
+v $ 8x2 % x1, y2 % y19
+F I G U R E  8
+E X A M P L E  1 Describing Vectors in Component Form
+(a) Find t1he co3,  7 2mponent form of the vector u with initia1l point 1%2,  5 2 and terminalpoint .(b) If the vector v $ !3, 7" is sketched with initial point 2,  4 2 , what is its terminal point?
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  9 . 1 | Vectors in Two Dimensions 581
+The difference of two vectors u and v is defined by u % v $ u ! 1%v 2 . Figure 6 shows
+that the vector u % v is the other diagonal of the parallelogram formed by u and v.
+_v
+u-v
+u+v u
+1
+v 2 _v _ 1v 2 v 3 v _2v u
+v
+F I G U R E  5 Multiplication of a vector by a scalar F I G U R E  6 Subtraction of
+vectors
+! Vectors in the Coordinate Plane
+So far, we've discussed vectors geometrically. By placing a vector in a coordinate plane,
+we can describe it analytically (that is, by using components). In Figure 7(a), to go from
+the initial point of the vector v to the terminal point, we move a units to the right and b
+units upward. We represent v as an ordered pair o
+Note the distinction between the vector
+!a, b" and the point 1a, b 2 v $ 8a,  b9 f real numbers..
+where a is the horizontal component of v and b is the vertical component of v. Re-
+member that a vector represents a magnitude and a direction, not a particular arrow in the
+plane. Thus the vector !a, b" has many different representations, depending on its initial
+point (see Figure 7(b)).
+y y
+v
+v b b v b
+a a a
+v b
+0 x 0 x
+a
+(a) (b)
+F I G U R E  7
+y
+Q Using Figure 8, we can state the relationship between a geometric representation of a
+y¤ vector and the analytic one as follows.
+v y¤-y⁄
+y⁄ P COMPONENT FORM OF A VECTOR
+x¤-x⁄ If a vect
+Q1or v is represented in the plane with initial point x2, y2 2 P1x1, y1 2 and terminal0 x⁄ x¤ x point , then
+v $ 8x2 % x1, y2 % y19
+F I G U R E  8
+E X A M P L E  1 Describing Vectors in Component Form
+(a) Find t1he co3,  7 2mponent form of the vector u with initia1l point 1%2,  5 2 and terminalpoint .(b) If the vector v $ !3, 7" is sketched with initial point 2,  4 2 , what is its terminal point?
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  9 . 1 | Vectors in Two Dimensions 581
+The difference of two vectors u and v is defined by u % v $ u ! 1%v 2 . Figure 6 shows
+that the vector u % v is the other diagonal of the parallelogram formed by u and v.
+_v
+u-v
+u+v u
+1
+v 2 _v _ 1v 2 v 3 v _2v u
+v
+F I G U R E  5 Multiplication of a vector by a scalar F I G U R E  6 Subtraction of
+vectors
+! Vectors in the Coordinate Plane
+So far, we've discussed vectors geometrically. By placing a vector in a coordinate plane,
+we can describe it analytically (that is, by using components). In Figure 7(a), to go from
+the initial point of the vector v to the terminal point, we move a units to the right and b
+units upward. We represent v as an ordered pair o
+Note the distinction between the vector
+!a, b" and the point 1a, b 2 v $ 8a,  b9 f real numbers..
+where a is the horizontal component of v and b is the vertical component of v. Re-
+member that a vector represents a magnitude and a direction, not a particular arrow in the
+plane. Thus the vector !a, b" has many different representations, depending on its initial
+point (see Figure 7(b)).
+y y
+v
+v b b v b
+a a a
+v b
+0 x 0 x
+a
+(a) (b)
+F I G U R E  7
+y
+Q Using Figure 8, we can state the relationship between a geometric representation of a
+y¤ vector and the analytic one as follows.
+v y¤-y⁄
+y⁄ P COMPONENT FORM OF A VECTOR
+x¤-x⁄ If a vect
+Q1or v is represented in the plane with initial point x2, y2 2 P1x1, y1 2 and terminal0 x⁄ x¤ x point , then
+v $ 8x2 % x1, y2 % y19
+F I G U R E  8
+E X A M P L E  1 Describing Vectors in Component Form
+(a) Find t1he co3,  7 2mponent form of the vector u with initia1l point 1%2,  5 2 and terminalpoint .(b) If the vector v $ !3, 7" is sketched with initial point 2,  4 2 , what is its terminal point?
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  9 . 1 | Vectors in Two Dimensions 583
+E X A M P L E  3 Operations with Vectors
+If u $ !2, %3" and v $ !%1, 2", find u ! v, u % v, 2u, %3v, and 2u ! 3v.
+S O L U T I O N By the definitions of the vector operations we have
+ u ! v $ %39 % 8%1,  29 $ 81,  %19
+ u % v $ 882,  2 9 % 8%1,  29 $ 83,  %59
+ 2 u $ 28,  %32,  %39 $ 84,  %69
+ %3v $ %38%1,  29 $ 83,  %69
+2u ! 3 v $ 282,  %39 ! 38%1,  29 $ 84,  %69 ! 8%3,  69 $ 81,  09

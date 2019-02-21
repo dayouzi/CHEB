@@ -1,0 +1,197 @@
+10.6 Exercises - Electric circuits
+
+1. Write definitions for each of the following:
+
+205
+
+10.6 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+
+1.1 resistor
+
+1.2 coulomb
+
+1.3 voltmeter
+
+2. Draw a circuit diagram which consists of the following components:
+
+2.1 2 batteries in parallel
+
+2.2 an open switch
+
+2.3 2 resistors in parallel
+
+2.4 an ammeter measuring total current
+
+2.5 a voltmeter measuring potential difference across one of the parallel resistors
+
+3. Complete the table below:
+
+Quantity Symbol Unit of meaurement Symbol of unit
+
+e.g. Distance e.g. d e.g. kilometer e.g. km
+
+Resistance
+
+Current
+
+Potential difference
+
+4. [SC 2003/11] The emf of a battery can best be explained as the . . .
+
+4.1 rate of energy delivered per unit current
+
+4.2 rate at which charge is delivered
+
+4.3 rate at which energy is delivered
+
+4.4 charge per unit of energy delivered by the battery
+
+5. [IEB 2002/11 HG1] Which of the following is the correct definition of the emf of a cell?
+
+5.1 It is the product of current and the external resistance of the circuit.
+
+5.2 It is a measure of the cell's ability to conduct an electric current.
+
+5.3 It is equal to the "lost volts" in the internal resistance of the circuit.
+
+5.4 It is the power dissipated per unit current passing through the cell.
+
+6. [IEB 2005/11 HG] Three identical light bulbs A, B and C are connected in an electric
+
+circuit as shown in the diagram below.
+
+A
+
+S
+
+b b
+
+B C
+
+How do the currents in bulbs A and B change when switch S is opened?
+
+Current in A Current in B
+
+(a) decreases increases
+
+(b) decreases decreases
+
+(c) increases increases
+
+(d) increases decreases
+
+206
+10.6 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+1.1 resistor
+1.2 coulomb
+1.3 voltmeter
+2. Draw a circuit diagram which consists of the following components:
+2.1 2 batteries in parallel
+2.2 an open switch
+2.3 2 resistors in parallel
+2.4 an ammeter measuring total current
+2.5 a voltmeter measuring potential difference across one of the parallel resistors
+3. Complete the table below:
+Quantity Symbol Unit of meaurement Symbol of unit
+e.g. Distance e.g. d e.g. kilometer e.g. km
+Resistance
+Current
+Potential difference
+4. [SC 2003/11] The emf of a battery can best be explained as the . . .
+4.1 rate of energy delivered per unit current
+4.2 rate at which charge is delivered
+4.3 rate at which energy is delivered
+4.4 charge per unit of energy delivered by the battery
+5. [IEB 2002/11 HG1] Which of the following is the correct definition of the emf of a cell?
+5.1 It is the product of current and the external resistance of the circuit.
+5.2 It is a measure of the cell's ability to conduct an electric current.
+5.3 It is equal to the "lost volts" in the internal resistance of the circuit.
+5.4 It is the power dissipated per unit current passing through the cell.
+6. [IEB 2005/11 HG] Three identical light bulbs A, B and C are connected in an electric
+circuit as shown in the diagram below.
+A
+S
+b b
+B C
+How do the currents in bulbs A and B change when switch S is opened?
+Current in A Current in B
+(a) decreases increases
+(b) decreases decreases
+(c) increases increases
+(d) increases decreases
+206
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.6
+7. [IEB 2004/11 HG1] When a current I is maintained in a conductor for a time of t, how
+many electrons with charge e pass any cross-section of the conductor per second?
+7.1 It
+7.2 It/e
+7.3 Ite
+7.4 e/It
+207
+10.6 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+208
+Part III
+Grade 11 - Physics
+209
+
+Chapter 11
+
+Vectors
+
+11.1 Introduction
+
+This chapter focuses on vectors. We will learn what is a vector, how it differs from everyday
+
+numbers, how to add, subtract and multiply them and where they appear in Physics.
+
+Are vectors Physics? No, vectors themselves are not Physics. Physics is just a description of
+
+the world around us. To describe something we need to use a language. The most common
+
+language used to describe Physics is Mathematics. Vectors form a very important part of the
+
+mathematical description of Physics, so much so that it is absolutely essential to master the use
+
+of vectors.
+
+11.2 Scalars and Vectors
+
+In Mathematics, you learned that a number is something that represents a quantity. For example
+
+if you have 5 books, 6 apples and 1 bicycle, the 5, 6, and 1 represent how many of each item
+
+you have.
+
+These kinds of numbers are known as scalars.
+
+Definition: Scalar
+
+A scalar is a quantity that has only magnitude (size).
+
+An extension to a scalar is a vector, which is a scalar with a direction. For example, if you travel
+
+1 km down Main Road to school, the quantity 1 km down Main Road is a vector. The 1 km
+
+is the quantity (or scalar) and the down Main Road gives a direction.
+
+In Physics we use the word magnitude to refer to the scalar part of the vector.
+
+Definition: Vectors
+
+A vector is a quantity that has both magnitude and direction.
+
+A vector should tell you how much and which way.
+
+For example, a man is driving his car east along a freeway at 100 km·hr−1. What we have given
+
+here is a vector - the velocity. The car is moving at 100 km·hr−1(this is the magnitude) and we
+
+know where it is going - east (this is the direction). Thus, we know the speed and direction of
+
+the car. These two quantities, a magnitude and a direction, form a vector we call velocity.
+
+11.3 Notation
+
+Vectors are different to scalars and therefore has its own notation.
+
+211

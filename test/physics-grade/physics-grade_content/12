@@ -1,0 +1,42 @@
+2.5.4 Significant Figures
+
+In a number, each non-zero digit is a significant figure. Zeroes are only counted if they are
+
+between two non-zero digits or are at the end of the decimal part. For example, the number
+
+2000 has 1 significant figure (the 2), but 2000,0 has 5 significant figures. You estimate a number
+
+like this by removing significant figures from the number (starting from the right) until you have
+
+the desired number of significant figures, rounding as you go. For example 6,827 has 4 significant
+
+figures, but if you wish to write it to 3 significant figures it would mean removing the 7 and
+
+rounding up, so it would be 6,83.
+
+Exercise: Using Significant Figures
+
+1. Round the following numbers:
+
+(a) 123,517 ℓ to 2 decimal places
+
+(b) 14,328 km·h−1 to one decimal place
+
+(c) 0,00954 m to 3 decimal places
+
+2. Write the following quantities in scientific notation:
+
+(a) 10130 Pa to 2 decimal places
+
+(b) 978,15 m·s−2 to one decimal place
+
+(c) 0,000001256 A to 3 decimal places
+
+3. Count how many significant figures each of the quantities below has:
+
+(a) 2,590 km
+
+(b) 12,305 mℓ
+
+(c) 7800 kg
+

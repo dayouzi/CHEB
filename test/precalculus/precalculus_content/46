@@ -1,0 +1,33 @@
+S E C T I O N  6 . 4 | Inverse Trigonometric Functions and Right Triangles 463
+On these restricted domains we can define an inverse for each of these functions. By the
+definition of inverse function we have 
+sin#1 x " y 3  sin y " x
+cos#1 x " y 3  cos y " x
+tan#1 x " y 3  tan y " x
+We summarize the domains and ranges of the inverse trigonometric functions in the
+following box.
+THE INVERSE SINE, INVERSE COSINE, AND INVERSE TANGENT FUNCTIONS
+T3 he sine, cosine, and tangent functions on the restricted domains 0, p 4 1 3#p/2, p/2 4 ,, and #p/2, p/2 2 , respectively, are one-to one and so have inverses. The
+inverse functions have domain and range as follows. 
+Function Domain Range 
+sin#1 3 3
+cos#1 3#1, 1 4#1, 1 4 #p/2, p1 30, p 4
+/2 4
+tan#1 $ #p/2, p/2 2
+The functions sin#1 cos#1, , and tan#1 are sometimes called arcsine, arccosine,
+and arctangent, respectively. 
+Since these are inverse functions, they reverse the rule of the original function. For ex-
+ample, since sin p/6 " 12, it follows that sin#1 1 2 " p/6. The following example gives fur-
+ther illustrations.
+E X A M P L E  1 Evaluating Inverse Trigonometric Functions 
+Find the exact value. 
+(a) sin#1 23 cos#1A#1  (b) 2B (c) tan#1 12
+S O L U T I O N
+(a) The angle in 
+sin#1 12 3#p/2, p/2 4 233/2 2the interval whose sine is /2 is p/3. Thus " p/3.
+(b) The angle in the interval 330, p 4 whose cosine is #
+1
+2 is 2p/3. Thus
+cos#11#12 2 " 2p/3.
+(c) The angle in the interval #p/2, p/2 4 whose tangent is 1 is p/4. Thus
+tan#1 1 " p/4.

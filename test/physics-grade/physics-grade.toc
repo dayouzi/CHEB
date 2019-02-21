@@ -1,0 +1,499 @@
+1 What is Physics? 3
+2 Units 9
+2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.2 Unit Systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.2.1 SI Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.2.2 The Other Systems of Units . . . . . . . . . . . . . . . . . . . . . . . . 10
+2.3 Writing Units as Words or Symbols . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2.4 Combinations of SI Base Units . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2.5 Rounding, Scientific Notation and Significant Figures . . . . . . . . . . . . . . . 12
+2.5.1 Rounding Off . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2.5.2 Error Margins . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+2.5.3 Scientific Notation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+2.5.4 Significant Figures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+2.6 Prefixes of Base Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+2.7 The Importance of Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+2.8 How to Change Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+2.8.1 Two other useful conversions . . . . . . . . . . . . . . . . . . . . . . . . 19
+2.9 A sanity test . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+2.10 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+2.11 End of Chapter Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+3 Motion in One Dimension - Grade 10 23
+3.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+3.2 Reference Point, Frame of Reference and Position . . . . . . . . . . . . . . . . . 23
+3.2.1 Frames of Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+3.2.2 Position . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+3.3 Displacement and Distance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+3.3.1 Interpreting Direction . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+3.3.2 Differences between Distance and Displacement . . . . . . . . . . . . . . 29
+3.4 Speed, Average Velocity and Instantaneous Velocity . . . . . . . . . . . . . . . . 31
+3.4.1 Differences between Speed and Velocity . . . . . . . . . . . . . . . . . . 35
+3.5 Acceleration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+3.6 Description of Motion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+3.6.1 Stationary Object . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+3.6.2 Motion at Constant Velocity . . . . . . . . . . . . . . . . . . . . . . . . 41
+3.6.3 Motion at Constant Acceleration . . . . . . . . . . . . . . . . . . . . . . 46
+3.7 Summary of Graphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+3.8 Worked Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+3.9 Equations of Motion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+3.9.1 Finding the Equations of Motion . . . . . . . . . . . . . . . . . . . . . . 54
+3.10 Applications in the Real-World . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+3.11 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+3.12 End of Chapter Exercises: Motion in One Dimension . . . . . . . . . . . . . . . 62
+4 Gravity and Mechanical Energy - Grade 10 67
+4.1 Weight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+4.1.1 Differences between Mass and Weight . . . . . . . . . . . . . . . . . . . 68
+4.2 Acceleration due to Gravity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+4.2.1 Gravitational Fields . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+4.2.2 Free fall . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+4.3 Potential Energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+4.4 Kinetic Energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+4.4.1 Checking units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+4.5 Mechanical Energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+4.5.1 Conservation of Mechanical Energy . . . . . . . . . . . . . . . . . . . . . 78
+4.5.2 Using the Law of Conservation of Energy . . . . . . . . . . . . . . . . . 79
+4.6 Energy graphs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+4.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83
+4.8 End of Chapter Exercises: Gravity and Mechanical Energy . . . . . . . . . . . . 84
+5 Transverse Pulses - Grade 10 87
+5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+5.2 What is a medium? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+5.3 What is a pulse? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+5.3.1 Pulse Length and Amplitude . . . . . . . . . . . . . . . . . . . . . . . . 88
+5.3.2 Pulse Speed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+5.4 Graphs of Position and Velocity . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+5.4.1 Motion of a Particle of the Medium . . . . . . . . . . . . . . . . . . . . 90
+5.4.2 Motion of the Pulse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92
+5.5 Transmission and Reflection of a Pulse at a Boundary . . . . . . . . . . . . . . . 96
+5.6 Reflection of a Pulse from Fixed and Free Ends . . . . . . . . . . . . . . . . . . 97
+5.6.1 Reflection of a Pulse from a Fixed End . . . . . . . . . . . . . . . . . . . 97
+5.6.2 Reflection of a Pulse from a Free End . . . . . . . . . . . . . . . . . . . 98
+5.7 Superposition of Pulses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
+5.8 Exercises - Transverse Pulses . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
+6 Transverse Waves - Grade 10 105
+6.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+6.2 What is a transverse wave? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+6.2.1 Peaks and Troughs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106
+6.2.2 Amplitude and Wavelength . . . . . . . . . . . . . . . . . . . . . . . . . 107
+6.2.3 Points in Phase . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+6.2.4 Period and Frequency . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+6.2.5 Speed of a Transverse Wave . . . . . . . . . . . . . . . . . . . . . . . . 111
+6.3 Graphs of Particle Motion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 115
+6.4 Standing Waves and Boundary Conditions . . . . . . . . . . . . . . . . . . . . . 118
+6.4.1 Reflection of a Transverse Wave from a Fixed End . . . . . . . . . . . . 118
+6.4.2 Reflection of a Transverse Wave from a Free End . . . . . . . . . . . . . 118
+6.4.3 Standing Waves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+6.4.4 Nodes and anti-nodes . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+6.4.5 Wavelengths of Standing Waves with Fixed and Free Ends . . . . . . . . 122
+6.4.6 Superposition and Interference . . . . . . . . . . . . . . . . . . . . . . . 125
+6.5 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+6.6 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 127
+7 Geometrical Optics - Grade 10 129
+7.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129
+7.2 Light Rays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 129
+7.2.1 Shadows . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+7.2.2 Ray Diagrams . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+7.3 Reflection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 132
+7.3.1 Terminology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+7.3.2 Law of Reflection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
+7.3.3 Types of Reflection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 135
+7.4 Refraction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
+7.4.1 Refractive Index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+7.4.2 Snell's Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
+7.4.3 Apparent Depth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143
+7.5 Mirrors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+7.5.1 Image Formation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 146
+7.5.2 Plane Mirrors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 147
+7.5.3 Ray Diagrams . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148
+7.5.4 Spherical Mirrors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+7.5.5 Concave Mirrors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 150
+7.5.6 Convex Mirrors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
+7.5.7 Summary of Properties of Mirrors . . . . . . . . . . . . . . . . . . . . . 154
+7.5.8 Magnification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+7.6 Total Internal Reflection and Fibre Optics . . . . . . . . . . . . . . . . . . . . . 156
+7.6.1 Total Internal Reflection . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+7.6.2 Fibre Optics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161
+7.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163
+7.8 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 164
+8 Magnetism - Grade 10 167
+8.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+8.2 Magnetic fields . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167
+8.3 Permanent magnets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 169
+8.3.1 The poles of permanent magnets . . . . . . . . . . . . . . . . . . . . . . 169
+8.3.2 Magnetic attraction and repulsion . . . . . . . . . . . . . . . . . . . . . 169
+8.3.3 Representing magnetic fields . . . . . . . . . . . . . . . . . . . . . . . . 170
+8.4 The compass and the earth's magnetic field . . . . . . . . . . . . . . . . . . . . 173
+8.4.1 The earth's magnetic field . . . . . . . . . . . . . . . . . . . . . . . . . 175
+8.5 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175
+8.6 End of chapter exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176
+9 Electrostatics - Grade 10 177
+9.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+9.2 Two kinds of charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+9.3 Unit of charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+9.4 Conservation of charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+9.5 Force between Charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 178
+9.6 Conductors and insulators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 181
+9.6.1 The electroscope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 182
+9.7 Attraction between charged and uncharged objects . . . . . . . . . . . . . . . . 183
+9.7.1 Polarisation of Insulators . . . . . . . . . . . . . . . . . . . . . . . . . . 183
+9.8 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+9.9 End of chapter exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184
+10 Electric Circuits - Grade 10 187
+10.1 Electric Circuits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+10.1.1 Closed circuits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 187
+10.1.2 Representing electric circuits . . . . . . . . . . . . . . . . . . . . . . . . 188
+10.2 Potential Difference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 192
+10.2.1 Potential Difference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 192
+10.2.2 Potential Difference and Parallel Resistors . . . . . . . . . . . . . . . . . 193
+10.2.3 Potential Difference and Series Resistors . . . . . . . . . . . . . . . . . . 194
+10.2.4 Ohm's Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 194
+10.2.5 EMF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 195
+10.3 Current . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+10.3.1 Flow of Charge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+10.3.2 Current . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 198
+10.3.3 Series Circuits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 199
+10.3.4 Parallel Circuits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 200
+10.4 Resistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 202
+10.4.1 What causes resistance? . . . . . . . . . . . . . . . . . . . . . . . . . . 202
+10.4.2 Resistors in electric circuits . . . . . . . . . . . . . . . . . . . . . . . . . 202
+10.5 Instruments to Measure voltage, current and resistance . . . . . . . . . . . . . . 204
+10.5.1 Voltmeter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 204
+10.5.2 Ammeter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 204
+10.5.3 Ohmmeter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 204
+10.5.4 Meters Impact on Circuit . . . . . . . . . . . . . . . . . . . . . . . . . . 205
+10.6 Exercises - Electric circuits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 205
+11 Vectors 211
+11.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+11.2 Scalars and Vectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+11.3 Notation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211
+11.3.1 Mathematical Representation . . . . . . . . . . . . . . . . . . . . . . . . 212
+11.3.2 Graphical Representation . . . . . . . . . . . . . . . . . . . . . . . . . . 212
+11.4 Directions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212
+11.4.1 Relative Directions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 212
+11.4.2 Compass Directions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+11.4.3 Bearing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 213
+11.5 Drawing Vectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 214
+11.6 Mathematical Properties of Vectors . . . . . . . . . . . . . . . . . . . . . . . . . 215
+11.6.1 Adding Vectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+11.6.2 Subtracting Vectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217
+11.6.3 Scalar Multiplication . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+11.7 Techniques of Vector Addition . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+11.7.1 Graphical Techniques . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+11.7.2 Algebraic Addition and Subtraction of Vectors . . . . . . . . . . . . . . . 223
+11.8 Components of Vectors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 228
+11.8.1 Vector addition using components . . . . . . . . . . . . . . . . . . . . . 231
+11.8.2 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235
+11.8.3 End of chapter exercises: Vectors . . . . . . . . . . . . . . . . . . . . . . 236
+11.8.4 End of chapter exercises: Vectors - Long questions . . . . . . . . . . . . 237
+12 Force, Momentum and Impulse - Grade 11 239
+12.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239
+12.2 Force . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239
+12.2.1 What is a force? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239
+12.2.2 Examples of Forces in Physics . . . . . . . . . . . . . . . . . . . . . . . 240
+12.2.3 Systems and External Forces . . . . . . . . . . . . . . . . . . . . . . . . 241
+12.2.4 Force Diagrams . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 242
+12.2.5 Free Body Diagrams . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 243
+12.2.6 Finding the Resultant Force . . . . . . . . . . . . . . . . . . . . . . . . . 244
+12.2.7 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246
+12.3 Newton's Laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246
+12.3.1 Newton's First Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 247
+12.3.2 Newton's Second Law of Motion . . . . . . . . . . . . . . . . . . . . . . 249
+12.3.3 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 261
+12.3.4 Newton's Third Law of Motion . . . . . . . . . . . . . . . . . . . . . . . 263
+12.3.5 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 267
+12.3.6 Different types of forces . . . . . . . . . . . . . . . . . . . . . . . . . . . 268
+12.3.7 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 275
+12.3.8 Forces in equilibrium . . . . . . . . . . . . . . . . . . . . . . . . . . . . 276
+12.3.9 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 279
+12.4 Forces between Masses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 282
+12.4.1 Newton's Law of Universal Gravitation . . . . . . . . . . . . . . . . . . . 282
+12.4.2 Comparative Problems . . . . . . . . . . . . . . . . . . . . . . . . . . . 284
+12.4.3 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 286
+12.5 Momentum and Impulse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 287
+12.5.1 Vector Nature of Momentum . . . . . . . . . . . . . . . . . . . . . . . . 290
+12.5.2 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 291
+12.5.3 Change in Momentum . . . . . . . . . . . . . . . . . . . . . . . . . . . . 291
+12.5.4 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 293
+12.5.5 Newton's Second Law revisited . . . . . . . . . . . . . . . . . . . . . . . 293
+12.5.6 Impulse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 294
+12.5.7 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 296
+12.5.8 Conservation of Momentum . . . . . . . . . . . . . . . . . . . . . . . . . 297
+12.5.9 Physics in Action: Impulse . . . . . . . . . . . . . . . . . . . . . . . . . 300
+12.5.10 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 301
+12.6 Torque and Levers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 302
+12.6.1 Torque . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 302
+12.6.2 Mechanical Advantage and Levers . . . . . . . . . . . . . . . . . . . . . 305
+12.6.3 Classes of levers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 307
+12.6.4 Exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 308
+12.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 309
+12.8 End of Chapter exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 310
+13 Geometrical Optics - Grade 11 327
+13.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 327
+13.2 Lenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 327
+13.2.1 Converging Lenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 329
+13.2.2 Diverging Lenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 340
+13.2.3 Summary of Image Properties . . . . . . . . . . . . . . . . . . . . . . . 343
+13.3 The Human Eye . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 344
+13.3.1 Structure of the Eye . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 345
+13.3.2 Defects of Vision . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 346
+13.4 Gravitational Lenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 347
+13.5 Telescopes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 347
+13.5.1 Refracting Telescopes . . . . . . . . . . . . . . . . . . . . . . . . . . . . 347
+13.5.2 Reflecting Telescopes . . . . . . . . . . . . . . . . . . . . . . . . . . . . 348
+13.5.3 Southern African Large Telescope . . . . . . . . . . . . . . . . . . . . . 348
+13.6 Microscopes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 349
+13.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 351
+13.8 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 352
+14 Longitudinal Waves - Grade 11 355
+14.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 355
+14.2 What is a longitudinal wave? . . . . . . . . . . . . . . . . . . . . . . . . . . . . 355
+14.3 Characteristics of Longitudinal Waves . . . . . . . . . . . . . . . . . . . . . . . 356
+14.3.1 Compression and Rarefaction . . . . . . . . . . . . . . . . . . . . . . . . 356
+14.3.2 Wavelength and Amplitude . . . . . . . . . . . . . . . . . . . . . . . . . 357
+14.3.3 Period and Frequency . . . . . . . . . . . . . . . . . . . . . . . . . . . . 357
+14.3.4 Speed of a Longitudinal Wave . . . . . . . . . . . . . . . . . . . . . . . 358
+14.4 Graphs of Particle Position, Displacement, Velocity and Acceleration . . . . . . . 359
+14.5 Sound Waves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 360
+14.6 Seismic Waves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 361
+14.7 Summary - Longitudinal Waves . . . . . . . . . . . . . . . . . . . . . . . . . . . 361
+14.8 Exercises - Longitudinal Waves . . . . . . . . . . . . . . . . . . . . . . . . . . . 362
+15 Sound - Grade 11 363
+15.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 363
+15.2 Characteristics of a Sound Wave . . . . . . . . . . . . . . . . . . . . . . . . . . 363
+15.2.1 Pitch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 364
+15.2.2 Loudness . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 364
+15.2.3 Tone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 364
+15.3 Speed of Sound . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 365
+15.4 Physics of the Ear and Hearing . . . . . . . . . . . . . . . . . . . . . . . . . . . 365
+15.4.1 Intensity of Sound . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 366
+15.5 Ultrasound . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 367
+15.6 SONAR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 368
+15.6.1 Echolocation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 368
+15.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 369
+15.8 Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 369
+16 The Physics of Music - Grade 11 373
+16.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 373
+16.2 Standing Waves in String Instruments . . . . . . . . . . . . . . . . . . . . . . . 373
+16.3 Standing Waves in Wind Instruments . . . . . . . . . . . . . . . . . . . . . . . . 377
+16.4 Resonance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 382
+16.5 Music and Sound Quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 384
+16.6 Summary - The Physics of Music . . . . . . . . . . . . . . . . . . . . . . . . . . 385
+16.7 End of Chapter Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 386
+17 Electrostatics - Grade 11 387
+17.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 387
+17.2 Forces between charges - Coulomb's Law . . . . . . . . . . . . . . . . . . . . . . 387
+17.3 Electric field around charges . . . . . . . . . . . . . . . . . . . . . . . . . . . . 392
+17.3.1 Electric field lines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 393
+17.3.2 Positive charge acting on a test charge . . . . . . . . . . . . . . . . . . . 393
+17.3.3 Combined charge distributions . . . . . . . . . . . . . . . . . . . . . . . 394
+17.3.4 Parallel plates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 397
+17.4 Electrical potential energy and potential . . . . . . . . . . . . . . . . . . . . . . 400
+17.4.1 Electrical potential . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 400
+17.4.2 Real-world application: lightning . . . . . . . . . . . . . . . . . . . . . . 402
+17.5 Capacitance and the parallel plate capacitor . . . . . . . . . . . . . . . . . . . . 403
+17.5.1 Capacitors and capacitance . . . . . . . . . . . . . . . . . . . . . . . . . 403
+17.5.2 Dielectrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 404
+17.5.3 Physical properties of the capacitor and capacitance . . . . . . . . . . . . 404
+17.5.4 Electric field in a capacitor . . . . . . . . . . . . . . . . . . . . . . . . . 405
+17.6 Capacitor as a circuit device . . . . . . . . . . . . . . . . . . . . . . . . . . . . 406
+17.6.1 A capacitor in a circuit . . . . . . . . . . . . . . . . . . . . . . . . . . . 406
+17.6.2 Real-world applications: capacitors . . . . . . . . . . . . . . . . . . . . . 407
+17.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 407
+17.8 Exercises - Electrostatics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 407
+18 Electromagnetism - Grade 11 413
+18.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 413
+18.2 Magnetic field associated with a current . . . . . . . . . . . . . . . . . . . . . . 413
+18.2.1 Real-world applications . . . . . . . . . . . . . . . . . . . . . . . . . . . 418
+18.3 Current induced by a changing magnetic field . . . . . . . . . . . . . . . . . . . 420
+18.3.1 Real-life applications . . . . . . . . . . . . . . . . . . . . . . . . . . . . 422
+18.4 Transformers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 423
+18.4.1 Real-world applications . . . . . . . . . . . . . . . . . . . . . . . . . . . 425
+18.5 Motion of a charged particle in a magnetic field . . . . . . . . . . . . . . . . . . 425
+18.5.1 Real-world applications . . . . . . . . . . . . . . . . . . . . . . . . . . . 426
+18.6 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 427
+18.7 End of chapter exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 427
+19 Electric Circuits - Grade 11 429
+19.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 429
+19.2 Ohm's Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 429
+19.2.1 Definition of Ohm's Law . . . . . . . . . . . . . . . . . . . . . . . . . . 429
+19.2.2 Ohmic and non-ohmic conductors . . . . . . . . . . . . . . . . . . . . . 431
+19.2.3 Using Ohm's Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 432
+19.3 Resistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
+19.3.1 Equivalent resistance . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433
+19.3.2 Use of Ohm's Law in series and parallel Circuits . . . . . . . . . . . . . . 438
+19.3.3 Batteries and internal resistance . . . . . . . . . . . . . . . . . . . . . . 440
+19.4 Series and parallel networks of resistors . . . . . . . . . . . . . . . . . . . . . . . 442
+19.5 Wheatstone bridge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 445
+19.6 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 447
+19.7 End of chapter exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 447
+20 Electronic Properties of Matter - Grade 11 451
+20.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 451
+20.2 Conduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 451
+20.2.1 Metals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 453
+20.2.2 Insulator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 453
+20.2.3 Semi-conductors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 454
+20.3 Intrinsic Properties and Doping . . . . . . . . . . . . . . . . . . . . . . . . . . . 454
+20.3.1 Surplus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 455
+20.3.2 Deficiency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 455
+20.4 The p-n junction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 457
+20.4.1 Differences between p- and n-type semi-conductors . . . . . . . . . . . . 457
+20.4.2 The p-n Junction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 457
+20.4.3 Unbiased . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 457
+20.4.4 Forward biased . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 457
+20.4.5 Reverse biased . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 458
+20.4.6 Real-World Applications of Semiconductors . . . . . . . . . . . . . . . . 458
+20.5 End of Chapter Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 459
+21 Motion in Two Dimensions - Grade 12 463
+21.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463
+21.2 Vertical Projectile Motion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463
+21.2.1 Motion in a Gravitational Field . . . . . . . . . . . . . . . . . . . . . . . 463
+21.2.2 Equations of Motion . . . . . . . . . . . . . . . . . . . . . . . . . . . . 464
+21.2.3 Graphs of Vertical Projectile Motion . . . . . . . . . . . . . . . . . . . . 467
+21.3 Conservation of Momentum in Two Dimensions . . . . . . . . . . . . . . . . . . 475
+21.4 Types of Collisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 480
+21.4.1 Elastic Collisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 480
+21.4.2 Inelastic Collisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 485
+21.5 Frames of Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 490
+21.5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 490
+21.5.2 What is a frame of reference? . . . . . . . . . . . . . . . . . . . . . . . 491
+21.5.3 Why are frames of reference important? . . . . . . . . . . . . . . . . . . 491
+21.5.4 Relative Velocity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 491
+21.6 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 494
+21.7 End of chapter exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 495
+22 Mechanical Properties of Matter - Grade 12 503
+22.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 503
+22.2 Deformation of materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 503
+22.2.1 Hooke's Law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 503
+22.2.2 Deviation from Hooke's Law . . . . . . . . . . . . . . . . . . . . . . . . 506
+22.3 Elasticity, plasticity, fracture, creep . . . . . . . . . . . . . . . . . . . . . . . . . 508
+22.3.1 Elasticity and plasticity . . . . . . . . . . . . . . . . . . . . . . . . . . . 508
+22.3.2 Fracture, creep and fatigue . . . . . . . . . . . . . . . . . . . . . . . . . 508
+22.4 Failure and strength of materials . . . . . . . . . . . . . . . . . . . . . . . . . . 509
+22.4.1 The properties of matter . . . . . . . . . . . . . . . . . . . . . . . . . . 509
+22.4.2 Structure and failure of materials . . . . . . . . . . . . . . . . . . . . . . 509
+22.4.3 Controlling the properties of materials . . . . . . . . . . . . . . . . . . . 509
+22.4.4 Steps of Roman Swordsmithing . . . . . . . . . . . . . . . . . . . . . . . 510
+22.5 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 511
+22.6 End of chapter exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 511
+23 Work, Energy and Power - Grade 12 513
+23.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 513
+23.2 Work . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 513
+23.3 Energy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 519
+23.3.1 External and Internal Forces . . . . . . . . . . . . . . . . . . . . . . . . 519
+23.3.2 Capacity to do Work . . . . . . . . . . . . . . . . . . . . . . . . . . . . 520
+23.4 Power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 525
+23.5 Important Equations and Quantities . . . . . . . . . . . . . . . . . . . . . . . . 529
+23.6 End of Chapter Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 529
+24 Doppler Effect - Grade 12 533
+24.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 533
+24.2 The Doppler Effect with Sound and Ultrasound . . . . . . . . . . . . . . . . . . 533
+24.2.1 Ultrasound and the Doppler Effect . . . . . . . . . . . . . . . . . . . . . 537
+24.3 The Doppler Effect with Light . . . . . . . . . . . . . . . . . . . . . . . . . . . 537
+24.3.1 The Expanding Universe . . . . . . . . . . . . . . . . . . . . . . . . . . 538
+24.4 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 539
+24.5 End of Chapter Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 539
+25 Colour - Grade 12 541
+25.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 541
+25.2 Colour and Light . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 541
+25.2.1 Dispersion of white light . . . . . . . . . . . . . . . . . . . . . . . . . . 544
+25.3 Addition and Subtraction of Light . . . . . . . . . . . . . . . . . . . . . . . . . 544
+25.3.1 Additive Primary Colours . . . . . . . . . . . . . . . . . . . . . . . . . . 544
+25.3.2 Subtractive Primary Colours . . . . . . . . . . . . . . . . . . . . . . . . 545
+25.3.3 Complementary Colours . . . . . . . . . . . . . . . . . . . . . . . . . . . 546
+25.3.4 Perception of Colour . . . . . . . . . . . . . . . . . . . . . . . . . . . . 546
+25.3.5 Colours on a Television Screen . . . . . . . . . . . . . . . . . . . . . . . 547
+25.4 Pigments and Paints . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 548
+25.4.1 Colour of opaque objects . . . . . . . . . . . . . . . . . . . . . . . . . . 548
+25.4.2 Colour of transparent objects . . . . . . . . . . . . . . . . . . . . . . . . 548
+25.4.3 Pigment primary colours . . . . . . . . . . . . . . . . . . . . . . . . . . 549
+25.5 End of Chapter Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 550
+26 2D and 3D Wavefronts - Grade 12 553
+26.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 553
+26.2 Wavefronts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 553
+26.3 The Huygens Principle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 554
+26.4 Interference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 556
+26.5 Diffraction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 557
+26.5.1 Diffraction through a Slit . . . . . . . . . . . . . . . . . . . . . . . . . . 558
+26.6 Shock Waves and Sonic Booms . . . . . . . . . . . . . . . . . . . . . . . . . . . 562
+26.6.1 Subsonic Flight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 563
+26.6.2 Supersonic Flight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 563
+26.6.3 Mach Cone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 566
+26.7 End of Chapter Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 568
+27 Wave Nature of Matter - Grade 12 571
+27.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 571
+27.2 de Broglie Wavelength . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 571
+27.3 The Electron Microscope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 574
+27.3.1 Disadvantages of an Electron Microscope . . . . . . . . . . . . . . . . . 577
+27.3.2 Uses of Electron Microscopes . . . . . . . . . . . . . . . . . . . . . . . . 577
+27.4 End of Chapter Exercises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 578
+28 Electrodynamics - Grade 12 579
+28.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 579
+28.2 Electrical machines - generators and motors . . . . . . . . . . . . . . . . . . . . 579
+28.2.1 Electrical generators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 580
+28.2.2 Electric motors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 582
+28.2.3 Real-life applications . . . . . . . . . . . . . . . . . . . . . . . . . . . . 582
+28.2.4 Exercise - generators and motors . . . . . . . . . . . . . . . . . . . . . . 584
+28.3 Alternating Current . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 585
+28.3.1 Exercise - alternating current . . . . . . . . . . . . . . . . . . . . . . . . 586
+28.4 Capacitance and inductance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 586
+28.4.1 Capacitance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 586
+28.4.2 Inductance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 586
+28.4.3 Exercise - capacitance and inductance . . . . . . . . . . . . . . . . . . . 588
+28.5 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 588
+28.6 End of chapter exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 589
+29 Electronics - Grade 12 591
+29.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 591
+29.2 Capacitive and Inductive Circuits . . . . . . . . . . . . . . . . . . . . . . . . . . 591
+29.3 Filters and Signal Tuning . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 596
+29.3.1 Capacitors and Inductors as Filters . . . . . . . . . . . . . . . . . . . . . 596
+29.3.2 LRC Circuits, Resonance and Signal Tuning . . . . . . . . . . . . . . . . 596
+29.4 Active Circuit Elements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 599
+29.4.1 The Diode . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 599
+29.4.2 The Light Emitting Diode (LED) . . . . . . . . . . . . . . . . . . . . . . 601
+29.4.3 Transistor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 603
+29.4.4 The Operational Amplifier . . . . . . . . . . . . . . . . . . . . . . . . . 607
+29.5 The Principles of Digital Electronics . . . . . . . . . . . . . . . . . . . . . . . . 609
+29.5.1 Logic Gates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 610
+29.6 Using and Storing Binary Numbers . . . . . . . . . . . . . . . . . . . . . . . . . 616
+29.6.1 Binary numbers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 616
+29.6.2 Counting circuits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 617
+29.6.3 Storing binary numbers . . . . . . . . . . . . . . . . . . . . . . . . . . . 619
+30 EM Radiation 625
+30.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 625
+30.2 Particle/wave nature of electromagnetic radiation . . . . . . . . . . . . . . . . . 625
+30.3 The wave nature of electromagnetic radiation . . . . . . . . . . . . . . . . . . . 626
+30.4 Electromagnetic spectrum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 626
+30.5 The particle nature of electromagnetic radiation . . . . . . . . . . . . . . . . . . 629
+30.5.1 Exercise - particle nature of EM waves . . . . . . . . . . . . . . . . . . . 630
+30.6 Penetrating ability of electromagnetic radiation . . . . . . . . . . . . . . . . . . 631
+30.6.1 Ultraviolet(UV) radiation and the skin . . . . . . . . . . . . . . . . . . . 631
+30.6.2 Ultraviolet radiation and the eyes . . . . . . . . . . . . . . . . . . . . . . 632
+30.6.3 X-rays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 632
+30.6.4 Gamma-rays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 632
+30.6.5 Exercise - Penetrating ability of EM radiation . . . . . . . . . . . . . . . 633
+30.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 633
+30.8 End of chapter exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 633
+31 Optical Phenomena and Properties of Matter - Grade 12 635
+31.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 635
+31.2 The transmission and scattering of light . . . . . . . . . . . . . . . . . . . . . . 635
+31.2.1 Energy levels of an electron . . . . . . . . . . . . . . . . . . . . . . . . . 635
+31.2.2 Interaction of light with metals . . . . . . . . . . . . . . . . . . . . . . . 636
+31.2.3 Why is the sky blue? . . . . . . . . . . . . . . . . . . . . . . . . . . . . 637
+31.3 The photoelectric effect . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 638
+31.3.1 Applications of the photoelectric effect . . . . . . . . . . . . . . . . . . . 640
+31.3.2 Real-life applications . . . . . . . . . . . . . . . . . . . . . . . . . . . . 642
+31.4 Emission and absorption spectra . . . . . . . . . . . . . . . . . . . . . . . . . . 643
+31.4.1 Emission Spectra . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 643
+31.4.2 Absorption spectra . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 644
+31.4.3 Colours and energies of electromagnetic radiation . . . . . . . . . . . . . 646
+31.4.4 Applications of emission and absorption spectra . . . . . . . . . . . . . . 648
+31.5 Lasers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 650
+31.5.1 How a laser works . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 652
+31.5.2 A simple laser . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 654
+31.5.3 Laser applications and safety . . . . . . . . . . . . . . . . . . . . . . . . 655
+31.6 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 656
+31.7 End of chapter exercise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 657
+32 Exercises 661
+33 Essay: How a cell phone works 671
+34 Essay: How a Physiotherapist uses the Concept of Levers 673
+35 Essay: How a Pilot Uses Vectors 675

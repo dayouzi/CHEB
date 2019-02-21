@@ -1,0 +1,189 @@
+11.3 HYPERBOLAS
+Geometric Definition of a Hyperbola ! Equations and Graphs of Hyperbolas
+! Geometric Definition of a Hyperbola
+Although ellipses and hyperbolas have completely different shapes, their definitions and
+equations are similar. Instead of using the sum of distances from two fixed foci, as in the
+case of an ellipse, we use the difference to define a hyperbola.
+GEOMETRIC DEFINITION OF A HYPERBOL A
+y A hyperbola is the set of all points in the plane, the difference of whose dis-
+tances from two fixed points F1 and F2 is a constant. (See Figure 1.) These two
+P(x, y) fixed points are the foci of the hyperbola.
+F⁄(_c, 0) 0 F¤(c, 0) x As in the case of the ellipse, we get the simplest equation for the hyperbola by placing
+the foci on the x-axis at , as shown in Figure 1. By definition, if lies on the
+hyperbola, then either d11&c, 0 2P, F1 2 # d1P, F2 2 or d1P, F2 2 # d1P, F1 2 P1x, y 2must equal some pos-
+itive constant, which we call 2a. Thus we have
+F0 or  21  d1P, F1 2 # d1P, F2 2 " &2aI G U R E  1 P is ond1P, F1 2 # d1P, F2 2 t0he hyperbola if" 2a. x ! c 2 2 ! y 2 # 21x # c 2 2 ! y 2 " &2a
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 11.3 | Hyperbolas 741
+y
+D I S C O V E R Y " D I S C U S S I O N " W R I T I N G
+56. Drawing an Ellipse on a Blackboard Try drawing an b Latus rectum
+ellipse as accurately as possible on a blackboard. How would a
+piece of string and two friends help this process?
+57. Light Cone from a Flashlight A flashlight shines _a aon x
+a wall, as shown in the figure. What is the shape of the bound- _b
+ary of the lighted area? Explain your answer. Foci
+59. Is It an Ellipse? A piece of paper is wrapped around a
+cylindrical bottle, and then a compass is used to draw a circle
+on the paper, as shown in the figure. When the paper is laid
+flat, is the shape drawn on the paper an ellipse? (You don't
+need to prove your answer, but you might want to do the ex-
+periment and see what you get.)
+58. How Wide Is an Ellipse at Its Foci? A latus rectum for
+an ellipse is a line segment perpendicular to the major axis at a
+focus, with endpoints on the ellipse, as shown in the figure at
+the top of the next column. Show that the length of a latus rec-
+tum is 2b2/a for the ellipse
+x2 y2
+a2
+!
+b2
+" 1  with a $ b
+11.3 HYPERBOLAS
+Geometric Definition of a Hyperbola ! Equations and Graphs of Hyperbolas
+! Geometric Definition of a Hyperbola
+Although ellipses and hyperbolas have completely different shapes, their definitions and
+equations are similar. Instead of using the sum of distances from two fixed foci, as in the
+case of an ellipse, we use the difference to define a hyperbola.
+GEOMETRIC DEFINITION OF A HYPERBOL A
+y A hyperbola is the set of all points in the plane, the difference of whose dis-
+tances from two fixed points F1 and F2 is a constant. (See Figure 1.) These two
+P(x, y) fixed points are the foci of the hyperbola.
+F⁄(_c, 0) 0 F¤(c, 0) x As in the case of the ellipse, we get the simplest equation for the hyperbola by placing
+the foci on the x-axis at , as shown in Figure 1. By definition, if lies on the
+hyperbola, then either d11&c, 0 2P, F1 2 # d1P, F2 2 or d1P, F2 2 # d1P, F1 2 P1x, y 2must equal some pos-
+itive constant, which we call 2a. Thus we have
+F0 or  21  d1P, F1 2 # d1P, F2 2 " &2aI G U R E  1 P is ond1P, F1 2 # d1P, F2 2 t0he hyperbola if" 2a. x ! c 2 2 ! y 2 # 21x # c 2 2 ! y 2 " &2a
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 11.3 | Hyperbolas 741
+y
+D I S C O V E R Y " D I S C U S S I O N " W R I T I N G
+56. Drawing an Ellipse on a Blackboard Try drawing an b Latus rectum
+ellipse as accurately as possible on a blackboard. How would a
+piece of string and two friends help this process?
+57. Light Cone from a Flashlight A flashlight shines _a aon x
+a wall, as shown in the figure. What is the shape of the bound- _b
+ary of the lighted area? Explain your answer. Foci
+59. Is It an Ellipse? A piece of paper is wrapped around a
+cylindrical bottle, and then a compass is used to draw a circle
+on the paper, as shown in the figure. When the paper is laid
+flat, is the shape drawn on the paper an ellipse? (You don't
+need to prove your answer, but you might want to do the ex-
+periment and see what you get.)
+58. How Wide Is an Ellipse at Its Foci? A latus rectum for
+an ellipse is a line segment perpendicular to the major axis at a
+focus, with endpoints on the ellipse, as shown in the figure at
+the top of the next column. Show that the length of a latus rec-
+tum is 2b2/a for the ellipse
+x2 y2
+a2
+!
+b2
+" 1  with a $ b
+11.3 HYPERBOLAS
+Geometric Definition of a Hyperbola ! Equations and Graphs of Hyperbolas
+! Geometric Definition of a Hyperbola
+Although ellipses and hyperbolas have completely different shapes, their definitions and
+equations are similar. Instead of using the sum of distances from two fixed foci, as in the
+case of an ellipse, we use the difference to define a hyperbola.
+GEOMETRIC DEFINITION OF A HYPERBOL A
+y A hyperbola is the set of all points in the plane, the difference of whose dis-
+tances from two fixed points F1 and F2 is a constant. (See Figure 1.) These two
+P(x, y) fixed points are the foci of the hyperbola.
+F⁄(_c, 0) 0 F¤(c, 0) x As in the case of the ellipse, we get the simplest equation for the hyperbola by placing
+the foci on the x-axis at , as shown in Figure 1. By definition, if lies on the
+hyperbola, then either d11&c, 0 2P, F1 2 # d1P, F2 2 or d1P, F2 2 # d1P, F1 2 P1x, y 2must equal some pos-
+itive constant, which we call 2a. Thus we have
+F0 or  21  d1P, F1 2 # d1P, F2 2 " &2aI G U R E  1 P is ond1P, F1 2 # d1P, F2 2 t0he hyperbola if" 2a. x ! c 2 2 ! y 2 # 21x # c 2 2 ! y 2 " &2a
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 11.3 | Hyperbolas 743
+Asymptotes of rational functions are The asymptotes mentioned in this box are lines that the hyperbola approaches for large
+discussed in Section 3.7. values of x and y. To find the asymptotes in the first case in the box, we solve the equa-
+tion for y to get
+b
+ y " &  2x 2 2 # a 
+a
+b a 2 
+ " &  x 1 #
+a B x 2 
+As x gets large, a2/x2 gets closer to zero. In other words, as x!q, we have a2/x2 ! 0. So
+for large x the value of y can be approximated as y " &1b/a 2x. This shows that these lines
+are asymptotes of the hyperbola.
+Asymptotes are an essential aid for graphing a hyperbola; they help us to determine its
+shape. A convenient way to find the asymptotes, for a hyperbola with horizontal trans-
+verse axis, is to first plot the points 1a, 0 2 , 1#a, 0 2 , 10, b 2 , and 10, #b 2 . Then sketch hor-
+izontal and vertical segments through these points to construct a rectangle, as shown in
+Figure 
+y " &12(a).b/a 2 We call this rectangle the central box of the hyperbola. The slopes of the di-agonals of the central box are &b/a, so by extending them, we obtain the asymptotesx, as sketched in Figure 2(b). Finally, we plot the vertices and use the as-
+ymptotes as a guide in sketching the hyperbola shown in Figure 2(c). (A similar proce-
+dure applies to graphing a hyperbola that has a vertical transverse axis.)
+y y y
+b b b
+_a 0 a x _a a x _a a x
+_b _b _b
+(a) Central box (b) Asymptotes (c) Hyperbola
+x 2
+2
+ y 
+F I G U R E  2 Steps in graphing the hyperbola # 1
+a 2 2
+"
+ b 
+HOW TO SKETCH A HYPERBOL A
+1. Sketch the Central Box. This is the rectangle centered at the origin, with
+sides parallel to the axes, that crosses one axis at &a, the other at &b.
+2. Sketch the Asymptotes. These are the lines obtained by extending the diag-
+onals of the central box.
+3. Plot the Vertices. These are the two x-intercepts or the two y-intercepts.
+4. Sketch the Hyperbola. Start at a vertex, and sketch a branch of the hyper-
+bola, approaching the asymptotes. Sketch the other branch in the same way.
+E X A M P L E  1 | A Hyperbola with Horizontal Transverse Axis
+A hyperbola has the equation
+9x 2 # 16y 2 " 144
+(a) Find the vertices, foci, and asymptotes, and sketch the graph.
+(b) Draw the graph using a graphing calculator.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+744 C H A P T E R  1 1 | Conic Sections
+S O L U T I O N
+(a) First we divide both sides of the equation by 144 to put it into standard form:
+x 2
+2
+ y 
+# " 1
+16 9
+Because the x2-term is positive, the hyperbola has a horizontal transverse axis; its
+vertices and foci are on the x-axis. Since a2 " 16 and b2 " 9, we get a " 4, b " 3,
+and c " 116 ! 9 " 5. Thus we have
+VERTICES 1&4, 02
+FOCI 1&5, 02
+y " & 3asymptotes  4 x
+After sketching the central box and asymptotes, we complete the sketch of the
+hyperbola as in Figure 3(a).
+Note that the equation of a hyperbola (b) To draw the graph using a graphing calculator, we need to solve for y.
+does not define y as a function of x (see
+page 158). That's why we need to graph  9x 2 # 16y 2 " 144
+two functions to graph a hyperbola.
+ #16y 2 " #9x 2 ! 144 Subtract 9x 2
+2
+ y 2
+x 
+ " 9 a # 1 b Divide by "16 and factor 9
+16
+2
+ y " &3 B x # 1 Take square roots16
+To obtain the graph of the hyperbola, we graph the fun
+y " 321x 2 /16 2 # 1 2  and  y " #32cti1onsx /16 2 # 1
+as shown in Figure 3(b).
+y 3= x y 3  - 4 y = y x
+2
+ = 3 œ /16) - 1
+4 x
+(
+6
+3
+(_5, 0) (5, 0)
+_4 4 x _10 10
+_3
+_6
+y 2F I G U R E  3  = -3 œ(x /16) - 1
+9x2 # 16y2 " 144 (a) (b)

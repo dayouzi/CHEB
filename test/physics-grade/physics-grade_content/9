@@ -1,0 +1,192 @@
+2.5.1 Rounding Off
+
+Certain numbers may take an infinite amount of paper and ink to write out. Not only is
+
+that impossible, but writing numbers out to a high accuracy (many decimal places) is very
+
+inconvenient and rarely gives better answers. For this reason we often estimate the number to a
+
+certain number of decimal places. Rounding off or approximating a decimal number to a given
+
+number of decimal places is the quickest way to approximate a number. For example, if you
+
+wanted to round-off 2,6525272 to three decimal places then you would first count three places
+
+after the decimal.
+
+2,652|5272
+
+All numbers to the right of | are ignored after you determine whether the number in the third
+
+decimal place must be rounded up or rounded down. You round up the final digit (make the
+
+digit one more) if the first digit after the | was greater or equal to 5 and round down (leave the
+
+digit alone) otherwise. So, since the first digit after the | is a 5, we must round up the digit in
+
+the third decimal place to a 3 and the final answer of 2,6525272 rounded to three decimal places
+
+is 2,653.
+
+Worked Example 1: Rounding-off
+
+Question: Round-off π = 3,141592654 . . . to 4 decimal places.
+
+Answer
+
+Step 1 : Determine the last digit that is kept and mark the cut-off with |.
+
+π = 3,1415|92654 . . .
+
+Step 2 : Determine whether the last digit is rounded up or down.
+
+The last digit of π = 3,1415|92654 . . .must be rounded up because there is a 9 after
+
+the |.
+
+Step 3 : Write the final answer.
+
+π = 3,1416 rounded to 4 decimal places.
+
+12
+
+CHAPTER 2. UNITS 2.5
+
+Worked Example 2: Rounding-off
+
+Question: Round-off 9,191919 . . . to 2 decimal places
+
+Answer
+
+Step 1 : Determine the last digit that is kept and mark the cut-off with |.
+
+9,19|1919 . . .
+
+Step 2 : Determine whether the last digit is rounded up or down.
+
+The last digit of 9,19|1919 . . . must be rounded down because there is a 1 after
+
+the |.
+
+Step 3 : Write the final answer.
+
+Answer = 9,19 rounded to 2 decimal places.
+
+2.4 CHAPTER 2. UNITS
+
+2.4 Combinations of SI Base Units
+
+To make working with units easier, some combinations of the base units are given special names,
+
+but it is always correct to reduce everything to the base units. Table 2.2 lists some examples
+
+of combinations of SI base units that are assigned special names. Do not be concerned if the
+
+formulae look unfamiliar at this stage - we will deal with each in detail in the chapters ahead (as
+
+well as many others)!
+
+It is very important that you are able to recognise the units correctly. For instance, the new-
+
+ton (N) is another name for the kilogram metre per second squared (kg·m·s−2), while the
+
+kilogram metre squared per second squared (kg·m2 ·s−2) is called the joule (J).
+
+Unit Expressed in Name of
+
+Quantity Formula
+
+Base Units Combination
+
+Force ma kg·m·s−2 N (newton)
+
+Frequency 1 s−1 Hz (hertz)
+
+T
+
+Work F.s kg·m2 ·s−2 J (joule)
+
+Table 2.2: Some examples of combinations of SI base units assigned special names
+
+Important: When writing combinations of base SI units, place a dot (·) between the units
+
+to indicate that different base units are used. For example, the symbol for metres per second
+
+is correctly written as m·s−1, and not as ms−1 or m/s.
+
+2.5 Rounding, Scientific Notation and Significant Figures
+
+2.5.1 Rounding Off
+
+Certain numbers may take an infinite amount of paper and ink to write out. Not only is
+
+that impossible, but writing numbers out to a high accuracy (many decimal places) is very
+
+inconvenient and rarely gives better answers. For this reason we often estimate the number to a
+
+certain number of decimal places. Rounding off or approximating a decimal number to a given
+
+number of decimal places is the quickest way to approximate a number. For example, if you
+
+wanted to round-off 2,6525272 to three decimal places then you would first count three places
+
+after the decimal.
+
+2,652|5272
+
+All numbers to the right of | are ignored after you determine whether the number in the third
+
+decimal place must be rounded up or rounded down. You round up the final digit (make the
+
+digit one more) if the first digit after the | was greater or equal to 5 and round down (leave the
+
+digit alone) otherwise. So, since the first digit after the | is a 5, we must round up the digit in
+
+the third decimal place to a 3 and the final answer of 2,6525272 rounded to three decimal places
+
+is 2,653.
+
+Worked Example 1: Rounding-off
+
+Question: Round-off π = 3,141592654 . . . to 4 decimal places.
+
+Answer
+
+Step 1 : Determine the last digit that is kept and mark the cut-off with |.
+
+π = 3,1415|92654 . . .
+
+Step 2 : Determine whether the last digit is rounded up or down.
+
+The last digit of π = 3,1415|92654 . . .must be rounded up because there is a 9 after
+
+the |.
+
+Step 3 : Write the final answer.
+
+π = 3,1416 rounded to 4 decimal places.
+
+12
+
+CHAPTER 2. UNITS 2.5
+
+Worked Example 2: Rounding-off
+
+Question: Round-off 9,191919 . . . to 2 decimal places
+
+Answer
+
+Step 1 : Determine the last digit that is kept and mark the cut-off with |.
+
+9,19|1919 . . .
+
+Step 2 : Determine whether the last digit is rounded up or down.
+
+The last digit of 9,19|1919 . . . must be rounded down because there is a 1 after
+
+the |.
+
+Step 3 : Write the final answer.
+
+Answer = 9,19 rounded to 2 decimal places.
+

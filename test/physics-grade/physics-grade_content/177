@@ -1,0 +1,154 @@
+11.6.2 Subtracting Vectors
+
+What does it mean to subtract a vector? Well this is really simple; if we have 5 apples and we
+
+subtract 3 apples, we have only 2 apples left. Now lets work in steps; if we take 5 steps forward
+
+and then subtract 3 steps forward we are left with only two steps forward:
+
+5 steps 3 steps 2 steps
+
+- =
+
+What have we done? You originally took 5 steps forward but then you took 3 steps back. That
+
+backward displacement would be represented by an arrow pointing to the left (backwards) with
+
+length 3. The net result of adding these two vectors is 2 steps forward:
+
+5 steps 3 steps 2 steps
+
++ =
+
+Thus, subtracting a vector from another is the same as adding a vector in the opposite direction
+
+(i.e. subtracting 3 steps forwards is the same as adding 3 steps backwards).
+
+Important: Subtracting a vector from another is the same as adding a vector in the opposite
+
+direction.
+
+217
+
+11.7 CHAPTER 11. VECTORS
+
+This suggests that in this problem to the right was chosen as the positive direction. Arrows to
+
+the right are positive and arrows to the left are negative. More generally, vectors in opposite
+
+directions differ in sign (i.e. if we define up as positive, then vectors acting down are negative).
+
+Thus, changing the sign of a vector simply reverses its direction:
+
+- = - =
+
+- = - =
+
+- = - =
+
+In mathematical form, subtracting ~a from ~b gives a new vector ~c:
+
+~c = ~b− ~a
+
+= ~b+ (−~a)
+
+This clearly shows that subtracting vector ~a from ~b is the same as adding (−~a) to ~b. Look at
+
+the following examples of vector subtraction.
+
+- = + = ~0
+
+- = + =
+
+CHAPTER 11. VECTORS 11.6
+
++ = = ~0 + = = ~0
+
+It is important to realise that the directions are not special- ‘forward and backwards' or ‘left and
+
+right' are treated in the same way. The same is true of any set of parallel directions:
+
++ = = + = =
+
++ = = ~0 + = = ~0
+
+In the above examples the separate displacements were parallel to one another. However the
+
+same head-to-tail technique of vector addition can be applied to vectors in any direction.
+
++ = = + = = + = =
+
+Now you have discovered one use for vectors; describing resultant displacement - how far and
+
+in what direction you have travelled after a series of movements.
+
+Although vector addition here has been demonstrated with displacements, all vectors behave in
+
+exactly the same way. Thus, if given a number of forces acting on a body you can use the same
+
+method to determine the resultant force acting on the body. We will return to vector addition
+
+in more detail later.
+
+11.6.2 Subtracting Vectors
+
+What does it mean to subtract a vector? Well this is really simple; if we have 5 apples and we
+
+subtract 3 apples, we have only 2 apples left. Now lets work in steps; if we take 5 steps forward
+
+and then subtract 3 steps forward we are left with only two steps forward:
+
+5 steps 3 steps 2 steps
+
+- =
+
+What have we done? You originally took 5 steps forward but then you took 3 steps back. That
+
+backward displacement would be represented by an arrow pointing to the left (backwards) with
+
+length 3. The net result of adding these two vectors is 2 steps forward:
+
+5 steps 3 steps 2 steps
+
++ =
+
+Thus, subtracting a vector from another is the same as adding a vector in the opposite direction
+
+(i.e. subtracting 3 steps forwards is the same as adding 3 steps backwards).
+
+Important: Subtracting a vector from another is the same as adding a vector in the opposite
+
+direction.
+
+217
+
+11.7 CHAPTER 11. VECTORS
+
+This suggests that in this problem to the right was chosen as the positive direction. Arrows to
+
+the right are positive and arrows to the left are negative. More generally, vectors in opposite
+
+directions differ in sign (i.e. if we define up as positive, then vectors acting down are negative).
+
+Thus, changing the sign of a vector simply reverses its direction:
+
+- = - =
+
+- = - =
+
+- = - =
+
+In mathematical form, subtracting ~a from ~b gives a new vector ~c:
+
+~c = ~b− ~a
+
+= ~b+ (−~a)
+
+This clearly shows that subtracting vector ~a from ~b is the same as adding (−~a) to ~b. Look at
+
+the following examples of vector subtraction.
+
+- = + = ~0
+
+- = + =
+

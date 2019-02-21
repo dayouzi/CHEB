@@ -1,0 +1,213 @@
+29.3.2 LRC Circuits, Resonance and Signal Tuning
+
+A circuit containing a resistor, a capacitor and an inductor all in series is called an LRC circuit.
+
+Because the components are in series, the current through each component at a particular time
+
+will be the same as the current through the others. The voltage across the resistor will be in
+
+phase with the current. The voltage across the inductor will be 90◦ ahead of the current (the
+
+current always follows or lags the voltage in an inductor). The voltage across the capacitor will
+
+be 90◦ behind the current (the current leads the voltage for a capacitor). The phases of the
+
+three voltages are shown in Figure 29.7.
+
+596
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.3
+
+L
+
+C
+
+Figure 29.6: A low pass filter. Low frequencies pass through the inductor and into the next part
+
+of the circuit, while high frequencies pass through the capacitor straight to ground.
+
+VC
+
+VL
+
+I
+
+Time
+
+Figure 29.7: The voltages across the separate components of an LRC circuit. Looking at the
+
+peaks, you see that the voltage across the inductor VL ‘peaks' first, followed 90
+
+◦ later by the
+
+current I, followed 90◦ later by the voltage across the capacitor VC . The voltage across the
+
+resistor is not shown - it is in phase with the current and peaks at the same time as the current.
+
+597
+CHAPTER 29. ELECTRONICS - GRADE 12 29.3
+L
+C
+Figure 29.6: A low pass filter. Low frequencies pass through the inductor and into the next part
+of the circuit, while high frequencies pass through the capacitor straight to ground.
+VC
+VL
+I
+Time
+Figure 29.7: The voltages across the separate components of an LRC circuit. Looking at the
+peaks, you see that the voltage across the inductor VL ‘peaks' first, followed 90
+◦ later by the
+current I, followed 90◦ later by the voltage across the capacitor VC . The voltage across the
+resistor is not shown - it is in phase with the current and peaks at the same time as the current.
+597
+29.3 CHAPTER 29. ELECTRONICS - GRADE 12
+The reactance of the inductor is 2πfL, and the reactance of the capacitor is 1/2πfC but with
+the opposite phase. So the total reactance of the LRC circuit is
+X = XL −XC = 2πfL− 1
+2πfC
+The impedance of the circuit as a whole is given by
+√ √( )21
+Z = X2 +R2 = 2πfL− +R2
+2πfC
+At different frequencies, the impedance will take different values. The impedance will have its
+smallest value when the positive inductive reactance cancels out the negative capacitive
+reactance. This occurs when
+1
+2πfL =
+2πfC
+so the frequency of minimum impedance must be
+f = √1
+2π LC
+This is called the resonant frequency of the circuit. This is the frequency at which you can
+get the largest current for a particular supply voltage. It is also called the natural frequency
+of the circuit. This means the frequency at which the circuit would oscillate by itself.
+Definition: Resonance
+Resonance occurs when a circuit is connected to an alternating voltage at its natural fre-
+quency. A very large current in the circuit can build up, even with minimal power input.
+An LRC circuit is very useful when we have a signal containing many different frequencies, and
+we only want one of them. If a signal like this is connected to an LRC circuit, then only the
+resonant frequency (and other frequencies close to it) will drive measureable currents. This
+means that an LRC circuit can select one frequency from a range. This process is called signal
+tuning.
+Itneterreessttinigng When you set up a radio antenna, and amplify the radio signal it receives, you
+FFacctt find many different bands of frequencies - one from each radio station. When
+you listen to the radio, you only want to listen to one station. An LRC circuit
+in the radio (the tuning circuit) is set so that its resonant frequency is the
+frequency of the station you want to listen to. This means that of the many
+radio stations broadcasting, you only hear one. When you adjust the tuning
+dial on the radio, it changes the capacitance of the capacitor in the tuning
+circuit. This changes the resonant frequency, and this changes the radio station
+that you will hear.
+Exercise: Filters and Signal Tuning
+1. Which component would you use if you wanted to block low frequencies?
+598
+29.3 CHAPTER 29. ELECTRONICS - GRADE 12
+
+The reactance of the inductor is 2πfL, and the reactance of the capacitor is 1/2πfC but with
+
+the opposite phase. So the total reactance of the LRC circuit is
+
+X = XL −XC = 2πfL− 1
+
+2πfC
+
+The impedance of the circuit as a whole is given by
+
+√ √( )21
+
+Z = X2 +R2 = 2πfL− +R2
+
+2πfC
+
+At different frequencies, the impedance will take different values. The impedance will have its
+
+smallest value when the positive inductive reactance cancels out the negative capacitive
+
+reactance. This occurs when
+
+1
+
+2πfL =
+
+2πfC
+
+so the frequency of minimum impedance must be
+
+f = √1
+
+2π LC
+
+This is called the resonant frequency of the circuit. This is the frequency at which you can
+
+get the largest current for a particular supply voltage. It is also called the natural frequency
+
+of the circuit. This means the frequency at which the circuit would oscillate by itself.
+
+Definition: Resonance
+
+Resonance occurs when a circuit is connected to an alternating voltage at its natural fre-
+
+quency. A very large current in the circuit can build up, even with minimal power input.
+
+An LRC circuit is very useful when we have a signal containing many different frequencies, and
+
+we only want one of them. If a signal like this is connected to an LRC circuit, then only the
+
+resonant frequency (and other frequencies close to it) will drive measureable currents. This
+
+means that an LRC circuit can select one frequency from a range. This process is called signal
+
+tuning.
+
+Itneterreessttinigng When you set up a radio antenna, and amplify the radio signal it receives, you
+
+FFacctt find many different bands of frequencies - one from each radio station. When
+
+you listen to the radio, you only want to listen to one station. An LRC circuit
+
+in the radio (the tuning circuit) is set so that its resonant frequency is the
+
+frequency of the station you want to listen to. This means that of the many
+
+radio stations broadcasting, you only hear one. When you adjust the tuning
+
+dial on the radio, it changes the capacitance of the capacitor in the tuning
+
+circuit. This changes the resonant frequency, and this changes the radio station
+
+that you will hear.
+
+Exercise: Filters and Signal Tuning
+
+1. Which component would you use if you wanted to block low frequencies?
+
+598
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.4
+
+2. Which component would you use if you wanted to block high frequencies?
+
+3. Calculate the impedance of a series circuit containing a 50 Ω resistor, a 30 µF
+
+capacitor and a 3 mH inductor for frequencies of (a) 50 Hz, (b) 500 Hz, and
+
+(c) 5 000 Hz.
+
+4. Calculate the resonant frequency of the circuit in the last question.
+
+5. A radio station broadcasts at a frequency of 150 kHz. The tuning circuit in
+
+the radio contains a 0.3 mH inductor. What is the capacitance of the
+
+capacitor needed in the tuning circuit if you want to listen to this radio
+
+station?
+
+6. State the relationship between the phase of the voltages across an inductor, a
+
+resistor and a capacitor in an LRC circuit.
+
+7. Explain what is meant by resonance.
+
+8. Explain how LRC circuits are used for signal tuning, for example in a radio.
+

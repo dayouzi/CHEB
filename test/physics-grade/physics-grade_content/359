@@ -1,0 +1,332 @@
+21.5.4 Relative Velocity
+
+The velocity of an object is frame dependent. More specifically, the perceived velocity of an
+
+object depends on the velocity of the observer. For example, a person standing on shore would
+
+observe the velocity of a boat to be different than a passenger on the boat.
+
+Worked Example 144: Relative Velocity
+
+Question: The speedometer of a motor boat reads 5 m·s−1. The boat is moving
+
+East across a river which has a current traveling 3 m·s−1 North. What would the
+
+velocity of the motor boat be according to an observer on the shore?
+
+Answer
+
+Step 1 : First, draw a diagram showing the velocities involved.
+
+N
+
+5 m·s−1
+
+W E
+
+3 m·s−1 S
+
+491
+
+21.5 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+
+Step 2 : Use the Theorem of Pythagoras to solve for the resultant of the
+
+two velocities.
+
+√
+
+R = √ (3)
+
+2 + (5)2
+
+= 34
+
+= 5,8 m · s−1
+
+5
+
+tan θ =
+
+3
+
+θ = 59,04◦
+
+N 5 m·s−1
+
+W E
+
+3 m·s−1
+
+θ 5,8 m·s−1
+
+S
+
+The observer on the shore sees the boat moving with a velocity of 5,8 m·s−1 at
+
+N59,04◦E due to the current pushing the boat perpendicular to its velocity. This is
+
+contrary to the perspective of a passenger on the boat who perceives the velocity
+
+of the boat to be 5 m·s−1 due East. Both perspectives are correct as long as the
+
+frame of the observer is considered.
+
+Extension:
+
+Worked Example 145: Relative Velocity 2
+
+Question: It takes a man 10 seconds to ride down an escalator. It takes
+
+the same man 15 s to walk back up the escalator against its motion.
+
+How long will it take the man to walk down the escalator at the same
+
+rate he was walking before?
+
+Answer
+
+Step 1 : Determine what is required and what is given
+
+We are required to determine the time taken for a man to walk down an
+
+escalator, with its motion.
+
+We are given the time taken for the man to ride down the escalator and
+
+the time taken for the man to walk up the escalator, against it motion.
+
+Step 2 : Determine how to approach the problem
+
+Select down as positive and assume that the escalator moves at a
+
+velocity ve. If the distance of the escalator is xe then:
+
+xe
+
+ve = (21.9)
+
+10 s
+
+Now, assume that the man walks at a velocity vm. Then we have that:
+
+ve − xevm = (21.10)
+
+15 s
+
+We are required to find t in:
+
+xe
+
+ve + vm = (21.11)
+
+t
+
+492
+21.5 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+Step 2 : Use the Theorem of Pythagoras to solve for the resultant of the
+two velocities.
+√
+R = √ (3)
+2 + (5)2
+= 34
+= 5,8 m · s−1
+5
+tan θ =
+3
+θ = 59,04◦
+N 5 m·s−1
+W E
+3 m·s−1
+θ 5,8 m·s−1
+S
+The observer on the shore sees the boat moving with a velocity of 5,8 m·s−1 at
+N59,04◦E due to the current pushing the boat perpendicular to its velocity. This is
+contrary to the perspective of a passenger on the boat who perceives the velocity
+of the boat to be 5 m·s−1 due East. Both perspectives are correct as long as the
+frame of the observer is considered.
+Extension:
+Worked Example 145: Relative Velocity 2
+Question: It takes a man 10 seconds to ride down an escalator. It takes
+the same man 15 s to walk back up the escalator against its motion.
+How long will it take the man to walk down the escalator at the same
+rate he was walking before?
+Answer
+Step 1 : Determine what is required and what is given
+We are required to determine the time taken for a man to walk down an
+escalator, with its motion.
+We are given the time taken for the man to ride down the escalator and
+the time taken for the man to walk up the escalator, against it motion.
+Step 2 : Determine how to approach the problem
+Select down as positive and assume that the escalator moves at a
+velocity ve. If the distance of the escalator is xe then:
+xe
+ve = (21.9)
+10 s
+Now, assume that the man walks at a velocity vm. Then we have that:
+ve − xevm = (21.10)
+15 s
+We are required to find t in:
+xe
+ve + vm = (21.11)
+t
+492
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.5
+Step 3 : Solve the problem
+We find that we have three equations and three unknowns (ve, vm and
+t).
+Add (21.10) to (21.11) to get:
+xe xe
+2ve = +
+15 s t
+Substitute from (21.9) to get:
+xe xe xe
+2 = +
+10 s 15 s t
+Since xe is not equal to zero we can divide throughout by xe.
+2 1 1
+= +
+10 s 15 s t
+Re-write:
+2 − 1 1=
+10 s 15 s t
+Multiply by t:
+2
+t( − 1 ) = 1
+10 s 15 s
+Solve for t:
+1
+t = 2 1
+10 s − 15 s
+to get:
+2
+t = s
+15
+Step 4 : Write the final answer
+The man will take 115 s +
+2
+15 s =
+1
+5 s.
+Exercise: Frames of Reference
+1. A woman walks north at 3 km·hr−1 on a boat that is moving east at 4
+km·hr−1. This situation is illustrated in the diagram below.
+A How fast is the woman moving according to her friend who is also on the
+boat?
+B What is the woman's velocity according to an observer watching from the
+river bank?
+N
+3km·hr−1
+b
+4km·hr−1
+493
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.5
+
+Step 3 : Solve the problem
+
+We find that we have three equations and three unknowns (ve, vm and
+
+t).
+
+Add (21.10) to (21.11) to get:
+
+xe xe
+
+2ve = +
+
+15 s t
+
+Substitute from (21.9) to get:
+
+xe xe xe
+
+2 = +
+
+10 s 15 s t
+
+Since xe is not equal to zero we can divide throughout by xe.
+
+2 1 1
+
+= +
+
+10 s 15 s t
+
+Re-write:
+
+2 − 1 1=
+
+10 s 15 s t
+
+Multiply by t:
+
+2
+
+t( − 1 ) = 1
+
+10 s 15 s
+
+Solve for t:
+
+1
+
+t = 2 1
+
+10 s − 15 s
+
+to get:
+
+2
+
+t = s
+
+15
+
+Step 4 : Write the final answer
+
+The man will take 115 s +
+
+2
+
+15 s =
+
+1
+
+5 s.
+
+Exercise: Frames of Reference
+
+1. A woman walks north at 3 km·hr−1 on a boat that is moving east at 4
+
+km·hr−1. This situation is illustrated in the diagram below.
+
+A How fast is the woman moving according to her friend who is also on the
+
+boat?
+
+B What is the woman's velocity according to an observer watching from the
+
+river bank?
+
+N
+
+3km·hr−1
+
+b
+
+4km·hr−1
+
+493
+
+21.6 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+
+2. A boy is standing inside a train that is moving at 10 m·s−1to the left. The
+
+boy throws a ball in the air with a velocity of 4 m·s−1. What is the resultant
+
+velocity of the ball
+
+A according to the boy?
+
+B according to someone outside the train?
+

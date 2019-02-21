@@ -1,0 +1,179 @@
+11.4 Cylinders
+
+Here you'll learn what a cylinder is and how to find its volume and surface area.
+
+What if you were given a solid three-dimensional figure with congruent enclosed circular bases that are in parallel
+
+planes? How could you determine how much two-dimensional and three-dimensional space that figure occupies?
+
+After completing this Concept, you'll be able to find the surface area and volume of a cylinder.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136769
+
+Cylinders CK-12
+
+Guidance
+
+A cylinder is a solid with congruent circular bases that are in parallel planes. The space between the circles is
+
+enclosed.
+
+A cylinder has a radius and a height.
+
+A cylinder can also be oblique (slanted) like the one below.
+
+625
+
+11.4. Cylinders www.ck12.org
+
+Surface Area
+
+Surface area is the sum of the area of the faces of a solid. The basic unit of area is the square unit.
+
+Surface Area of a Right Cylinder: SA = 2pir2 +2pirh.
+
+2︸ ︷pi︷r ︸2 + ︸2︷pi︷r︸h
+
+area of length
+
+both of
+
+circles rectangle
+
+To see an animation of the surface area, click http://www.rkm.com.au/ANIMATIONS/animation-Cylinder-Surface-
+
+Area-Derivation.html , by Russell Knightley.
+
+Volume
+
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+
+cubic unit. For cylinders, volume is the area of the circular base times the height.
+
+Volume of a Cylinder: V = pir2h.
+
+If an oblique cylinder has the same base area and height as another cylinder, then it will have the same volume. This
+
+is due to Cavalieri's Principle, which states that if two solids have the same height and the same cross-sectional
+
+area at every level, then they will have the same volume.
+
+Example A
+
+Find the surface area of the cylinder.
+
+626
+11.4. Cylinders www.ck12.org
+Surface Area
+Surface area is the sum of the area of the faces of a solid. The basic unit of area is the square unit.
+Surface Area of a Right Cylinder: SA = 2pir2 +2pirh.
+2︸ ︷pi︷r ︸2 + ︸2︷pi︷r︸h
+area of length
+both of
+circles rectangle
+To see an animation of the surface area, click http://www.rkm.com.au/ANIMATIONS/animation-Cylinder-Surface-
+Area-Derivation.html , by Russell Knightley.
+Volume
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+cubic unit. For cylinders, volume is the area of the circular base times the height.
+Volume of a Cylinder: V = pir2h.
+If an oblique cylinder has the same base area and height as another cylinder, then it will have the same volume. This
+is due to Cavalieri's Principle, which states that if two solids have the same height and the same cross-sectional
+area at every level, then they will have the same volume.
+Example A
+Find the surface area of the cylinder.
+626
+www.ck12.org Chapter 11. Surface Area and Volume
+r = 4 and h = 12.
+SA = 2pi(4)2 +2pi(4)(12)
+= 32pi+96pi
+= 128pi units2
+Example B
+The circumference of the base of a cylinder is 16pi and the height is 21. Find the surface area of the cylinder.
+We need to solve for the radius, using the circumference.
+2pir = 16pi
+r = 8
+Now, we can find the surface area.
+SA = 2pi(8)2 +(16pi)(21)
+= 128pi+336pi
+= 464pi units2
+Example C
+Find the volume of the cylinder.
+If the diameter is 16, then the radius is 8.
+V = pi82(21) = 1344pi units3
+627
+11.4. Cylinders www.ck12.org
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136770
+Cylinders CK-12
+->
+Guided Practice
+1. Find the volume of the cylinder.
+2. If the volume of a cylinder is 484pi in3 and the height is 4 in, what is the radius?
+3. The circumference of the base of a cylinder is 80pi cm and the height is 36 cm. Find the total surface area.
+Answers:
+1. V = pi62(15) = 540pi units3
+2. Solve for r.
+484pi= pir2(4)
+121 = r2
+11in = r
+3. We need to solve for the radius, using the circumference.
+2pir = 80pi
+r = 40
+Now, we can find the surface area.
+SA = 2pi(40)2 +(80pi)(36)
+= 3200pi+2880pi
+= 6080pi units2
+628
+www.ck12.org Chapter 11. Surface Area and Volume
+Explore More
+1. Two cylinders have the same surface area. Do they have the same volume? How do you know?
+2. A cylinder has r = h and the radius is 4 cm. What is the volume?
+3. A cylinder has a volume of 486pi f t.3. If the height is 6 ft., what is the diameter?
+4. A right cylinder has a 7 cm radius and a height of 18 cm. Find the volume.
+Find the volume of the following solids. Round your answers to the nearest hundredth.
+5.
+6.
+Find the value of x, given the volume.
+7. V = 6144pi units3
+8. The area of the base of a cylinder is 49pi in2 and the height is 6 in. Find the volume.
+9. The circumference of the base of a cylinder is 34pi cm and the height is 20 cm. Find the total surface area.
+10. The lateral surface area of a cylinder is 30pi m2 and the height is 5m. What is the radius?
+629
+www.ck12.org Chapter 11. Surface Area and Volume
+
+Explore More
+
+1. Two cylinders have the same surface area. Do they have the same volume? How do you know?
+
+2. A cylinder has r = h and the radius is 4 cm. What is the volume?
+
+3. A cylinder has a volume of 486pi f t.3. If the height is 6 ft., what is the diameter?
+
+4. A right cylinder has a 7 cm radius and a height of 18 cm. Find the volume.
+
+Find the volume of the following solids. Round your answers to the nearest hundredth.
+
+5.
+
+6.
+
+Find the value of x, given the volume.
+
+7. V = 6144pi units3
+
+8. The area of the base of a cylinder is 49pi in2 and the height is 6 in. Find the volume.
+
+9. The circumference of the base of a cylinder is 34pi cm and the height is 20 cm. Find the total surface area.
+
+10. The lateral surface area of a cylinder is 30pi m2 and the height is 5m. What is the radius?
+
+629
+

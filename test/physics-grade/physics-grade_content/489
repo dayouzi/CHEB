@@ -1,0 +1,267 @@
+31.5 Lasers
+
+A laser is a device that produces a special type of light: all the laser photons are identical!
+
+They all have the same wavelength (and frequency), amplitude and phase. Since they all have
+
+the same wavelength, this means they all have the same colour and the light is called
+
+monochromatic. (Note: mono means "one" or "single" and chromatic means "colour".)
+
+This is very different to most other light sources which produce light with a range of
+
+wavelengths (e.g. white light from the sun consists of all the visible wavelengths.)
+
+Laser light is highly directional and can be focused very well. This focus allows laser beams to
+
+be used over long distances, and to pack a lot of energy into the beam while still requiring
+
+reasonably small amounts of energy to be generated. Each centimetre of a typical laser beam
+
+contains many billions of photons. These special properties of laser light come from the way in
+
+which the laser photons are created and the energy levels of the material that makes up the
+
+laser. These properties make laser light extremely useful in many applications from CD players
+
+to eye surgery.
+
+The term LASER stands for Light Amplification by the Stimulated Emission of Radiation.
+
+This stimulated emission is different to the spontaneous emission already discussed earlier.
+
+Let's review the absorption and emission processes which can occur in atoms.
+
+650
+
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.5
+
+BEFORE AFTER
+
+a photon with E=E2-E1
+
+E2 E2
+
+E=E2-E1 is absorbed by the electron
+
+absorption no photon which jumps from energy
+
+E1 E1 level E1 to E2
+
+E2 E2 an electron on energy
+
+spontaneous E=E2-E1 level E2 can spontaneously
+
+no photon emission drop down to energy level
+
+E1 E1 E1 by emitting a photon with
+
+E=E2-E1
+
+an electron on energy level
+
+E2 E2 E=E2-E1
+
+E=E2-E1 stimulated E2 can be stimulated, by anincoming photon with E=E2-E1
+
+emission
+
+E1 E1 E=E2-E1 to drop down to E1 by emitting
+
+another photon of E=E2-1
+
+• Absorption: As you can see in the picture above, absorption happens when an electron
+
+jumps up to a higher energy level by absorbing a photon which has an energy equal to
+
+the energy difference between the two energy levels.
+
+• Spontaneous emission: Spontaneous emission is when an electron in a higher energy
+
+level drops down to a lower energy level and a photon is emitted with an energy equal to
+
+the energy difference between the two levels. There is no interference in this process
+
+from outside factors. Usually spontaneous emission happens very quickly after an
+
+electron gets into an excited state. In other words, the lifetime of the excited state is
+
+very short. However, there are some excited states where an electron can remain in the
+
+higher energy level for a longer time than usual before dropping down to a lower level.
+
+These excited states are called metastable states.
+
+• Stimulated emission: As the picture above shows, stimulated emission happens when
+
+a photon with an energy equal to the energy difference between two levels interacts with
+
+an electron in the higher level. This stimulates the electron to emit an identical photon
+
+and drop down to the lower energy level. This process results in two photons at the end.
+
+Definition: Spontaneous Emission
+
+Spontaneous emission occurs when an atom is in an unstable excited state and randomly
+
+decays to a less energetic state, emitting a photon to carry off the excess energy. The
+
+unstable state decays in a characteristic time, called the lifetime.
+
+Definition: Meta-stable state
+
+A meta-stable state is an excited atomic state that has an unusually long lifetime, compared
+
+to the lifetimes of other excited states of that atom. While most excited states have lifetimes
+
+measured in microseconds and nanoseconds (10−6 s and 10−9 s), meta-stable states can
+
+have lifetimes of milliseconds (10−3 s) or even seconds.
+
+Definition: Stimulated emission
+
+Stimulated emission occurs when a photon interacts with an excited atom, causing the atom
+
+to decay and emit another identical photon.
+
+651
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.5
+BEFORE AFTER
+a photon with E=E2-E1
+E2 E2
+E=E2-E1 is absorbed by the electron
+absorption no photon which jumps from energy
+E1 E1 level E1 to E2
+E2 E2 an electron on energy
+spontaneous E=E2-E1 level E2 can spontaneously
+no photon emission drop down to energy level
+E1 E1 E1 by emitting a photon with
+E=E2-E1
+an electron on energy level
+E2 E2 E=E2-E1
+E=E2-E1 stimulated E2 can be stimulated, by anincoming photon with E=E2-E1
+emission
+E1 E1 E=E2-E1 to drop down to E1 by emitting
+another photon of E=E2-1
+• Absorption: As you can see in the picture above, absorption happens when an electron
+jumps up to a higher energy level by absorbing a photon which has an energy equal to
+the energy difference between the two energy levels.
+• Spontaneous emission: Spontaneous emission is when an electron in a higher energy
+level drops down to a lower energy level and a photon is emitted with an energy equal to
+the energy difference between the two levels. There is no interference in this process
+from outside factors. Usually spontaneous emission happens very quickly after an
+electron gets into an excited state. In other words, the lifetime of the excited state is
+very short. However, there are some excited states where an electron can remain in the
+higher energy level for a longer time than usual before dropping down to a lower level.
+These excited states are called metastable states.
+• Stimulated emission: As the picture above shows, stimulated emission happens when
+a photon with an energy equal to the energy difference between two levels interacts with
+an electron in the higher level. This stimulates the electron to emit an identical photon
+and drop down to the lower energy level. This process results in two photons at the end.
+Definition: Spontaneous Emission
+Spontaneous emission occurs when an atom is in an unstable excited state and randomly
+decays to a less energetic state, emitting a photon to carry off the excess energy. The
+unstable state decays in a characteristic time, called the lifetime.
+Definition: Meta-stable state
+A meta-stable state is an excited atomic state that has an unusually long lifetime, compared
+to the lifetimes of other excited states of that atom. While most excited states have lifetimes
+measured in microseconds and nanoseconds (10−6 s and 10−9 s), meta-stable states can
+have lifetimes of milliseconds (10−3 s) or even seconds.
+Definition: Stimulated emission
+Stimulated emission occurs when a photon interacts with an excited atom, causing the atom
+to decay and emit another identical photon.
+651
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.5
+
+BEFORE AFTER
+
+a photon with E=E2-E1
+
+E2 E2
+
+E=E2-E1 is absorbed by the electron
+
+absorption no photon which jumps from energy
+
+E1 E1 level E1 to E2
+
+E2 E2 an electron on energy
+
+spontaneous E=E2-E1 level E2 can spontaneously
+
+no photon emission drop down to energy level
+
+E1 E1 E1 by emitting a photon with
+
+E=E2-E1
+
+an electron on energy level
+
+E2 E2 E=E2-E1
+
+E=E2-E1 stimulated E2 can be stimulated, by anincoming photon with E=E2-E1
+
+emission
+
+E1 E1 E=E2-E1 to drop down to E1 by emitting
+
+another photon of E=E2-1
+
+• Absorption: As you can see in the picture above, absorption happens when an electron
+
+jumps up to a higher energy level by absorbing a photon which has an energy equal to
+
+the energy difference between the two energy levels.
+
+• Spontaneous emission: Spontaneous emission is when an electron in a higher energy
+
+level drops down to a lower energy level and a photon is emitted with an energy equal to
+
+the energy difference between the two levels. There is no interference in this process
+
+from outside factors. Usually spontaneous emission happens very quickly after an
+
+electron gets into an excited state. In other words, the lifetime of the excited state is
+
+very short. However, there are some excited states where an electron can remain in the
+
+higher energy level for a longer time than usual before dropping down to a lower level.
+
+These excited states are called metastable states.
+
+• Stimulated emission: As the picture above shows, stimulated emission happens when
+
+a photon with an energy equal to the energy difference between two levels interacts with
+
+an electron in the higher level. This stimulates the electron to emit an identical photon
+
+and drop down to the lower energy level. This process results in two photons at the end.
+
+Definition: Spontaneous Emission
+
+Spontaneous emission occurs when an atom is in an unstable excited state and randomly
+
+decays to a less energetic state, emitting a photon to carry off the excess energy. The
+
+unstable state decays in a characteristic time, called the lifetime.
+
+Definition: Meta-stable state
+
+A meta-stable state is an excited atomic state that has an unusually long lifetime, compared
+
+to the lifetimes of other excited states of that atom. While most excited states have lifetimes
+
+measured in microseconds and nanoseconds (10−6 s and 10−9 s), meta-stable states can
+
+have lifetimes of milliseconds (10−3 s) or even seconds.
+
+Definition: Stimulated emission
+
+Stimulated emission occurs when a photon interacts with an excited atom, causing the atom
+
+to decay and emit another identical photon.
+
+651
+
+31.5CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 12
+

@@ -1,0 +1,224 @@
+1.4 Midpoints and Segment Bisectors
+
+Here you'll learn what a midpoint, a segment bisector, and a perpendicular bisector are and how to use their properties
+
+to solve for unknown values.
+
+What if you were given the coordinates of two points and you wanted to find the point exactly in the middle of them?
+
+How would you find the coordinates of this third point? After completing this Concept, you'll be able to use the
+
+Midpoint Formula to find the location of such a point in the coordinate plane.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136725
+
+CK-12 Midpoints and Segment Bisectors
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1283
+
+James Sousa: Segment Midpoint and Segment Perpendicular Bisector
+
+Then watch this video the first part of this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/10329
+
+James Sousa: Midpoint Exercise 1
+
+Guidance
+
+When two segments are congruent, we indicate that they are congruent, or of equal length, with segment markings,
+
+as shown below:
+
+21
+
+1.4. Midpoints and Segment Bisectors www.ck12.org
+
+A midpoint is a point on a line segment that divides it into two congruent segments.
+
+Because AB = BC, B is the midpoint of AC. Any line segment will have exactly one midpoint.
+
+When points are plotted in the coordinate plane, we can use a formula to find the midpoint between them.
+
+Here are two points, (-5, 6) and (3, 2).
+
+The midpoint should be halfway between the points on the segment connecting them. Just by looking, it seems like
+
+the midpoint is (-1, 4). (
+
+Midpoint Formula: For two points, (x1,y1) and x2,y2, the midpoint is x
+
+)
+
+1+x2
+
+2 ,
+
+y1+y2
+
+2 .
+
+Let's use the formula to make sure (-1, 4) is the midpoint between (-5, 6) and (3, 2).
+
+(− ) ( )5+3 6+2 −2 8
+
+, = , = (−1,4)
+
+2 2 2 2
+
+A segment bisector cuts a line segment into two congruent parts and passes through the midpoint. A perpendicular
+
+bisector is a segment bisector that intersects the segment at a right angle.
+
+AB∼= BC
+
+AC ⊥←→DE
+
+22
+1.4. Midpoints and Segment Bisectors www.ck12.org
+A midpoint is a point on a line segment that divides it into two congruent segments.
+Because AB = BC, B is the midpoint of AC. Any line segment will have exactly one midpoint.
+When points are plotted in the coordinate plane, we can use a formula to find the midpoint between them.
+Here are two points, (-5, 6) and (3, 2).
+The midpoint should be halfway between the points on the segment connecting them. Just by looking, it seems like
+the midpoint is (-1, 4). (
+Midpoint Formula: For two points, (x1,y1) and x2,y2, the midpoint is x
+)
+1+x2
+2 ,
+y1+y2
+2 .
+Let's use the formula to make sure (-1, 4) is the midpoint between (-5, 6) and (3, 2).
+(− ) ( )5+3 6+2 −2 8
+, = , = (−1,4)
+2 2 2 2
+A segment bisector cuts a line segment into two congruent parts and passes through the midpoint. A perpendicular
+bisector is a segment bisector that intersects the segment at a right angle.
+AB∼= BC
+AC ⊥←→DE
+22
+www.ck12.org Chapter 1. Basics of Geometry
+Example A
+Write all equal segment statements.
+AD = DE
+FD = DB = DC
+Example B
+Is M a midpoint of AB?
+No, it is not MB = 16 and AM = 34−16 = 18. AM must equal MB in order for M to be the midpoint of AB.
+Example C
+Find the midpoint between (9, -2) and (-5, 14).
+Plug the points into the formula.
+(
+9+(−5) − ) ( )2+14 4 12
+, = , = (2,6)
+2 2 2 2
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136726
+23
+1.4. Midpoints and Segment Bisectors www.ck12.org
+CK-12 Midpoints and Segment Bisectors
+->
+Guided Practice
+1. If M(3,−1) is the midpoint of AB and B(7,−6), find A.
+2. Which line is the perpendicular bisector of MN?
+3. Find x and y.
+Answers:
+1. Plug what you know into the midpoint formula.
+(
+7+ xA −
+)
+6+ yA
+, = (3,−1)
+2 2
+7+ xA −6+ yA
+= 3 and =−1
+2 2
+7+ xA = 6 and −6+ yA =−2
+xA =−1 and yA = 4
+So, A is (−1,4).
+←→ ←→
+2. The perpendicular bisector must bisect MN and be perpendicular to it. Only OQ fits this description. SR is a
+bisector, but is not perpendicular.
+3. The line shown is the perpendicular bisector.
+So, 3x−6 = 21 And, (4y−2)◦ = 90◦
+3x = 27 4y = 92◦
+x = 9 y = 23◦
+24
+www.ck12.org Chapter 1. Basics of Geometry
+Explore More
+1. Copy the figure below and label it with the following information:
+AB∼=CD
+AD∼= BC
+For 2-4, use the following picture to answer the questions.
+2. P is the midpoint of what two segments?
+3. How does V S relate to QT ?
+4. How does QT relate to V S?
+For exercise 5, use algebra to determine the value of variable in each problem.
+5.
+For questions 6-10, find the midpoint between each pair of points.
+6. (-2, -3) and (8, -7)
+7. (9, -1) and (-6, -11)
+8. (-4, 10) and (14, 0)
+9. (0, -5) and (-9, 9)
+10. (-3, -5) and (2, 1)
+Given the midpoint (M) and either endpoint of AB, find the other endpoint.
+11. A(−1,2) and M(3,6)
+12. B(−10,−7) and M(−2,1)
+25
+www.ck12.org Chapter 1. Basics of Geometry
+
+Explore More
+
+1. Copy the figure below and label it with the following information:
+
+AB∼=CD
+
+AD∼= BC
+
+For 2-4, use the following picture to answer the questions.
+
+2. P is the midpoint of what two segments?
+
+3. How does V S relate to QT ?
+
+4. How does QT relate to V S?
+
+For exercise 5, use algebra to determine the value of variable in each problem.
+
+5.
+
+For questions 6-10, find the midpoint between each pair of points.
+
+6. (-2, -3) and (8, -7)
+
+7. (9, -1) and (-6, -11)
+
+8. (-4, 10) and (14, 0)
+
+9. (0, -5) and (-9, 9)
+
+10. (-3, -5) and (2, 1)
+
+Given the midpoint (M) and either endpoint of AB, find the other endpoint.
+
+11. A(−1,2) and M(3,6)
+
+12. B(−10,−7) and M(−2,1)
+
+25
+

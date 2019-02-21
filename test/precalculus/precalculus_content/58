@@ -1,0 +1,34 @@
+8.3 POLAR FORM OF COMPLEX NUMBERS; DE MOIVRE'S THEOREM
+Graphing Complex Numbers ! Polar Form of Complex Numbers !
+De Moivre's Theorem ! nth Roots of Complex Numbers
+In this section we represent complex numbers in polar (or trigonometric) form. This en-
+ables us to find the nth roots of complex numbers. To describe the polar form of complex
+Imaginary numbers, we must first learn to work with complex numbers graphically.
+axis
+bi a+bi ! Graphing Complex Numbers
+To graph real numbers or sets of real numbers, we have been using the number line, which
+0 a has just one dimension. Complex numbers, however, have two components: a real partReal
+axis and an imaginary part. This suggests that we need two axes to graph complex numbers:
+one for the real part and one for the imaginary part. We call these the real axis and the
+F I G U R E  1 i1maga,  b 2inary axis, respectively. The plane determined by these two axes is called the com-plex plane. To graph the complex number a ! bi, we plot the ordered pair of numbersin this plane, as indicated in Figure 1.
+Im
+z⁄=2+3i
+3i E X A M P L E  1 Graphing Complex Numbers
+2i z⁄+z¤=5+i Graph the complex numbers z1 % 2 ! 3i, z2 % 3 " 2i, and z1 ! z2.
+i
+S O L U T I O N We have z1 ! z2 % 12 ! 3i 2 ! 13 " 2i 2 % 5 ! i. The graph is shown in
+_i 2          4 Re Figure 2.
+556 C H A P T E R  8 | Polar Coordinates and Parametric Equations
+Im Recall that the absolute value of a real number can be thought of as its distance from
+the origin on the real number line (see Section 1.1). We define absolute value for complex
+bi a+bi numbers in a similar fashion. Using the Pythagorean Theorem, we can see from Figure 4
+that the distance between a ! bi and the origin in the complex plane is 2a 2 2œ∑a∑™+∑∑∑b∑™  ! b . Thisleads to the following definition.
+b
+0 a MODULUS OF A COMPLEX NUMBERRe
+The modulus (or absolute value) of the complex number z % a ! bi is
+F I G U R E  4 0 z 0 % 2a 2 ! b 2 
+E X A M P L E  3 Calculating the Modulus
+The plural of modulus is moduli. Find the moduli of the complex numbers 3 ! 4i and 8 " 5i.
+S O L U T I O N
+ 
+ 00 3 ! 4i8 " 5i 00 %% 2232 ! 482 ! 1 2 %"5 2 1252 % 1% 589

@@ -1,0 +1,179 @@
+5.4 MORE TRIGONOMETRIC GRAPHS
+Graphs of Tangent, Cotangent, Secant, and Cosecant ! Graphs of Transforma-
+tions of Tangent and Cotangent ! Graphs of Transformations of Cosecant 
+and Secant
+In this section we graph the tangent, cotangent, secant, and cosecant functions and trans-
+formations of these functions.
+! Graphs of Tangent, Cotangent, Secant, and Cosecant
+We begin by stating the periodic properties of these functions. Recall that sine and cosine
+have period 2p. Since cosecant and secant are the reciprocals of sine and cosine, respec-
+tively, they also have period 2p (see Exercise 55). Tangent and cotangent, however, have
+period p (see Exercise 85 of Section 5.2).
+PERIODIC PROPERTIES
+The functions tangent and cotangent have period p:
+tan1x ! p 2 " tan x   cot1x ! p 2 " cot x
+The functions cosecant and secant have period 2p:
+csc1x ! 2p 2 " csc x   sec1x ! 2p 2 " sec x
+x tan x We first sketch the graph of tangent. Since it has period p, we need only sketch the
+graph on any interval of length p and then repeat the pattern to the left and to the right.
+0 0 We sketch the graph on the interval 1#p/2, p/2 2 . Since tan1p/22 and tan1#p/2 2 aren't
+'/6 0.58 defined, we need to be careful in sketching the graph at points near p/2 and #p/2. 
+'/4 1.00 As x gets near p/2 through values less than p/2, the value of tan x becomes large. To see
+'/3 1.73
+1.4 5.80 this, notice that as x gets close to p/2, cos x approaches 0 and sin x approaches 1 and so
+tan x " sin x/cos x is large. A table of values of tan x for x close to p/2 1!1.570796 2 is
+1.5 14.10
+shown in the margin.
+1.55 48.08 Thus, by choosing x close enough to p/2 through values less than p/2, we can make
+1.57 1,255.77 the value of tan x larger than any given positive number. We express this by writing
+1.5707 10,381.33
+p#
+tan x!q  as  x!
+2
+This is read "tan x approaches infinity as x approaches p/2 from the left."
+In a similar way, by choosing x close to #p/2 through values greater than #p/2, we
+can make tan x smaller than any given negative number. We write this as
+p!
+Arrow notation is discussed in tan x!#q  as  x!# 
+Section 3.7. 2
+This is read "tan x approaches negative infinity as x approaches #p/2 from the right."
+Asymptotes are discussed in Thus, the graph of y" tan x approaches the vertical lines x"p/2 and x"#p/2. So these
+Section 3.7. lines are vertical asymptotes. With the information we have so far, we sketch the graph of 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+400 C H A P T E R  5 | Trigonometric Functions: Unit Circle Approach
+y " tan x for #p/2 & x & p/2 in Figure 1. The complete graph of tangent (see Figure 5(a)
+on the next page) is now obtained using the fact that tangent is periodic with period p.
+y y
+Vertical
+asymptote
+1 1 2pi 3pi 5pi3 4 6 3
+_pi 0 pi pi pi pi x 0 pi pi pi pi2 6 4 3 2 pi x6 4 3 2
+1.4 Vertical 0.14
+asymptote
+M AT H E M AT I C S  I N  F I G U R E  1 F I G U R E  2
+T H E  M O D E R N  W O R L D One period of y " tan x One period of y " cot x
+Evaluating Functions 
+on a Calculator The function y " cot x is graphed on the interval 10, p 2 by a similar analysis (see Fig-
+How does your calculator evaluate sin t, ure 2). Since cot x is undefined for x " np with n an integer, its complete graph (in Fig-
+cos t, et, ln t,1t, and other such func- ure 5(b) on the next page) has vertical asymptotes at these values.
+tions? One method is to approximate To graph the cosecant and secant functions, we use the reciprocal identities
+these functions by polynomials, be-
+cause polynomials are easy to evaluate. 1 1
+For example, csc x "   and  sec x "
+sin x cos x
+t3 5 t t 7   
+sin t " t # ! # ! . . . So to graph y " csc x, we take the reciprocals of the y-coordinates of the points of the
+3! 5! 7! graph of y " sin x. (See Figure 3.) Similarly, to graph y " sec x, we take the reciprocals
+t2 4 t t 6 
+cos t of the y-coordinates of the points of the graph of y " cos x. (See Figure 4.)" 1 # ! # ! . . .
+2! 4! 6!
+where n! " 1 # 2 # 3 # . . . # n.These remark- y y
+able formulas were found by the British
+mathematician Brook Taylor (1685-
+1731). For instance, if we use the first y=ß x
+three terms of Taylor's series to find y=ç x
+cos(0.4), we get 1 1 3pi 120.4 2 2 10.4 2 4
+ cos 0.4 ! 1 # ! 0 pi pi 2pi x 0 pi pi 3pi x2 2pi2! 4! 2 2
+ !  0.92106667
+(Compare this with the value you get
+from your calculator.) The graph shows
+that the more terms of the series we
+use, the more closely the polynomials F I G U R E  3 F I G U R E  4
+approximate the function cos t. One period of y " csc x One period of y " sec x
+y = 1 - t2 t42! +y 4! Let's consider more closely the graph of the function y " csc x on the interval 
+0 & x & p. We need to examine the values of the function near 0 and p, since at these
+2 values sin x " 0, and csc x is thus undefined. We see that
+csc x!q   as  x! 0!
+_5 0 5 t csc x!q   as  x!p#
+_1
+2
+y = 1 - t y = cos t Thus, the lines x " 0 and x " p are vertical asymptotes. In the interval p & x & 2p the2! graph is sketched in the same way. The values of csc x in that interval are the same as
+those in the interval 0 & x & p except for sign (see Figure 3). The complete graph in Fig-
+ure 5(c) is now obtained from the fact that the function cosecant is periodic with period
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+400 C H A P T E R  5 | Trigonometric Functions: Unit Circle Approach
+y " tan x for #p/2 & x & p/2 in Figure 1. The complete graph of tangent (see Figure 5(a)
+on the next page) is now obtained using the fact that tangent is periodic with period p.
+y y
+Vertical
+asymptote
+1 1 2pi 3pi 5pi3 4 6 3
+_pi 0 pi pi pi pi x 0 pi pi pi pi2 6 4 3 2 pi x6 4 3 2
+1.4 Vertical 0.14
+asymptote
+M AT H E M AT I C S  I N  F I G U R E  1 F I G U R E  2
+T H E  M O D E R N  W O R L D One period of y " tan x One period of y " cot x
+Evaluating Functions 
+on a Calculator The function y " cot x is graphed on the interval 10, p 2 by a similar analysis (see Fig-
+How does your calculator evaluate sin t, ure 2). Since cot x is undefined for x " np with n an integer, its complete graph (in Fig-
+cos t, et, ln t,1t, and other such func- ure 5(b) on the next page) has vertical asymptotes at these values.
+tions? One method is to approximate To graph the cosecant and secant functions, we use the reciprocal identities
+these functions by polynomials, be-
+cause polynomials are easy to evaluate. 1 1
+For example, csc x "   and  sec x "
+sin x cos x
+t3 5 t t 7   
+sin t " t # ! # ! . . . So to graph y " csc x, we take the reciprocals of the y-coordinates of the points of the
+3! 5! 7! graph of y " sin x. (See Figure 3.) Similarly, to graph y " sec x, we take the reciprocals
+t2 4 t t 6 
+cos t of the y-coordinates of the points of the graph of y " cos x. (See Figure 4.)" 1 # ! # ! . . .
+2! 4! 6!
+where n! " 1 # 2 # 3 # . . . # n.These remark- y y
+able formulas were found by the British
+mathematician Brook Taylor (1685-
+1731). For instance, if we use the first y=ß x
+three terms of Taylor's series to find y=ç x
+cos(0.4), we get 1 1 3pi 120.4 2 2 10.4 2 4
+ cos 0.4 ! 1 # ! 0 pi pi 2pi x 0 pi pi 3pi x2 2pi2! 4! 2 2
+ !  0.92106667
+(Compare this with the value you get
+from your calculator.) The graph shows
+that the more terms of the series we
+use, the more closely the polynomials F I G U R E  3 F I G U R E  4
+approximate the function cos t. One period of y " csc x One period of y " sec x
+y = 1 - t2 t42! +y 4! Let's consider more closely the graph of the function y " csc x on the interval 
+0 & x & p. We need to examine the values of the function near 0 and p, since at these
+2 values sin x " 0, and csc x is thus undefined. We see that
+csc x!q   as  x! 0!
+_5 0 5 t csc x!q   as  x!p#
+_1
+2
+y = 1 - t y = cos t Thus, the lines x " 0 and x " p are vertical asymptotes. In the interval p & x & 2p the2! graph is sketched in the same way. The values of csc x in that interval are the same as
+those in the interval 0 & x & p except for sign (see Figure 3). The complete graph in Fig-
+ure 5(c) is now obtained from the fact that the function cosecant is periodic with period
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  5 . 4 | More Trigonometric Graphs 401
+2p. Note that the graph has vertical asymptotes at the points where sin x " 0, that is, at 
+x " np, for n an integer.
+y y
+1 1
+_ 3pi _pi _pi 0 pi pi 3pi x _pi 0 pi2 2 2 2 _
+3pi _pi pi 3pi x2 2 2 2
+(a) y=† x (b) y=ˇ x
+y y
+_pi 1 3pi2 2
+_ 3pi _pi 0 pi pi x2 2 _
+3pi _pi _pi 0 x_1 pi pi 3pi2 2 2 2
+(c) y= x (d) y=˚ x
+F I G U R E  5
+y y=† x The graph of y " sec x is sketched in a similar manner. Observe that the domain of 
+sec x is the set of all real numbers other than x " 1p/2 2 ! np, for n an integer, so the
+graph has vertical asymptotes at those points. The complete graph is shown in Figure 5(d).
+2 It is apparent that the graphs of y " tan x, y " cot x, and y " csc x are symmetric about
+_pi the origin, whereas that of y " sec x is symmetric about the y-axis. This is because tan-
+gent, cotangent, and cosecant are odd functions, whereas secant is an even function.
+_ 3pi _pi 0 pi pi pi 3pi x2 2 4 2 2
+_2
+! Graphs of Transformations of Tangent and Cotangent 
+We now consider graphs of transformations of the tangent and cotangent functions.
+(a) y=2 † x
+y y=† x E X A M P L E  1 Graphing Tangent Curves
+Graph each function.
+(a) y " 2 tan x (b) y " #tan x
+1
+S O L U T I O N We first graph y " tan x and then transform it as required.
+_ 3pi _pi _pi 0 pi pi 3pi x2 2 2 2 (a) To graph y " 2 tan x, we multiply the y-coordinate of each point on the graph 
+of y " tan x by 2. The resulting graph is shown in Figure 6(a).
+(b) The graph of y " #tan x in Figure 6(b) is obtained from that of y " tan x by
+reflecting in the x-axis.
+(b) y=_† x

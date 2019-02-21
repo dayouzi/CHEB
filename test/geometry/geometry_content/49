@@ -1,0 +1,221 @@
+5.4. Medians www.ck12.org
+
+5.4 Medians
+
+Here you'll learn the definitions of median and centroid as well as the Median Theorem, which states that the
+
+medians of a triangle intersect at a point that is two-thirds of the distance from the vertices to the midpoint of the
+
+opposite sides.
+
+What if you were told that J, K, and L were the midpoints of the sides of 4FGH and that M was the centroid of
+
+4FGH? Given the length of JK, how could you find the lengths of JM and KM? After completing this Concept,
+
+you'll be able to use the Median Theorem to solve problems like this one.
+
+Watch This
+
+First watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1294
+
+James Sousa: Medians of a Triangle
+
+Now watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1295
+
+James Sousa: Using the Properties of Medians to Solve for Unknown Values
+
+Guidance
+
+In a triangle, the line segment that joins a vertex and the midpoint of the opposite side is called a median.
+
+256
+
+www.ck12.org Chapter 5. Triangle Relationships
+
+LO is the median from L to the midpoint of NM.
+
+If you draw all three medians they will intersect at one point called the centroid.
+
+The centroid is the "balancing point" of a triangle. This means that if you were to cut out the triangle, the centroid
+
+is its center of gravity so you could balance it there.
+
+The Median Theorem states that the medians of a triangle intersect at a point called the centroid that is two-thirds
+
+of the distance from the vertices to the midpoint of the opposite sides.
+
+So if G is the centroid, then:
+
+2 2 2
+
+AG = AD, CG = CF, EG = BE
+
+3 3 3
+
+1 1 1
+
+DG = AD, FG = CF, BG = BE
+
+3 3 3
+
+1 1 1
+
+And by substitution : DG = AG, FG = CG, BG = EG
+
+2 2 2
+
+Example A
+
+I, K, and M are midpoints of the sides of4HJL.
+
+257
+www.ck12.org Chapter 5. Triangle Relationships
+LO is the median from L to the midpoint of NM.
+If you draw all three medians they will intersect at one point called the centroid.
+The centroid is the "balancing point" of a triangle. This means that if you were to cut out the triangle, the centroid
+is its center of gravity so you could balance it there.
+The Median Theorem states that the medians of a triangle intersect at a point called the centroid that is two-thirds
+of the distance from the vertices to the midpoint of the opposite sides.
+So if G is the centroid, then:
+2 2 2
+AG = AD, CG = CF, EG = BE
+3 3 3
+1 1 1
+DG = AD, FG = CF, BG = BE
+3 3 3
+1 1 1
+And by substitution : DG = AG, FG = CG, BG = EG
+2 2 2
+Example A
+I, K, and M are midpoints of the sides of4HJL.
+257
+5.4. Medians www.ck12.org
+a) If JM = 18, find JN and NM.
+b) If HN = 14, find NK and HK.
+To solve, use the Median Theorem.
+a) JN = 23 ·18 = 12. NM = JM− JN = 18−12. NM = 6.
+b) 14 = 23 ·HK
+14 · 32 = HK = 21. NK is a third of 21, NK = 7.
+Example B
+H is the centroid of4ABC and DC = 5y−16. Find x and y.
+To solve, use the Median Theorem. Set up and solve equations.
+1 2 3
+BH = HF −→ BH = 2HF HC = DC −→ HC = DC
+2 3 2
+3
+3x+6 = 2(2x−1) (2y+8) = 5y−16
+2
+3x+6 = 4x−2 3y+12 = 5y−16
+8 = x 28 = 2y−→ 14 = y
+Example C
+B, D, and F are the midpoints of each side and G is the centroid. If BG = 5, find GE and BE
+258
+www.ck12.org Chapter 5. Triangle Relationships
+Use the Median Theorem.
+1
+BG = BE
+3
+1
+5 = BE
+3
+BE = 15
+.
+Therefore, GE = 10.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136666
+CK-12 Medians
+->
+Guided Practice
+1. B, D, and F are the midpoints of each side and G is the centroid. If CG = 16, find GF and CF
+2. True or false: The median bisects the side it intersects.
+3. N and M are the midpoints of sides XY and ZY .
+a. What is point C?
+b. If XN = 5, find XY .
+c. If ZN = 6x+15 and ZC = 38, find x and ZN.
+Answers
+259
+5.4. Medians www.ck12.org
+1. Use the Median Theorem.
+2
+CG = CF
+3
+2
+16 = CF
+3
+CF = 24
+.
+Therefore, GF = 8
+2. This statement is true. By definition, a median intersects a side of a triangle at its midpoint. Midpoints divide
+segments into two equal parts.
+3. Use the Median Theorem.
+a. C is the centroid.
+b. XN = 12 XY , so XY = 10.
+c.
+2
+ZC = ZN
+3
+2
+38 = (6x+15)
+3
+57 = 6x+15
+42 = 6x
+x = 7
+.
+Substitute 7 for x to find that ZN = 57.
+Explore More
+For questions 1-4, B, D, and F are the midpoints of each side and G is the centroid. Find the following lengths.
+1. If CG = 16, find GF and CF
+2. If AD = 30, find AG and GD
+3. If GF = x, find GC and CF
+4. If AG = 9x and GD = 5x−1, find x and AD.
+Multi-step Problems Find the equation of a median in the x− y plane.
+260
+www.ck12.org Chapter 5. Triangle Relationships
+5. Plot4ABC : A(−6,4), B(−2,4) and C(6,−4)
+6. Find the midpoint of AC. Label it D.
+7. Find the slope of BD.
+8. Find the equation of BD.
+9. Plot4DEF : D(−1,5), E(1,0), F(6,3)
+10. Find the midpoint of EF . Label it G.
+11. Find the slope of DG.
+12. Find the equation of DG.
+Determine whether the following statement is true or false.
+13. The centroid is the balancing point of a triangle.
+261
+www.ck12.org Chapter 5. Triangle Relationships
+
+5. Plot4ABC : A(−6,4), B(−2,4) and C(6,−4)
+
+6. Find the midpoint of AC. Label it D.
+
+7. Find the slope of BD.
+
+8. Find the equation of BD.
+
+9. Plot4DEF : D(−1,5), E(1,0), F(6,3)
+
+10. Find the midpoint of EF . Label it G.
+
+11. Find the slope of DG.
+
+12. Find the equation of DG.
+
+Determine whether the following statement is true or false.
+
+13. The centroid is the balancing point of a triangle.
+
+261
+

@@ -1,0 +1,200 @@
+11.8. Composite Solids www.ck12.org
+
+11.8 Composite Solids
+
+Here you'll learn what a composite solid is and how to find its volume and surface area.
+
+What if you built a solid three-dimensional house model consisting of a pyramid on top of a square prism? How could
+
+you determine how much two-dimensional and three-dimensional space that model occupies? After completing this
+
+Concept, you'll be able to find the surface area and volume of composite solids like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136773
+
+Composite Solids CK-12
+
+Guidance
+
+A composite solid is a solid that is composed, or made up of, two or more solids. The solids that it is made up
+
+of are generally prisms, pyramids, cones, cylinders, and spheres. In order to find the surface area and volume of a
+
+composite solid, you need to know how to find the surface area and volume of prisms, pyramids, cones, cylinders,
+
+and spheres. For more information on any of those specific solids, consult the concept that focuses on them. This
+
+concept will assume knowledge of those five solids.
+
+Most composite solids problems that you will see will be about volume, so most of the examples and practice
+
+problems below are about volume. There is one surface area example as well.
+
+Example A
+
+Find the volume of the solid below.
+
+This solid is a parallelogram-based prism with a cylinder cut out of the middle.
+
+Vprism = (25 ·25)30 = 18,750 cm3
+
+Vcylinder = pi(4)2(30) = 480pi cm3
+
+648
+
+www.ck12.org Chapter 11. Surface Area and Volume
+
+The total volume is 18750−480pi≈ 17,242.04 cm3.
+
+Example B
+
+Find the volume of the composite solid. All bases are squares.
+
+This is a square prism with a square √pyramid on top. First, we need the height of the pyramid portion. Using the
+
+Pythagorean Theorem, we have, h = 252−242 = 7.
+
+Vprism = (48)(48)(18) = 41,472 cm3
+
+1
+
+Vpyramid = (482)(7) = 5376 cm33
+
+The total volume is 41,472+5376 = 46,848 cm3.
+
+Example C
+
+Find the surface area of the following solid.
+
+This solid is a cylinder with a hemisphere on top. It is one solid, so do not include the bottom of the hemisphere or
+
+the top of the cylinder.
+
+SA = LAcylinder +LAhemisphere +Abase circle
+
+1
+
+= 2pirh+ 4pir2 +pir2
+
+2
+
+= 2pi(6)(13)+2pi62 +pi62
+
+= 156pi+72pi+36pi
+
+= 264pi in2
+
+649
+www.ck12.org Chapter 11. Surface Area and Volume
+The total volume is 18750−480pi≈ 17,242.04 cm3.
+Example B
+Find the volume of the composite solid. All bases are squares.
+This is a square prism with a square √pyramid on top. First, we need the height of the pyramid portion. Using the
+Pythagorean Theorem, we have, h = 252−242 = 7.
+Vprism = (48)(48)(18) = 41,472 cm3
+1
+Vpyramid = (482)(7) = 5376 cm33
+The total volume is 41,472+5376 = 46,848 cm3.
+Example C
+Find the surface area of the following solid.
+This solid is a cylinder with a hemisphere on top. It is one solid, so do not include the bottom of the hemisphere or
+the top of the cylinder.
+SA = LAcylinder +LAhemisphere +Abase circle
+1
+= 2pirh+ 4pir2 +pir2
+2
+= 2pi(6)(13)+2pi62 +pi62
+= 156pi+72pi+36pi
+= 264pi in2
+649
+11.8. Composite Solids www.ck12.org
+"LA" stands for lateral area.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136774
+Composite Solids CK-12
+->
+Guided Practice
+1. Find the volume of the following solid.
+2. Find the volume of the base prism. Round your answer to the nearest hundredth.
+3. Using your work from #2, find the volume of the pyramid and then of the entire solid.
+Answers:
+1. Use what you know about cylinders and spheres. The top of the solid is a hemisphere.
+Vcylinder = pi6(2(13) =)468pi
+1 4
+Vhemisphere = pi63 = 144pi2 3
+Vtotal = 468pi+144pi= 612pi in3
+650
+www.ck12.org Chapter 11. Surface Area and Volume
+2. Use what you know about prisms.
+Vprism = B ·h
+Vprism = (4 ·4) ·5
+Vprism = 80in3
+3. Use what you know about pyramids.
+1
+Vpyramid = B ·h3
+1
+Vpyramid = (4 ·4)(6)3
+Vpyramid = 32in3
+Now find the total volume by finding the sum of the volumes of each solid.
+Vtotal =Vprism +Vpyramid
+Vtotal = 112in3
+Explore More
+Round your answers to the nearest hundredth. The solid below is a cube with a cone cut out.
+1. Find the volume of the cube.
+2. Find the volume of the cone.
+3. Find the volume of the entire solid.
+The solid below is a cylinder with a cone on top.
+651
+11.8. Composite Solids www.ck12.org
+4. Find the volume of the cylinder.
+5. Find the volume of the cone.
+6. Find the volume of the entire solid.
+7.
+8.
+9. You may assume the bottom is open.
+Find the volume of the following shapes. Round your answers to the nearest hundredth.
+10.
+11.
+652
+www.ck12.org Chapter 11. Surface Area and Volume
+12.
+13. A sphere has a radius of 5 cm. A right cylinder has the same radius and volume. Find the height of the
+cylinder.
+The bases of the prism are squares and a cylinder is cut out of the center.
+14. Find the volume of the prism.
+15. Find the volume of the cylinder in the center.
+16. Find the volume of the figure.
+This is a prism with half a cylinder on the top.
+17. Find the volume of the prism.
+18. Find the volume of the half-cylinder.
+19. Find the volume of the entire figure.
+Tennis balls with a 3 inch diameter are sold in cans of three. The can is a cylinder. Round your answers to the nearest
+hundredth.
+653
+11.8. Composite Solids www.ck12.org
+20. What is the volume of one tennis ball?
+21. What is the volume of the cylinder?
+22. Assume the balls touch the can on the sides, top and bottom. What is the volume of the space not occupied by
+the tennis balls?
+654
+11.8. Composite Solids www.ck12.org
+
+20. What is the volume of one tennis ball?
+
+21. What is the volume of the cylinder?
+
+22. Assume the balls touch the can on the sides, top and bottom. What is the volume of the space not occupied by
+
+the tennis balls?
+
+654
+
+www.ck12.org Chapter 11. Surface Area and Volume
+

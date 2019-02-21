@@ -1,0 +1,122 @@
+10.5.3 Ohmmeter
+
+An ohmmeter is an instrument for measuring electrical resistance. The basic ohmmeter can
+
+function much like an ammeter. The ohmmeter works by suppling a constant voltage to the
+
+resistor and measuring the current flowing through it. The measured current is then converted
+
+into a corresponding resistance reading through Ohm's Law. Ohmmeters only function correctly
+
+when measuring resistance that is not being powered by a voltage or current source. In other
+
+words, you cannot measure the resistance of a component that is already connected to a circuit.
+
+This is because the ohmmeter's accurate indication depends only on its own source of voltage.
+
+204
+
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.6
+
+A
+
+Figure 10.4: An ammeter should be connected in series in a circuit.
+
+The presence of any other voltage across the measured circuit component interferes with the
+
+ohmmeter's operation. Figure 10.5 shows an ohmmeter connected with a resistor.
+
+Ω
+
+Figure 10.5: An ohmmeter should be used outside when there are no voltages present in the
+
+circuit.
+
+10.5 CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10
+
+3. Explain what happens to the total resistance of a circuit when resistors are
+
+added in parallel?
+
+4. Why do batteries go flat?
+
+10.5 Instruments to Measure voltage, current and resis-
+
+tance
+
+As we have seen in previous sections, an electric circuit is made up of a number of different
+
+components such as batteries, resistors and light bulbs. There are devices to measure the
+
+properties of these components. These devices are called meters.
+
+For example, one may be interested in measuring the amount of current flowing through a circuit
+
+using an ammeter or measuring the voltage provided by a battery using a voltmeter. In this
+
+section we will discuss the practical usage of voltmeters, ammeters, and ohmmeters.
+
+10.5.1 Voltmeter
+
+A voltmeter is an instrument for measuring the voltage between two points in an electric circuit.
+
+In analogy with a water circuit, a voltmeter is like a meter designed to measure pressure difference.
+
+Since one is interested in measuring the voltage between two points in a circuit, a voltmeter
+
+must be connected in parallel with the portion of the circuit on which the measurement is made.
+
+V
+
+Figure 10.3: A voltmeter should be connected in parallel in a circuit.
+
+Figure 10.3 shows a voltmeter connected in parallel with a battery. One lead of the voltmeter is
+
+connected to one end of the battery and the other lead is connected to the opposite end. The
+
+voltmeter may also be used to measure the voltage across a resistor or any other component of
+
+a circuit that has a voltage drop.
+
+10.5.2 Ammeter
+
+An ammeter is an instrument used to measure the flow of electric current in a circuit. Since one
+
+is interested in measuring the current flowing through a circuit component, the ammeter must
+
+be connected in series with the measured circuit component (Figure 10.4).
+
+10.5.3 Ohmmeter
+
+An ohmmeter is an instrument for measuring electrical resistance. The basic ohmmeter can
+
+function much like an ammeter. The ohmmeter works by suppling a constant voltage to the
+
+resistor and measuring the current flowing through it. The measured current is then converted
+
+into a corresponding resistance reading through Ohm's Law. Ohmmeters only function correctly
+
+when measuring resistance that is not being powered by a voltage or current source. In other
+
+words, you cannot measure the resistance of a component that is already connected to a circuit.
+
+This is because the ohmmeter's accurate indication depends only on its own source of voltage.
+
+204
+
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.6
+
+A
+
+Figure 10.4: An ammeter should be connected in series in a circuit.
+
+The presence of any other voltage across the measured circuit component interferes with the
+
+ohmmeter's operation. Figure 10.5 shows an ohmmeter connected with a resistor.
+
+Ω
+
+Figure 10.5: An ohmmeter should be used outside when there are no voltages present in the
+
+circuit.
+

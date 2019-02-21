@@ -1,0 +1,359 @@
+18.4 Transformers
+
+One of the real-world applications of Faraday's Law is in a transformer.
+
+Eskom generates electricity at around 22 000 V. When you plug in a toaster, the mains voltage
+
+is 220 V. A transformer is used to step-down the high voltage to the lower voltage that is used
+
+as mains voltage.
+
+Definition: Transformer
+
+A transformer is an electrical device that uses the principle of induction between the primary
+
+coil and the secondary coil to either step-up or step-down voltage.
+
+The essential features of a transformer are two coils of wire, called the primary coil and the
+
+secondary coil, which are wound around different sections of the same iron core.
+
+iron core
+
+primary coil secondary coil
+
+magnetic flux
+
+When an alternating voltage is applied to the primary coil it creates an alternating current in
+
+that coil, which induces an alternating magnetic field in the iron core. This changing magnetic
+
+field induces an emf, which creates a current in the secondary coil.
+
+The circuit symbol for a transformer is:
+
+T
+
+423
+
+18.4 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+
+A very useful property of transformers is the ability to transform voltage and current levels
+
+according to a simple ratio, determined by the ratio of input and output coil turns. We can
+
+derive a mathematical relationship by using Faraday's law.
+
+Assume that an alternating voltage Vp is applied to the primary coil (which has Np turns) of a
+
+transformer. The current that results from this voltage generates a magnetic flux φp. We can
+
+then describe the emf in the primary coil by:
+
+∆φp
+
+Vp = Np
+
+∆t
+
+Similarly, for the secondary coil,
+
+∆φs
+
+Vs = Ns
+
+∆t
+
+If we assume that the primary and secondary windings are perfectly coupled, then:
+
+φp = φs
+
+which means that:
+
+Vp Np
+
+=
+
+Vs Ns
+
+Worked Example 122: Transformer specifications
+
+Question: Calculate the voltage on the secondary coil if the voltage on the primary
+
+coil is 120 V and the ratio of primary windings to secondary windings is 10:1.
+
+Answer
+
+Step 1 : Determine how to approach the problem
+
+Use
+
+Vp Np
+
+=
+
+Vs Ns
+
+with
+
+• Vp = 120
+
+• Np = 10
+
+Ns 1
+
+Step 2 : Rearrange equation to solve for Vs
+
+Vp Np
+
+=
+
+Vs Ns
+
+1 Np 1
+
+=
+
+Vs Ns Vp
+
+1
+
+∴ Vs = VN pp
+
+Ns
+
+Step 3 : Substitute values and solve for Vs
+
+1
+
+Vs = VN pp
+
+Ns
+
+1
+
+= 10 120
+
+1
+
+= 12 V
+
+A transformer designed to output more voltage than it takes in across the input coil is called a
+
+step-up transformer. A step-up transformer has more windings on the secondary coil than on
+
+the primary coil. This means that:
+
+Ns > Np
+
+424
+18.4 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+A very useful property of transformers is the ability to transform voltage and current levels
+according to a simple ratio, determined by the ratio of input and output coil turns. We can
+derive a mathematical relationship by using Faraday's law.
+Assume that an alternating voltage Vp is applied to the primary coil (which has Np turns) of a
+transformer. The current that results from this voltage generates a magnetic flux φp. We can
+then describe the emf in the primary coil by:
+∆φp
+Vp = Np
+∆t
+Similarly, for the secondary coil,
+∆φs
+Vs = Ns
+∆t
+If we assume that the primary and secondary windings are perfectly coupled, then:
+φp = φs
+which means that:
+Vp Np
+=
+Vs Ns
+Worked Example 122: Transformer specifications
+Question: Calculate the voltage on the secondary coil if the voltage on the primary
+coil is 120 V and the ratio of primary windings to secondary windings is 10:1.
+Answer
+Step 1 : Determine how to approach the problem
+Use
+Vp Np
+=
+Vs Ns
+with
+• Vp = 120
+• Np = 10
+Ns 1
+Step 2 : Rearrange equation to solve for Vs
+Vp Np
+=
+Vs Ns
+1 Np 1
+=
+Vs Ns Vp
+1
+∴ Vs = VN pp
+Ns
+Step 3 : Substitute values and solve for Vs
+1
+Vs = VN pp
+Ns
+1
+= 10 120
+1
+= 12 V
+A transformer designed to output more voltage than it takes in across the input coil is called a
+step-up transformer. A step-up transformer has more windings on the secondary coil than on
+the primary coil. This means that:
+Ns > Np
+424
+18.4 CHAPTER 18. ELECTROMAGNETISM - GRADE 11
+
+A very useful property of transformers is the ability to transform voltage and current levels
+
+according to a simple ratio, determined by the ratio of input and output coil turns. We can
+
+derive a mathematical relationship by using Faraday's law.
+
+Assume that an alternating voltage Vp is applied to the primary coil (which has Np turns) of a
+
+transformer. The current that results from this voltage generates a magnetic flux φp. We can
+
+then describe the emf in the primary coil by:
+
+∆φp
+
+Vp = Np
+
+∆t
+
+Similarly, for the secondary coil,
+
+∆φs
+
+Vs = Ns
+
+∆t
+
+If we assume that the primary and secondary windings are perfectly coupled, then:
+
+φp = φs
+
+which means that:
+
+Vp Np
+
+=
+
+Vs Ns
+
+Worked Example 122: Transformer specifications
+
+Question: Calculate the voltage on the secondary coil if the voltage on the primary
+
+coil is 120 V and the ratio of primary windings to secondary windings is 10:1.
+
+Answer
+
+Step 1 : Determine how to approach the problem
+
+Use
+
+Vp Np
+
+=
+
+Vs Ns
+
+with
+
+• Vp = 120
+
+• Np = 10
+
+Ns 1
+
+Step 2 : Rearrange equation to solve for Vs
+
+Vp Np
+
+=
+
+Vs Ns
+
+1 Np 1
+
+=
+
+Vs Ns Vp
+
+1
+
+∴ Vs = VN pp
+
+Ns
+
+Step 3 : Substitute values and solve for Vs
+
+1
+
+Vs = VN pp
+
+Ns
+
+1
+
+= 10 120
+
+1
+
+= 12 V
+
+A transformer designed to output more voltage than it takes in across the input coil is called a
+
+step-up transformer. A step-up transformer has more windings on the secondary coil than on
+
+the primary coil. This means that:
+
+Ns > Np
+
+424
+
+CHAPTER 18. ELECTROMAGNETISM - GRADE 11 18.5
+
+Similarly, a transformer designed to output less than it takes in across the input coil is called a
+
+step-down transformer. A step-down transformer has more windings on the primary coil than
+
+on the primary coil. This means that:
+
+Np > Ns
+
+We use a step-up transformer to increase the voltage from the primary coil to the secondary
+
+coil. It is used at power stations to increase the voltage for the transmission lines. A step-down
+
+transformer decreases the voltage from the primary coil to the secondary coil. It is particularly
+
+used to decrease the voltage from the transmission lines to a voltage which can be used in
+
+factories and in homes.
+
+Transformer technology has made long-range electric power distribution practical. Without the
+
+ability to efficiently step voltage up and down, it would be cost-prohibitive to construct power
+
+systems for anything but close-range (within a few kilometres) use.
+
+As useful as transformers are, they only work with AC, not DC. This is because the
+
+phenomenon of mutual inductance relies on changing magnetic fields, and direct current (DC)
+
+can only produce steady magnetic fields, transformers simply will not work with direct current.
+
+Of course, direct current may be interrupted (pulsed) through the primary winding of a
+
+transformer to create a changing magnetic field (as is done in automotive ignition systems to
+
+produce high-voltage spark plug power from a low-voltage DC battery), but pulsed DC is not
+
+that different from AC. Perhaps more than any other reason, this is why AC finds such
+
+widespread application in power systems.
+

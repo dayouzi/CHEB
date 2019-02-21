@@ -1,0 +1,159 @@
+3.7 Slope in the Coordinate Plane
+
+Here you'll learn how to find the slope of a line given two of its points and you'll review the different types of slope.
+
+What if you were given the coordinates of two points? How would you determine the steepness of the line they
+
+form? After completing this Concept, you'll be able to find the slope of a line through two points.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136577
+
+CK-12 Slope in the Coordinate Plane
+
+Guidance
+
+Recall from Algebra I that slope is the measure of the steepness of a line. Two points (x1,y1) and (x2,y2) have a
+
+slope of m = (y2−y1)(x2−x1) . You might have also learned slope as
+
+rise
+
+run . This is a great way to remember the formula. Also
+
+remember that if an equation is written in slope-intercept form, y = mx+b, then m is always the slope of the line.
+
+Slopes can be positive, negative, zero, or undefined as shown in the pictures below:
+
+Positive:
+
+Negative:
+
+139
+
+3.7. Slope in the Coordinate Plane www.ck12.org
+
+Zero:
+
+Undefined:
+
+Example A
+
+What is the slope of the line through (2, 2) and (4, 6)?
+
+140
+3.7. Slope in the Coordinate Plane www.ck12.org
+Zero:
+Undefined:
+Example A
+What is the slope of the line through (2, 2) and (4, 6)?
+140
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+Use (2, 2) as (x1,y1) and (4, 6) as (x2,y2).
+6−2 4
+m = = 2
+4− =2 2
+Example B
+Find the slope between (-8, 3) and (2, -2).
+Use (-8, 3) as (x1,y1) and (2, -2) as (x2,y2).
+−2−3 −5
+m = −1
+2− (− = =8) 10 2
+Example C
+The picture shown is the California Incline, a short road that connects Highway 1 with Santa Monica. The length of
+the road is 1532 feet and has an elevation of 177 feet. You may assume that the base of this incline is zero feet. Can
+you find the slope of the California Incline?
+141
+3.7. Slope in the Coordinate Plane www.ck12.org
+In order to find the slope, we need to first find the horizontal distance in the triangle shown. This triangle represents
+the incline and the elevation. To find the horizontal distance, we need to use the Pythagorean Theorem (a concept
+you will be introduced to formally in a future lesson), a2 +b2 = c2, where c is the hypotenuse.
+1772 + run2 = 15322
+31,329+ run2 = 2,347,024
+run2 = 2,315,695
+run≈ 1521.75
+The slope is then 1771521.75 , which is roughly
+3
+25 .
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136578
+CK-12 Slope in the Coordinate Plane
+->
+Guided Practice
+1. Find the slope between (-5, -1) and (3, -1).
+142
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+2. What is the slope of the line through (3, 2) and (3, 6)?
+3. Find the slope between (-5, 2) and (3, 4).
+Answers:
+1. Use (-5, -1) as (x1,y1) and (3, -1) as (x2,y2).
+−1− (−1) 0
+m = =
+3− (− = 05) 8
+The slope of this line is 0, or a horizontal line. Horizontal lines always pass through the y−axis. The y−coordinate
+for both points is -1. So, the equation of this line is y =−1.
+2. Use (3, 2) as (x1,y1) and (3, 6) as (x2,y2).
+6−2 4
+m = = u d f n d
+3− = n e i e3 0
+The slope of this line is undefined, which means that it is a vertical line. Vertical lines always pass through the
+x−axis. The x−coordinate for both points is 3.
+So, the equation of this line is x = 3.
+3. Use (-5, 2) as (x1,y1) and (3, 4) as (x2,y2).
+4−2 2 1
+m =
+3− =(− =5) 8 4
+143
+3.7. Slope in the Coordinate Plane www.ck12.org
+Explore More
+Find the slope between the two given points.
+1. (4, -1) and (-2, -3)
+2. (-9, 5) and (-6, 2)
+3. (7, 2) and (-7, -2)
+4. (-6, 0) and (-1, -10)
+5. (1, -2) and (3, 6)
+6. (-4, 5) and (-4, -3)
+7. (-2, 3) and (-2, -3)
+8. (4, 1) and (7, 1)
+For 9-10, determine if the statement is true or false.
+9. If you know the slope of a line you will know whether it is pointing up or down from left to right.
+10. Vertical lines have a slope of zero.
+144
+3.7. Slope in the Coordinate Plane www.ck12.org
+
+Explore More
+
+Find the slope between the two given points.
+
+1. (4, -1) and (-2, -3)
+
+2. (-9, 5) and (-6, 2)
+
+3. (7, 2) and (-7, -2)
+
+4. (-6, 0) and (-1, -10)
+
+5. (1, -2) and (3, 6)
+
+6. (-4, 5) and (-4, -3)
+
+7. (-2, 3) and (-2, -3)
+
+8. (4, 1) and (7, 1)
+
+For 9-10, determine if the statement is true or false.
+
+9. If you know the slope of a line you will know whether it is pointing up or down from left to right.
+
+10. Vertical lines have a slope of zero.
+
+144
+
+www.ck12.org Chapter 3. Parallel and Perpendicular Lines
+

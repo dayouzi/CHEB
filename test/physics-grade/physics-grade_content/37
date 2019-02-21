@@ -1,0 +1,74 @@
+3.9 Equations of Motion
+
+In this chapter we will look at the third way to describe motion. We have looked at describing
+
+motion in terms of graphs and words. In this section we examine equations that can be used to
+
+describe motion.
+
+This section is about solving problems relating to uniformly accelerated motion. In other words,
+
+motion at constant acceleration.
+
+The following are the variables that will be used in this section:
+
+vi = initial velocity (m·s−1) at t = 0 s
+
+vf = final velocity (m·s−1) at time t
+
+∆x = displacement (m)
+
+t = time (s)
+
+∆t = time interval (s)
+
+a = acceleration (m·s−2)
+
+vf = vi + at (3.1)
+
+(vi + vf )
+
+∆x = t (3.2)
+
+2
+
+1
+
+∆x = vit+ at
+
+2 (3.3)
+
+2
+
+v2f = v
+
+2
+
+i + 2a∆x (3.4)
+
+The questions can vary a lot, but the following method for answering them will always work.
+
+Use this when attempting a question that involves motion with constant acceleration. You need
+
+any three known quantities (vi, vf , ∆x, t or a) to be able to calculate the fourth one.
+
+1. Read the question carefully to identify the quantities that are given. Write them down.
+
+2. Identify the equation to use. Write it down!!!
+
+3. Ensure that all the values are in the correct unit and fill them in your equation.
+
+4. Calculate the answer and fill in its unit.
+
+Itneterreessttinigng Galileo Galilei of Pisa, Italy, was the first to determined the correct mathematical
+
+FFacctt law for acceleration: the total distance covered, starting from rest, is proportional
+
+to the square of the time. He also concluded that objects retain their velocity
+
+unless a force - often friction - acts upon them, refuting the accepted Aristotelian
+
+hypothesis that objects "naturally" slow down and stop unless a force acts upon
+
+them. This principle was incorporated into Newton's laws of motion (1st law).
+

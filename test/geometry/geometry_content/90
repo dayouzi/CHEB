@@ -1,0 +1,245 @@
+9.2. Tangent Lines www.ck12.org
+
+9.2 Tangent Lines
+
+Here you'll learn two theorems about tangent lines: 1) the Tangent to a Circle Theorem that states tangents are
+
+perpendicular to radii; and 2) the Two Tangents Theorem that states two tangents drawn from the same point will be
+
+congruent.
+
+What if a line were drawn outside a circle that appeared to touch the circle at only one point? How could you
+
+determine if that line were actually a tangent? After completing this Concept, you'll be able to apply theorems to
+
+solve tangent problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136559
+
+Tangent Lines CK-12
+
+First watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1326
+
+James Sousa: Tangent Lines to a Circle
+
+Now watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1327
+
+James Sousa: Tangent Lines to a Circle Example Problems
+
+Guidance
+
+There are two important theorems about tangent lines.
+
+470
+
+www.ck12.org Chapter 9. Circles
+
+1) Tangent to a Circle Theorem: A line is tangent to a circle if and only if the line is perpendicular to the radius
+
+drawn to the point of tangency.
+
+←→ ←→
+
+BC is tangent at point B if and only if BC ⊥ AB.
+
+This theorem uses the words "if and only if," making it a biconditional statement, which means the converse of this
+
+theorem is also true.
+
+2) Two Tangents Theorem: If two tangent segments are drawn to one circle from the same external point, then they
+
+are congruent.
+
+BC and DC have C as an endpoint and are tangent; BC ∼= DC.
+
+Example A
+
+⊙
+
+CB is tangent to A at point B. Find AC. Reduce any radicals.
+
+CB is tangent, so AB⊥CB and4ABC a right triangle. Use the Pythagorean Theorem to find AC.
+
+52 +82 = AC2
+
+25+64 = AC2
+
+89 = AC2√
+
+AC = 89
+
+471
+www.ck12.org Chapter 9. Circles
+1) Tangent to a Circle Theorem: A line is tangent to a circle if and only if the line is perpendicular to the radius
+drawn to the point of tangency.
+←→ ←→
+BC is tangent at point B if and only if BC ⊥ AB.
+This theorem uses the words "if and only if," making it a biconditional statement, which means the converse of this
+theorem is also true.
+2) Two Tangents Theorem: If two tangent segments are drawn to one circle from the same external point, then they
+are congruent.
+BC and DC have C as an endpoint and are tangent; BC ∼= DC.
+Example A
+⊙
+CB is tangent to A at point B. Find AC. Reduce any radicals.
+CB is tangent, so AB⊥CB and4ABC a right triangle. Use the Pythagorean Theorem to find AC.
+52 +82 = AC2
+25+64 = AC2
+89 = AC2√
+AC = 89
+471
+9.2. Tangent Lines www.ck12.org
+Example B
+⊙
+Using the answer from Example A above, find DC in A. Round your answer to the nearest hundredth.
+DC = A√C−AD
+DC = 89−5≈ 4.43
+Example C
+Find the perimeter of4ABC.
+A⊙E = AD, EB = BF, and CF =CD. Therefore, the perimeter of4ABC = 6+6+4+4+7+7 = 34.
+G is inscribed in4ABC. A circle is inscribed in a polygon if every side of the polygon is tangent to the circle.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136560
+Tangent Lines CK-12
+->
+Guided Practice
+⊙ ⊙
+1. Find AB between A and B. Reduce the radical.
+472
+www.ck12.org Chapter 9. Circles
+2. Determine if the triangle below is a right triangle.
+3. If D and C are the centers and AE is tangent to both circles, find DC.
+4. Find the value of x.
+Answers:
+1. AD⊥ DC and DC ⊥CB. Draw in BE, so EDCB is a rectangle. Use the Pythagorean Theorem to find AB.
+52 +552 = AB2
+25+3025 = AB2
+3050 = AB2√ √
+AB = 3050 = 5 122
+473
+9.2. Tangent Lines www.ck12.org
+√
+2. Again, use the Pythagorean Theorem. 4 10 is the longest side, so it will be c.
+Does ( √ )2
+82 +102 = 4 10 ?
+64+100 6= 160
+4 ⊙ABC is not a right triangle. From this, we also find that CB is not tangent to A.
+3. AE ⊥ DE and AE ⊥ AC and4ABC ∼4DBE by AA Similarity.
+To find DB, use the Pythagorean Theorem.
+102 +242 = DB2
+100+576 = 6√76
+DB = 676 = 26
+To find BC, use similar triangles. 510 =
+BC
+26 −→ BC = 13. DC = DB+BC = 26+13 = 39
+4. AB∼=CB by the Two Tangents Theorem. Set AB =CB and solve for x.
+4x−9 = 15
+4x = 24
+x = 6
+Explore More
+⊙
+Determine whether the given segment is tangent to K.
+1.
+2.
+3.
+474
+www.ck12.org Chapter 9. Circles
+⊙
+Find the value of the indicated length(s) in C. A and B are points of tangency. Simplify all radicals.
+4.
+5.
+6.
+7.
+8.
+9.
+⊙ ⊙
+A and B are points of tangency for C and D.
+475
+9.2. Tangent Lines www.ck12.org
+10. Is4AEC ∼4BED? Why?
+11. Find CE.
+12. Find BE.
+13. Find ED.
+14. Find BC and AD.
+⊙
+A is inscribed in BDFH.
+15. Find the perimeter of BDFH.
+16. What type of quadrilateral is BDFH? How do you know?
+17. Draw a circle inscribed in a square. If the radius of the circle is 5, what is the perimeter of the square?
+18. Can a circle be inscribed in a rectangle? If so, draw it. If not, explain.
+19. Draw a triangle with two sides tangent to a circle, but the third side is not.
+20. Can a circle be inscribed in an obtuse triangle? If so, draw it. If not, explain.
+21. Fill in the blanks in the proof of the Two Tangents Theorem.
+Given: AB and CB with points of tangency at A and C. AD and DC are radii.
+Prove: AB∼=CB
+476
+www.ck12.org Chapter 9. Circles
+TABLE 9.1:
+Statement Reason
+1. 1.
+2. AD∼= DC 2.
+3. DA⊥ AB and DC ⊥CB 3.
+4. 4. Definition of perpendicular lines
+5. 5. Connecting two existing points
+6. 4ADB and4DCB are right triangles 6.
+7. DB∼= DB 7.
+8. 4ABD∼=4CBD 8.
+9. AB∼=CB 9.
+22. Fill in the blanks, using the proof from #21.
+a. ABCD is a _____________ (type of quadrilateral).
+b. The line that connects the ___________ and the external point B __________ 6 ABC.
+23. Points A, B, and C are points of tangency for the three tangent circles. Explain why AT ∼= BT ∼=CT .
+477
+www.ck12.org Chapter 9. Circles
+
+TABLE 9.1:
+
+Statement Reason
+
+1. 1.
+
+2. AD∼= DC 2.
+
+3. DA⊥ AB and DC ⊥CB 3.
+
+4. 4. Definition of perpendicular lines
+
+5. 5. Connecting two existing points
+
+6. 4ADB and4DCB are right triangles 6.
+
+7. DB∼= DB 7.
+
+8. 4ABD∼=4CBD 8.
+
+9. AB∼=CB 9.
+
+22. Fill in the blanks, using the proof from #21.
+
+a. ABCD is a _____________ (type of quadrilateral).
+
+b. The line that connects the ___________ and the external point B __________ 6 ABC.
+
+23. Points A, B, and C are points of tangency for the three tangent circles. Explain why AT ∼= BT ∼=CT .
+
+477
+

@@ -1,0 +1,178 @@
+29.6.2 Counting circuits
+
+To make a counter you need several ‘T flip flops', sometimes called ‘divide by two' circuits. A
+
+T flip flop is a digital circuit which swaps its output (from 0 to 1 or from 1 to 0) whenever the
+
+input changes from 1 to 0. When the input changes from 0 to 1 it doesn't change its output.
+
+It is called a flip flop because it changes (flips or flops) each time it receives a pulse.
+
+If you put a series of pulses 10101010 into a T flip flop, the result is 01100110. Figure 29.18
+
+makes this clearer.
+
+As you can see from Figure 29.18, there are half as many pulses in the output. This is why it is
+
+called a ‘divide by two' circuit.
+
+If we connect T flip flops in a chain, then we make a counter which can count pulses. As an
+
+example, we connect three T flip flops in a chain. This is shown in Figure 29.19.
+
+When this circuit is fed with a stream of pulses, the outputs of the different stages change.
+
+The table below shows how this happens. Each row shows a different stage, with the first stage
+
+at the top. We assume that all of the flip flops have 0 as their output to start with.
+
+617
+
+29.6 CHAPTER 29. ELECTRONICS - GRADE 12
+
+Input
+
+time
+
+Output
+
+time
+
+Figure 29.18: The output of a T flip flop, or ‘divide by two' circuit when a square wave is
+
+connected to the input. The output changes state when the input goes from 1 to 0.
+
+Input
+
+T Q T Q T Q
+
+Q0 Q1 Q2
+
+Figure 29.19: Three T flip flops connected together in a chain to make a counter. The input
+
+of each flip flop is labelled T, while each output is labelled Q. The pulses are connected to the
+
+input on the left. The outputs Q0, Q1 and Q2 give the three digits of the binary number as the
+
+pulses are counted. This is explained in the text and in the next table.
+
+618
+29.6 CHAPTER 29. ELECTRONICS - GRADE 12
+Input
+time
+Output
+time
+Figure 29.18: The output of a T flip flop, or ‘divide by two' circuit when a square wave is
+connected to the input. The output changes state when the input goes from 1 to 0.
+Input
+T Q T Q T Q
+Q0 Q1 Q2
+Figure 29.19: Three T flip flops connected together in a chain to make a counter. The input
+of each flip flop is labelled T, while each output is labelled Q. The pulses are connected to the
+input on the left. The outputs Q0, Q1 and Q2 give the three digits of the binary number as the
+pulses are counted. This is explained in the text and in the next table.
+618
+29.6 CHAPTER 29. ELECTRONICS - GRADE 12
+
+Input
+
+time
+
+Output
+
+time
+
+Figure 29.18: The output of a T flip flop, or ‘divide by two' circuit when a square wave is
+
+connected to the input. The output changes state when the input goes from 1 to 0.
+
+Input
+
+T Q T Q T Q
+
+Q0 Q1 Q2
+
+Figure 29.19: Three T flip flops connected together in a chain to make a counter. The input
+
+of each flip flop is labelled T, while each output is labelled Q. The pulses are connected to the
+
+input on the left. The outputs Q0, Q1 and Q2 give the three digits of the binary number as the
+
+pulses are counted. This is explained in the text and in the next table.
+
+618
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.6
+
+Input Output 1 Output 2 Output 3 Number of pulse Number in binary
+
+1 0 0 0 0 000
+
+0 1 0 0 1 001
+
+1 1 0 0 1 001
+
+0 0 1 0 2 010
+
+1 0 1 0 2 010
+
+0 1 1 0 3 011
+
+1 1 1 0 3 011
+
+0 0 0 1 4 100
+
+1 0 0 1 4 100
+
+0 1 0 1 5 101
+
+1 1 0 1 5 101
+
+0 0 1 1 6 110
+
+1 0 1 1 6 110
+
+0 1 1 1 7 111
+
+1 1 1 1 7 111
+
+0 0 0 0 8 1000
+
+1 0 0 0 8 1000
+
+0 1 0 0 9 1101
+
+1 1 0 0 9 1101
+
+The binary numbers in the right hand column count the pulses arriving at the input. You will
+
+notice that the output of the first flip flop gives the right most digit of the pulse count (in
+
+binary). The output of the second flip flop gives the second digit from the right (the ‘twos'
+
+digit) of the pulse count. The output of the third flip flop gives the third digit from the right
+
+(the ‘fours' digit) of the pulse count. As there are only three flip flops, there is nothing to
+
+provide the next digit (the ‘eights' digit), and so the eighth pulse is recorded as 000, not 1000.
+
+This device is called a modulo 8 counter because it can count in eight stages from 000 to 111
+
+before it goes back to 000. If you put four flip flops in the counter, it will count in sixteen
+
+stages from 0000 to 1111, and it is called a modulo 16 counter because it counts in sixteen
+
+stages before going back to 0000.
+
+Definition: Modulo
+
+The modulo of a counter tells you how many stages (or pulses) it receives before going back
+
+to 0 as its output. Thus a modulo 8 counter counts in eight stages 000, 001, 010, 011,
+
+100, 101, 110, 111, then returns to 000 again.
+
+Itneterreessttinigng If a counter contains n flip flops, it will be a modulo 2n counter. It will count
+
+FFacctt from 0 to 2n − 1.
+

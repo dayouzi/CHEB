@@ -1,0 +1,32 @@
+28.4.1 Capacitance
+
+You have learnt about capacitance and capacitors in Grade 11. Please read through
+
+section 17.5 to recap what you learnt about capacitance in a DC circuit.
+
+In this section you will learn about capacitance in an AC circuit. A capacitor in an AC circuit
+
+has reactance. Reactance in an AC circuit plays a similar role to resistance in a DC circuit.
+
+The reactance of a capacitor XC is defined as:
+
+XC =
+
+1
+
+2πfC
+
+where C is the capacitance and f is the AC frequency.
+
+If we examine the equation for the reactance of a capacitor, we see that the frequency is in the
+
+denominator. Therefore, when the frequency is low, the capacitive reactance is very high. This
+
+is why a capacitor blocks the flow of DC and low frequency AC because its reactance increases
+
+with decreasing frequency.
+
+When the frequency is high, the capacitive reactance is low. This is why a capacitor allows the
+
+flow of high frequency AC because its reactance decreases with increasing frequency.
+

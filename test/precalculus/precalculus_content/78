@@ -1,0 +1,107 @@
+11.1 PARABOLAS
+Geometric Definition of a Parabola ! Equations and Graphs of Parabolas
+! Applications
+! Geometric Definition of a Parabola
+We saw in Section 3.1 that the graph of the equation
+y " ax 2 ! bx ! c
+is a U-shaped curve called a parabola that opens either upward or downward, depending
+on whether the sign of a is positive or negative.
+In this section we study parabolas from a geometric rather than an algebraic point of
+view. We begin with the geometric definition of a parabola and show how this leads to the
+algebraic formula that we are already familiar with.
+GEOMETRIC DEFINITION OF A PARABOL A
+A parabola is the set of points in the plane that are equidistant from a fixed point
+F (called the focus) and a fixed line l (called the directrix).
+This definition is illustrated in Figure 1. The vertex V of the parabola lies halfway be-
+tween the focus and the directrix, and the axis of symmetry is the line that runs through
+the focus perpendicular to the directrix.
+s
+Parabola Axi
+Focus
+F
+V
+l
+Vertex Directrix
+F I G U R E  1
+In this section we restrict our attention to parabolas that are situated with the vertex 
+y at the origin and that have 
+P(x, y)
+0, p 2a vertical or horizontal axis of symmetry. (Parabolas in moregeneral positions will be considered in Sections 11.4 and 11.5.) If the focus of such aparabola is the point , then the axis of symmetry must be vertical, and the directrix
+has the equa
+F(0, p) y P1 F1x, y 2 tion y " #p. Figure 2 illustrates the case p $ 0.If is any point on the parabola, then the distance from P to the focus F (using
+p the Distance Formula) is
+0 p x 2x 2 ! 1y # p 2 2
+y=_p
+The distance from P to the direct
+F I G U R E  2 0 rix isy # 1#p 2 0 " 0 y ! p 0
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 1 . 1 | Parabolas 725
+By the definition of a parabola these two distances must be equal:
+ 2x 2 !
+ x 2 ! 11y # p 2 2 " 0 y ! p 0y # p 2 2 " 0 y ! p 0 2 " 1y ! p 2 2 Square both sides
+ x 2 ! y 2 # 2py ! p 2 " y 2 ! 2py ! p 2 Expand
+ x 2 # 2py " 2py Simplify
+ x2 " 4py
+If p $ 0, then the parabola opens upward; but if p % 0, it opens downward. When x is re-
+placed by #x, the equation remains unchanged, so the graph is symmetric about the y-axis.
+! Equations and Graphs of Parabolas
+The following box summarizes what we have just proved about the equation and features
+of a parabola with a vertical axis.
+PARABOL A WITH VERTIC AL A XIS
+The graph of the equation
+x 2 " 4py
+is a parabola with the following properties.
+vertex V
+F110, 0 2focus 0, p 2
+directrix y " #p
+The parabola opens upward if p $ 0 or downward if p % 0.
+y y
+F(0, p)
+y=_p
+0 x 0 x
+y=_p
+F(0, p)
+≈=4py with p>0 ≈=4py with p<0
+y E X A M P L E  1 | Finding the Equation of a Parabola
+Find an equation for the parabola with
+F1 vertex 0, 2 2 V10, 0 2 and focus F10, 2 2 , and sketch its graph.≈=8y3 S O L U T I O N Since the focus is , we conclude that p " 2 (so the directrix is
+F(0, 2) y " #2). Thus the equation of the 
+ x 2 " 41pa2 2rabola isy x2 = 4py with p = 2
+_3 0 3 x
+ x 2 " 8y
+_3 y=_2 Since p " 2 $ 0, the parabola opens upward. See Figure 3.
+S E C T I O N  1 1 . 1 | Parabolas 725
+By the definition of a parabola these two distances must be equal:
+ 2x 2 !
+ x 2 ! 11y # p 2 2 " 0 y ! p 0y # p 2 2 " 0 y ! p 0 2 " 1y ! p 2 2 Square both sides
+ x 2 ! y 2 # 2py ! p 2 " y 2 ! 2py ! p 2 Expand
+ x 2 # 2py " 2py Simplify
+ x2 " 4py
+If p $ 0, then the parabola opens upward; but if p % 0, it opens downward. When x is re-
+placed by #x, the equation remains unchanged, so the graph is symmetric about the y-axis.
+! Equations and Graphs of Parabolas
+The following box summarizes what we have just proved about the equation and features
+of a parabola with a vertical axis.
+PARABOL A WITH VERTIC AL A XIS
+The graph of the equation
+x 2 " 4py
+is a parabola with the following properties.
+vertex V
+F110, 0 2focus 0, p 2
+directrix y " #p
+The parabola opens upward if p $ 0 or downward if p % 0.
+y y
+F(0, p)
+y=_p
+0 x 0 x
+y=_p
+F(0, p)
+≈=4py with p>0 ≈=4py with p<0
+y E X A M P L E  1 | Finding the Equation of a Parabola
+Find an equation for the parabola with
+F1 vertex 0, 2 2 V10, 0 2 and focus F10, 2 2 , and sketch its graph.≈=8y3 S O L U T I O N Since the focus is , we conclude that p " 2 (so the directrix is
+F(0, 2) y " #2). Thus the equation of the 
+ x 2 " 41pa2 2rabola isy x2 = 4py with p = 2
+_3 0 3 x
+ x 2 " 8y
+_3 y=_2 Since p " 2 $ 0, the parabola opens upward. See Figure 3.

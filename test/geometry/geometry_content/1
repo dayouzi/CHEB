@@ -1,0 +1,272 @@
+1.1. Basic Geometric Definitions www.ck12.org
+
+1.1 Basic Geometric Definitions
+
+Here you'll learn the basic geometric definitions and rules you will need to succeed in geometry.
+
+What if you were given a picture of a figure or object, like a map with cities and roads marked on it? How could
+
+you explain that picture geometrically? After completing this Concept, you'll be able to describe such a map using
+
+geometric terms.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136723
+
+CK-12 Basic Geometric Definitions - Guidance
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1284
+
+James Sousa: Definitions of and Postulates Involving Points, Lines, and Planes
+
+Guidance
+
+A point is an exact location in space. It describes a location, but has no size. Examples are shown below:
+
+TABLE 1.1:
+
+Label It Say It
+
+A point A
+
+2
+
+www.ck12.org Chapter 1. Basics of Geometry
+
+A line is infinitely many points that extend forever in both directions. Lines have direction and location and are
+
+always straight.
+
+TABLE 1.2:
+
+Label It Say It
+
+l←i→ne g line g
+
+PQ line PQ
+
+A plane is infinitely many intersecting lines that extend forever in all directions. Think of a plane as a huge sheet of
+
+paper that goes on forever.
+
+TABLE 1.3:
+
+Label It Say It
+
+Plane M Plane M
+
+Plane ABC Plane ABC
+
+We can use point, line, and plane to define new terms.
+
+Space is the set of all points extending in three dimensions. Think back to the plane. It extended in two dimensions,
+
+what we think of as up/down and left/right. If we add a third dimension, one that is perpendicular to the other two,
+
+we arrive at three-dimensional space.
+
+Points that lie on the same line are collinear. P,Q,R,S, and T are collinear because they are all on line w. If a point
+
+U were located above or below line w, it would be non-collinear.
+
+Points and/or line←s within the same plane are coplanar. Lines h and i and points A,B,C,D,G, and K are coplanar
+
+in Plane J →. Line KF and point E are non-coplanar with Plane J .
+
+3
+www.ck12.org Chapter 1. Basics of Geometry
+A line is infinitely many points that extend forever in both directions. Lines have direction and location and are
+always straight.
+TABLE 1.2:
+Label It Say It
+l←i→ne g line g
+PQ line PQ
+A plane is infinitely many intersecting lines that extend forever in all directions. Think of a plane as a huge sheet of
+paper that goes on forever.
+TABLE 1.3:
+Label It Say It
+Plane M Plane M
+Plane ABC Plane ABC
+We can use point, line, and plane to define new terms.
+Space is the set of all points extending in three dimensions. Think back to the plane. It extended in two dimensions,
+what we think of as up/down and left/right. If we add a third dimension, one that is perpendicular to the other two,
+we arrive at three-dimensional space.
+Points that lie on the same line are collinear. P,Q,R,S, and T are collinear because they are all on line w. If a point
+U were located above or below line w, it would be non-collinear.
+Points and/or line←s within the same plane are coplanar. Lines h and i and points A,B,C,D,G, and K are coplanar
+in Plane J →. Line KF and point E are non-coplanar with Plane J .
+3
+1.1. Basic Geometric Definitions www.ck12.org
+An endpoint is a point at the end of a line segment. A line segment is a portion of a line with two endpoints. Or, it
+is a finite part of a line that stops at both ends. Line segments are labeled by their endpoints. Order does not matter.
+TABLE 1.4:
+Label It Say It
+AB Segment AB
+BA Segment BA
+A ray is a part of a line with one endpoint that extends forever in one direction. A ray is labeled by its endpoint and
+one other point on the ray. For rays, order does matter. When labeling, put the endpoint under the side WITHOUT
+the arrow.
+TABLE 1.5:
+L−→abel It Say It
+C←−D Ray CD
+DC Ray CD
+An intersection is a point or set of points where lines, planes, segments, or rays overlap.
+Postulates
+A postulate is a basic rule of geometry. Postulates are assumed to be true (rather than proven), much like definitions.
+The following is a list of some basic postulates.
+4
+www.ck12.org Chapter 1. Basics of Geometry
+Postulate #1: Given any two distinct points, there is exactly one (straight) line containing those two points.
+Postulate #2: Given any three non-collinear points, there is exactly one plane containing those three points.
+Postulate #3: If a line and a plane share two points, then the entire line lies within the plane.
+Postulate #4: If two distinct lines intersect, the intersection will be one point.
+Lines l and m intersect at point A.
+Postulate #5: If two distinct planes intersect, the intersection will be a line.
+When making geometric drawings, be sure to be clear and label all points and lines.
+5
+1.1. Basic Geometric Definitions www.ck12.org
+Example A
+What best describes San Diego, California on a globe?
+A. point
+B. line
+C. plane
+Answer: A city is usually labeled with a dot, or point, on a globe.
+Example B
+Use the picture below to answer these questions.
+a) List another way to label Plane J .
+b) List another way to label line h.
+c) Are K and F collinear?
+d) Are E,B and F coplanar?
+Answer:
+a) Plane BDG is one possibility. Any combination of three coplanar points that are not collinear would be correct.
+←→
+b) AB. Any combination of two of the letters A,B, or C would also be correct.
+←→
+c) Yes, they both lie on KF .
+d) Yes, even though E is not in Plane J , any three points make a distinct plane. Therefore, the three points create
+Plane EBF .
+Example C
+What best describes a straight road connecting two cities?
+A. ray
+B. line
+C. segment
+D. plane
+Answer: The straight road connects two cities, which are like endpoints. The best term is segment, or C.
+6
+www.ck12.org Chapter 1. Basics of Geometry
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136724
+CK-12 Basic Geometric Definitions E
+->
+Guided Practice
+1. What best describes the surface of a movie screen?
+A. point
+B. line
+C. plane
+2. Answer the following questions about the picture.
+a) Is line l coplanar with Plane V , Plane W , both, or neither?
+b) Are R and Q collinear?
+c) What point belongs to neither Plane V nor Plane W ?
+d) List three points in Plane W .
+←→ −→
+3. Draw and label a figure matching the following description: Line AB and ray CD intersect at point C. Then,
+redraw so that the figure looks different but is still true to the description.
+4. Describe the picture below using the geometric terms you have learned.
+Answers:
+7
+1.1. Basic Geometric Definitions www.ck12.org
+1. The surface of a movie screen is most like a plane.
+2. a) Neither
+b) Yes
+c) S
+d) Any combination of P,O,T , and Q would work.
+−→
+3. Neither the position of A or B on the line, nor the direction that CD points matter.
+For the second part:
+←→ ←
+4. AB and D are coplanar in Plane P → ←→, while BC and AC intersect at point C.
+Explore More
+For questions 1-5, draw and label a figure to fit the descriptions.
+−→ −→
+1. CD intersecting AB and Plane P containing AB but not CD.
+2. T−→hre−e→colline−a−r→points A,B,−a→nd C an−→d B is also collinear−w−→ith points D and E.
+3. XY ,XZ, and XW such that XY and XZ are coplanar, but XW is not.
+4. Two intersecting planes, P and Q , with GH where G is in plane P and H is in plane Q .
+5. Four non-collinear points, I,J,K, and L, with line segments connecting all points to each other.
+6. Name this line in five ways.
+7. Name the geometric figure in three different ways.
+8. Name the geometric figure below in two different ways.
+8
+www.ck12.org Chapter 1. Basics of Geometry
+9. What is the best possible geometric model for a soccer field? Explain your answer.
+10. List two examples of where you see rays in real life.
+11. What type of geometric object is the intersection of a line and a plane? Draw your answer.
+12. What is the difference between a postulate and a theorem?
+For 13-16, use geometric notation to explain each picture in as much detail as possible.
+13.
+14.
+15.
+16.
+For 17-25, determine if the following statements are true or false.
+17. Any two points are collinear.
+18. Any three points determine a plane.
+19. A line is to two rays with a common endpoint.
+20. A line segment is infinitely many points between two endpoints.
+21. A point takes up space.
+22. A line is one-dimensional.
+23. A−→ny four points are coplanar.
+24. A←→B could be read "ray AB" or "ray BA."
+25. AB could be read "line AB" or "line BA."
+9
+www.ck12.org Chapter 1. Basics of Geometry
+
+9. What is the best possible geometric model for a soccer field? Explain your answer.
+
+10. List two examples of where you see rays in real life.
+
+11. What type of geometric object is the intersection of a line and a plane? Draw your answer.
+
+12. What is the difference between a postulate and a theorem?
+
+For 13-16, use geometric notation to explain each picture in as much detail as possible.
+
+13.
+
+14.
+
+15.
+
+16.
+
+For 17-25, determine if the following statements are true or false.
+
+17. Any two points are collinear.
+
+18. Any three points determine a plane.
+
+19. A line is to two rays with a common endpoint.
+
+20. A line segment is infinitely many points between two endpoints.
+
+21. A point takes up space.
+
+22. A line is one-dimensional.
+
+23. A−→ny four points are coplanar.
+
+24. A←→B could be read "ray AB" or "ray BA."
+
+25. AB could be read "line AB" or "line BA."
+
+9
+

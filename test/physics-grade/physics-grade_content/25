@@ -1,0 +1,246 @@
+3.3 Displacement and Distance
+
+Definition: Displacement
+
+Displacement is the change in an object's position.
+
+The displacement of an object is defined as its change in position (final position minus initial
+
+position). Displacement has a magnitude and direction and is therefore a vector. For example,
+
+if the initial position of a car is xi and it moves to a final position of xf , then the displacement
+
+is:
+
+xf − xi
+
+However, subtracting an initial quantity from a final quantity happens often in Physics, so we
+
+use the shortcut ∆ to mean final - initial. Therefore, displacement can be written:
+
+∆x = xf − xi
+
+Important: The symbol ∆ is read out as delta. ∆ is a letter of the Greek alphabet and is
+
+used in Mathematics and Science to indicate a change in a certain quantity, or a final value
+
+minus an initial value. For example, ∆x means change in x while ∆t means change in t.
+
+Important: The words initial and final will be used very often in Physics. Initial will always
+
+refer to something that happened earlier in time and final will always refer to something
+
+that happened later in time. It will often happen that the final value is smaller than the
+
+initial value, such that the difference is negative. This is ok!
+
+Finish
+
+(Shop)
+
+b
+
+en
+
+t
+
+ac
+
+em
+
+l
+
+Di
+
+sp
+
+b
+
+Start
+
+(School)
+
+Figure 3.4: Illustration of displacement
+
+Displacement does not depend on the path travelled, but only on the initial and final positions
+
+(Figure 3.4). We use the word distance to describe how far an object travels along a particular
+
+path. Distance is the actual distance that was covered. Distance (symbol d) does not have a
+
+direction, so it is a scalar. Displacement is the shortest distance from the starting point to the
+
+endpoint - from the school to the shop in the figure. Displacement has direction and is therefore
+
+a vector.
+
+Figure 3.2.2 shows the five houses we discussed earlier. Jack walks to school, but instead of
+
+walking straight to school, he decided to walk to his friend Joel's house first to fetch him so that
+
+they can walk to school together. Jack covers a distance of 400 m to Joel's house and another
+
+500 m to school. He covers a distance of 900 m. His displacement, however, is only 100 m
+
+towards the school. This is because displacement only looks at the starting position (his house)
+
+and the end position (the school). It does not depend on the path he travelled.
+
+28
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.3
+
+To calculate his distance and displacement, we need to choose a reference point and a direction.
+
+Let's choose Jack's house as the reference point, and towards Joel's house as the positive direc-
+
+tion (which means that towards the school is negative). We would do the calculations as follows:
+
+Distance(d) = path travelled Displacement(∆x) = xf − xi
+
+= 400 m+ 500 m = −100 m + 0 m
+
+= 900 m = −100 m
+
+Joel walks to school with Jack and after school walks back home. What is Joel's displacement
+
+and what distance did he cover? For this calculation we use Joel's house as the reference point.
+
+Let's take towards the school as the positive direction.
+
+Distance(d) = path travelled Displacement(∆x) = xf − xi
+
+= 500 m+ 500 m = 0 m+ 0 m
+
+= 1000 m = 0 m
+
+It is possible to have a displacement of 0 m and a distance that is not 0 m. This happens
+
+when an object completes a round trip back to its original position, like an athlete running
+
+around a track.
+
+3.3 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+3.3 Displacement and Distance
+
+Definition: Displacement
+
+Displacement is the change in an object's position.
+
+The displacement of an object is defined as its change in position (final position minus initial
+
+position). Displacement has a magnitude and direction and is therefore a vector. For example,
+
+if the initial position of a car is xi and it moves to a final position of xf , then the displacement
+
+is:
+
+xf − xi
+
+However, subtracting an initial quantity from a final quantity happens often in Physics, so we
+
+use the shortcut ∆ to mean final - initial. Therefore, displacement can be written:
+
+∆x = xf − xi
+
+Important: The symbol ∆ is read out as delta. ∆ is a letter of the Greek alphabet and is
+
+used in Mathematics and Science to indicate a change in a certain quantity, or a final value
+
+minus an initial value. For example, ∆x means change in x while ∆t means change in t.
+
+Important: The words initial and final will be used very often in Physics. Initial will always
+
+refer to something that happened earlier in time and final will always refer to something
+
+that happened later in time. It will often happen that the final value is smaller than the
+
+initial value, such that the difference is negative. This is ok!
+
+Finish
+
+(Shop)
+
+b
+
+en
+
+t
+
+ac
+
+em
+
+l
+
+Di
+
+sp
+
+b
+
+Start
+
+(School)
+
+Figure 3.4: Illustration of displacement
+
+Displacement does not depend on the path travelled, but only on the initial and final positions
+
+(Figure 3.4). We use the word distance to describe how far an object travels along a particular
+
+path. Distance is the actual distance that was covered. Distance (symbol d) does not have a
+
+direction, so it is a scalar. Displacement is the shortest distance from the starting point to the
+
+endpoint - from the school to the shop in the figure. Displacement has direction and is therefore
+
+a vector.
+
+Figure 3.2.2 shows the five houses we discussed earlier. Jack walks to school, but instead of
+
+walking straight to school, he decided to walk to his friend Joel's house first to fetch him so that
+
+they can walk to school together. Jack covers a distance of 400 m to Joel's house and another
+
+500 m to school. He covers a distance of 900 m. His displacement, however, is only 100 m
+
+towards the school. This is because displacement only looks at the starting position (his house)
+
+and the end position (the school). It does not depend on the path he travelled.
+
+28
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.3
+
+To calculate his distance and displacement, we need to choose a reference point and a direction.
+
+Let's choose Jack's house as the reference point, and towards Joel's house as the positive direc-
+
+tion (which means that towards the school is negative). We would do the calculations as follows:
+
+Distance(d) = path travelled Displacement(∆x) = xf − xi
+
+= 400 m+ 500 m = −100 m + 0 m
+
+= 900 m = −100 m
+
+Joel walks to school with Jack and after school walks back home. What is Joel's displacement
+
+and what distance did he cover? For this calculation we use Joel's house as the reference point.
+
+Let's take towards the school as the positive direction.
+
+Distance(d) = path travelled Displacement(∆x) = xf − xi
+
+= 500 m+ 500 m = 0 m+ 0 m
+
+= 1000 m = 0 m
+
+It is possible to have a displacement of 0 m and a distance that is not 0 m. This happens
+
+when an object completes a round trip back to its original position, like an athlete running
+
+around a track.
+

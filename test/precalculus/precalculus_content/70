@@ -1,0 +1,62 @@
+10.3 MATRICES AND SYSTEMS OF LINEAR EQUATIONS
+Matrices ! The Augmented Matrix of a Linear System ! Elementary Row
+Operations ! Gaussian Elimination ! Gauss-Jordan Elimination !
+Inconsistent and Dependent Systems ! Modeling with Linear Systems
+A matrix is simply a rectangular array of numbers. Matrices* are used to organize informa-
+tion into categories that correspond to the rows and columns of the matrix. For example, a
+scientist might organize information on a population of endangered whales as follows:
+Immature Juvenile Adult
+Male B12     52     18R
+Female 15     42     11
+This is a compact way of saying that there are 12 immature males, 15 immature females,
+18 adult males, and so on.
+In this section we represent a linear system by a matrix, called the augmented matrix
+of the system:
+Lbinear system Augmented matrix2x #   y ! 5 Equation 1 B2 #1 5R
+  x " 4y ! 7 Equation 2 1 4 7
+x y
+The augmented matrix contains the same information as the system, but in a simpler form.
+The operations we learned for solving systems of equations can now be performed on the
+augmented matrix.
+! Matrices
+We begin by defining the various elements that make up a matrix.
+DEFINITION OF MATRIX
+An m $ n matrixEis a rectangular array of numbers with m rows and n columns.a p11 a12 a13 a1n da21 a22 a p23 a2 dna31 a32 a p33 a3nU d
+ m rows o o o ∞ o
+a pm1 am2 am3 amn d
+c c c c 
+n columns
+We say that the matrix has dimension m $ n. The numbers aij are the entries of
+the matrix. The subscript on the entry aij indicates that it is in the ith row and the
+jth column.
+*The plural of matrix is matrices.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+
+650 C H A P T E R  1 0 | Systems of Equations and Inequalities
+Here are some examBples of matrices.Matrix Dimension1 3 0R
+3 2 4 #1#5 0 1 4 2 $ 3 2 rows by 3 columns6 1 $ 4 1 row by 4 columns
+! The Augmented Matrix of a Linear System
+We can write a system of linear equations as a matrix, called the augmented matrix of
+the system, by cwriting only the coefficients and constants that appear in the equations.Here is an example.Linear system Augmented matrix  3x # 2y " z !   5   C 3 #2 1 5 x " 3y # z !   0 1 3 #1 0S
+#x "      4z ! 11 #1 0 4 11
+Notice that a missing variable in an equation corresponds to a 0 entry in the augmented
+matrix.
+E X A M P L E  1 | Finding the Augmented Matrix of a Linear System
+Write the augmented matrix of the csystem of equations.6x # 2y #  z ! 4x " 3z ! 1
+c 7y " z ! 5S O L U T I O N First we write the linear system with the variables lined up in columns.6x # 2y #    z ! 4  x          " 3z ! 1
+C           7y "   z ! 5The augmented matrix is the matrix whose entries are the coefficients and the constantsin this system. 6 #2 #1 41 0 3 1S
+0 7 1 5
+650 C H A P T E R  1 0 | Systems of Equations and Inequalities
+Here are some examBples of matrices.Matrix Dimension1 3 0R
+3 2 4 #1#5 0 1 4 2 $ 3 2 rows by 3 columns6 1 $ 4 1 row by 4 columns
+! The Augmented Matrix of a Linear System
+We can write a system of linear equations as a matrix, called the augmented matrix of
+the system, by cwriting only the coefficients and constants that appear in the equations.Here is an example.Linear system Augmented matrix  3x # 2y " z !   5   C 3 #2 1 5 x " 3y # z !   0 1 3 #1 0S
+#x "      4z ! 11 #1 0 4 11
+Notice that a missing variable in an equation corresponds to a 0 entry in the augmented
+matrix.
+E X A M P L E  1 | Finding the Augmented Matrix of a Linear System
+Write the augmented matrix of the csystem of equations.6x # 2y #  z ! 4x " 3z ! 1
+c 7y " z ! 5S O L U T I O N First we write the linear system with the variables lined up in columns.6x # 2y #    z ! 4  x          " 3z ! 1
+C           7y "   z ! 5The augmented matrix is the matrix whose entries are the coefficients and the constantsin this system. 6 #2 #1 41 0 3 1S
+0 7 1 5

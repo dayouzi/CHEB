@@ -1,0 +1,167 @@
+1.2. Distance Between Two Points www.ck12.org
+
+1.2 Distance Between Two Points
+
+Here you'll learn how to measure the distance between two points on a horizontal or vertical line.
+
+What if you were given the coordinates of two points that form either a vertical or horizontal line? How would
+
+you determine how far apart those two points are? After completing this Concept, you'll be able to determine the
+
+distance between two such points.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136730
+
+CK-12 Measuring Distances
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1285
+
+James Sousa: Ruler Postulate and Segment Addition Postulate
+
+Guidance
+
+Distance is the measure of length between two points. To measure is to determine how far apart two geometric
+
+objects are. The most common way to measure distance is with a ruler. Inch-rulers are usually divided up by eighth-
+
+inch (or 0.125 in) segments. Centimeter rulers are divided up by tenth-centimeter (or 0.1 cm) segments. Note that
+
+the distance between two points is the absolute value of the difference between the numbers shown on the ruler.
+
+This implies that you do not need to start measuring at "0", as long as you subtract the first number from the second.
+
+The segment addition postulate states that if A, B, and C are collinear and B is between A and C, then AB+BC =AC.
+
+10
+
+www.ck12.org Chapter 1. Basics of Geometry
+
+You can find the distances between points in the x-y plane if the lines are horizontal or vertical. If the line is vertical,
+
+find the change in the y−coordinates. If the line is horizontal, find the change in the x−coordinates.
+
+Example A
+
+What is the distance marked on the ruler below? The ruler is in centimeters.
+
+Subtract one endpoint from the other. The line segment spans from 3 cm to 8 cm. |8−3|= |5|= 5
+
+The line segment is 5 cm long. Notice that you also could have done |3−8|= |−5|= 5.
+
+Example B
+
+Make a sketch of OP, where Q is between O and P.
+
+Draw OP first, then place Q on the segment.
+
+Example C
+
+What is the distance between the two points shown below?
+
+Because this line is vertical, look at the change in the y−coordinates.
+
+11
+www.ck12.org Chapter 1. Basics of Geometry
+You can find the distances between points in the x-y plane if the lines are horizontal or vertical. If the line is vertical,
+find the change in the y−coordinates. If the line is horizontal, find the change in the x−coordinates.
+Example A
+What is the distance marked on the ruler below? The ruler is in centimeters.
+Subtract one endpoint from the other. The line segment spans from 3 cm to 8 cm. |8−3|= |5|= 5
+The line segment is 5 cm long. Notice that you also could have done |3−8|= |−5|= 5.
+Example B
+Make a sketch of OP, where Q is between O and P.
+Draw OP first, then place Q on the segment.
+Example C
+What is the distance between the two points shown below?
+Because this line is vertical, look at the change in the y−coordinates.
+11
+1.2. Distance Between Two Points www.ck12.org
+|9−3|= |6|= 6
+The distance between the two points is 6 units.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136731
+CK-12 Measuring Distances
+->
+Guided Practice
+1. Draw CD, such that CD = 3.825 in.
+2. In the picture from Example B, if OP = 17 and QP = 6, what is OQ?
+3. What is the distance between the two points shown below?
+Answers:
+1. To draw a line segment, start at "0" and draw a segment to 3.825 in.
+Put points at each end and label.
+12
+www.ck12.org Chapter 1. Basics of Geometry
+2. Use the Segment Addition Postulate.
+OQ+QP = OP
+OQ+6 = 17
+OQ = 17−6
+OQ = 11
+3. Because this line is horizontal, look at the change in the x−coordinates.
+|(−4)−3|= |−7|= 7
+The distance between the two points is 7 units.
+Explore More
+For 1-4, use the ruler in each picture to determine the length of the line segment.
+1.
+2.
+3.
+4.
+5. Make a sketch of BT , with A between B and T .
+6. If O is in the middle of LT , where exactly is it located? If LT = 16 cm, what is LO and OT ?
+7. For three collinear points, A between T and Q:
+a. Draw a sketch.
+b. Write the Segment Addition Postulate for your sketch.
+c. If AT = 10 in and AQ = 5 in, what is T Q?
+8. For three collinear points, M between H and A:
+a. Draw a sketch.
+b. Write the Segment Addition Postulate for your sketch.
+c. If HM = 18 cm and HA = 29 cm, what is AM?
+9. For three collinear points, I between M and T :
+a. Draw a sketch.
+b. Write the Segment Addition Postulate for your sketch.
+c. If IT = 6 cm and MT = 25 cm, what is AM?
+13
+1.2. Distance Between Two Points www.ck12.org
+10. Make a sketch that matches the description: B is between A and D. C is between B and D. AB = 7 cm, AC =
+15 cm, and AD = 32 cm. Find BC,BD, and CD.
+11. Make a sketch that matches the description: E is between F and G. H is between F and E. FH = 4 in, EG =
+9 in, and FH = HE. Find FE,HG, and FG.
+For 12 and 13, Suppose J is between H and K. Use the Segment Addition Postulate to solve for x. Then find the
+length of each segment.
+12. HJ = 4x+9, JK = 3x+3, KH = 33
+13. HJ = 5x−3, JK = 8x−9, KH = 131
+For 14-17, determine the vertical or horizontal distance between the two points.
+14.
+15.
+14
+www.ck12.org Chapter 1. Basics of Geometry
+16.
+17.
+18. Make a sketch of: S is between T and V . R is between S and T . T R = 6,RV = 23, and T R = SV .
+19. Find SV,T S,RS and TV from #18.
+20. For HK, suppose that J is between H and K. If HJ = 2x+4, JK = 3x+3, and KH = 22, find x.
+15
+www.ck12.org Chapter 1. Basics of Geometry
+
+16.
+
+17.
+
+18. Make a sketch of: S is between T and V . R is between S and T . T R = 6,RV = 23, and T R = SV .
+
+19. Find SV,T S,RS and TV from #18.
+
+20. For HK, suppose that J is between H and K. If HJ = 2x+4, JK = 3x+3, and KH = 22, find x.
+
+15
+

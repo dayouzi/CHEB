@@ -1,0 +1,44 @@
+9.4 VECTORS IN THREE DIMENSIONS
+Vectors in Space ! Combining Vectors in Space ! The Dot Product 
+for Vectors in Space
+Recall that vectors are used to indicate a quantity that has both magnitude and direction.
+In Section 9.1 we studied vectors in the coordinate plane, where the direction is restricted
+to two dimensions. Vectors in space have a direction that is in three-dimensional space.
+The properties that hold for vectors in the plane hold for vectors in space as well. 
+! Vectors in Space
+z Recall from Section 9.1 that a vector can be described geometrically by its initial point
+(a⁄, a¤, a‹) and terminal point. When we place a vector a in space with its initial point at the origin,
+we can describe it algebraically as an ordered triple
+a
+0 a $ 8a1, a2, a39:
+where a1, a2, and a3 are the components of a (see Figure 1). Recall also that a vector has
+x y
+many different representations, depending on its initial point. The following definition
+gives the relationship between the algebraic and geometric representations of a vector.
+F I G U R E  1 a $ 8a1, a2, a39
+COMPONENT FORM OF A VECTOR IN SPACE
+If a vect
+Q1or a is represented in space with initial point x 2, y2, z2 2 P1x 1, y1, z1 2 and terminalpoint , then
+a $ 8x 2 % x 1, y2 % y1, z2 % z19
+E X A M P L E  1 Describing Vectors in Component Form 
+(a) Find the components of the vector a with initial point 
+(1, _4, 5) z , 1, %1 2 P11, %4, 5 2 and terminalpoint Q13 .
+(b) If the vector b $ 8%2, 1, 39 has initial point 12, 1, %1 2 , what is its terminal point? 
+a=#2, 5, _6" S O L U T I O N  
+(a) The desired vector is
+x 0 y a $ 83 % 1, 1 % 1%4 2 , %1 % 59 $ 82, 5, %69
+(3,
+F I G U R E  2 a $ 82, 5, %69 1, _1) See Figure 2.(b) Let the terminal point of b be 1x, y, z 2 . Then 
+39 b $ 8x % 2, y % 1, z % 1%1 2 9Since b $ 8%2, 1, we have x % 2 $ %2, y % 1 z x $
+y $ 2 z $ 2 1 ! 1 $ 00, 2, 2 2$ 1, and 3. So ,, and , and the terminal point is .
+604 C H A P T E R  9 | Vectors in Two and Three Dimensions
+The follow
+a $ 8a1, a2, a39ing formula is a consequence of the Distance Formula, since the vectorin standard position has initial point 10, 0, 02 and terminal point 1a1, a2, a3 2 .
+MAGNITUDE OF A VECTOR IN THREE DIMENSIONS
+The magnitude of the vector a0 $ 8a1 is  a 0 ,$ 2 a2, a39a21 ! a22 ! a23
+E X A M P L E  2 Magnitude of Vectors in Three Dimensions
+Find the magnitude of the given vector.
+(a) u $ 83, 2, 59 (b) v $ 80, 3, %19 (c) w $ 80, 0, %19
+S O L U T I O N  
+(a) 0  u 0 $ 232 ! 22 ! 52 $ 238
+(b) 00  v 0 $ 202 ! 32 ! 1%1 2 2 $ 210(c)  w 0 $ 202 ! 02 ! 1%1 2 2 $ 1

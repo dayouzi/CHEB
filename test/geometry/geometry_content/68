@@ -1,0 +1,237 @@
+7.5. Indirect Measurement www.ck12.org
+
+7.5 Indirect Measurement
+
+Here you'll learn how to apply your knowledge of similar triangles and proportions to model real-life situations and
+
+to find unknown measurements indirectly.
+
+What if you were standing next to a building and wanted to know how tall the building was? How could you use
+
+your own height and the length of the shadows cast by you and the building to determine the building's height? After
+
+completing this Concept, you'll be able to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136695
+
+CK-12 Foundation: Indirect Measurement
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1345
+
+James Sousa: Indirect Measurment Using Similar Triangles
+
+Guidance
+
+An application of similar triangles is to measure lengths indirectly. You can use this method to measure the width
+
+of a river or canyon or the height of a tall object. The idea is that you model a situation with similar triangles and
+
+then use proportions to find the missing measurement indirectly.
+
+Example A
+
+A tree outside Ellie's building casts a 125 foot shadow. At the same time of day, Ellie casts a 5.5 foot shadow. If
+
+Ellie is 4 feet 10 inches tall, how tall is the tree?
+
+356
+
+www.ck12.org Chapter 7. Similarity
+
+To solve, start by drawing a picture. We see that the tree and Ellie are parallel, so the two triangles are similar.
+
+4 f t,10 in 5.5 f t
+
+=
+
+x 125 f t
+
+The measurements need to be in the same units. Change everything into inches and then we can cross multiply.
+
+58 in 66 in
+
+=
+
+x 1500 in
+
+87000 = 66x
+
+x≈ 1318.18 in or 109.85 f t
+
+Example B
+
+Cameron is 5 ft tall and casts a 12 ft shadow. At the same time of day, a nearby building casts a 78 ft shadow. How
+
+tall is the building?
+
+To solve, set up a proportion that compares height to shadow length for Cameron and the building. Then solve the
+
+equation to find the height of the building. Let x represent the height of the building.
+
+5 f t x
+
+=
+
+12 f t 78 f t
+
+12x = 390
+
+x = 32.5 f t
+
+The building is 32.5 feet tall.
+
+Example C
+
+The Empire State Building is 1250 ft. tall. At 3:00, Pablo stands next to the building and has an 8 ft. shadow. If he
+
+is 6 ft tall, how long is the Empire State Building's shadow at 3:00?
+
+Similar to Example B, solve by setting up a proportion that compares height to shadow length. Then solve the
+
+equation to find the length of the shadow. Let x represent the length of the shadow.
+
+6 f t 1250 f t
+
+=
+
+8 f t x
+
+6x = 10000
+
+x = 1666.67 f t
+
+357
+www.ck12.org Chapter 7. Similarity
+To solve, start by drawing a picture. We see that the tree and Ellie are parallel, so the two triangles are similar.
+4 f t,10 in 5.5 f t
+=
+x 125 f t
+The measurements need to be in the same units. Change everything into inches and then we can cross multiply.
+58 in 66 in
+=
+x 1500 in
+87000 = 66x
+x≈ 1318.18 in or 109.85 f t
+Example B
+Cameron is 5 ft tall and casts a 12 ft shadow. At the same time of day, a nearby building casts a 78 ft shadow. How
+tall is the building?
+To solve, set up a proportion that compares height to shadow length for Cameron and the building. Then solve the
+equation to find the height of the building. Let x represent the height of the building.
+5 f t x
+=
+12 f t 78 f t
+12x = 390
+x = 32.5 f t
+The building is 32.5 feet tall.
+Example C
+The Empire State Building is 1250 ft. tall. At 3:00, Pablo stands next to the building and has an 8 ft. shadow. If he
+is 6 ft tall, how long is the Empire State Building's shadow at 3:00?
+Similar to Example B, solve by setting up a proportion that compares height to shadow length. Then solve the
+equation to find the length of the shadow. Let x represent the length of the shadow.
+6 f t 1250 f t
+=
+8 f t x
+6x = 10000
+x = 1666.67 f t
+357
+7.5. Indirect Measurement www.ck12.org
+The shadow is approximately 1666.67 feet long.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136696
+CK-12 Foundation: Indirect Measurement
+->
+Guided Practice
+In order to estimate the width of a river, the following technique can be used. Use the diagram.
+Place three markers, O,C, and E on the upper bank of the river. E is on the edge of the river and OC ⊥ CE. Go
+across the river and place a marker, N so that it is collinear with C and E. Then, walk along the lower bank of the
+river and place marker A, so that CN ⊥ NA. OC = 50 feet, CE = 30 feet, NA = 80 feet.
+1. Is4OCE ∼4ANE? How do you know?
+2. Is OC‖NA? How do you know?
+3. What is the width of the river? Find EN.
+Answers:
+1. Yes. 6 C ∼= 6 N because they are both right angles. 6 OEC ∼= 6 AEN because they are vertical angles. This means
+4OCE ∼4ANE by the AA Similarity Postulate.
+2. Since the two triangles are similar, we must have 6 EOC ∼= 6 EAN. These are alternate interior angles. When
+alternate interior angles are congruent then lines are parallel, so OC‖NA.
+3. Set up a proportion and solve by cross-multiplying.
+30 f t 50 f t
+=
+EN 80 f t
+50(EN) = 2400
+EN = 48
+The river is 48 feet wide.
+358
+www.ck12.org Chapter 7. Similarity
+Explore More
+The technique from the guided practice section was used to measure the distance across the Grand Canyon. Use the
+picture below and OC = 72 f t,CE = 65 f t, and NA = 14,400 f t for problems 1 - 3.
+1. Find EN (the distance across the Grand Canyon).
+2. Find OE.
+3. Find EA.
+4. Mark is 6 ft tall and casts a 15 ft shadow. A the same time of day, a nearby building casts a 30 ft shadow. How
+tall is the building?
+5. Karen and Jeff are standing next to each other. Karen casts a 10 ft shadow and Jeff casts an 8 ft shadow. Who is
+taller? How do you know?
+6. Billy is 5 ft 9 inches tall and Bobby is 6 ft tall. Bobby's shadow is 13 feet long. How long is Billy's shadow?
+7. Sally and her little brother are walking to school. Sally is 4 ft tall and has a shadow that is 3 ft long. Her little
+brother's shadow is 2 ft long. How tall is her little brother?
+8. Ryan is outside playing basketball. He is 5 ft tall and at this time of day is casting a 12 ft shadow. The basketball
+hoop is 10 ft tall. How long is the basketball hoop's shadow?
+9. Jack is standing next to a very tall tree and wonders just how tall it is. He knows that he is 6 ft tall and at this
+moment his shadow is 8 ft long. He measures the shadow of the tree and finds it is 90 ft. How tall is the tree?
+10. Thomas, who is 4 ft 9 inches tall is casting a 6 ft shadow. A nearby building is casting a 42 ft shadow. How tall
+is the building?
+359
+www.ck12.org Chapter 7. Similarity
+
+Explore More
+
+The technique from the guided practice section was used to measure the distance across the Grand Canyon. Use the
+
+picture below and OC = 72 f t,CE = 65 f t, and NA = 14,400 f t for problems 1 - 3.
+
+1. Find EN (the distance across the Grand Canyon).
+
+2. Find OE.
+
+3. Find EA.
+
+4. Mark is 6 ft tall and casts a 15 ft shadow. A the same time of day, a nearby building casts a 30 ft shadow. How
+
+tall is the building?
+
+5. Karen and Jeff are standing next to each other. Karen casts a 10 ft shadow and Jeff casts an 8 ft shadow. Who is
+
+taller? How do you know?
+
+6. Billy is 5 ft 9 inches tall and Bobby is 6 ft tall. Bobby's shadow is 13 feet long. How long is Billy's shadow?
+
+7. Sally and her little brother are walking to school. Sally is 4 ft tall and has a shadow that is 3 ft long. Her little
+
+brother's shadow is 2 ft long. How tall is her little brother?
+
+8. Ryan is outside playing basketball. He is 5 ft tall and at this time of day is casting a 12 ft shadow. The basketball
+
+hoop is 10 ft tall. How long is the basketball hoop's shadow?
+
+9. Jack is standing next to a very tall tree and wonders just how tall it is. He knows that he is 6 ft tall and at this
+
+moment his shadow is 8 ft long. He measures the shadow of the tree and finds it is 90 ft. How tall is the tree?
+
+10. Thomas, who is 4 ft 9 inches tall is casting a 6 ft shadow. A nearby building is casting a 42 ft shadow. How tall
+
+is the building?
+
+359
+

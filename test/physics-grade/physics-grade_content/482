@@ -1,0 +1,334 @@
+31.3.1 Applications of the photoelectric effect
+
+We have learnt that a metal contains electrons that are free to move between the valence and
+
+conduction bands. When a photon strikes the surface of a metal, it gives all its energy to one
+
+electron in the metal.
+
+• If the photon energy is equal to the energy between two energy levels then the electron is
+
+excited to the higher energy level.
+
+• If the photon energy is greater than or equal to the work function (energy needed to
+
+escape from the metal), then the electron is emitted from the surface of the metal (the
+
+photoelectric effect).
+
+The work function is different for different elements. The smaller the work function, the easier
+
+it is for electrons to be emitted from the metal. Metals with low work functions make good
+
+conductors. This is because the electrons are attached less strongly to their surroundings and
+
+can move more easily through these materials. This reduces the resistance of the material to
+
+the flow of current i.e. it conducts well. Table 31.1 shows the work functions for a range of
+
+elements.
+
+Element Work Function (J)
+
+Aluminium 6,9× 10−19
+
+Beryllium 8,0× 10−19
+
+Calcium 4,6× 10−19
+
+Copper 7,5× 10−19
+
+Gold 8,2× 10−19
+
+Lead 6,9× 10−19
+
+Silicon 1,8× 10−19
+
+Silver 6,9× 10−19
+
+Sodium 3,7× 10−19
+
+Table 31.1: Work functions of selected elements determined from the photoelectric effect.
+
+(From the Handbook of Chemistry and Physics.)
+
+Itneterreessttinigng The electron volt is the kinetic energy gained by an electron passing through
+
+FFacctt a potential difference of one volt (1 V). A volt is not a measure of energy, but
+
+the electron volt is a unit of energy. When you connect a 1.5 Volt battery to
+
+a circuit, you can give 1.5 eV of energy to every electron.
+
+640
+
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.3
+
+Worked Example 189: The photoelectric effect - I
+
+Question: Ultraviolet radiation with a wavelength of 250 nm is incident on a silver
+
+foil (work function φ = 6,9× 10−19). What is the maximum kinetic energy of the
+
+emitted electrons?
+
+Answer
+
+Step 1 : Determine what is required and how to approach the problem
+
+We need to determine the maximum kinetic energy of an electron ejected from a
+
+silver foil by ultraviolet radiation.
+
+The photoelectric effect tells us that:
+
+Ek = Ephoton − φ
+
+c
+
+Ek = h − φ
+
+λ
+
+We also have:
+
+Work function of silver: φ = 6,9× 10−19 J
+
+UV radiation wavelength = 250 nm = 250× 10−9 m
+
+Planck's constant: h = 6,63× 10−34 m2kgs−1
+
+speed of light: c = 3× 108 ms−1
+
+Step 2 : Solve the problem
+
+hc
+
+Ek = − φ
+
+λ
+
+3× 108
+
+= [6,63× 10−34 ×
+
+250× ]− 6,9× 10
+
+−19
+
+10−9
+
+= 1,06× 10−19 J
+
+The maximum kinetic energy of the emitted electron will be 1,06× 10−19 J.
+
+Worked Example 190: The photoelectric effect - II
+
+Question: If we were to shine the same ultraviolet radiation (f = 1,2× 1015 Hz),
+
+on a gold foil (work function = 8,2× 10−19 J), would any electrons be emitted
+
+from the surface of the gold foil?
+
+Answer
+
+For the electrons to be emitted from the surface, the energy of each photon needs
+
+to be greater than the work function of the material.
+
+Step 1 : Calculate the energy of the incident photons
+
+Ephoton = hf
+
+= 6,63× 10−34 × 1,2× 1015
+
+= 7,96× 10−19 J
+
+Therefore each photon of ultraviolet light has an energy of 7,96× 10−19 J.
+
+Step 2 : Write down the work function for gold.
+
+φgold = 8,2× 10−19 J
+
+Step 3 : Is the energy of the photons greater or smaller than the work
+
+function?
+
+641
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.3
+Worked Example 189: The photoelectric effect - I
+Question: Ultraviolet radiation with a wavelength of 250 nm is incident on a silver
+foil (work function φ = 6,9× 10−19). What is the maximum kinetic energy of the
+emitted electrons?
+Answer
+Step 1 : Determine what is required and how to approach the problem
+We need to determine the maximum kinetic energy of an electron ejected from a
+silver foil by ultraviolet radiation.
+The photoelectric effect tells us that:
+Ek = Ephoton − φ
+c
+Ek = h − φ
+λ
+We also have:
+Work function of silver: φ = 6,9× 10−19 J
+UV radiation wavelength = 250 nm = 250× 10−9 m
+Planck's constant: h = 6,63× 10−34 m2kgs−1
+speed of light: c = 3× 108 ms−1
+Step 2 : Solve the problem
+hc
+Ek = − φ
+λ
+3× 108
+= [6,63× 10−34 ×
+250× ]− 6,9× 10
+−19
+10−9
+= 1,06× 10−19 J
+The maximum kinetic energy of the emitted electron will be 1,06× 10−19 J.
+Worked Example 190: The photoelectric effect - II
+Question: If we were to shine the same ultraviolet radiation (f = 1,2× 1015 Hz),
+on a gold foil (work function = 8,2× 10−19 J), would any electrons be emitted
+from the surface of the gold foil?
+Answer
+For the electrons to be emitted from the surface, the energy of each photon needs
+to be greater than the work function of the material.
+Step 1 : Calculate the energy of the incident photons
+Ephoton = hf
+= 6,63× 10−34 × 1,2× 1015
+= 7,96× 10−19 J
+Therefore each photon of ultraviolet light has an energy of 7,96× 10−19 J.
+Step 2 : Write down the work function for gold.
+φgold = 8,2× 10−19 J
+Step 3 : Is the energy of the photons greater or smaller than the work
+function?
+641
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.3
+
+Worked Example 189: The photoelectric effect - I
+
+Question: Ultraviolet radiation with a wavelength of 250 nm is incident on a silver
+
+foil (work function φ = 6,9× 10−19). What is the maximum kinetic energy of the
+
+emitted electrons?
+
+Answer
+
+Step 1 : Determine what is required and how to approach the problem
+
+We need to determine the maximum kinetic energy of an electron ejected from a
+
+silver foil by ultraviolet radiation.
+
+The photoelectric effect tells us that:
+
+Ek = Ephoton − φ
+
+c
+
+Ek = h − φ
+
+λ
+
+We also have:
+
+Work function of silver: φ = 6,9× 10−19 J
+
+UV radiation wavelength = 250 nm = 250× 10−9 m
+
+Planck's constant: h = 6,63× 10−34 m2kgs−1
+
+speed of light: c = 3× 108 ms−1
+
+Step 2 : Solve the problem
+
+hc
+
+Ek = − φ
+
+λ
+
+3× 108
+
+= [6,63× 10−34 ×
+
+250× ]− 6,9× 10
+
+−19
+
+10−9
+
+= 1,06× 10−19 J
+
+The maximum kinetic energy of the emitted electron will be 1,06× 10−19 J.
+
+Worked Example 190: The photoelectric effect - II
+
+Question: If we were to shine the same ultraviolet radiation (f = 1,2× 1015 Hz),
+
+on a gold foil (work function = 8,2× 10−19 J), would any electrons be emitted
+
+from the surface of the gold foil?
+
+Answer
+
+For the electrons to be emitted from the surface, the energy of each photon needs
+
+to be greater than the work function of the material.
+
+Step 1 : Calculate the energy of the incident photons
+
+Ephoton = hf
+
+= 6,63× 10−34 × 1,2× 1015
+
+= 7,96× 10−19 J
+
+Therefore each photon of ultraviolet light has an energy of 7,96× 10−19 J.
+
+Step 2 : Write down the work function for gold.
+
+φgold = 8,2× 10−19 J
+
+Step 3 : Is the energy of the photons greater or smaller than the work
+
+function?
+
+641
+
+31.3CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 12
+
+7,96× 10−19 J < 8,2× 10−19 J
+
+Ephotons < φgold
+
+The energy of each photon is less than the work function of gold. Therefore, the
+
+photons do not have enough energy to knock electrons out of the gold. No
+
+electrons would be emitted from the gold foil.
+
+Extension: Units of energy
+
+When dealing with calculations at a small scale (like at the level of electrons) it
+
+is more convenient to use different units for energy rather than the Joule (J). We
+
+define a unit called the electron-Volt (eV) as the kinetic energy gained by an
+
+electron passing through a potential difference of one volt.
+
+E = q × V
+
+where q is the charge of the electron and V is the potential difference applied. The
+
+charge of 1 electron is 1,6× 10−19 C, so 1 eV is calculated to be:
+
+1 eV = (1,610−19 C× 1 V) = 1,6× 10−19 J
+
+You can see that 1,6× 10−19 J is a very small amount of energy and so using
+
+electron-Volts (eV) at this level is easier.
+
+Hence, 1eV = 1.6× 10−19 J which means that 1 J = 6.241× 1018 eV
+

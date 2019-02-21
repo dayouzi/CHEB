@@ -1,0 +1,280 @@
+26.6.3 Mach Cone
+
+You can see that the shape of the Mach Cone depends on the speed of the aircraft. When the
+
+Mach Number is 1 there is no cone but as the aircraft goes faster and faster the angle of the
+
+cone gets smaller and smaller.
+
+If we go back to the supersonic picture we can work out what the angle of the cone must be.
+
+supersonic shock wave
+
+We build a triangle between how far the plane has moved and how far a wavefront at right
+
+angles to the direction the plane is flying has moved:
+
+An aircraft emits a sound wavefront. The wavefront moves at the speed of sound 340 m · s−1
+
+and the aircraft moves at Mach 1.5, which is 1.5 × 340 = 510 m · s−1. The aircraft travels
+
+faster than the wavefront. If we let the wavefront travel for a time t then the following diagram
+
+will apply:
+
+We know how fast the wavefront and the aircraft are moving so we know the distances that
+
+they have traveled:
+
+v vsound × taircraft × t
+
+θ
+
+566
+
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.6
+
+The angle between the cone that forms at the direction of the plane can be found from the
+
+right-angle triangle we have drawn into the figure. We know that sin θ = opposite which in
+
+hypotenuse
+
+this figure means:
+
+opposite
+
+sin θ =
+
+hypotenuse
+
+vsound × t
+
+sin θ =
+
+vaircraft × t
+
+vsound
+
+sin θ =
+
+vaircraft
+
+In this case we have used sound and aircraft but a more general way of saying this is:
+
+• aircraft = source
+
+• sound = wavefront
+
+We often just write the equation as:
+
+vsound
+
+sin θ =
+
+vaircraft
+
+vaircraft sin θ = vsound
+
+vsource sin θ = vwavefront
+
+vs sin θ = vw
+
+Exercise: Mach Cone
+
+In this exercise we will determine the Mach Cone Angle for the different aircraft
+
+in the table mentioned above. To help you get started we have calculated the
+
+Mach Cone Angle for the Concorde with a speed of sound vsound = 340 m · s−1.
+
+For the Condorde we know the speed and we know that:
+
+vsound
+
+sin θ =
+
+vaircraft
+
+For the Concorde this means that
+
+340
+
+sin θ =
+
+647
+
+θ = sin−1
+
+340
+
+647
+
+θ = 31.7o
+
+Aircraft speed at altitude (km · h−1) speed at altitude (m · s−1) Mach Cone Angle (degrees)
+
+Concorde 2 330 647 31.7
+
+Gripen 2 410 669
+
+Mirage F1 2 573 990
+
+Mig 27 1 885 524
+
+F 15 2 660 739
+
+F 16 2 414 671
+
+Now calculate the Mach Cone Angles for the other aircraft in the table.
+
+567
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.6
+The angle between the cone that forms at the direction of the plane can be found from the
+right-angle triangle we have drawn into the figure. We know that sin θ = opposite which in
+hypotenuse
+this figure means:
+opposite
+sin θ =
+hypotenuse
+vsound × t
+sin θ =
+vaircraft × t
+vsound
+sin θ =
+vaircraft
+In this case we have used sound and aircraft but a more general way of saying this is:
+• aircraft = source
+• sound = wavefront
+We often just write the equation as:
+vsound
+sin θ =
+vaircraft
+vaircraft sin θ = vsound
+vsource sin θ = vwavefront
+vs sin θ = vw
+Exercise: Mach Cone
+In this exercise we will determine the Mach Cone Angle for the different aircraft
+in the table mentioned above. To help you get started we have calculated the
+Mach Cone Angle for the Concorde with a speed of sound vsound = 340 m · s−1.
+For the Condorde we know the speed and we know that:
+vsound
+sin θ =
+vaircraft
+For the Concorde this means that
+340
+sin θ =
+647
+θ = sin−1
+340
+647
+θ = 31.7o
+Aircraft speed at altitude (km · h−1) speed at altitude (m · s−1) Mach Cone Angle (degrees)
+Concorde 2 330 647 31.7
+Gripen 2 410 669
+Mirage F1 2 573 990
+Mig 27 1 885 524
+F 15 2 660 739
+F 16 2 414 671
+Now calculate the Mach Cone Angles for the other aircraft in the table.
+567
+CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12 26.6
+
+The angle between the cone that forms at the direction of the plane can be found from the
+
+right-angle triangle we have drawn into the figure. We know that sin θ = opposite which in
+
+hypotenuse
+
+this figure means:
+
+opposite
+
+sin θ =
+
+hypotenuse
+
+vsound × t
+
+sin θ =
+
+vaircraft × t
+
+vsound
+
+sin θ =
+
+vaircraft
+
+In this case we have used sound and aircraft but a more general way of saying this is:
+
+• aircraft = source
+
+• sound = wavefront
+
+We often just write the equation as:
+
+vsound
+
+sin θ =
+
+vaircraft
+
+vaircraft sin θ = vsound
+
+vsource sin θ = vwavefront
+
+vs sin θ = vw
+
+Exercise: Mach Cone
+
+In this exercise we will determine the Mach Cone Angle for the different aircraft
+
+in the table mentioned above. To help you get started we have calculated the
+
+Mach Cone Angle for the Concorde with a speed of sound vsound = 340 m · s−1.
+
+For the Condorde we know the speed and we know that:
+
+vsound
+
+sin θ =
+
+vaircraft
+
+For the Concorde this means that
+
+340
+
+sin θ =
+
+647
+
+θ = sin−1
+
+340
+
+647
+
+θ = 31.7o
+
+Aircraft speed at altitude (km · h−1) speed at altitude (m · s−1) Mach Cone Angle (degrees)
+
+Concorde 2 330 647 31.7
+
+Gripen 2 410 669
+
+Mirage F1 2 573 990
+
+Mig 27 1 885 524
+
+F 15 2 660 739
+
+F 16 2 414 671
+
+Now calculate the Mach Cone Angles for the other aircraft in the table.
+
+567
+
+26.7 CHAPTER 26. 2D AND 3D WAVEFRONTS - GRADE 12
+

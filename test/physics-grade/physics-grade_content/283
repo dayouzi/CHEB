@@ -1,0 +1,498 @@
+17.2 Forces between charges - Coulomb's Law
+
+Like charges repel each other while opposite charges attract each other. If the charges are at
+
+rest then the force between them is known as the electrostatic force. The electrostatic force
+
+between charges increases when the magnitude of the charges increases or the distance
+
+between the charges decreases.
+
+The electrostatic force was first studied in detail by Charles Coulomb around 1784. Through
+
+his observations he was able to show that the electrostatic force between two point-like charges
+
+is inversely proportional to the square of the distance between the objects. He also discovered
+
+that the force is proportional to the product of the charges on the two objects.
+
+F ∝ Q1Q2 ,
+
+r2
+
+where Q1 is the charge on the one point-like object, Q2 is the charge on the second, and r is
+
+the distance between the two. The magnitude of the electrostatic force between two point-like
+
+charges is given by Coulomb's Law.
+
+Definition: Coulomb's Law
+
+Coulomb's Law states that the magnitude of the electrostatic force between two point
+
+charges is directly proportional to the magnitudes of each charge and inversely proportional
+
+to the square of the distance between the charges.
+
+Q1Q2
+
+F = k
+
+r2
+
+and the proportionality constant k is called the electrostatic constant and has the value:
+
+k = 8,99× 109N ·m2 ·C−2.
+
+Extension: Similarity of Coulomb's Law to the Newton's Universal Law of
+
+Gravitation.
+
+Notice how similar Coulomb's Law is to the form of Newton's Universal Law of
+
+Gravitation between two point-like particles:
+
+m1m2
+
+FG = G ,
+
+r2
+
+387
+
+17.2 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+where m1 and m2 are the masses of the two particles, r is the distance between
+
+them, and G is the gravitational constant.
+
+Both laws represent the force exerted by particles (masses or charges) on each
+
+other that interact by means of a field.
+
+It is very interesting that Coulomb's Law has been shown to be correct no
+
+matter how small the distance, nor how large the charge. For example it still
+
+applies inside the atom (over distances smaller than 10−10m).
+
+Worked Example 110: Coulomb's Law I
+
+Question: Two point-like charges carrying charges of +3× 10−9C and
+
+−5× 10−9C are 2m apart. Determine the magnitude of the force between them
+
+and state whether it is attractive or repulsive.
+
+Answer
+
+Step 1 : Determine what is required
+
+We are required to find the force between two point charges given the charges and
+
+the distance between them.
+
+Step 2 : Determine how to approach the problem
+
+We can use Coulomb's Law to find the force.
+
+Q1Q2
+
+F = k
+
+r2
+
+Step 3 : Determine what is given
+
+We are given:
+
+• Q1 = +3× 10−9C
+
+• Q2 = −5× 10−9C
+
+• r = 2m
+
+We know that k = 8,99× 109N ·m2 · C−2.
+
+We can draw a diagram of the situation.
+
+Q1 = +3× 10−9C Q2 = −5× 10−9C
+
+b b
+
+2 m
+
+Step 4 : Check units
+
+All quantities are in SI units.
+
+Step 5 : Determine the magnitude of the force
+
+Using Coulomb's Law we have
+
+Q1Q2
+
+F = k
+
+r2
+
+(3× 10−9C)(5 × 10−9C)
+
+= (8,99× 109N ·m2/C2)
+
+(2m)2
+
+= 3,37× 10−8N
+
+Thus the magnitude of the force is 3,37× 10−8N. However since both point
+
+charges have opposite signs, the force will be attractive.
+
+Next is another example that demonstrates the difference in magnitude between the
+
+gravitational force and the electrostatic force.
+
+388
+17.2 CHAPTER 17. ELECTROSTATICS - GRADE 11
+where m1 and m2 are the masses of the two particles, r is the distance between
+them, and G is the gravitational constant.
+Both laws represent the force exerted by particles (masses or charges) on each
+other that interact by means of a field.
+It is very interesting that Coulomb's Law has been shown to be correct no
+matter how small the distance, nor how large the charge. For example it still
+applies inside the atom (over distances smaller than 10−10m).
+Worked Example 110: Coulomb's Law I
+Question: Two point-like charges carrying charges of +3× 10−9C and
+−5× 10−9C are 2m apart. Determine the magnitude of the force between them
+and state whether it is attractive or repulsive.
+Answer
+Step 1 : Determine what is required
+We are required to find the force between two point charges given the charges and
+the distance between them.
+Step 2 : Determine how to approach the problem
+We can use Coulomb's Law to find the force.
+Q1Q2
+F = k
+r2
+Step 3 : Determine what is given
+We are given:
+• Q1 = +3× 10−9C
+• Q2 = −5× 10−9C
+• r = 2m
+We know that k = 8,99× 109N ·m2 · C−2.
+We can draw a diagram of the situation.
+Q1 = +3× 10−9C Q2 = −5× 10−9C
+b b
+2 m
+Step 4 : Check units
+All quantities are in SI units.
+Step 5 : Determine the magnitude of the force
+Using Coulomb's Law we have
+Q1Q2
+F = k
+r2
+(3× 10−9C)(5 × 10−9C)
+= (8,99× 109N ·m2/C2)
+(2m)2
+= 3,37× 10−8N
+Thus the magnitude of the force is 3,37× 10−8N. However since both point
+charges have opposite signs, the force will be attractive.
+Next is another example that demonstrates the difference in magnitude between the
+gravitational force and the electrostatic force.
+388
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.2
+Worked Example 111: Coulomb's Law II
+Question: Determine the electrostatic force and gravitational force between two
+electrons 10−10m apart (i.e. the forces felt inside an atom)
+Answer
+Step 1 : Determine what is required
+We are required to calculate the electrostatic and gravitational forces between two
+electrons, a given distance apart.
+Step 2 : Determine how to approach the problem
+We can use:
+Q1Q2
+Fe = k
+r2
+to calculate the electrostatic force and
+m1m2
+Fg = G
+r2
+to calculate the gravitational force.
+Step 3 : Determine what is given
+• Q1 = Q2 = 1,6× 10−19 C(The charge on an electron)
+• m1 = m2 = 9,1× 10−31 kg(The mass of an electron)
+• r = 1× 10−10m
+We know that:
+• k = 8,99× 109 N ·m2 ·C−2
+• G = 6,67× 10−11 N ·m2 · kg−2
+All quantities are in SI units.
+We can draw a diagram of the situation.
+Q1 = −1,60× 10−19C Q2 = −1,60× 10−19C
+b b
+10−10m
+Step 4 : Calculate the electrostatic force
+Q1Q2
+Fe = k
+r2
+(−1,60× 10−19)(−1,60× 10−19)
+= (8,99× 109)
+(10−10)2
+= 2,30× 10−8 N
+Hence the magnitude of the electrostatic force between the electrons is
+2,30× 10−8N. Since electrons carry the same charge, the force is repulsive.
+Step 5 : Calculate the gravitational force
+m1m2
+Fg = G
+r2
+= (6,67× 10−11 (9.11× 10
+−31C)(9.11× 10−31kg)
+N ·m2/kg2)
+(10−10m)2
+= 5,54× 10−51N
+The magnitude of the gravitational force between the electrons is 5,54× 10−51N.
+This is an attractive force.
+Notice that the gravitational force between the electrons is much smaller than the
+electrostatic force. For this reason, the gravitational force is usually neglected when
+determining the force between two charged objects.
+389
+17.2 CHAPTER 17. ELECTROSTATICS - GRADE 11
+Important: We can apply Newton's Third Law to charges because, two charges exert forces
+of equal magnitude on one another in opposite directions.
+Important: Coulomb's Law
+When substituting into the Coulomb's Law equation, it is not necessary to include the signs of
+the charges. Instead, select a positive direction. Then forces that tend to move the charge in
+this direction are added, while forces that act in the opposite direction are subtracted.
+Worked Example 112: Coulomb's Law III
+Question: Three point charges are in a straight line. Their charges are Q1 =
++2× 10−9C, Q2 = +1× 10−9C and Q3 = −3× 10−9C. The distance between
+Q1 and Q2 is 2× 10−2m and the distance between Q2 and Q3 is 4× 10−2m.
+What is the net electrostatic force on Q2 from the other two charges?
++2 nC +1 nC -3 nC
+2 m 3 m
+Answer
+Step 1 : Determine what is required
+We are needed to calculate the net force on Q2. This force is the sum of the two
+electrostatic forces - the forces between Q1 on Q2 and Q3 on Q2.
+Step 2 : Determine how to approach the problem
+• We need to calculate the two electrostatic forces on Q2, using Coulomb's Law
+equation.
+• We then need to add up the two forces using our rules for adding vector
+quantities, because force is a vector quantity.
+Step 3 : Determine what is given
+We are given all the charges and all the distances.
+Step 4 : Calculate the forces.
+Force of Q1 on Q2:
+Q1Q2
+F = k
+r2
+(2× 10−9)(1× 10−9
+= (8,99× 109 ))
+(2× 10−9)
+= 4,5× 10−5N
+Force of Q3 on Q2:
+Q2Q3
+F = k
+r2
+(1× 10−9)(3× 10−9
+= (8,99× 109 ))
+(4× 10−9
+= 1,69× 10−5N
+Both forces act in the same direction because the force between Q1 and Q2 is
+repulsive (like charges) and the force between Q2 on Q3 is attractive (unlike
+charges).
+390
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.2
+Therefore,
+Fnet = 4,50× 10−5 + 4,50× 10−5
+= 6,19× 10−5N
+We mentioned in Chapter 9 that charge placed on a spherical conductor spreads evenly along
+the surface. As a result, if we are far enough from the charged sphere, electrostatically, it
+behaves as a point-like charge. Thus we can treat spherical conductors (e.g. metallic balls) as
+point-like charges, with all the charge acting at the centre.
+Worked Example 113: Coulomb's Law: challenging question
+Question: In the picture below, X is a small negatively charged sphere with a mass
+of 10kg. It is suspended from the roof by an insulating rope which makes an angle
+of 60◦ with the roof. Y is a small positively charged sphere which has the same
+magnitude of charge as X. Y is fixed to the wall by means of an insulating bracket.
+Assuming the system is in equilibrium, what is the magnitude of the charge on X?
+///////////
+60o
+\
+10kg Y \
+X - + \
+\
+\
+50cm
+Answer
+How are we going to determine the charge on X? Well, if we know the force
+between X and Y we can use Coulomb's Law to determine their charges as we
+know the distance between them. So, firstly, we need to determine the magnitude
+of the electrostatic force between X and Y.
+Step 1 :
+Is everything in S.I. units? The distance between X and Y is 50cm = 0,5m, and the
+mass of X is 10kg.
+Step 2 : Draw a force diagram
+Draw the forces on X (with directions) and label.
+T : tension from the thread
+60◦ FE : electrostatic force
+X
+Fg: gravitational force
+Step 3 : Calculate the magnitude of the electrostatic force, FE
+Since nothing is moving (system is in equilibrium) the vertical and horizontal
+components of the forces must cancel. Thus
+FE = T cos(60
+◦); Fg = T sin(60
+◦).
+391
+CHAPTER 17. ELECTROSTATICS - GRADE 11 17.2
+
+Therefore,
+
+Fnet = 4,50× 10−5 + 4,50× 10−5
+
+= 6,19× 10−5N
+
+We mentioned in Chapter 9 that charge placed on a spherical conductor spreads evenly along
+
+the surface. As a result, if we are far enough from the charged sphere, electrostatically, it
+
+behaves as a point-like charge. Thus we can treat spherical conductors (e.g. metallic balls) as
+
+point-like charges, with all the charge acting at the centre.
+
+Worked Example 113: Coulomb's Law: challenging question
+
+Question: In the picture below, X is a small negatively charged sphere with a mass
+
+of 10kg. It is suspended from the roof by an insulating rope which makes an angle
+
+of 60◦ with the roof. Y is a small positively charged sphere which has the same
+
+magnitude of charge as X. Y is fixed to the wall by means of an insulating bracket.
+
+Assuming the system is in equilibrium, what is the magnitude of the charge on X?
+
+///////////
+
+60o
+
+\
+
+10kg Y \
+
+X - + \
+
+\
+
+\
+
+50cm
+
+Answer
+
+How are we going to determine the charge on X? Well, if we know the force
+
+between X and Y we can use Coulomb's Law to determine their charges as we
+
+know the distance between them. So, firstly, we need to determine the magnitude
+
+of the electrostatic force between X and Y.
+
+Step 1 :
+
+Is everything in S.I. units? The distance between X and Y is 50cm = 0,5m, and the
+
+mass of X is 10kg.
+
+Step 2 : Draw a force diagram
+
+Draw the forces on X (with directions) and label.
+
+T : tension from the thread
+
+60◦ FE : electrostatic force
+
+X
+
+Fg: gravitational force
+
+Step 3 : Calculate the magnitude of the electrostatic force, FE
+
+Since nothing is moving (system is in equilibrium) the vertical and horizontal
+
+components of the forces must cancel. Thus
+
+FE = T cos(60
+
+◦); Fg = T sin(60
+
+◦).
+
+391
+
+17.3 CHAPTER 17. ELECTROSTATICS - GRADE 11
+
+The only force we know is the gravitational force Fg = mg. Now we can calculate
+
+the magnitude of T from above:
+
+Fg (10)(10)
+
+T = = = 115,5N.
+
+sin(60◦) sin(60◦)
+
+Which means that FE is:
+
+FE = T cos(60
+
+◦) = 115,5 · cos(60◦) = 57,75N
+
+Step 4 :
+
+Now that we know the magnitude of the electrostatic force between X and Y, we
+
+can calculate their charges using Coulomb's Law. Don't forget that the magnitudes
+
+of the charges on X and Y are the same: QX = QY. The magnitude of the
+
+electrostatic force is
+
+QXQY Q
+
+2
+
+FE = k = k
+
+X
+
+√ r2 r2
+
+F 2Er
+
+QX = √ k
+
+(57.75)(0.5)2
+
+=
+
+8.99× 109
+
+= 5.66× 10−5C
+
+Thus the charge on X is −5.66× 10−5C.
+
+Exercise: Electrostatic forces
+
+1. Calculate the electrostatic force between two charges of +6nC and +1nC if
+
+they are separated by a distance of 2mm.
+
+2. Calculate the distance between two charges of +4nC and −3nC if the
+
+electrostaticforce between them is 0,005N.
+
+3. Calculate the charge on two identical spheres that are similiarly charged if they
+
+are separated by 20cm and the electrostatic force between them is 0,06N.
+

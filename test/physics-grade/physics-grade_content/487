@@ -1,0 +1,392 @@
+31.4.3 Colours and energies of electromagnetic radiation
+
+We saw in the explanation of why the sky is blue that different wavelengths or frequencies of
+
+light correspond to different colours of light. The table below gives the wavelengths and
+
+colours for light in the visible spectrum:
+
+Colour Wavelength range (nm)
+
+violet 390 - 455
+
+blue 455 - 492
+
+green 492 - 577
+
+yellow 577 - 597
+
+orange 597 - 622
+
+red 622 - 780
+
+Table 31.2: Colours and wavelengths of light in the visible spectrum.
+
+We also know that the energy of a photon of light can be found from:
+
+hc
+
+E = hf =
+
+λ
+
+Therefore if we know the frequency or wavelength of light, we can calculate the photon's
+
+energy and vice versa.
+
+Activity :: Investigation : Frequency,wavelength and energy relation
+
+Refer to table 31.2: Copy the table into your workbook and add two additional
+
+columns.
+
+1. In the first new column write down the lower and upper frequencies for each
+
+colour of light.
+
+2. In the second column write down the energy range (in Joules) for each colour
+
+of light.
+
+Questions
+
+1. Which colour of visible light has the highest energy photons?
+
+2. Which colour of visible light has the lowest energy photons?
+
+646
+
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.4
+
+Worked Example 192: Colours of light
+
+Question: A photon of wavelength 500 nm is emitted by a traffic light.
+
+1. What is the energy of the photon?
+
+2. What is the frequency of the photon?
+
+3. Use table 31.2 to determine the colour of the light.
+
+Answer
+
+Step 1 : What information is given and what do we need to do find?
+
+We are given λ = 500× 10−9 m and we need to find the photon's energy,
+
+frequency and colour.
+
+Step 2 : Use the equation E = hc to find the photon's energy
+
+λ
+
+hc
+
+E =
+
+λ
+
+(6,63× 10−34)× (3× 108)
+
+=
+
+500× 109
+
+= 3,98× 10−19 J
+
+The energy of the photon is 3,98× 10−19 J.
+
+Step 3 : We know the energy of the photon, now we can use E = hf to
+
+solve for the frequency
+
+E = hf
+
+E
+
+f =
+
+h
+
+3.98× 10−19
+
+=
+
+6,63× 10−34
+
+= 6× 1014 Hz
+
+The frequency of the photon is 6 ×1014 Hz
+
+Step 4 : Use the table to find the colour of light
+
+The wavelength given in the question is 500 nm. We can see in the table that green light has
+
+wavelengths between 492 - 577 nm. Therefore 500 nm is in this range and the colour of the
+
+light is green.
+
+Worked Example 193: Colours and energies of light
+
+Question: I have some sources which emit light of the following wavelengths:
+
+1. 400 nm,
+
+2. 580 nm,
+
+3. 650 nm,
+
+4. 300 nm.
+
+What are the colours of light emitted by the sources (see table 31.2) and which
+
+source emits photons with the highest energy and which with the lowest energy?
+
+Answer
+
+Step 1 : What information is given, and what do we need to do?
+
+4 wavelengths of light are given and we need to find their colours.
+
+647
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.4
+Worked Example 192: Colours of light
+Question: A photon of wavelength 500 nm is emitted by a traffic light.
+1. What is the energy of the photon?
+2. What is the frequency of the photon?
+3. Use table 31.2 to determine the colour of the light.
+Answer
+Step 1 : What information is given and what do we need to do find?
+We are given λ = 500× 10−9 m and we need to find the photon's energy,
+frequency and colour.
+Step 2 : Use the equation E = hc to find the photon's energy
+λ
+hc
+E =
+λ
+(6,63× 10−34)× (3× 108)
+=
+500× 109
+= 3,98× 10−19 J
+The energy of the photon is 3,98× 10−19 J.
+Step 3 : We know the energy of the photon, now we can use E = hf to
+solve for the frequency
+E = hf
+E
+f =
+h
+3.98× 10−19
+=
+6,63× 10−34
+= 6× 1014 Hz
+The frequency of the photon is 6 ×1014 Hz
+Step 4 : Use the table to find the colour of light
+The wavelength given in the question is 500 nm. We can see in the table that green light has
+wavelengths between 492 - 577 nm. Therefore 500 nm is in this range and the colour of the
+light is green.
+Worked Example 193: Colours and energies of light
+Question: I have some sources which emit light of the following wavelengths:
+1. 400 nm,
+2. 580 nm,
+3. 650 nm,
+4. 300 nm.
+What are the colours of light emitted by the sources (see table 31.2) and which
+source emits photons with the highest energy and which with the lowest energy?
+Answer
+Step 1 : What information is given, and what do we need to do?
+4 wavelengths of light are given and we need to find their colours.
+647
+CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 1231.4
+
+Worked Example 192: Colours of light
+
+Question: A photon of wavelength 500 nm is emitted by a traffic light.
+
+1. What is the energy of the photon?
+
+2. What is the frequency of the photon?
+
+3. Use table 31.2 to determine the colour of the light.
+
+Answer
+
+Step 1 : What information is given and what do we need to do find?
+
+We are given λ = 500× 10−9 m and we need to find the photon's energy,
+
+frequency and colour.
+
+Step 2 : Use the equation E = hc to find the photon's energy
+
+λ
+
+hc
+
+E =
+
+λ
+
+(6,63× 10−34)× (3× 108)
+
+=
+
+500× 109
+
+= 3,98× 10−19 J
+
+The energy of the photon is 3,98× 10−19 J.
+
+Step 3 : We know the energy of the photon, now we can use E = hf to
+
+solve for the frequency
+
+E = hf
+
+E
+
+f =
+
+h
+
+3.98× 10−19
+
+=
+
+6,63× 10−34
+
+= 6× 1014 Hz
+
+The frequency of the photon is 6 ×1014 Hz
+
+Step 4 : Use the table to find the colour of light
+
+The wavelength given in the question is 500 nm. We can see in the table that green light has
+
+wavelengths between 492 - 577 nm. Therefore 500 nm is in this range and the colour of the
+
+light is green.
+
+Worked Example 193: Colours and energies of light
+
+Question: I have some sources which emit light of the following wavelengths:
+
+1. 400 nm,
+
+2. 580 nm,
+
+3. 650 nm,
+
+4. 300 nm.
+
+What are the colours of light emitted by the sources (see table 31.2) and which
+
+source emits photons with the highest energy and which with the lowest energy?
+
+Answer
+
+Step 1 : What information is given, and what do we need to do?
+
+4 wavelengths of light are given and we need to find their colours.
+
+647
+
+31.4CHAPTER 31. OPTICAL PHENOMENA AND PROPERTIES OF MATTER - GRADE 12
+
+We also need to find which colour light photons have the highest energy and which
+
+one has the lowest energy.
+
+Step 2 : To find the colours of light, we can compare the wavelengths to
+
+those given in table 31.2
+
+1. 400 nm falls into the range for violet light (390 - 455 nm).
+
+2. 580 nm falls into the range for yellow light (577 - 597 nm).
+
+3. 650 nm falls into the range for red light (622 - 780 nm).
+
+4. 300 nm is not shown in the table. However, this wavelength is just a little
+
+shorter than the shortest wavelength in the violet range. Therefore 300 nm is
+
+ultraviolet.
+
+Step 3 : To find the colour of the light whose photons have the highest and
+
+lowest energies respectively, we need to calculate the energies of all the
+
+photons
+
+We know E = hc
+
+λ
+
+For 400 nm:
+
+hc
+
+E =
+
+λ
+
+(6,63× 10−34)× (3× 108)
+
+=
+
+400× 10−9
+
+= 4,97× 10−19 J
+
+For 580 nm:
+
+hc
+
+E =
+
+λ
+
+(6,63× 10−34)× (3× 108)
+
+=
+
+580× 10−9
+
+= 3,43× 10−19 J
+
+For 650 nm:
+
+hc
+
+E =
+
+λ
+
+(6,63× 10−34)× (3× 108)
+
+=
+
+650× 10−9
+
+= 3,06× 10−19 J
+
+For 300 nm:
+
+hc
+
+E =
+
+λ
+
+(6,63× 10−34)× (3× 108)
+
+=
+
+300× 10−9
+
+= 6,63× 10−19 J
+
+Therefore, the photons with the highest energy are the ultraviolet photons.
+
+The photons with the lowest energy are from light which is red.
+

@@ -1,0 +1,179 @@
+11.1 Polyhedrons
+
+Here you'll learn what a polyhedron is and the parts of a polyhedron. You'll then use these parts in a formula called
+
+Euler's Theorem.
+
+What if you were given a solid three-dimensional figure, like a carton of ice cream? How could you determine how
+
+the faces, vertices, and edges of that figure are related? After completing this Concept, you'll be able to use Euler's
+
+Theorem to answer that question.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136767
+
+Polyhedrons CK-12
+
+Guidance
+
+A polyhedron is a 3-dimensional figure that is formed by polygons that enclose a region in space. Each polygon in
+
+a polyhedron is a face. The line segment where two faces intersect is an edge. The point of intersection of two edges
+
+is a vertex.
+
+Examples of polyhedrons include a cube, prism, or pyramid. Cones, spheres, and cylinders are not polyhedrons
+
+because they have surfaces that are not polygons. The following are more examples of polyhedrons:
+
+605
+
+11.1. Polyhedrons www.ck12.org
+
+The number of faces (F), vertices (V ) and edges (E) are related in the same way for any polyhedron. Their
+
+relationship was discovered by the Swiss mathematician Leonhard Euler, and is called Euler's Theorem.
+
+Euler's Theorem: F +V = E +2.
+
+Faces+Vertices = Edges+2
+
+5+6 = 9+2
+
+A regular polyhedron is a polyhedron where all the faces are congruent regular polygons. There are only five
+
+regular polyhedra, called the Platonic solids.
+
+1. Regular Tetrahedron: A 4-faced polyhedron and all the faces are equilateral triangles.
+
+2. Cube: A 6-faced polyhedron and all the faces are squares.
+
+3. Regular Octahedron: An 8-faced polyhedron and all the faces are equilateral triangles.
+
+4. Regular Dodecahedron: A 12-faced polyhedron and all the faces are regular pentagons.
+
+5. Regular Icosahedron: A 20-faced polyhedron and all the faces are equilateral triangles.
+
+Example A
+
+Determine if the following solids are polyhedrons. If the solid is a polyhedron, name it and find the number of faces,
+
+edges and vertices its has.
+
+a)
+
+606
+11.1. Polyhedrons www.ck12.org
+The number of faces (F), vertices (V ) and edges (E) are related in the same way for any polyhedron. Their
+relationship was discovered by the Swiss mathematician Leonhard Euler, and is called Euler's Theorem.
+Euler's Theorem: F +V = E +2.
+Faces+Vertices = Edges+2
+5+6 = 9+2
+A regular polyhedron is a polyhedron where all the faces are congruent regular polygons. There are only five
+regular polyhedra, called the Platonic solids.
+1. Regular Tetrahedron: A 4-faced polyhedron and all the faces are equilateral triangles.
+2. Cube: A 6-faced polyhedron and all the faces are squares.
+3. Regular Octahedron: An 8-faced polyhedron and all the faces are equilateral triangles.
+4. Regular Dodecahedron: A 12-faced polyhedron and all the faces are regular pentagons.
+5. Regular Icosahedron: A 20-faced polyhedron and all the faces are equilateral triangles.
+Example A
+Determine if the following solids are polyhedrons. If the solid is a polyhedron, name it and find the number of faces,
+edges and vertices its has.
+a)
+606
+www.ck12.org Chapter 11. Surface Area and Volume
+b)
+c)
+Answer:
+a) The base is a triangle and all the sides are triangles, so this is a triangular pyramid, which is also known as a
+tetrahedron. There are 4 faces, 6 edges and 4 vertices.
+b) This solid is also a polyhedron. The bases are both pentagons, so it is a pentagonal prism. There are 7 faces, 15
+edges, and 10 vertices.
+c) The bases are circles. Circles are not polygons, so it is not a polyhedron.
+Example B
+Find the number of faces, vertices, and edges in an octagonal prism.
+There are 10 faces and 16 vertices. Use Euler's Theorem, to solve for E.
+607
+11.1. Polyhedrons www.ck12.org
+F +V = E +2
+10+16 = E +2
+24 = E
+Therefore, there are 24 edges.
+Example C
+A truncated icosahedron is a polyhedron with 12 regular pentagonal faces, 20 regular hexagonal faces, and 90
+edges. This icosahedron closely resembles a soccer ball. How many vertices does it have? Explain your reasoning.
+We can use Euler's Theorem to solve for the number of vertices.
+F +V = E +2
+32+V = 90+2
+V = 60
+Therefore, it has 60 vertices.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136768
+Polyhedrons CK-12
+->
+Guided Practice
+1. In a six-faced polyhedron, there are 10 edges. How many vertices does the polyhedron have?
+2. Markus counts the edges, faces, and vertices of a polyhedron. He comes up with 10 vertices, 5 faces, and 12
+edges. Did he make a mistake?
+3. Is this a polyhedron? Explain.
+608
+www.ck12.org Chapter 11. Surface Area and Volume
+Answers:
+1. Solve for V in Euler's Theorem.
+F +V = E +2
+6+V = 10+2
+V = 6
+Therefore, there are 6 vertices.
+2. Plug all three numbers into Euler's Theorem.
+F +V = E +2
+5+10 = 12+2
+15 6= 14
+Because the two sides are not equal, Markus made a mistake.
+3. All of the faces are polygons, so this is a polyhedron. Notice that even though not all of the faces are regular
+polygons, the number of faces, vertices, and edges still works with Euler's Theorem.
+Explore More
+Complete the table using Euler's Theorem.
+TABLE 11.1:
+Name Faces Edges Vertices
+1. Rectangular Prism 6 12
+2. Octagonal Pyramid 16 9
+3. Regular 20 12
+Icosahedron
+4. Cube 12 8
+5. Triangular Pyramid 4 4
+6. Octahedron 8 12
+7. Heptagonal Prism 21 14
+8. Triangular Prism 5 9
+Determine if the following figures are polyhedra. If so, name the figure and find the number of faces, edges, and
+vertices.
+609
+11.1. Polyhedrons www.ck12.org
+9.
+10.
+11.
+12.
+13.
+610
+11.1. Polyhedrons www.ck12.org
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+610
+
+www.ck12.org Chapter 11. Surface Area and Volume
+

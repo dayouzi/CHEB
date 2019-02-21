@@ -1,0 +1,60 @@
+8.1 POLAR COORDINATES
+Definition of Polar Coordinates ! Relationship Between Polar 
+and Rectangular Coordinates ! Polar Equations
+P In this section we define polar coordinates, and we learn how polar coordinates are related
+r to rectangular coordinates.
+O ¨
+! Definition of Polar Coordinates
+Polar axis The polar coordinate system uses distances and directions to specify the location of a
+point in the plane. To set up this system, we choose a fixed point O in the plane called the
+F I G U R E  1 pole (or origin) and draw from O a ray (half-line) called the polar axis as in Figure 1.
+Then each point P can be assigned polar coordinates P1r,  u 2 where
+r is the distance from O to P
+u is the angle between the polar axis and the segment OP
+O ¨ We use the convention that u is positive if measured in a counterclockwise direction from
+| r | the polar axis or negative if measur0ed r 0 in a clockwise direction. If r is negative, then P1r,  u 2is defined to be the point that lies units from the pole in the direction opposite to that
+P(r, )¨ given by u (see Figure 2).
+r<0
+E X A M P L E  1 Plotting Points in Polar Coordinates
+F I G U R E  2
+Plot the points whose polar coordinates are given.
+(a) 11,  3p/4 2 (b) 13,  "p/6 2 (c) 13,  3p 2 (d) 1"4,  p/4 2
+S O L U T I O N The points are plotted in Figure 3. Note that the point in part (d) lies 4 units
+from the origin along the angle 5p/4, because the given value of r is negative.
+P !1,  3 pi4  @
+3pi 3pi
+4 pi
+O O 4
+O _pi6 P (3, 3pi) O
+P !3, _ pi6  @
+P !_4,  pi4  @
+(a) (b) (c) (d)
+F I G U R E  3
+S E C T I O N  8 . 1 | Polar Coordinates 543
+E X A M P L E  2 Different Polar Coordinates for the Same Point
+(a) Graph the point with polar coordinates P12,  p/3 2 .
+(b) Find two other polar coordinate representations of P with r # 0 and two with 
+r $ 0.
+S O L U T I O N
+(a) The graph is shown in Figure 5(a).
+(b) Other representations with r # 0 are
+a p 72,  ! 2p b % a p2,  b Add 2p to u
+a 3 3p 5p2,  " 2p b % a 2,  " b Add "2p to u
+3 3
+Other representations with r $ 0 are
+p
+ a"2,  ! p b % a 4p"2,  b Replace r by "r and add p to u
+3 3
+ a p p"2,  " p b % a 2"2,  " b Replace r by "r and add "p to u
+3 3
+The graphs in Figure 5 explain why these coordinates represent the same point.
+P !2,  pi  @ P !2,  7 pi3 3  @ P !2, _ 
+5 pi  @ P !_2,  4 pi3  @ P !_2, _ 
+2 pi3 3  @
+2 2 2 2 2
+4pi
+pi 7pi 3
+3 3
+O O O _ 5pi O O _ 2pi3 3
+(a) (b) (c) (d) (e)
+F I G U R E  5

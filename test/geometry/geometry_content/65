@@ -1,0 +1,466 @@
+7.2. Proportion Properties www.ck12.org
+
+7.2 Proportion Properties
+
+Here you'll learn what a proportion is, the properties of proportions, and how to solve proportions using cross-
+
+multiplication.
+
+What if you were told that a scale model of a python is in the ratio of 1:24? If the model measures 0.75 feet long,
+
+how long is the real python? After completing this Concept, you'll be able to solve problems like this one by using
+
+a proportion.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136691
+
+CK-12 Proportions
+
+First watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1359
+
+James Sousa: Proportions
+
+Now watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1360
+
+James Sousa: Applications of Proportions
+
+Finally, watch this video.
+
+338
+
+www.ck12.org Chapter 7. Similarity
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1361
+
+James Sousa: Using Similar Triangles to Determine Unknown Values
+
+Guidance
+
+A proportion is two ratios that are set equal to each other. Usually the ratios in proportions are written in fraction
+
+form. An example of a proportion is 2x = 510. To solve a proportion, you need to cross-multiply. The Cross-
+
+Multiplication Theorem, which allows us to solve proportions using this method, states that if a,b,c, and d are real
+
+numbers, with b 6= 0 and d 6= 0 and if ab = cd , then ad = bc. Cross-multiplying allows us to get rid of the fractions in
+
+our equation. The Cross-Multiplication Theorem has several sub-theorems, called corollaries.
+
+Corollary #1: If a,b,c, and d are nonzero and ab =
+
+c
+
+d , then
+
+a
+
+c =
+
+b
+
+d . Switch b and c.
+
+Corollary #2: If a,b,c, and d are nonzero and ab =
+
+c
+
+d , then
+
+d
+
+b =
+
+c
+
+a . Switch a and d.
+
+Corollary #3: If a,b,c, and d are nonzero and ab =
+
+c
+
+d , then
+
+b
+
+a =
+
+c
+
+d . Flip each ratio upside down.
+
+Corollary #4: If a,b,c, and d are nonzero and ab =
+
+c
+
+d , then
+
+a+b
+
+b =
+
+c+d
+
+d .
+
+Corollary #5: If a,b,c, and d are nonzero and ab =
+
+c
+
+d , then
+
+a−b
+
+b =
+
+c−d
+
+d .
+
+Example A
+
+Solve the proportions.
+
+a) 45 =
+
+x
+
+30
+
+b) y+18 =
+
+5
+
+20
+
+c) 65 =
+
+2x+4
+
+x−2
+
+Remember, to solve a proportion, you need to cross-multiply.
+
+a)
+
+b)
+
+339
+www.ck12.org Chapter 7. Similarity
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/1361
+James Sousa: Using Similar Triangles to Determine Unknown Values
+Guidance
+A proportion is two ratios that are set equal to each other. Usually the ratios in proportions are written in fraction
+form. An example of a proportion is 2x = 510. To solve a proportion, you need to cross-multiply. The Cross-
+Multiplication Theorem, which allows us to solve proportions using this method, states that if a,b,c, and d are real
+numbers, with b 6= 0 and d 6= 0 and if ab = cd , then ad = bc. Cross-multiplying allows us to get rid of the fractions in
+our equation. The Cross-Multiplication Theorem has several sub-theorems, called corollaries.
+Corollary #1: If a,b,c, and d are nonzero and ab =
+c
+d , then
+a
+c =
+b
+d . Switch b and c.
+Corollary #2: If a,b,c, and d are nonzero and ab =
+c
+d , then
+d
+b =
+c
+a . Switch a and d.
+Corollary #3: If a,b,c, and d are nonzero and ab =
+c
+d , then
+b
+a =
+c
+d . Flip each ratio upside down.
+Corollary #4: If a,b,c, and d are nonzero and ab =
+c
+d , then
+a+b
+b =
+c+d
+d .
+Corollary #5: If a,b,c, and d are nonzero and ab =
+c
+d , then
+a−b
+b =
+c−d
+d .
+Example A
+Solve the proportions.
+a) 45 =
+x
+30
+b) y+18 =
+5
+20
+c) 65 =
+2x+4
+x−2
+Remember, to solve a proportion, you need to cross-multiply.
+a)
+b)
+339
+7.2. Proportion Properties www.ck12.org
+c)
+Example B
+Your parents have an architect's drawing of their home. On the paper, the house's dimensions are 36 in by 30 in. If
+the shorter length of the house is actually 50 feet, what is the longer length?
+To solve, first set up a proportion. If the shorter length is 50 feet, then it lines up with 30 in, the shorter length of the
+paper dimensions.
+30 50
+= −→ 30x = 1800
+36 x
+x = 60 The longer length is 60 feet.
+Example C
+Suppose we have the proportion 25 =
+14
+35 . Write three true proportions that follow.
+First of all, we know this is a true proportion because you would multiply 25 by
+7
+7 to get
+14
+35 . Using the first three
+corollaries:
+1. 214 =
+5
+35
+2. 355 =
+14
+2
+3. 52 =
+35
+14
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136692
+CK-12 Proportions
+->
+Guided Practice
+1. In the picture, ABXY =
+BC
+Y Z =
+AC
+XZ .
+Find the measures of AC and XY .
+340
+www.ck12.org Chapter 7. Similarity
+2. In the picture, EDAD =
+BC
+AC . Find y.
+3. In the picture, ABBE =
+AC
+CD . Find BE.
+Answers:
+1. Plug in the lengths of the sides we know.
+2. Substitute in the lengths of the sides we know.
+6 8
+= −→ 8y = 6(20)
+y 12+8
+y = 15
+3. Substitute in the lengths of the sides we know.
+12 20
+= −→ 20(BE) = 12(25)
+BE 25
+BE = 15
+341
+7.2. Proportion Properties www.ck12.org
+Explore More
+Solve each proportion.
+1. x10 =
+42
+35
+2. xx−2 =
+5
+7
+3. 69 =
+y
+24
+4. x9 =
+16
+x
+5. y−38 =
+y+6
+5
+6. 20z+5 =
+16
+7
+7. Shawna drove 245 miles and used 8.2 gallons of gas. At the same rate, if she drove 416 miles, how many
+gallons of gas will she need? Round to the nearest tenth.
+8. The president, vice-president, and financial officer of a company divide the profits is a 4:3:2 ratio. If the
+company made $1,800,000 last year, how much did each person receive?
+Given the true proportion, 106 =
+15
+d =
+x
+y and d,x, and y are nonzero, determine if the following proportions are also
+true.
+9. 10y =
+x
+6
+10. 1510 =
+d
+6
+11. 6+1010 =
+y+x
+x
+12. 15x =
+y
+d
+For questions 13-16, AEED =
+BC
+CD and
+ED
+AD =
+CD
+DB =
+EC
+AB .
+13. Find DB.
+14. Find EC.
+15. Find CB.
+16. Find AD.
+342
+7.2. Proportion Properties www.ck12.org
+
+Explore More
+
+Solve each proportion.
+
+1. x10 =
+
+42
+
+35
+
+2. xx−2 =
+
+5
+
+7
+
+3. 69 =
+
+y
+
+24
+
+4. x9 =
+
+16
+
+x
+
+5. y−38 =
+
+y+6
+
+5
+
+6. 20z+5 =
+
+16
+
+7
+
+7. Shawna drove 245 miles and used 8.2 gallons of gas. At the same rate, if she drove 416 miles, how many
+
+gallons of gas will she need? Round to the nearest tenth.
+
+8. The president, vice-president, and financial officer of a company divide the profits is a 4:3:2 ratio. If the
+
+company made $1,800,000 last year, how much did each person receive?
+
+Given the true proportion, 106 =
+
+15
+
+d =
+
+x
+
+y and d,x, and y are nonzero, determine if the following proportions are also
+
+true.
+
+9. 10y =
+
+x
+
+6
+
+10. 1510 =
+
+d
+
+6
+
+11. 6+1010 =
+
+y+x
+
+x
+
+12. 15x =
+
+y
+
+d
+
+For questions 13-16, AEED =
+
+BC
+
+CD and
+
+ED
+
+AD =
+
+CD
+
+DB =
+
+EC
+
+AB .
+
+13. Find DB.
+
+14. Find EC.
+
+15. Find CB.
+
+16. Find AD.
+
+342
+
+www.ck12.org Chapter 7. Similarity
+

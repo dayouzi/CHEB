@@ -1,0 +1,49 @@
+12.2 ARITHMETIC SEQUENCES
+Arithmetic Sequences ! Partial Sums of Arithmetic Sequences
+In this section we study a special type of sequence, called an arithmetic sequence.
+! Arithmetic Sequences
+Perhaps the simplest way to generate a sequence is to start with a number a and add to it
+a fixed constant d, over and over again.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  1 2 . 2 | Arithmetic Sequences 795
+DEFINITION OF AN ARITHMETIC SEQUENCE
+An arithmetic sequence is a sequence of the form
+a, a # d, a # 2d, a # 3d, a # 4d, . . .
+The number a is the first term, and d is the common difference of the sequence.
+The nth term of an arithmetic sequence is given by
+an ! a # 1n " 1 2d
+The number d is called the common difference because any two consecutive terms of
+an arithmetic sequence differ by d.
+E X A M P L E  1 | Arithmetic Sequences
+(a) If a ! 2 and d ! 3, then we have the arithmetic sequence
+2, 2 # 3, 2 # 6, 2 # 9, . . .
+or 2, 5, 8, 11, . . .
+Any two con
+20 an ! 2 # 31 secutivn " 1 2e terms of this sequence differ by d ! 3. The nth term is.
+(b) Consider the arithmetic sequence
+9, 4, "1, "6, "11, . . .
+Here the common difference is d ! "5. The terms of an arithmetic sequence de-
+crease if the common difference is negative. The nth term is a
+an ! 1 # 21n " 1 2 n ! 9 " 51n " 1 2 .0 10 (c) The graph of the arithmetic sequence is shown in Figure 1.Notice that the points in the graph lie on the straight line y ! 2x " 1, which has
+F I G U R E  1 slope d ! 2.
+S E C T I O N  1 2 . 2 | Arithmetic Sequences 795
+DEFINITION OF AN ARITHMETIC SEQUENCE
+An arithmetic sequence is a sequence of the form
+a, a # d, a # 2d, a # 3d, a # 4d, . . .
+The number a is the first term, and d is the common difference of the sequence.
+The nth term of an arithmetic sequence is given by
+an ! a # 1n " 1 2d
+The number d is called the common difference because any two consecutive terms of
+an arithmetic sequence differ by d.
+E X A M P L E  1 | Arithmetic Sequences
+(a) If a ! 2 and d ! 3, then we have the arithmetic sequence
+2, 2 # 3, 2 # 6, 2 # 9, . . .
+or 2, 5, 8, 11, . . .
+Any two con
+20 an ! 2 # 31 secutivn " 1 2e terms of this sequence differ by d ! 3. The nth term is.
+(b) Consider the arithmetic sequence
+9, 4, "1, "6, "11, . . .
+Here the common difference is d ! "5. The terms of an arithmetic sequence de-
+crease if the common difference is negative. The nth term is a
+an ! 1 # 21n " 1 2 n ! 9 " 51n " 1 2 .0 10 (c) The graph of the arithmetic sequence is shown in Figure 1.Notice that the points in the graph lie on the straight line y ! 2x " 1, which has
+F I G U R E  1 slope d ! 2.

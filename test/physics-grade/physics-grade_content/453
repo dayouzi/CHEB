@@ -1,0 +1,322 @@
+29.4.4 The Operational Amplifier
+
+The operational amplifier is a special kind of voltage amplifier which is made from a handful of
+
+bipolar or field effect transistors. Operational amplifiers are usually called op-amps for short.
+
+They are used extensively in all kinds of audio equipment (amplifiers, mixers and so on) and in
+
+instrumentation. They also have many other uses in other circuit - for example comparing
+
+voltages from sensors.
+
+Operational amplifiers are supplied on Integrated Circuits (I.C.s). The most famous operational
+
+amplifier I.C. is numbered 741 and contains a single operational amplifier on an integrated
+
+circuit (‘chip') with eight terminals. Other varieties can be bought, and you can get a single
+
+integrated circuit with two or four ‘741'-type operational amplifiers on it.
+
+The symbol for an op-amp is shown in Figure 29.14. The operational amplifier has two input
+
+terminals and one output terminal. The voltage of the output terminal is proportional to the
+
+difference in voltage between the two input terminals. The output terminal is on the right (at
+
+the sharp point of the triangle). The two input terminals are drawn on the left. One input
+
+terminal (labelled with a + on diagrams) is called the non-inverting input. The other input
+
+terminal (labelled −) is called the inverting input. The labels + and − have nothing to do
+
+with the way in which the operational amplifier is connected to the power supply. Operational
+
+amplifiers must be connected to the power supply, but this is taken for granted when circuit
+
+diagrams are drawn, and these connections are not shown on circuit diagrams. Usually, when
+
+drawing electronic circuits, ‘0V' is taken to mean the negative terminal of the power supply.
+
+This is not the case with op-amps. For an op-amp, ‘0V' refers to the voltage midway between
+
+the + and − of the supply.
+
+The output voltage of the amplifier Vout is given by the formula
+
+Vout = A (V+ − V−) (29.5)
+
+here A is a constant called the open loop gain, and V+ and V− are the voltages of the two
+
+input terminals. That said, the output voltage can not be less than the voltage of the negative
+
+terminal of the battery supplying it or higher than the positive terminal of the battery supplying
+
+it. You will notice that Vout is positive if V+ > V− and negative if V+ < V−. This is why the −
+
+input is called the inverting input: raising its voltage causes the output voltage to drop.
+
+The input resistance of an operational amplifier is very high. This means that very little current
+
+flows into the input terminals during operation.
+
+607
+
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+
+If all of the transistors in the operational amplifier were identical then the output voltage would
+
+be zero if the two inputs were at equal voltages. In practice this is not quite the case, and for
+
+sensitive work a trimming potentiometer is connected. This is adjusted until the op-amp is
+
+zeroed correctly.
+
+Simple operational amplifiers require the trimming potentiometer to be built into the circuit
+
+containing them, and an example is shown in Figure 29.15. Other operational amplifier designs
+
+incorporate separate terminals for the trimming potentiometer. These special terminals are
+
+labelled offset on the manufacturer's diagram. The exact method of connecting the
+
+potentiometer to the offset terminals can depend on the design of the operational amplifier,
+
+and you need to refer to the manufacturer's data sheet for details of which potentiometer to
+
+use and how to connect it.
+
+For most commercially produced operational amplifiers (known as op-amps for short), the open
+
+loop gain A is very large and does not stay constant. Values of 100 000 are typical. Usually a
+
+designer would want an amplifier with a stable gain of smaller value, and builds the operational
+
+amplifier into a circuit like the one in Figure 29.15.
+
+Extension: Calculating the gain of the amplifier in Figure 29.15.
+
+1. The input resistance of the operational amplifier is very high. This means that
+
+very little current flows into the inverting input of the op-amp. Accordingly,
+
+the current through resistor R1 must be almost the same as the current
+
+through resistor R2. This means that the ratio of the voltage across R1 to
+
+the voltage across R2 is the same as the ratio of the two resistances.
+
+2. The open loop gain A of the op-amp is very high. Assuming that the output
+
+voltage is less than a few volts, this means that the two input terminals must
+
+be at very similar voltages. We shall assume that they are at the same voltage.
+
+3. We want the output voltage to be zero if the input voltage is zero. Assuming
+
+that the transistors within the op-amp are very similar, the output voltage will
+
+only be zero for zero input voltage if V+ is very close to zero. We shall
+
+assume that V+ = 0 when the trimming potentiometer is correctly adjusted.
+
+4. It follows from the last two statements that V− ≈ 0, and we shall assume that
+
+it is zero.
+
+5. With these assumptions, the voltage across R2 is the same as Vout, and the
+
+voltage across R1 is the same as Vin. Since both resistors carry the same
+
+current (as noted in point 1), we may say that the magnitude of
+
+Vout/Vin = R2/R1. However, if Vin is negative, then Vout will be positive.
+
+Therefore it is customary to write the gain of this circuit as
+
+Vout/Vin = −R2/R1.
+
+inverting input terminal
+
+− ∞ output terminal
+
++
+
+non-inverting input terminal
+
+Figure 29.14: Circuit symbol for an operational amplifier. The amplifier must also be connectd
+
+to the + and − terminals of the power supply. These connections are taken for granted and not
+
+shown.
+
+608
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+If all of the transistors in the operational amplifier were identical then the output voltage would
+be zero if the two inputs were at equal voltages. In practice this is not quite the case, and for
+sensitive work a trimming potentiometer is connected. This is adjusted until the op-amp is
+zeroed correctly.
+Simple operational amplifiers require the trimming potentiometer to be built into the circuit
+containing them, and an example is shown in Figure 29.15. Other operational amplifier designs
+incorporate separate terminals for the trimming potentiometer. These special terminals are
+labelled offset on the manufacturer's diagram. The exact method of connecting the
+potentiometer to the offset terminals can depend on the design of the operational amplifier,
+and you need to refer to the manufacturer's data sheet for details of which potentiometer to
+use and how to connect it.
+For most commercially produced operational amplifiers (known as op-amps for short), the open
+loop gain A is very large and does not stay constant. Values of 100 000 are typical. Usually a
+designer would want an amplifier with a stable gain of smaller value, and builds the operational
+amplifier into a circuit like the one in Figure 29.15.
+Extension: Calculating the gain of the amplifier in Figure 29.15.
+1. The input resistance of the operational amplifier is very high. This means that
+very little current flows into the inverting input of the op-amp. Accordingly,
+the current through resistor R1 must be almost the same as the current
+through resistor R2. This means that the ratio of the voltage across R1 to
+the voltage across R2 is the same as the ratio of the two resistances.
+2. The open loop gain A of the op-amp is very high. Assuming that the output
+voltage is less than a few volts, this means that the two input terminals must
+be at very similar voltages. We shall assume that they are at the same voltage.
+3. We want the output voltage to be zero if the input voltage is zero. Assuming
+that the transistors within the op-amp are very similar, the output voltage will
+only be zero for zero input voltage if V+ is very close to zero. We shall
+assume that V+ = 0 when the trimming potentiometer is correctly adjusted.
+4. It follows from the last two statements that V− ≈ 0, and we shall assume that
+it is zero.
+5. With these assumptions, the voltage across R2 is the same as Vout, and the
+voltage across R1 is the same as Vin. Since both resistors carry the same
+current (as noted in point 1), we may say that the magnitude of
+Vout/Vin = R2/R1. However, if Vin is negative, then Vout will be positive.
+Therefore it is customary to write the gain of this circuit as
+Vout/Vin = −R2/R1.
+inverting input terminal
+− ∞ output terminal
++
+non-inverting input terminal
+Figure 29.14: Circuit symbol for an operational amplifier. The amplifier must also be connectd
+to the + and − terminals of the power supply. These connections are taken for granted and not
+shown.
+608
+29.4 CHAPTER 29. ELECTRONICS - GRADE 12
+
+If all of the transistors in the operational amplifier were identical then the output voltage would
+
+be zero if the two inputs were at equal voltages. In practice this is not quite the case, and for
+
+sensitive work a trimming potentiometer is connected. This is adjusted until the op-amp is
+
+zeroed correctly.
+
+Simple operational amplifiers require the trimming potentiometer to be built into the circuit
+
+containing them, and an example is shown in Figure 29.15. Other operational amplifier designs
+
+incorporate separate terminals for the trimming potentiometer. These special terminals are
+
+labelled offset on the manufacturer's diagram. The exact method of connecting the
+
+potentiometer to the offset terminals can depend on the design of the operational amplifier,
+
+and you need to refer to the manufacturer's data sheet for details of which potentiometer to
+
+use and how to connect it.
+
+For most commercially produced operational amplifiers (known as op-amps for short), the open
+
+loop gain A is very large and does not stay constant. Values of 100 000 are typical. Usually a
+
+designer would want an amplifier with a stable gain of smaller value, and builds the operational
+
+amplifier into a circuit like the one in Figure 29.15.
+
+Extension: Calculating the gain of the amplifier in Figure 29.15.
+
+1. The input resistance of the operational amplifier is very high. This means that
+
+very little current flows into the inverting input of the op-amp. Accordingly,
+
+the current through resistor R1 must be almost the same as the current
+
+through resistor R2. This means that the ratio of the voltage across R1 to
+
+the voltage across R2 is the same as the ratio of the two resistances.
+
+2. The open loop gain A of the op-amp is very high. Assuming that the output
+
+voltage is less than a few volts, this means that the two input terminals must
+
+be at very similar voltages. We shall assume that they are at the same voltage.
+
+3. We want the output voltage to be zero if the input voltage is zero. Assuming
+
+that the transistors within the op-amp are very similar, the output voltage will
+
+only be zero for zero input voltage if V+ is very close to zero. We shall
+
+assume that V+ = 0 when the trimming potentiometer is correctly adjusted.
+
+4. It follows from the last two statements that V− ≈ 0, and we shall assume that
+
+it is zero.
+
+5. With these assumptions, the voltage across R2 is the same as Vout, and the
+
+voltage across R1 is the same as Vin. Since both resistors carry the same
+
+current (as noted in point 1), we may say that the magnitude of
+
+Vout/Vin = R2/R1. However, if Vin is negative, then Vout will be positive.
+
+Therefore it is customary to write the gain of this circuit as
+
+Vout/Vin = −R2/R1.
+
+inverting input terminal
+
+− ∞ output terminal
+
++
+
+non-inverting input terminal
+
+Figure 29.14: Circuit symbol for an operational amplifier. The amplifier must also be connectd
+
+to the + and − terminals of the power supply. These connections are taken for granted and not
+
+shown.
+
+608
+
+CHAPTER 29. ELECTRONICS - GRADE 12 29.5
+
+R2
+
+R
+
+Input 1 −
+
+Output
+
++
+
++
+
+R3
+
+Figure 29.15: An inverting amplifier built using an operational amplifier. The connections from
+
+battery to operational amplifier are not shown. The output voltage Vout = −R2Vin/R1, as
+
+explained in the text. The potentiometer R3 is a trimming potentiometer. To set it, the input
+
+is connected to zero volts. The trimming potentiometer is then adjusted until Vout = 0. In all
+
+operational amplifier circuits, zero volts is midway between the + and − of the supply.
+
+Exercise: Operational Amplifiers
+
+1. What are operational amplifiers used for?
+
+2. Draw a simple diagram of an operational amplifier and label its terminals.
+
+3. Why is a trimming potentiometer is needed when using an op-amp?
+

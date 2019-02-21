@@ -1,0 +1,166 @@
+12.5 Reflections
+
+Here you'll learn what a reflection is and how to find the coordinates of a reflected figure.
+
+What if you were given the coordinates of a quadrilateral and you were asked to reflect that quadrilateral over the
+
+y−axis? What would its new coordinates be? After completing this Concept, you'll be able to reflect a figure like
+
+this one in the coordinate plane.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136605
+
+Transformation: Reflection CK-12
+
+Guidance
+
+A transformation is an operation that moves, flips, or otherwise changes a figure to create a new figure. A rigid
+
+transformation (also known as an isometry or congruence transformation) is a transformation that does not
+
+change the size or shape of a figure.
+
+The rigid transformations are translations (discussed elsewhere), reflections (discussed here), and rotations (dis-
+
+cussed elsewhere). The new figure created by a transformation is called the image. The original figure is called the
+
+preimage. If the preimage is A, then the image would be A′, said "a prime." If there is an image of A′, that would be
+
+labeled A′′, said "a double prime."
+
+A reflection is a transformation that turns a figure into its mirror image by flipping it over a line. The line of
+
+reflection is the line that a figure is reflected over. If a point is on the line of reflection then the image is the same as
+
+the preimage. Images are always congruent to preimages.
+
+While you can reflect over any line, some common lines of reflection have rules that are worth memorizing:
+
+Reflection over the y−axis: (x,y)→ (−x,y)
+
+691
+
+12.5. Reflections www.ck12.org
+
+Reflection over the x−axis: (x,y)→ (x,−y)
+
+Reflection over y = x: (x,y)→ (y,x)
+
+Reflection over y =−x: (x,y)→ (−y,−x)
+
+Example A
+
+Reflect4ABC over the y−axis. Find the coordinates of the image.
+
+692
+12.5. Reflections www.ck12.org
+Reflection over the x−axis: (x,y)→ (x,−y)
+Reflection over y = x: (x,y)→ (y,x)
+Reflection over y =−x: (x,y)→ (−y,−x)
+Example A
+Reflect4ABC over the y−axis. Find the coordinates of the image.
+692
+www.ck12.org Chapter 12. Rigid Transformations
+4A′B′C′ will be the same distance away from the y−axis as4ABC, but on the other side. Hence, their x-coordinates
+will be opposite.
+A(4,3)→ A′(−4,3)
+B(7,−1)→ B′(−7,−1)
+C(2,−2)→C′(−2,−2)
+Example B
+Reflect the letter "F ′′ over the x−axis.
+693
+12.5. Reflections www.ck12.org
+When reflecting the letter F over the x−axis, the y−coordinates will be the same distance away from the x−axis, but
+on the other side of the x−axis. Hence, their y-coordinates will be opposite.
+Example C
+Reflect the triangle 4ABC with vertices A(4,5),B(7,1) and C(9,6) over the line x = 5. Find the coordinates of A′,
+B′, and C′.
+The image's vertices are the same distance away from x = 5 as those of the preimage.
+694
+www.ck12.org Chapter 12. Rigid Transformations
+A(4,5)→ A′(6,5)
+B(7,1)→ B′(3,1)
+C(9,6)→C′(1,6)
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136606
+Transformation: Reflection CK-12
+->
+Guided Practice
+1. Reflect the line segment PQ with endpoints P(−1,5) and Q(7,8) over the line y = 5.
+2. A triangle4LMN and its reflection,4L′M′N′ are below. What is the line of reflection?
+3. Reflect square ABCD over the line y = x.
+695
+12.5. Reflections www.ck12.org
+4. Reflect the trapezoid T RAP over the line y =−x.
+Answers:
+1. P is on the line of reflection, which means P′ has the same coordinates. Q′ is the same distance away from y = 5,
+but on the other side.
+P(−1,5)→ P′(−1,5)
+Q(7,8)→ Q′(7,2)
+696
+www.ck12.org Chapter 12. Rigid Transformations
+2. Looking at the graph, we see that the corresponding parts of the preimage and image intersect when y = 1.
+Therefore, this is the line of reflection.
+If the image does not intersect the preimage, find the midpoint between the preimage point and its image. This point
+is on the line of reflection.
+3. The purple line is y = x. Fold the graph on the line of reflection.
+A(−1,5)→ A′(5,−1)
+B(0,2)→ B′(2,0)
+C(−3,1)→C′(1,−3)
+D(−4,4)→ D′(4,−4)
+4. The purple line is y =−x. You can reflect the trapezoid over this line.
+T (2,2)→ T ′(−2,−2)
+R(4,3)→ R′(−3,−4)
+A(5,1)→ A′(−1,−5)
+P(1,−1)→ P′(1,−1)
+Explore More
+1. If (5, 3) is reflected over the y−axis, what is the image?
+697
+12.5. Reflections www.ck12.org
+2. If (5, 3) is reflected over the x−axis, what is the image?
+3. If (5, 3) is reflected over y = x, what is the image?
+4. If (5, 3) is reflected over y =−x, what is the image?
+5. Plot the four images. What shape do they make? Be specific.
+6. Which letter is a reflection over a vertical line of the letter "b′′?
+7. Which letter is a reflection over a horizontal line of the letter "b′′?
+Reflect each shape over the given line.
+8. y−axis
+9. x−axis
+10. y = 3
+698
+www.ck12.org Chapter 12. Rigid Transformations
+11. x =−1
+12. x−axis
+13. y−axis
+699
+12.5. Reflections www.ck12.org
+14. y = x
+15. y =−x
+16. x = 2
+700
+www.ck12.org Chapter 12. Rigid Transformations
+17. y =−4
+18. y =−x
+19. y = x
+701
+12.5. Reflections www.ck12.org
+Find the line of reflection the blue triangle (preimage) and the red triangle (image).
+20.
+21.
+702
+www.ck12.org Chapter 12. Rigid Transformations
+22.
+703
+www.ck12.org Chapter 12. Rigid Transformations
+
+22.
+
+703
+

@@ -1,0 +1,238 @@
+20.2 Conduction
+
+We know that there are materials that do conduct electricity, called conductors, like the copper
+
+wires in the circuits you build. There are also materials that do not conduct electricity, called
+
+insulators, like the plastic covering on the copper wires.
+
+Conductors come in two major categories: metals (e.g. copper) and semi-conductors (e.g.
+
+silicon). Metals conduct very well and semi-conductors don't. One very interesting difference is
+
+that metals conduct less as they become hotter but semi-conductors conduct more.
+
+What is different about these substances that makes them conduct differently? That is what
+
+we are about to find out.
+
+We have learnt that electrons in an atom have discrete energy levels. When an electron is given
+
+the right amount of energy, it can jump to a higher energy level, while if it loses the right
+
+amount of energy it can drop to a lower energy level. The lowest energy level is known as the
+
+ground state.
+
+energy
+
+energy levels of the electrons in
+
+a single atom
+
+fourth energy level
+
+third energy level
+
+second energy level
+
+first energy level
+
+ground state
+
+451
+
+20.2 CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11
+
+When two atoms are far apart from each other they don't influence each other. Look at the
+
+picture below. There are two atoms depicted by the black dots. When they are far apart their
+
+electron clouds (the gray clouds) are distinct. The dotted line depicts the distance of the
+
+outermost electron energy level that is occupied.
+
+b b
+
+In some lattice structures the atoms would be closer together. If they are close enough their
+
+electron clouds, and therefore electron energy levels start to overlap. Look at the picture
+
+below. In this picture the two atoms are closer together. The electron clouds now overlap. The
+
+overlapping area is coloured in solid gray to make it easier to see.
+
+b b
+
+When this happens we might find two electrons with the same energy and spin in the same
+
+space. We know that this is not allowed from the Pauli exclusion principle. Something must
+
+change to allow the overlapping to happen. The change is that the energies of the energy
+
+levels change a tiny bit so that the electrons are not in exactly the same spin and energy state
+
+at the same time.
+
+So if we have 2 atoms then in the overlapping area we will have twice the number of electrons
+
+and energy levels but the energy levels from the different atoms will be very very close in
+
+energy. If we had 3 atoms then there would be 3 energy levels very close in energy and so on.
+
+In a solid there may be very many energy levels that are very close in energy. These groups of
+
+energy levels are called bands. The spacing between these bands determines whether the solid
+
+is a conductor or an insulator.
+
+energy
+
+Energy levels of the electrons in
+
+atoms making up a solid
+
+conduction band }energy levels
+
+forbidden band }energy gap
+
+valence band }energy levels
+
+In a gas, the atoms are spaced far apart and they do not influence each other. However, the
+
+atoms in a solid greatly influence each other. The forces that bind these atoms together in a
+
+452
+20.2 CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11
+When two atoms are far apart from each other they don't influence each other. Look at the
+picture below. There are two atoms depicted by the black dots. When they are far apart their
+electron clouds (the gray clouds) are distinct. The dotted line depicts the distance of the
+outermost electron energy level that is occupied.
+b b
+In some lattice structures the atoms would be closer together. If they are close enough their
+electron clouds, and therefore electron energy levels start to overlap. Look at the picture
+below. In this picture the two atoms are closer together. The electron clouds now overlap. The
+overlapping area is coloured in solid gray to make it easier to see.
+b b
+When this happens we might find two electrons with the same energy and spin in the same
+space. We know that this is not allowed from the Pauli exclusion principle. Something must
+change to allow the overlapping to happen. The change is that the energies of the energy
+levels change a tiny bit so that the electrons are not in exactly the same spin and energy state
+at the same time.
+So if we have 2 atoms then in the overlapping area we will have twice the number of electrons
+and energy levels but the energy levels from the different atoms will be very very close in
+energy. If we had 3 atoms then there would be 3 energy levels very close in energy and so on.
+In a solid there may be very many energy levels that are very close in energy. These groups of
+energy levels are called bands. The spacing between these bands determines whether the solid
+is a conductor or an insulator.
+energy
+Energy levels of the electrons in
+atoms making up a solid
+conduction band }energy levels
+forbidden band }energy gap
+valence band }energy levels
+In a gas, the atoms are spaced far apart and they do not influence each other. However, the
+atoms in a solid greatly influence each other. The forces that bind these atoms together in a
+452
+20.2 CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11
+
+When two atoms are far apart from each other they don't influence each other. Look at the
+
+picture below. There are two atoms depicted by the black dots. When they are far apart their
+
+electron clouds (the gray clouds) are distinct. The dotted line depicts the distance of the
+
+outermost electron energy level that is occupied.
+
+b b
+
+In some lattice structures the atoms would be closer together. If they are close enough their
+
+electron clouds, and therefore electron energy levels start to overlap. Look at the picture
+
+below. In this picture the two atoms are closer together. The electron clouds now overlap. The
+
+overlapping area is coloured in solid gray to make it easier to see.
+
+b b
+
+When this happens we might find two electrons with the same energy and spin in the same
+
+space. We know that this is not allowed from the Pauli exclusion principle. Something must
+
+change to allow the overlapping to happen. The change is that the energies of the energy
+
+levels change a tiny bit so that the electrons are not in exactly the same spin and energy state
+
+at the same time.
+
+So if we have 2 atoms then in the overlapping area we will have twice the number of electrons
+
+and energy levels but the energy levels from the different atoms will be very very close in
+
+energy. If we had 3 atoms then there would be 3 energy levels very close in energy and so on.
+
+In a solid there may be very many energy levels that are very close in energy. These groups of
+
+energy levels are called bands. The spacing between these bands determines whether the solid
+
+is a conductor or an insulator.
+
+energy
+
+Energy levels of the electrons in
+
+atoms making up a solid
+
+conduction band }energy levels
+
+forbidden band }energy gap
+
+valence band }energy levels
+
+In a gas, the atoms are spaced far apart and they do not influence each other. However, the
+
+atoms in a solid greatly influence each other. The forces that bind these atoms together in a
+
+452
+
+CHAPTER 20. ELECTRONIC PROPERTIES OF MATTER - GRADE 11 20.2
+
+solid affect how the electrons of the atoms behave, by causing the individual energy levels of an
+
+atom to break up and form energy bands. The resulting energy levels are more closely spaced
+
+than those in the individual atoms. The energy bands still contain discrete energy levels, but
+
+there are now many more energy levels than in the single atom.
+
+In crystalline solids, atoms interact with their neighbors, and the energy levels of the electrons
+
+in isolated atoms turn into bands. Whether a material conducts or not is determined by its
+
+band structure.
+
+band structure in conductors,
+
+semiconductors and insulators
+
+conduction band
+
+conduction band
+
+conduction band
+
+valence band valence band valence band
+
+conductor semiconductor insulator
+
+Electrons follow the Pauli exclusion principle, meaning that two electrons cannot occupy the
+
+same state. Thus electrons in a solid fill up the energy bands up to a certain level (this is called
+
+the Fermi energy). Bands which are completely full of electrons cannot conduct electricity,
+
+because there is no state of nearby energy to which the electrons can jump. Materials in which
+
+all bands are full are insulators.
+

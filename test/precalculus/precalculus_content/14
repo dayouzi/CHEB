@@ -1,0 +1,103 @@
+2.2 GRAPHS OF FUNCTIONS
+Graphing Functions by Plotting Points ! Graphing Functions with a 
+Graphing Calculator ! Graphing Piecewise Defined Functions ! The Vertical
+Line Test ! Equations That Define Functions
+The most important way to visualize a function is through its graph. In this section we in-
+vestigate in more detail the concept of graphing functions.
+! Graphing Functions by Plottin
+1x, y 2 1
+g P
+x, f 1 ox 2i2ntsTo graph a function f, we plot the points in a coordinate plane. In other words,
+we plot the points whose x-coordinate is an input and whose y-coordinate is the cor-
+responding output of the function.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  2 . 2 | Graphs of Functions 153
+THE GRAPH OF A FUNCTION
+If f is a function with domain A,5 1then the graph of f is the set of ordered pairsx, f 1x 2 2 0  x ! A6
+p1 lotted in a coordinate plane. In other words, the graph of f is the set of all pointsx, y 2
+y ! f 1such that ; that is, the graph of f is the graph of the equationx 2 y ! f 1x 2.
+y
+Óx, ÏÔ The graph of a function f gives a picture of the behavior or "life history" of the func-tion. We can read the value of f 1x 2 from the graph as being the height of the graph above
+the point x (see Figure 1).
+A function f of the form f 1x 2 ! mx % b is called a linear function because its graph
+f(2) Ï
+is the graph of the equation y ! mx % b, which represents a line with slope m and 
+y-intercept b. A special case of a linear function occurs when the slope is m! 0. The func-
+f(1) tion f 1x 2 ! b, where b is a given number, is called a constant function because all its val-
+0 1 2 x x ues are the same number, namely, b. Its graph is the horizontal line y ! b. Figure 2 shows
+the graphs of the constant function f 1x 2 ! 3 and the linear function f 1x 2 ! 2x % 1.
+F I G U R E  1 The height of the graph
+above the point x is the value of f 1x 2 . y y
+4 y=3 y=2x+1
+2
+1
+_2 0 2 4 6 x 0 1 x
+The constant function Ï=3 The linear function Ï=2x+1
+F I G U R E  2
+E X A M P L E  1 | Graphing Functions by Plotting Points
+Sketch graphs of the following functions.
+(a) f 1x 2 ! x2 (b) g 1x 2 ! x3 (c) h1x 2 ! 1x
+S O L U T I O N We first make a table of values. Then we plot the points given by the table
+and join them by a smooth curve to obtain the graph. The graphs are sketched in Figure 3
+on the next page.
+x f 1x2 # x2 x g1x2 # x3 x h1x2 # 1x
+0 0 0 0 0 0
+) 1  1  1 12 4 2  8 1 1 
+)1 1 1 1 2 12
+)2 4 2 8 3 3
+)3 9 $  1 2 $ 1  4 8 
+$1 $1 1125 5
+$2 $8
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+S E C T I O N  2 . 2 | Graphs of Functions 153
+THE GRAPH OF A FUNCTION
+If f is a function with domain A,5 1then the graph of f is the set of ordered pairsx, f 1x 2 2 0  x ! A6
+p1 lotted in a coordinate plane. In other words, the graph of f is the set of all pointsx, y 2
+y ! f 1such that ; that is, the graph of f is the graph of the equationx 2 y ! f 1x 2.
+y
+Óx, ÏÔ The graph of a function f gives a picture of the behavior or "life history" of the func-tion. We can read the value of f 1x 2 from the graph as being the height of the graph above
+the point x (see Figure 1).
+A function f of the form f 1x 2 ! mx % b is called a linear function because its graph
+f(2) Ï
+is the graph of the equation y ! mx % b, which represents a line with slope m and 
+y-intercept b. A special case of a linear function occurs when the slope is m! 0. The func-
+f(1) tion f 1x 2 ! b, where b is a given number, is called a constant function because all its val-
+0 1 2 x x ues are the same number, namely, b. Its graph is the horizontal line y ! b. Figure 2 shows
+the graphs of the constant function f 1x 2 ! 3 and the linear function f 1x 2 ! 2x % 1.
+F I G U R E  1 The height of the graph
+above the point x is the value of f 1x 2 . y y
+4 y=3 y=2x+1
+2
+1
+_2 0 2 4 6 x 0 1 x
+The constant function Ï=3 The linear function Ï=2x+1
+F I G U R E  2
+E X A M P L E  1 | Graphing Functions by Plotting Points
+Sketch graphs of the following functions.
+(a) f 1x 2 ! x2 (b) g 1x 2 ! x3 (c) h1x 2 ! 1x
+S O L U T I O N We first make a table of values. Then we plot the points given by the table
+and join them by a smooth curve to obtain the graph. The graphs are sketched in Figure 3
+on the next page.
+x f 1x2 # x2 x g1x2 # x3 x h1x2 # 1x
+0 0 0 0 0 0
+) 1  1  1 12 4 2  8 1 1 
+)1 1 1 1 2 12
+)2 4 2 8 3 3
+)3 9 $  1 2 $ 1  4 8 
+$1 $1 1125 5
+$2 $8
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+154 C H A P T E R  2 | Functions
+y y y
+(_2, 4) (2, 4) (2, 8)
+3 y=œx∑y=≈ y=x£ (2, œ∑2) (4, 2)
+(_1, 1) (1, 1) 2 1(1, 1) (1, 1)
+0 3 x
+!_ 2 
+1 ,  14  @ !  
+1
+2 ,  
+1 (_1, _1) 1 x 0 1 x
+4  @
+(_2, _8)
+F I G U R E  3 (a) Ï=≈ (b) ˝=x£ (c) h(x)=œx∑

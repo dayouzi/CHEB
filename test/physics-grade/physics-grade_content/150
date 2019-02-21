@@ -1,0 +1,117 @@
+10.3 Current
+
+10.3.1 Flow of Charge
+
+We have been talking about moving charge. We need to be able to deal with numbers, how
+
+much charge is moving, how fast is it moving? The concept that gives us this information is
+
+called current. Current allows us to quantify the movement of charge.
+
+When we talk about current we talk about how much charge moves past a fixed point in circuit
+
+in one second. Think of charges being pushed around the circuit by the battery, there are charges
+
+in the wires but unless there is a battery they won't move. When one charge moves the charges
+
+next to it also move. They keep their spacing. If you had a tube of marbles like in this picture.
+
+marble marble
+
+If you push one marble into the tube one must come out the other side. If you look at any point
+
+in the tube and push one marble into the tube, one marble will move past the point you are
+
+looking at. This is similar to charges in the wires of a circuit.
+
+If a charge moves they all move and the same number move at every point in the circuit.
+
+10.3.2 Current
+
+Now that we've thought about the moving charges and visualised what is happening we need
+
+to get back to quantifying moving charge. I've already told you that we use current but we still
+
+need to define it.
+
+Definition: Current
+
+Current is the rate at which charges moves past a fixed point in a circuit. We use the
+
+symbol I to show current and it is measured in amperes (A). One ampere is one coulomb
+
+of charge moving in one second.
+
+Q
+
+I =
+
+∆t
+
+When current flows in a circuit we show this on a diagram by adding arrows. The arrows show
+
+the direction of flow in a circuit. By convention we say that charge flows from the positive
+
+terminal on a battery to the negative terminal.
+
+198
+
+CHAPTER 10. ELECTRIC CIRCUITS - GRADE 10 10.3
+
+10.3.3 Series Circuits
+
+In a series circuit, the charge has a single path from the battery, returning to the battery.
+
+R
+
+E R
+
+R
+
+The arrows in this picture show you the direction that charge will flow in the circuit. They don't
+
+show you much charge will flow, only the direction.
+
+Itneterreessttinigng Benjamin Franklin made a guess about the direction of charge flow when rubbing
+
+FFacctt smooth wax with rough wool. He thought that the charges flowed from the wax to
+
+the wool (i.e. from positive to negative) which was opposite to the real direction.
+
+Due to this, electrons are said to have a negative charge and so objects which Ben
+
+Franklin called "negative" (meaning a shortage of charge) really have an excess
+
+of electrons. By the time the true direction of electron flow was discovered, the
+
+convention of "positive" and "negative" had already been so well accepted in the
+
+scientific world that no effort was made to change it.
+
+Important: A cell does not produce the same amount of current no matter what is
+
+connected to it. While the voltage produced by a cell is constant, the amount of current
+
+supplied depends on what is in the circuit.
+
+How does the current through the battery in a circuit with several resistors in series compare to
+
+the current in a circuit with a single resistor?
+
+Activity :: Experiment : Current in Series Circuits
+
+Aim:
+
+To determine the effect of multiple resistors on current in a circuit
+
+Apparatus:
+
+• Battery
+
+• Resistors
+
+• Light bulb
+
+• Wires
+
+199

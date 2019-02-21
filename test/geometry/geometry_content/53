@@ -1,0 +1,257 @@
+5.8 Indirect Proof in Algebra and Geometry
+
+Here you'll learn how to write indirect proofs, or proofs by contradiction, by assuming a hypothesis is false.
+
+What if you wanted to prove a statement was true without a two-column proof? How might you go about doing so?
+
+After completing this Concept, you'll be able to indirectly prove a statement by way of contradiction.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136669
+
+CK-12 Indirect Proof in Algebra and Geometry
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1293
+
+James Sousa: Introduction to Indirect Proof
+
+Guidance
+
+Most likely, the first type of formal proof you learned was a direct proof using direct reasoning. Most of the proofs
+
+done in geometry are done in the two-column format, which is a direct proof format. Another common type of
+
+reasoning is indirect reasoning, which you have likely done outside of math class. Below we will formally learn
+
+what an indirect proof is and see some examples in both algebra and geometry.
+
+Indirect Proof or Proof by Contradiction: When the conclusion from a hypothesis is assumed false (or opposite
+
+of what it states) and then a contradiction is reached from the given or deduced statements.
+
+In other words, if you are trying to show that something is true, show that if it was not true there would be a
+
+contradiction (something else would not make sense).
+
+The steps to follow when proving indirectly are:
+
+• Assume the opposite of the conclusion (second half) of the statement.
+
+• Proceed as if this assumption is true to find the contradiction.
+
+• Once there is a contradiction, the original statement is true.
+
+• DO NOT use specific examples. Use variables so that the contradiction can be generalized.
+
+The easiest way to understand indirect proofs is by example.
+
+277
+
+5.8. Indirect Proof in Algebra and Geometry www.ck12.org
+
+Example A (Algebra Example)
+
+If x = 2, then 3x−5 6= 10. Prove this statement is true by contradiction.
+
+Remember that in an indirect proof the first thing you do is assume the conclusion of the statement is false. In this
+
+case, we will assume the opposite of "If x = 2, then 3x−5 6= 10":
+
+If x = 2, then 3x−5 = 10.
+
+Take this statement as true and solve for x.
+
+3x−5 = 10
+
+3x = 15
+
+x = 5
+
+But x = 5 contradicts the given statement that x = 2. Hence, our assumption is incorrect and 3x−5 6= 10 is true.
+
+Example B (Geometry Example)
+
+If4ABC is isosceles, then the measure of the base angles cannot be 92◦. Prove this indirectly.
+
+Remember, to start assume the opposite of the conclusion.
+
+The measure of the base angles are 92◦.
+
+If the base angles are 92◦, then they add up to 184◦. This contradicts the Triangle Sum Theorem that says the three
+
+angle measures of all triangles add up to 180◦. Therefore, the base angles cannot be 92◦.
+
+Example C (Geometry Example)
+
+If 6 A and 6 B are complementary then 6 A≤ 90◦. Prove this by contradiction.
+
+Assume the opposite of the conclusion.
+
+6 A > 90◦.
+
+Consider first that the measure of 6 B cannot be negative. So if 6 A > 90◦ this contradicts the definition of comple-
+
+mentary, which says that two angles are complementary if they add up to 90◦. Therefore, 6 A≤ 90◦.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136670
+
+CK-12 Indirect Proof in Algebra and Geometry
+
+->
+
+Guided Practice
+
+1. If n is an integer and n2 is odd, then n is odd. Prove this is true indirectly.
+
+278
+5.8. Indirect Proof in Algebra and Geometry www.ck12.org
+Example A (Algebra Example)
+If x = 2, then 3x−5 6= 10. Prove this statement is true by contradiction.
+Remember that in an indirect proof the first thing you do is assume the conclusion of the statement is false. In this
+case, we will assume the opposite of "If x = 2, then 3x−5 6= 10":
+If x = 2, then 3x−5 = 10.
+Take this statement as true and solve for x.
+3x−5 = 10
+3x = 15
+x = 5
+But x = 5 contradicts the given statement that x = 2. Hence, our assumption is incorrect and 3x−5 6= 10 is true.
+Example B (Geometry Example)
+If4ABC is isosceles, then the measure of the base angles cannot be 92◦. Prove this indirectly.
+Remember, to start assume the opposite of the conclusion.
+The measure of the base angles are 92◦.
+If the base angles are 92◦, then they add up to 184◦. This contradicts the Triangle Sum Theorem that says the three
+angle measures of all triangles add up to 180◦. Therefore, the base angles cannot be 92◦.
+Example C (Geometry Example)
+If 6 A and 6 B are complementary then 6 A≤ 90◦. Prove this by contradiction.
+Assume the opposite of the conclusion.
+6 A > 90◦.
+Consider first that the measure of 6 B cannot be negative. So if 6 A > 90◦ this contradicts the definition of comple-
+mentary, which says that two angles are complementary if they add up to 90◦. Therefore, 6 A≤ 90◦.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136670
+CK-12 Indirect Proof in Algebra and Geometry
+->
+Guided Practice
+1. If n is an integer and n2 is odd, then n is odd. Prove this is true indirectly.
+278
+www.ck12.org Chapter 5. Triangle Relationships
+2. Prove the SSS Inequality Theorem is true by contradiction. (The SSS Inequality Theorem says: "If two sides of
+a triangle are congruent to two sides of another triangle, but the third side of the first triangle is longer than the third
+side of the second triangle, then the included angle of the first triangle's two congruent sides is greater in measure
+than the included angle of the second triangle's two congruent sides.")
+3. If x = 3, then 4x+1 6= 17. Prove this statement is true by contradiction.
+Answers:
+1. First, assume the opposite of "n is odd."
+n is even.
+Now, square n and see what happens.
+If n is even, then n = 2a, where a is any integer.
+n2 = (2a)2 = 4a2
+This means that n2 is a multiple of 4. No odd number can be divided evenly by an even number, so this contradicts
+our assumption that n is even. Therefore, n must be odd if n2 is odd.
+2. First, assume the opposite of the conclusion.
+The included angle of the first triangle is less than or equal to the included angle of the second triangle.
+If the included angles are equal then the two triangles would be congruent by SAS and the third sides would be
+congruent by CPCTC. This contradicts the hypothesis of the original statement "the third side of the first triangle is
+longer than the third side of the second." Therefore, the included angle of the first triangle must be larger than the
+included angle of the second.
+3. In an indirect proof the first thing you do is assume the conclusion of the statement is false. In this case, we will
+assume the opposite of "If x = 3, then 4x+1 6= 17":
+If x = 3, then 4x+1 = 17
+Take this statement as true and solve for x.
+4x+1 = 17
+4x = 16
+x = 4
+x = 4 contradicts the given statement that x = 3. Hence, our assumption is incorrect and 4x+1 6= 17 is true.
+Explore More
+Prove the following statements true indirectly.
+1. If n is an integer and n2 is even, then n is even.
+2. If m 6 A 6= m6 B in4ABC, then4ABC is not equilateral.
+3. If x > 3, then x2 > 9.
+4. The base angles of an isosceles triangle are congruent.
+5. If x is even and y is odd, then x+ y is odd.
+6. In4ABE, if 6 A is a right angle, then 6 B cannot be obtuse.
+7. If A, B, and C are collinear, then AB+BC = AC (Segment Addition Postulate).
+279
+5.8. Indirect Proof in Algebra and Geometry www.ck12.org
+8. If4ABC is equilateral, then the measure of the base angles cannot be 72◦.
+9. If x = 11 then 2x−3 6= 21.
+10. If4ABC is a right triangle, then it cannot have side lengths 3, 4, and 6.
+Summary
+This chapter begins with an introduction to the Midsegment Theorem. The definition of a perpendicular bisector is
+presented and the Perpendicular Bisector Theorem and its converse are explored. Now that the bisectors of segments
+have been discussed, the definition of an angle bisector is next and the Angle Bisector Theorem and its converse are
+presented. The properties of medians and altitudes of triangles are discussed in detail. The entire chapter builds to
+a discovery of the relationships between the angles and sides in triangles as a foundation for the Triangle Inequality
+Theorem. The chapter ends with a presentation of indirect proofs.
+280
+5.8. Indirect Proof in Algebra and Geometry www.ck12.org
+
+8. If4ABC is equilateral, then the measure of the base angles cannot be 72◦.
+
+9. If x = 11 then 2x−3 6= 21.
+
+10. If4ABC is a right triangle, then it cannot have side lengths 3, 4, and 6.
+
+Summary
+
+This chapter begins with an introduction to the Midsegment Theorem. The definition of a perpendicular bisector is
+
+presented and the Perpendicular Bisector Theorem and its converse are explored. Now that the bisectors of segments
+
+have been discussed, the definition of an angle bisector is next and the Angle Bisector Theorem and its converse are
+
+presented. The properties of medians and altitudes of triangles are discussed in detail. The entire chapter builds to
+
+a discovery of the relationships between the angles and sides in triangles as a foundation for the Triangle Inequality
+
+Theorem. The chapter ends with a presentation of indirect proofs.
+
+280
+
+www.ck12.org Chapter 6. Polygons and Quadrilaterals
+
+CHAPTER 6 Polygons and
+
+Quadrilaterals
+
+Chapter Outline
+
+6.1 INTERIOR ANGLES IN CONVEX POLYGONS
+
+6.2 EXTERIOR ANGLES IN CONVEX POLYGONS
+
+6.3 PARALLELOGRAMS
+
+6.4 QUADRILATERALS THAT ARE PARALLELOGRAMS
+
+6.5 PARALLELOGRAM CLASSIFICATION
+
+6.6 TRAPEZOIDS
+
+6.7 KITES
+
+6.8 QUADRILATERAL CLASSIFICATION
+
+Introduction
+
+This chapter starts with the properties of polygons and narrows to focus on quadrilaterals. We will study several
+
+different types of quadrilaterals: parallelograms, rhombi, rectangles, squares, kites and trapezoids. Then, we will
+
+prove that different types of quadrilaterals are parallelograms.
+
+281

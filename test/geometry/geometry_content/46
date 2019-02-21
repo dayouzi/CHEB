@@ -1,0 +1,250 @@
+5.1. Midsegment Theorem www.ck12.org
+
+5.1 Midsegment Theorem
+
+Here you'll learn what a midsegment is and how to use the Midsegment Theorem.
+
+What if you were given 4FGH and told that JK was its midsegment? How could you find the length of JK given
+
+the length of the triangle's third side, FH? After completing this Concept, you'll be able to use the Midsegment
+
+Theorem to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136664
+
+CK-12 Midsegment Theorem
+
+First watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1296
+
+James Sousa: Introduction to the Midsegments of a Triangle
+
+Now watch this video.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1297
+
+James Sousa: Determining Unknown Values Using Properties of the Midsegments of a Triangle
+
+Guidance
+
+A line segment that connects two midpoints of the sides of a triangle is called a midsegment. DF is the midsegment
+
+between AB and BC.
+
+236
+
+www.ck12.org Chapter 5. Triangle Relationships
+
+The tic marks show that D and F are midpoints. AD ∼= DB and BF ∼= FC. For every triangle there are three
+
+midsegments.
+
+There are two important properties of midsegments that combine to make the Midsegment Theorem. The Midseg-
+
+ment Theorem states that the midsegment connecting the midpoints of two sides of a triangle is parallel to the third
+
+side of the triangle, and the length of this midsegment is half the length of the third side. So, if DF is a midsegment
+
+of4ABC, then DF = 12 AC = AE = EC and DF‖AC.
+
+Note that there are two important ideas here. One is that the midsegment is parallel to a side of the triangle. The
+
+other is that the midsegment is always half the length of this side. To play with the properties of midsegments, go to
+
+http://www.mathopenref.com/trianglemidsegment.html .
+
+Example A
+
+The vertices of4LMN are L(4,5), M(−2,−7) and N(−8,3). Find the midpoints of all three sides, label them O, P
+
+and Q. Then, graph the triangle, plot the midpoints and draw the midsegments.
+
+To(solve this problem, use the midpoint formula 3 times to find all the midpoints. Recall that the midpoint formula
+
+is x
+
+)
+
+1+x2
+
+2 ,
+
+y1+(y22 .
+
+L and M = (4+(− −
+
+)
+
+2) (
+
+2 ,
+
+5+ 7)
+
+2 = (1,−1) point O
+
+M and N = −2+(−
+
+)
+
+( 8)2 , −)7+32 = (−5,−2), point P
+
+L and N = 4+(−8)2 ,
+
+5+3
+
+2 = (−2,4), point Q
+
+237
+www.ck12.org Chapter 5. Triangle Relationships
+The tic marks show that D and F are midpoints. AD ∼= DB and BF ∼= FC. For every triangle there are three
+midsegments.
+There are two important properties of midsegments that combine to make the Midsegment Theorem. The Midseg-
+ment Theorem states that the midsegment connecting the midpoints of two sides of a triangle is parallel to the third
+side of the triangle, and the length of this midsegment is half the length of the third side. So, if DF is a midsegment
+of4ABC, then DF = 12 AC = AE = EC and DF‖AC.
+Note that there are two important ideas here. One is that the midsegment is parallel to a side of the triangle. The
+other is that the midsegment is always half the length of this side. To play with the properties of midsegments, go to
+http://www.mathopenref.com/trianglemidsegment.html .
+Example A
+The vertices of4LMN are L(4,5), M(−2,−7) and N(−8,3). Find the midpoints of all three sides, label them O, P
+and Q. Then, graph the triangle, plot the midpoints and draw the midsegments.
+To(solve this problem, use the midpoint formula 3 times to find all the midpoints. Recall that the midpoint formula
+is x
+)
+1+x2
+2 ,
+y1+(y22 .
+L and M = (4+(− −
+)
+2) (
+2 ,
+5+ 7)
+2 = (1,−1) point O
+M and N = −2+(−
+)
+( 8)2 , −)7+32 = (−5,−2), point P
+L and N = 4+(−8)2 ,
+5+3
+2 = (−2,4), point Q
+237
+5.1. Midsegment Theorem www.ck12.org
+Example B
+Mark all the congruent segments on4ABC with midpoints D, E, and F .
+Drawing in all three midsegments, we have:
+Also, this means the four smaller triangles are congruent by SSS.
+Now, mark all the parallel lines on4ABC, with midpoints D, E, and F .
+238
+www.ck12.org Chapter 5. Triangle Relationships
+Example C
+M, N, and O are the midpoints of the sides of4XY Z.
+Find
+a) MN
+b) XY
+c) The perimeter of4XY Z
+To solve, use the Midsegment Theorem.
+a) MN = OZ = 5
+b) XY = 2(ON) = 2 ·4 = 8
+c) Add up the three sides of4XY Z to find the perimeter.
+XY +Y Z +XZ = 2 ·4+2 ·3+2 ·5 = 8+6+10 = 24
+Remember: No line segment over MN means length or distance.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136665
+CK-12 Midsegment Theorem
+->
+Guided Practice
+1. Find the value of x and AB. A and B are midpoints.
+239
+5.1. Midsegment Theorem www.ck12.org
+2. True or false: If a line passes through two sides of a triangle and is parallel to the third side, then it is a midsegment.
+3. Find y. You may assume that the line segment within the triangle is a midsegment.
+Answers:
+1. AB = 34÷2 = 17. To find x, set 3x−1 equal to 17.
+3x−1 = 17
+3x = 18
+x = 6
+2. This statement is false. A line that passes through two sides of a triangle is only a midsegment if it passes through
+the midpoints of the two sides of the triangle.
+3. Because a midsegment is always half the length of the side it is parallel to, we know that y = 12(36) = 18.
+Explore More
+Determine whether each statement is true or false.
+1. The endpoints of a midsegment are midpoints.
+2. A midsegment is parallel to the side of the triangle that it does not intersect.
+3. There are three congruent triangles formed by the midsegments and sides of a triangle.
+4. There are three midsegments in every triangle.
+R, S, T , and U are midpoints of the sides of4XPO and4Y PO.
+240
+www.ck12.org Chapter 5. Triangle Relationships
+5. If OP = 12, find RS and TU .
+6. If RS = 8, find TU .
+7. If RS = 2x, and OP = 20, find x and TU .
+8. If OP = 4x and RS = 6x−8, find x.
+For questions 9-15, find the indicated variable(s). You may assume that all line segments within a triangle are
+midsegments.
+9.
+10.
+11.
+12.
+13.
+14.
+241
+5.1. Midsegment Theorem www.ck12.org
+15.
+16. The sides of4XY Z are 26, 38, and 42. 4ABC is formed by joining the midpoints of4XY Z.
+a. What are the lengths of the sides of4ABC?
+b. Find the perimeter of4ABC.
+c. Find the perimeter of4XY Z.
+d. What is the relationship between the perimeter of a triangle and the perimeter of the triangle formed by
+connecting its midpoints?
+Coordinate Geometry Given the vertices of4ABC below find the midpoints of each side.
+17. A(5,−2), B(9,4) and C(−3,8)
+18. A(−10,1), B(4,11) and C(0,−7)
+19. A(−1,3), B(5,7) and C(9,−5)
+20. A(−4,−15), B(2,−1) and C(−20,11)
+242
+5.1. Midsegment Theorem www.ck12.org
+
+15.
+
+16. The sides of4XY Z are 26, 38, and 42. 4ABC is formed by joining the midpoints of4XY Z.
+
+a. What are the lengths of the sides of4ABC?
+
+b. Find the perimeter of4ABC.
+
+c. Find the perimeter of4XY Z.
+
+d. What is the relationship between the perimeter of a triangle and the perimeter of the triangle formed by
+
+connecting its midpoints?
+
+Coordinate Geometry Given the vertices of4ABC below find the midpoints of each side.
+
+17. A(5,−2), B(9,4) and C(−3,8)
+
+18. A(−10,1), B(4,11) and C(0,−7)
+
+19. A(−1,3), B(5,7) and C(9,−5)
+
+20. A(−4,−15), B(2,−1) and C(−20,11)
+
+242
+
+www.ck12.org Chapter 5. Triangle Relationships
+

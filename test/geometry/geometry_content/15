@@ -1,0 +1,254 @@
+2.2. Deductive Reasoning www.ck12.org
+
+2.2 Deductive Reasoning
+
+Here you'll learn how to deductively draw conclusions from given facts.
+
+What if you were given a fact like "If you are late for class, you will get a detention"? What conclusions could you
+
+draw from this fact? After completing this concept, you'll be able to use deductive reasoning laws to make logical
+
+conclusions.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136614
+
+CK-12 Types of Reasoning: Deductive
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/1379
+
+James Sousa: Introduction to Deductive Reasoning
+
+Guidance
+
+Deductive reasoning entails drawing conclusion from facts. When using deductive reasoning there are a few laws
+
+that are helpful to know.
+
+Law of Detachment: If p→ q is true, and p is true, then q is true. See the example below.
+
+Here are two true statements:
+
+1. If a number is odd (p), then it is the sum of an even and odd number (q).
+
+2. 5 is an odd number (a specific example of p).
+
+The conclusion must be that 5 is the sum of an even and an odd number (q).
+
+Law of Contrapositive: If p→ q is true and ∼ q is true, then you can conclude ∼ p. See the example below.
+
+Here are two true statements:
+
+1. If a student is in Geometry (p), then he or she has passed Algebra I (q).
+
+70
+
+www.ck12.org Chapter 2. Reasoning and Proof
+
+2. Daniel has not passed Algebra I (a specific example of ~q).
+
+The conclusion must be that Daniel is not in Geometry (~p).
+
+Law of Syllogism: If p→ q and q→ r are true, then p→ r is true. See the example below.
+
+Here are three true statements:
+
+1. If Pete is late (p), Mark will be late (q).
+
+2. If Mark is late (q), Karl will be late (r).
+
+3. Pete is late (p).
+
+Notice how each "then" becomes the next "if" in a chain of statements. If Pete is late, this starts a domino effect
+
+of lateness. Mark will be late and Karl will be late too. So, if Pete is late, then Karl will be late (r), is the logical
+
+conclusion.
+
+Example A
+
+Suppose Bea makes the following statements, which are known to be true.
+
+If Central High School wins today, they will go to the regional tournament. Central High School won today.
+
+What is the logical conclusion?
+
+These are true statements that we can take as facts. The conclusion is: Central High School will go to the regional
+
+tournament.
+
+Example B
+
+Here are two true statements.
+
+If 6 A and 6 B are a linear pair, then m6 A+m6 B = 180◦.
+
+6 ABC and 6 CBD are a linear pair.
+
+What conclusion can you draw from this?
+
+This is an example of the Law of Detachment, therefore:
+
+m6 ABC+m6 CBD = 180◦
+
+Example C
+
+Determine the conclusion from the true statements below.
+
+Babies wear diapers.
+
+My little brother does not wear diapers.
+
+The second statement is the equivalent of∼ q. Therefore, the conclusion is ∼ p, or: My little brother is not a baby.
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136615
+
+71
+www.ck12.org Chapter 2. Reasoning and Proof
+2. Daniel has not passed Algebra I (a specific example of ~q).
+The conclusion must be that Daniel is not in Geometry (~p).
+Law of Syllogism: If p→ q and q→ r are true, then p→ r is true. See the example below.
+Here are three true statements:
+1. If Pete is late (p), Mark will be late (q).
+2. If Mark is late (q), Karl will be late (r).
+3. Pete is late (p).
+Notice how each "then" becomes the next "if" in a chain of statements. If Pete is late, this starts a domino effect
+of lateness. Mark will be late and Karl will be late too. So, if Pete is late, then Karl will be late (r), is the logical
+conclusion.
+Example A
+Suppose Bea makes the following statements, which are known to be true.
+If Central High School wins today, they will go to the regional tournament. Central High School won today.
+What is the logical conclusion?
+These are true statements that we can take as facts. The conclusion is: Central High School will go to the regional
+tournament.
+Example B
+Here are two true statements.
+If 6 A and 6 B are a linear pair, then m6 A+m6 B = 180◦.
+6 ABC and 6 CBD are a linear pair.
+What conclusion can you draw from this?
+This is an example of the Law of Detachment, therefore:
+m6 ABC+m6 CBD = 180◦
+Example C
+Determine the conclusion from the true statements below.
+Babies wear diapers.
+My little brother does not wear diapers.
+The second statement is the equivalent of∼ q. Therefore, the conclusion is ∼ p, or: My little brother is not a baby.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136615
+71
+2.2. Deductive Reasoning www.ck12.org
+CK-12 Types of Reasoning: Deductive
+->
+Guided Practice
+1. Here are two true statements.
+If 6 A and 6 B are a linear pair, then m6 A+m6 B = 180◦.
+m6 1 = 90◦ and m 6 2 = 90◦.
+What conclusion can you draw from these two statements?
+2. Determine the conclusion from the true statements below.
+If you are not in Chicago, then you can't be on the L.
+Bill is in Chicago.
+3. Determine the conclusion from the true statements below.
+If you are not in Chicago, then you can't be on the L.
+Sally is on the L.
+Answers:
+1. Here there is NO conclusion. These statements are in the form:
+p→ q
+q
+We cannot conclude that 6 1 and 6 2 are a linear pair.
+Here are two counterexamples:
+2. If we were to rewrite this symbolically, it would look like:
+∼ p→∼ q
+p
+This is not in the form of the Law of Contrapositive or the Law of Detachment, so neither of these laws can be used
+to draw a logical conclusion.
+3. If we were to rewrite this symbolically, it would look like:
+72
+www.ck12.org Chapter 2. Reasoning and Proof
+∼ p→∼ q
+q
+Even though it looks a little different, this is an example of the Law of Contrapositive. Therefore, the logical
+conclusion is: Sally is in Chicago.
+Explore More
+Determine the logical conclusion and state which law you used (Law of Detachment, Law of Contrapositive, or Law
+of Syllogism). If no conclusion can be drawn, write "no conclusion."
+1. People who vote for Jane Wannabe are smart people. I voted for Jane Wannabe.
+2. If Rae is the driver today then Maria is the driver tomorrow. Ann is the driver today.
+3. All equiangular triangles are equilateral. 4ABC is equiangular.
+4. If North wins, then West wins. If West wins, then East loses.
+5. If z > 5, then x > 3. If x > 3, then y > 7.
+6. If I am cold, then I wear a jacket. I am not wearing a jacket.
+7. If it is raining outside, then I need an umbrella. It is not raining outside.
+8. If a shape is a circle, then it never ends. If it never ends, then it never starts. If it never starts, then it doesn't
+exist. If it doesn't exist, then we don't need to study it.
+9. If you text while driving, then you are unsafe. You are a safe driver.
+10. If you wear sunglasses, then it is sunny outside. You are wearing sunglasses.
+11. If you wear sunglasses, then it is sunny outside. It is cloudy.
+12. I will clean my room if my mom asks me to. I am not cleaning my room.
+13. Write the symbolic representation of #8. Include your conclusion. Does this argument make sense?
+14. Write the symbolic representation of #10. Include your conclusion.
+15. Write the symbolic representation of #11. Include your conclusion.
+73
+www.ck12.org Chapter 2. Reasoning and Proof
+
+∼ p→∼ q
+
+q
+
+Even though it looks a little different, this is an example of the Law of Contrapositive. Therefore, the logical
+
+conclusion is: Sally is in Chicago.
+
+Explore More
+
+Determine the logical conclusion and state which law you used (Law of Detachment, Law of Contrapositive, or Law
+
+of Syllogism). If no conclusion can be drawn, write "no conclusion."
+
+1. People who vote for Jane Wannabe are smart people. I voted for Jane Wannabe.
+
+2. If Rae is the driver today then Maria is the driver tomorrow. Ann is the driver today.
+
+3. All equiangular triangles are equilateral. 4ABC is equiangular.
+
+4. If North wins, then West wins. If West wins, then East loses.
+
+5. If z > 5, then x > 3. If x > 3, then y > 7.
+
+6. If I am cold, then I wear a jacket. I am not wearing a jacket.
+
+7. If it is raining outside, then I need an umbrella. It is not raining outside.
+
+8. If a shape is a circle, then it never ends. If it never ends, then it never starts. If it never starts, then it doesn't
+
+exist. If it doesn't exist, then we don't need to study it.
+
+9. If you text while driving, then you are unsafe. You are a safe driver.
+
+10. If you wear sunglasses, then it is sunny outside. You are wearing sunglasses.
+
+11. If you wear sunglasses, then it is sunny outside. It is cloudy.
+
+12. I will clean my room if my mom asks me to. I am not cleaning my room.
+
+13. Write the symbolic representation of #8. Include your conclusion. Does this argument make sense?
+
+14. Write the symbolic representation of #10. Include your conclusion.
+
+15. Write the symbolic representation of #11. Include your conclusion.
+
+73
+

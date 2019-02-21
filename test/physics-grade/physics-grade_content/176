@@ -1,0 +1,270 @@
+11.6.1 Adding Vectors
+
+When vectors are added, we need to add both a magnitude and a direction. For example, take 2
+
+steps in the forward direction, stop and then take another 3 steps in the forward direction. The
+
+first 2 steps is a displacement vector and the second 3 steps is also a displacement vector. If we
+
+did not stop after the first 2 steps, we would have taken 5 steps in the forward direction in total.
+
+Therefore, if we add the displacement vectors for 2 steps and 3 steps, we should get a total of
+
+5 steps in the forward direction. Graphically, this can be seen by first following the first vector
+
+two steps forward and then following the second one three steps forward:
+
+2 steps 3 steps
+
++ =
+
+5 steps
+
+=
+
+215
+
+11.6 CHAPTER 11. VECTORS
+
+We add the second vector at the end of the first vector, since this is where we now are after
+
+the first vector has acted. The vector from the tail of the first vector (the starting point) to the
+
+head of the last (the end point) is then the sum of the vectors. This is the head-to-tail method
+
+of vector addition.
+
+As you can convince yourself, the order in which you add vectors does not matter. In the example
+
+above, if you decided to first go 3 steps forward and then another 2 steps forward, the end result
+
+would still be 5 steps forward.
+
+The final answer when adding vectors is called the resultant. The resultant displacement in this
+
+case will be 5 steps forward.
+
+Definition: Resultant of Vectors
+
+The resultant of a number of vectors is the single vector whose effect is the same as the
+
+individual vectors acting together.
+
+In other words, the individual vectors can be replaced by the resultant - the overall effect is the
+
+same. If vectors ~a and ~b have a resultant R~ , this can be represented mathematically as,
+
+R~ = ~a +~b.
+
+Let us consider some more examples of vector addition using displacements. The arrows tell you
+
+how far to move and in what direction. Arrows to the right correspond to steps forward, while
+
+arrows to the left correspond to steps backward. Look at all of the examples below and check
+
+them.
+
+1 step 1 step 2 steps 2 steps
+
++ = =
+
+This example says 1 step forward and then another step forward is the same as an arrow twice
+
+as long - two steps forward.
+
+1 step 1 step 2 steps 2 steps
+
++ = =
+
+This examples says 1 step backward and then another step backward is the same as an arrow
+
+twice as long - two steps backward.
+
+It is sometimes possible that you end up back where you started. In this case the net result of
+
+what you have done is that you have gone nowhere (your start and end points are at the same
+
+place). In this case, your resultant displacement is a vector with length zero units. We use the
+
+symbol ~0 to denote such a vector:
+
+1 step 1 step 1 step
+
++ = = ~0
+
+1 step
+
+1 step 1 step 1 step
+
++ = = ~0
+
+1 step
+
+Check the following examples in the same way. Arrows up the page can be seen as steps left
+
+and arrows down the page as steps right.
+
+Try a couple to convince yourself!
+
++ = = + = =
+
+216
+11.6 CHAPTER 11. VECTORS
+We add the second vector at the end of the first vector, since this is where we now are after
+the first vector has acted. The vector from the tail of the first vector (the starting point) to the
+head of the last (the end point) is then the sum of the vectors. This is the head-to-tail method
+of vector addition.
+As you can convince yourself, the order in which you add vectors does not matter. In the example
+above, if you decided to first go 3 steps forward and then another 2 steps forward, the end result
+would still be 5 steps forward.
+The final answer when adding vectors is called the resultant. The resultant displacement in this
+case will be 5 steps forward.
+Definition: Resultant of Vectors
+The resultant of a number of vectors is the single vector whose effect is the same as the
+individual vectors acting together.
+In other words, the individual vectors can be replaced by the resultant - the overall effect is the
+same. If vectors ~a and ~b have a resultant R~ , this can be represented mathematically as,
+R~ = ~a +~b.
+Let us consider some more examples of vector addition using displacements. The arrows tell you
+how far to move and in what direction. Arrows to the right correspond to steps forward, while
+arrows to the left correspond to steps backward. Look at all of the examples below and check
+them.
+1 step 1 step 2 steps 2 steps
++ = =
+This example says 1 step forward and then another step forward is the same as an arrow twice
+as long - two steps forward.
+1 step 1 step 2 steps 2 steps
++ = =
+This examples says 1 step backward and then another step backward is the same as an arrow
+twice as long - two steps backward.
+It is sometimes possible that you end up back where you started. In this case the net result of
+what you have done is that you have gone nowhere (your start and end points are at the same
+place). In this case, your resultant displacement is a vector with length zero units. We use the
+symbol ~0 to denote such a vector:
+1 step 1 step 1 step
++ = = ~0
+1 step
+1 step 1 step 1 step
++ = = ~0
+1 step
+Check the following examples in the same way. Arrows up the page can be seen as steps left
+and arrows down the page as steps right.
+Try a couple to convince yourself!
++ = = + = =
+216
+11.6 CHAPTER 11. VECTORS
+
+We add the second vector at the end of the first vector, since this is where we now are after
+
+the first vector has acted. The vector from the tail of the first vector (the starting point) to the
+
+head of the last (the end point) is then the sum of the vectors. This is the head-to-tail method
+
+of vector addition.
+
+As you can convince yourself, the order in which you add vectors does not matter. In the example
+
+above, if you decided to first go 3 steps forward and then another 2 steps forward, the end result
+
+would still be 5 steps forward.
+
+The final answer when adding vectors is called the resultant. The resultant displacement in this
+
+case will be 5 steps forward.
+
+Definition: Resultant of Vectors
+
+The resultant of a number of vectors is the single vector whose effect is the same as the
+
+individual vectors acting together.
+
+In other words, the individual vectors can be replaced by the resultant - the overall effect is the
+
+same. If vectors ~a and ~b have a resultant R~ , this can be represented mathematically as,
+
+R~ = ~a +~b.
+
+Let us consider some more examples of vector addition using displacements. The arrows tell you
+
+how far to move and in what direction. Arrows to the right correspond to steps forward, while
+
+arrows to the left correspond to steps backward. Look at all of the examples below and check
+
+them.
+
+1 step 1 step 2 steps 2 steps
+
++ = =
+
+This example says 1 step forward and then another step forward is the same as an arrow twice
+
+as long - two steps forward.
+
+1 step 1 step 2 steps 2 steps
+
++ = =
+
+This examples says 1 step backward and then another step backward is the same as an arrow
+
+twice as long - two steps backward.
+
+It is sometimes possible that you end up back where you started. In this case the net result of
+
+what you have done is that you have gone nowhere (your start and end points are at the same
+
+place). In this case, your resultant displacement is a vector with length zero units. We use the
+
+symbol ~0 to denote such a vector:
+
+1 step 1 step 1 step
+
++ = = ~0
+
+1 step
+
+1 step 1 step 1 step
+
++ = = ~0
+
+1 step
+
+Check the following examples in the same way. Arrows up the page can be seen as steps left
+
+and arrows down the page as steps right.
+
+Try a couple to convince yourself!
+
++ = = + = =
+
+216
+
+CHAPTER 11. VECTORS 11.6
+
++ = = ~0 + = = ~0
+
+It is important to realise that the directions are not special- ‘forward and backwards' or ‘left and
+
+right' are treated in the same way. The same is true of any set of parallel directions:
+
++ = = + = =
+
++ = = ~0 + = = ~0
+
+In the above examples the separate displacements were parallel to one another. However the
+
+same head-to-tail technique of vector addition can be applied to vectors in any direction.
+
++ = = + = = + = =
+
+Now you have discovered one use for vectors; describing resultant displacement - how far and
+
+in what direction you have travelled after a series of movements.
+
+Although vector addition here has been demonstrated with displacements, all vectors behave in
+
+exactly the same way. Thus, if given a number of forces acting on a body you can use the same
+
+method to determine the resultant force acting on the body. We will return to vector addition
+
+in more detail later.
+

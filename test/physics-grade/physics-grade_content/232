@@ -1,0 +1,552 @@
+13.2.1 Converging Lenses
+
+We will only discuss double convex converging lenses as shown in Figure 13.4. Converging lenses
+
+are thinner on the outside and thicker on the inside.
+
+Figure 13.4: A double convex lens is a converging lens.
+
+Figure 13.5 shows a convex lens. Light rays traveling through a convex lens are bent towards
+
+the principal axis. For this reason, convex lenses are called converging lenses.
+
+Principal axis
+
+F1 O F2
+
+Figure 13.5: Light rays bend towards each other or converge when they travel through a convex
+
+lens. F1 and F2 are the foci of the lens.
+
+The type of images created by a convex lens is dependent on the position of the object. We will
+
+329
+
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+
+examine the following cases:
+
+1. the object is placed at a distance greater than 2f from the lens
+
+2. the object is placed at a distance equal to 2f from the lens
+
+3. the object is placed at a distance between 2f and f from the lens
+
+4. the object is placed at a distance less than f from the lens
+
+We examine the properties of the image in each of these cases by drawing ray diagrams. We can
+
+find the image by tracing the path of three light rays through the lens. Any two of these rays
+
+will show us the location of the image. You can use the third ray to check the location.
+
+Activity :: Experiment : Lenses A
+
+Aim:
+
+To determine the focal length of a convex lens.
+
+Method:
+
+1. Using a distant object from outside, adjust the position of the convex lens so
+
+that it gives the smallest possible focus on a sheet of paper that is held parallel
+
+to the lens.
+
+2. Measure the distance between the lens and the sheet of paper as accurately as
+
+possible.
+
+Results:
+
+The focal length of the lens is cm
+
+Activity :: Experiment : Lenses B
+
+Aim:
+
+To investigate the position, size and nature of the image formed by a convex lens.
+
+Method:
+
+1. Set up the candle, the lens from Experiment Lenses A in its holder and the
+
+screen in a straight line on the metre rule. Make sure the lens holder is on the
+
+50 cm mark.
+
+From your knowledge of the focal length of your lens, note where f and 2f are
+
+on both sides of the lens.
+
+2. Using the position indicated on the table below, start with the candle at a
+
+position that is greater than 2f and adjust the position of the screen until a
+
+sharp focused image is obtained. Note that there are two positions for which
+
+a sharp focused image will not be obtained on the screen. When this is so,
+
+remove the screen and look at the candle through the lens.
+
+3. Fill in the relevant information on the table below
+
+Results:
+
+330
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+examine the following cases:
+1. the object is placed at a distance greater than 2f from the lens
+2. the object is placed at a distance equal to 2f from the lens
+3. the object is placed at a distance between 2f and f from the lens
+4. the object is placed at a distance less than f from the lens
+We examine the properties of the image in each of these cases by drawing ray diagrams. We can
+find the image by tracing the path of three light rays through the lens. Any two of these rays
+will show us the location of the image. You can use the third ray to check the location.
+Activity :: Experiment : Lenses A
+Aim:
+To determine the focal length of a convex lens.
+Method:
+1. Using a distant object from outside, adjust the position of the convex lens so
+that it gives the smallest possible focus on a sheet of paper that is held parallel
+to the lens.
+2. Measure the distance between the lens and the sheet of paper as accurately as
+possible.
+Results:
+The focal length of the lens is cm
+Activity :: Experiment : Lenses B
+Aim:
+To investigate the position, size and nature of the image formed by a convex lens.
+Method:
+1. Set up the candle, the lens from Experiment Lenses A in its holder and the
+screen in a straight line on the metre rule. Make sure the lens holder is on the
+50 cm mark.
+From your knowledge of the focal length of your lens, note where f and 2f are
+on both sides of the lens.
+2. Using the position indicated on the table below, start with the candle at a
+position that is greater than 2f and adjust the position of the screen until a
+sharp focused image is obtained. Note that there are two positions for which
+a sharp focused image will not be obtained on the screen. When this is so,
+remove the screen and look at the candle through the lens.
+3. Fill in the relevant information on the table below
+Results:
+330
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+screen that can
+lens and be moved
+lens holder
+Candle on same
+level as lens
+metre stick
+50 cm mark
+Figure 13.6: Experimental setup for investigation.
+Relative position Relative position Image upright or Relative size of Nature of
+of object of image inverted image image
+Beyond 2f
+cm
+At 2f
+cm
+Between 2f and f
+cm
+At f
+cm
+Between f and the
+lens
+cm
+331
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+QUESTIONS:
+1. When a convex lens is being used:
+1.1 A real inverted image is formed when an object is placed
+1.2 No image is formed when an object is placed
+1.3 An upright, enlarged, virtual image is formed when an object is placed
+2. Write a conclusion for this investigation.
+Activity :: Experiment : Lenses C
+Aim:
+To determine the mathematical relationship between d0, di and f for a lens.
+Method:
+1. Using the same arrangement as in Experiment Lenses B, place the object
+(candle) at the distance indicated from the lens.
+2. Move the screen until a clear sharp image is obtained. Record the results on
+the table below.
+Results:
+f = focal length of lens
+d0 = object distance
+di = image distance
+Object distance Image distance 1 1 1 + 1
+d0 di d0 di
+d0 (cm) di (cm) (cm
+−1) (cm−1) (cm−1)
+25,0
+20,0
+18,0
+15,0
+Average =
+( )
+1
+Reciprocal of average = 1 + 1
+= (a)
+d0 di
+Focal length of lens = (b)
+QUESTIONS:
+1. Compare the values for (a) and (b) above and explain any similarities or
+differences
+2. What is the name of the mathematical relationship between d0, di and f?
+3. Write a conclusion for this part of the investigation.
+Drawing Ray Diagrams for Converging Lenses
+The three rays are labelled R1, R2 and R3. The ray diagrams that follow will use this naming
+convention.
+1. The first ray (R1) travels from the object to the lens parallel to the principal axis. This
+ray is bent by the lens and travels through the focal point.
+2. Any ray travelling parallel to the principal axis is bent through the focal point.
+332
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+3. If a light ray passes through a focal point before it enters the lens, then it will leave the
+lens parallel to the principal axis. The second ray (R2) is therefore drawn to pass through
+the focal point before it enters the lens.
+4. A ray that travels through the centre of the lens does not change direction. The third ray
+(R3) is drawn through the centre of the lens.
+5. The point where all three of the rays (R1, R2 and R3) intersect is the image of the point
+where they all started. The image will form at this point.
+Important: In ray diagrams, lenses are drawn like this:
+Convex lens: Concave lens:
+CASE 1:
+Object placed at a distance greater than 2f from the lens
+R1
+R3 F2 Image
+Object F1 O
+R2
+f f f f
+Figure 13.7: An object is placed at a distance greater than 2f away from the converging lens.
+Three rays are drawn to locate the image, which is real, smaller than the object and inverted.
+We can locate the position of the image by drawing our three rays. R1 travels from the object
+to the lens parallel to the principal axis and is bent by the lens and then travels through the focal
+point. R2 passes through the focal point before it enters the lens and therefore must leave the
+lens parallel to the principal axis. R3 travels through the center of the lens and does not change
+direction. The point where R1, R2 and R3 intersect is the image of the point where they all
+started.
+The image of an object placed at a distance greater than 2f from the lens is upside down or
+inverted. This is because the rays which began at the top of the object, above the principal
+axis, after passing through the lens end up below the principal axis. The image is called a real
+image because it is on the opposite side of the lens to the object and you can trace all the light
+rays directly from the image back to the object.
+The image is also smaller than the object and is located closer to the lens than the object.
+Important: In reality, light rays come from all points along the length of the object. In ray
+diagrams we only draw three rays (all starting at the top of the object) to keep the diagram
+clear and simple.
+333
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+CASE 2:
+Object placed at a distance equal to 2f from the lens
+R1
+R3 F2 Image
+Object F1 O
+R2
+f f f f
+Figure 13.8: An object is placed at a distance equal to 2f away from the converging lens. Three
+rays are drawn to locate the image, which is real, the same size as the object and inverted.
+We can locate the position of the image by drawing our three rays. R1 travels from the object
+to the lens parallel to the principal axis and is bent by the lens and then travels through the focal
+point. R2 passes through the focal point before it enters the lens and therefore must leave the
+lens parallel to the principal axis. R3 travels through the center of the lens and does not change
+direction. The point where R1, R2 and R3 intersect is the image of the point where they all
+started.
+The image of an object placed at a distance equal to 2f from the lens is upside down or inverted.
+This is because the rays which began at the top of the object, above the principal axis, after
+passing through the lens end up below the principal axis. The image is called a real image
+because it is on the opposite side of the lens to the object and you can trace all the light rays
+directly from the image back to the object.
+The image is the same size as the object and is located at a distance 2f away from the lens.
+CASE 3:
+Object placed at a distance between 2f and f from the lens
+R1
+R3 F2 Image
+Object F1 O
+R2
+f f f f
+Figure 13.9: An object is placed at a distance between 2f and f away from the converging lens.
+Three rays are drawn to locate the image, which is real, larger than the object and inverted.
+We can locate the position of the image by drawing our three rays. R1 travels from the object
+to the lens parallel to the principal axis and is bent by the lens and then travels through the focal
+point. R2 passes through the focal point before it enters the lens and therefore must leave the
+lens parallel to the principal axis. R3 travels through the center of the lens and does not change
+direction. The point where R1, R2 and R3 intersect is the image of the point where they all
+started.
+334
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+The image of an object placed at a distance between 2f and f from the lens is upside down
+or inverted. This is because the rays which began at the top of the object, above the principal
+axis, after passing through the lens end up below the principal axis. The image is called a real
+image because it is on the opposite side of the lens to the object and you can trace all the light
+rays directly from the image back to the object.
+The image is larger than the object and is located at a distance greater than 2f away from the
+lens.
+CASE 4:
+Object placed at a distance less than f from the lens
+R3
+R1
+R2
+F2
+Image F1 Object O
+f f f
+Figure 13.10: An object is placed at a distance less than f away from the converging lens. Three
+rays are drawn to locate the image, which is virtual, larger than the object and upright.
+We can locate the position of the image by drawing our three rays. R1 travels from the object
+to the lens parallel to the principal axis and is bent by the lens and then travels through the focal
+point. R2 passes through the focal point before it enters the lens and therefore must leave the
+lens parallel to the principal axis. R3 travels through the center of the lens and does not change
+direction. The point where R1, R2 and R3 intersect is the image of the point where they all
+started.
+The image of an object placed at a distance less than f from the lens is upright. The image is
+called a virtual image because it is on the same side of the lens as the object and you cannot
+trace all the light rays directly from the image back to the object.
+The image is larger than the object and is located further away from the lens than the object.
+Extension: The thin lens equation and magnification
+The Thin Lens Equation
+We can find the position of the image of a lens mathematically as there is
+mathematical relation between the object distance, image distance, and focal length.
+The equation is:
+1 1 1
+= +
+f do di
+where f is the focal length, do is the object distance and di is the image distance.
+The object distance do is the distance from the object to the lens. do is positive
+if the object is on the same side of the lens as the light rays enter the lens. This
+335
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+should make sense: we expect the light rays to travel from the object to the lens.
+The image distance di is the distance from the lens to the image. Unlike mirrors,
+which reflect light back, lenses refract light through them. We expect to find the
+image on the same side of the lens as the light leaves the lens. If this is the case,
+then di is positive and the image is real (see Figure 13.9). Sometimes the image will
+be on the same side of the lens as the light rays enter the lens. Then di is negative
+and the image is virtual (Figure 13.10). If we know any two of the three quantities
+above, then we can use the Thin Lens Equation to solve for the third quantity.
+Magnification
+It is possible to calculate the magnification of an image. The magnification is
+how much bigger or smaller the image is than the object.
+m = − di
+do
+where m is the magnification, do is the object distance and di is the image distance.
+If di and do are both positive, the magnification is negative. This means the
+image is inverted, or upside down. If di is negative and do is positive, then the
+image is not inverted, or right side up. If the absolute value of the magnification is
+greater than one, the image is larger than the object. For example, a magnification
+of -2 means the image is inverted and twice as big as the object.
+Worked Example 97: Using the lens equation
+Question: An object is placed 6 cm from a converging lens with a focal point of
+4 cm.
+1. Calculate the position of the image
+2. Calculate the magnification of the lens
+3. Identify three properties of the image
+Answer
+Step 1 : Identify what is given and what is being asked
+f = 4 cm
+do = 6 cm
+di = ?
+m = ?
+Properties of the image are required.
+Step 2 : Calculate the image distance (di)
+1 1 1
+= +
+f do di
+1 1 1
+= +
+4 6 di
+1 − 1 1=
+4 6 di
+3− 2 1
+=
+12 di
+di = 12 cm
+Step 3 : Calculate the magnification
+336
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+m = − di
+do
+= −12
+6
+= −2
+Step 4 : Write down the properties of the image
+The image is real, di is positive, inverted (because the magnification is negative)
+and enlarged (magnification is > 1)
+Worked Example 98: Locating the image position of a convex lens: I
+Question: An object is placed 5 cm to the left of a converging lens which has a
+focal length of 2,5 cm.
+1. What is the position of the image?
+2. Is the image real or virtual?
+Answer
+Step 1 : Set up the ray diagram
+Draw the lens, the object and mark the focal points.
+F2
+Object F1 O
+Step 2 : Draw the three rays
+• R1 goes from the top of the object parallel to the principal axis, through the
+lens and through the focal point F2 on the other side of the lens.
+• R2 goes from the top of the object through the focal point F1, through the
+lens and out parallel to the principal axis.
+• R3 goes from the top of the object through the optical centre with its direction
+unchanged.
+R1
+R3 F2
+Object F1 O
+R2
+Step 3 : Find the image
+The image is at the place where all the rays intersect. Draw the image.
+337
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+F2 Image
+Object F1 O
+Step 4 : Measure the distance between the lens and the image
+The image is 5 cm away from the lens, on the opposite side of the lens to the object.
+Step 5 : Is the image virtual or real?
+Since the image is on the opposite side of the lens to the object, the image is real.
+Worked Example 99: Locating the image position of a convex lens: II
+Question: An object, 1 cm high, is placed 2 cm to the left of a converging lens
+which has a focal length of 3,0 cm. The image is found also on the left side of the
+lens.
+1. Is the image real or virtual?
+2. What is the position and height of the image?
+Answer
+Step 1 : Draw the picture to set up the problem
+Draw the lens, principal axis, focal points and the object.
+F2
+F1 Object O
+Step 2 : Draw the three rays to locate image
+• R1 goes from the top of the object parallel to the principal axis, through the
+lens and through the focal point F2 on the other side of the lens.
+• R2 is the light ray which should go through the focal point F1 but the object
+is placed after the focal point! This is not a problem, just trace the line from
+the focal point F1, through the top of the object, to the lens. This ray then
+leaves the lens parallel to the principal axis.
+• R3 goes from the top of the object through the optical centre with its direction
+unchanged.
+338
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+• Do not write R1, R2 and R3 on your diagram, otherwise it becomes too clut-
+tered.
+• Since the rays do not intersect on the right side of the lens, we need to trace
+them backwards to find the place where they do come together (these are the
+light gray lines). Again, this is the position of the image.
+R3
+R1
+R2
+F2
+F1 Object O
+Step 3 : Draw the image
+F2
+Image F1 Object O
+Step 4 : Measure distance to image
+The image is 6 cm away from the lens, on the same side as the object.
+Step 5 : Measure the height of the image
+The image is 3 cm high.
+Step 6 : Is image real or virtual?
+Since the image is on the same side of the lens as the object, the image is virtual.
+Exercise: Converging Lenses
+1. Which type of lens can be used as a magnifying glass? Draw a diagram to
+show how it works. An image of the sun is formed at the principal focus of a
+magnifying glass.
+339
+CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11 13.2
+
+• Do not write R1, R2 and R3 on your diagram, otherwise it becomes too clut-
+
+tered.
+
+• Since the rays do not intersect on the right side of the lens, we need to trace
+
+them backwards to find the place where they do come together (these are the
+
+light gray lines). Again, this is the position of the image.
+
+R3
+
+R1
+
+R2
+
+F2
+
+F1 Object O
+
+Step 3 : Draw the image
+
+F2
+
+Image F1 Object O
+
+Step 4 : Measure distance to image
+
+The image is 6 cm away from the lens, on the same side as the object.
+
+Step 5 : Measure the height of the image
+
+The image is 3 cm high.
+
+Step 6 : Is image real or virtual?
+
+Since the image is on the same side of the lens as the object, the image is virtual.
+
+Exercise: Converging Lenses
+
+1. Which type of lens can be used as a magnifying glass? Draw a diagram to
+
+show how it works. An image of the sun is formed at the principal focus of a
+
+magnifying glass.
+
+339
+
+13.2 CHAPTER 13. GEOMETRICAL OPTICS - GRADE 11
+
+2. In each case state whether a real or virtual image is formed:
+
+2.1 Much further than 2f
+
+2.2 Just further than 2f
+
+2.3 At 2f
+
+2.4 Between 2f and f
+
+2.5 At f
+
+2.6 Between f and 0
+
+Is a virtual image always inverted?
+
+3. An object stands 50 mm from a lens (focal length 40 mm). Draw an accurate
+
+sketch to determine the position of the image. Is it enlarged or shrunk; upright
+
+or inverted?
+
+4. Draw a scale diagram (scale: 1 cm = 50 mm) to find the position of the image
+
+formed by a convex lens with a focal length of 200 mm. The distance of the
+
+object is 100 mm and the size of the object is 50 mm. Determine whether the
+
+image is enlarged or shrunk. What is the height of the image? What is the
+
+magnification?
+
+5. An object, 20 mm high, is 80 mm from a convex lens with focal length 50 mm.
+
+Draw an accurate scale diagram and find the position and size of the image,
+
+and hence the ratio between the image size and object size.
+
+6. An object, 50 mm high, is placed 100 mm from a convex lens with a focal
+
+length of 150 mm. Construct an accurate ray diagram to determine the nature
+
+of the image, the size of the image and the magnification. Check your answer
+
+for the magnification by using a calculation.
+
+7. What would happen if you placed the object right at the focus of a converging
+
+lens? Hint: Draw the picture.
+

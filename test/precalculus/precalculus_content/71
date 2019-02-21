@@ -1,0 +1,42 @@
+10.4 THE ALGEBRA OF MATRICES
+Equality of Matrices ! Addition, Subtraction, and Scalar Multiplication of
+Matrices ! Multiplication of Matrices ! Properties of Matrix Multiplication
+! Applications of Matrix  Multiplication ! Computer Graphics
+Thus far, we have used matrices simply for notational convenience when solving linear
+systems. Matrices have many other uses in mathematics and the sciences, and for most of
+these applications a knowledge of matrix algebra is essential. Like numbers, matrices can
+be added, subtracted, multiplied, and divided. In this section we learn how to perform
+these algebraic operations on matrices.
+! Equality of Matrices
+Two matrices are equal if they have the same entries in the same positions.
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+662 C H A P T E R  1 0 | Systems of Equations and Inequalities
+c2 Equal matrices4 22 e0
+.5 C d c
+2 4 1 EQUALIT Y OF MATRICES
+1 1 1 2
+d
+0 2 2 0
+1 2
+3 4 S ! # 1 The matrices A ! "aij' and B ! "bij' are equal if and only if they have the sameUnequal matrices dimension m $ n, and corresponding entries are equal, that is,& c 1 3 5 d aij ! bij
+5 2 4 6 6 for i ! 1, 2, . . . , m and j ! 1, 2, . . . , n.
+E X A M P L E  1 | Equal Matrices
+Find a, b, c, and d, if c a b d ! c 1 3
+c d 5 2 d
+S O L U T I O N Since the two matrices are equal, corresponding entries must be the same.
+So we must have a ! 1, b ! 3, c ! 5, and d ! 2.
+662 C H A P T E R  1 0 | Systems of Equations and Inequalities
+c2 Equal matrices4 22 e0
+.5 C d c
+2 4 1 EQUALIT Y OF MATRICES
+1 1 1 2
+d
+0 2 2 0
+1 2
+3 4 S ! # 1 The matrices A ! "aij' and B ! "bij' are equal if and only if they have the sameUnequal matrices dimension m $ n, and corresponding entries are equal, that is,& c 1 3 5 d aij ! bij
+5 2 4 6 6 for i ! 1, 2, . . . , m and j ! 1, 2, . . . , n.
+E X A M P L E  1 | Equal Matrices
+Find a, b, c, and d, if c a b d ! c 1 3
+c d 5 2 d
+S O L U T I O N Since the two matrices are equal, corresponding entries must be the same.
+So we must have a ! 1, b ! 3, c ! 5, and d ! 2.

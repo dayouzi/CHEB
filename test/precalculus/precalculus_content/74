@@ -1,0 +1,122 @@
+10.7 PARTIAL FRACTIONS
+Distinct Linear Factors ! Repeated Linear Factors ! Irreducible Quadratic
+Factors ! Repeated Irreducible Quadratic Factors
+To write a sum or difference of fractional expressions as a single fraction, we bring them
+Common denominator to a common denominator. For example,
+1 1 3x 1 1 121x $ 1 22 1$ 1x # 1 2$ !x # 1 2x $ 1 2x2 # x # 1 x # 1 2x $ 1 2 3x$ ! !x # 1 2x $ 1 2x2 # x # 1
+Partial fractions But for some applications of algebra to calculus we must reverse this process-that is, we
+must express a fraction s x/ 12x2 # x # 1 2
+1/ 1 3x # 1 2  and 1/ 12x $ 1 2uch as as the sum of the simpler fractions . These simpler fractions are called partial fractions; we learn
+how to find them in this section.
+Let r be the rational function
+r1x 2 P1x 2! Q1x 2
+where the degree of P is less than the degree of Q. By the Linear and Quadratic Factors
+Theorem in Section 3.6, every polynomial with real coefficients can be factored com-
+pletely into linear and irreducible quadratic factors, that is, factors of the form ax $ b and
+ax2 $ bx $ c, where a, b, and c are real numbers. For instance,
+x4 # 1 ! 1x2 # 1 2 1x2 $ 1 2 ! 1x # 1 2 1x $ 1 2 1x2 $ 1 2
+After we have completely factored the denominator Q of r, we can express r1x 2 as a sum
+of partial fractions of the form
+1 A Ax $ B  and  ax $ b 2 i 1ax2 $ bx $ c 2 j
+This sum is called the partial fraction decomposition of r. Let's examine the details of
+the four possible cases.
+! Distinct Linear Factors
+We first consider the case in which the denominator factors into distinct linear factors.
+CASE 1: THE DENOMINATOR IS A PRODUCT  OF DISTINCT LINEAR FACTORS
+Suppose that we can
+Q1 fax 2 ctor! 1 Q1x2 asa1x $ b1 2 1a2x $ b2 2 # # # 1anx $ bn 2
+with no
+P1x 2 /Q1 fax 2ctor repeated. In this case the partial fraction decomposition oftakes the form
+P1x 2
+Q1x 2 A A2 An! $ $ p $a1x $ b1 a2x $ b2 anx $ bn
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+694 C H A P T E R  1 0 | Systems of Equations and Inequalities
+The constants A1, A2, . . . , An are determined as in the following example.
+The Rhind Papyrus is the oldest
+known mathematical document. It is an E X A M P L E  1 | Distinct Linear Factors
+Egyptian scroll written in 1650 B.C. by
+the scribe Ahmes, who explains that 5x $ 7
+it is an exact copy of a scroll written Find the partial fraction decomposition of .
+x3 $ 2x2 # x # 2
+200 years earlier. Ahmes claims that his
+papyrus contains "a thorough study of S O L U T I O N The denominator factors as follows.
+all things, insight into all that exists,
+knowledge of all obscure secrets." Actu- x3 $ 2x2 # x # 2 ! x21x $ 2 2 # 1x $ 2 2 ! 1x2 # 1 2 1x $ 2 2
+ally, the document contains rules for do-
+ing arithmetic, including multiplication
+ ! 1x # 1 2 1x $ 1 2 1x $ 2 2
+and division of fractions and several ex-
+ercises with solutions.The exercise This gives us the partial fraction decomposition
+shown below reads:"A heap and its sev-
+enth make nineteen; how large is the 5x $ 7 A B C$
+heap?" In solving problems of this sort, x3
+! $
+$ 2x2 # x # 2 x # 1 x $ 1 x $ 2
+the Egyptians used partial fractions be-
+cause their number system required all Multiplying each side by the common denominator, Óx # 1ÔÓx $ 1ÔÓx $ 2Ô, we get
+fractions to be written as sums of recip-
+rocals of whole numbers. For example,  5x $ 7 ! A1x $ 1 2 1x $ 2 2 $ B1x # 1 2 1x $ 2 2 $ C1x # 1 2 1x $ 1 2
+7 1 1
+12 would be written as 3 $ 4.
+ ! A Expand
+The papyrus gives a correct formula for
+the volume of a truncated pyramid,
+ ! 1 1x2 $ 3x $ 2 2 $ B1x 2 $ x # 2 2 $ C1x 2 # 1 2A $ B $ C 2x2 $ 13A $ B 2x $ 12A # 2B # C 2 Combine like terms
+which the ancient Egyptians used when
+building the pyramids at Giza. It also If two polynomials are equal, then their coefficients are equal. Thus since 5x $ 7 has no
+gives the formula A ! A89  dB2 for the area x2-term, we have A $ B $ C ! 0. Similarly, by comparing the coefficients of x, we see
+of a circle with diameter d. How close is
+this to the actual area? that 3A $ B ! 5c, and by comparing constant terms, we get 2A # 2B # C ! 7. This leadsto the following system of linear equations for A, B, and C.A $ B $ C ! 0 Equation 1: Coefficients of x23A $ B ! 5 Equation 2: Coefficients of x
+c2A # 2B # C ! 7 Equation 3: Constant coefficientsWe use Gaussian elimination to solve this system.cA $ 2B $ C! 0A # 2B # 3C ! 5 Equation 2 + (-3) ! Equation 1A # 4B # 3C ! 7 Equation 3 + (-2) ! Equation 1A $ 2B $ 3C ! #0A # 2B # 3C ! #5
+A $ 2B # 3C ! #3 Equation 3 + (-2) ! Equation 2
+From the third equation we get C ! #1. Back-substituting, we find that B ! #1 and 
+A ! 2. So the partial fraction decomposition is
+5x $ 7 2 #1 #1
+x3
+! $ $
+$ 2x2 # x # 2 x # 1 x $ 1 x $ 2
+694 C H A P T E R  1 0 | Systems of Equations and Inequalities
+The constants A1, A2, . . . , An are determined as in the following example.
+The Rhind Papyrus is the oldest
+known mathematical document. It is an E X A M P L E  1 | Distinct Linear Factors
+Egyptian scroll written in 1650 B.C. by
+the scribe Ahmes, who explains that 5x $ 7
+it is an exact copy of a scroll written Find the partial fraction decomposition of .
+x3 $ 2x2 # x # 2
+200 years earlier. Ahmes claims that his
+papyrus contains "a thorough study of S O L U T I O N The denominator factors as follows.
+all things, insight into all that exists,
+knowledge of all obscure secrets." Actu- x3 $ 2x2 # x # 2 ! x21x $ 2 2 # 1x $ 2 2 ! 1x2 # 1 2 1x $ 2 2
+ally, the document contains rules for do-
+ing arithmetic, including multiplication
+ ! 1x # 1 2 1x $ 1 2 1x $ 2 2
+and division of fractions and several ex-
+ercises with solutions.The exercise This gives us the partial fraction decomposition
+shown below reads:"A heap and its sev-
+enth make nineteen; how large is the 5x $ 7 A B C$
+heap?" In solving problems of this sort, x3
+! $
+$ 2x2 # x # 2 x # 1 x $ 1 x $ 2
+the Egyptians used partial fractions be-
+cause their number system required all Multiplying each side by the common denominator, Óx # 1ÔÓx $ 1ÔÓx $ 2Ô, we get
+fractions to be written as sums of recip-
+rocals of whole numbers. For example,  5x $ 7 ! A1x $ 1 2 1x $ 2 2 $ B1x # 1 2 1x $ 2 2 $ C1x # 1 2 1x $ 1 2
+7 1 1
+12 would be written as 3 $ 4.
+ ! A Expand
+The papyrus gives a correct formula for
+the volume of a truncated pyramid,
+ ! 1 1x2 $ 3x $ 2 2 $ B1x 2 $ x # 2 2 $ C1x 2 # 1 2A $ B $ C 2x2 $ 13A $ B 2x $ 12A # 2B # C 2 Combine like terms
+which the ancient Egyptians used when
+building the pyramids at Giza. It also If two polynomials are equal, then their coefficients are equal. Thus since 5x $ 7 has no
+gives the formula A ! A89  dB2 for the area x2-term, we have A $ B $ C ! 0. Similarly, by comparing the coefficients of x, we see
+of a circle with diameter d. How close is
+this to the actual area? that 3A $ B ! 5c, and by comparing constant terms, we get 2A # 2B # C ! 7. This leadsto the following system of linear equations for A, B, and C.A $ B $ C ! 0 Equation 1: Coefficients of x23A $ B ! 5 Equation 2: Coefficients of x
+c2A # 2B # C ! 7 Equation 3: Constant coefficientsWe use Gaussian elimination to solve this system.cA $ 2B $ C! 0A # 2B # 3C ! 5 Equation 2 + (-3) ! Equation 1A # 4B # 3C ! 7 Equation 3 + (-2) ! Equation 1A $ 2B $ 3C ! #0A # 2B # 3C ! #5
+A $ 2B # 3C ! #3 Equation 3 + (-2) ! Equation 2
+From the third equation we get C ! #1. Back-substituting, we find that B ! #1 and 
+A ! 2. So the partial fraction decomposition is
+5x $ 7 2 #1 #1
+x3
+! $ $
+$ 2x2 # x # 2 x # 1 x $ 1 x $ 2

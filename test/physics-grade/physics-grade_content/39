@@ -1,0 +1,277 @@
+3.10 Applications in the Real-World
+
+What we have learnt in this chapter can be directly applied to road safety. We can analyse the
+
+relationship between speed and stopping distance. The following worked example illustrates this
+
+application.
+
+Worked Example 14: Stopping distance
+
+Question: A truck is travelling at a constant velocity of 10 m·s−1when the driver
+
+sees a child 50 m in front of him in the road. He hits the brakes to stop the truck.
+
+The truck accelerates at a rate of -1.25 m·s−2. His reaction time to hit the brakes
+
+is 0,5 seconds. Will the truck hit the child?
+
+Answer
+
+Step 1 : Analyse the problem and identify what information is given
+
+It is useful to draw a timeline like this one:
+
+59
+
+3.10 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+v = 10 m·s−1
+
+0,5 s
+
+A B C
+
+b b b
+
+constant v negative acceleration
+
+50 m
+
+We need to know the following:
+
+• What distance the driver covers before hitting the brakes.
+
+• How long it takes the truck to stop after hitting the brakes.
+
+• What total distance the truck covers to stop.
+
+Step 2 : Calculate the distance AB
+
+Before the driver hits the brakes, the truck is travelling at constant velocity. There
+
+is no acceleration and therefore the equations of motion are not used. To find the
+
+distance traveled, we use:
+
+d
+
+v =
+
+t
+
+d
+
+10 =
+
+0,5
+
+d = 5 m
+
+The truck covers 5 m before the driver hits the brakes.
+
+Step 3 : Calculate the time BC
+
+We have the following for the motion between B and C:
+
+vi = 10m · s−1
+
+vf = 0m · s−1
+
+a = −1,25m · s−2
+
+t = ?
+
+We can use equation 3.1
+
+vf = vi + at
+
+0 = 10 + (−1,25)t
+
+−10 = −1,25t
+
+t = 8 s
+
+Step 4 : Calculate the distance BC
+
+For the distance we can use equation 3.2 or equation 3.3. We will use equation 3.2:
+
+(vi + vf )
+
+∆x = t
+
+2
+
+10 + 0
+
+∆x = (8)
+
+s
+
+∆x = 40 m
+
+Step 5 : Write the final answer
+
+The total distance that the truck covers is dAB + dBC = 5 + 40 = 45 meters. The
+
+child is 50 meters ahead. The truck will not hit the child.
+
+60
+
+child is here
+
+driver hits brakes
+
+driver sees child
+3.10 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+v = 10 m·s−1
+0,5 s
+A B C
+b b b
+constant v negative acceleration
+50 m
+We need to know the following:
+• What distance the driver covers before hitting the brakes.
+• How long it takes the truck to stop after hitting the brakes.
+• What total distance the truck covers to stop.
+Step 2 : Calculate the distance AB
+Before the driver hits the brakes, the truck is travelling at constant velocity. There
+is no acceleration and therefore the equations of motion are not used. To find the
+distance traveled, we use:
+d
+v =
+t
+d
+10 =
+0,5
+d = 5 m
+The truck covers 5 m before the driver hits the brakes.
+Step 3 : Calculate the time BC
+We have the following for the motion between B and C:
+vi = 10m · s−1
+vf = 0m · s−1
+a = −1,25m · s−2
+t = ?
+We can use equation 3.1
+vf = vi + at
+0 = 10 + (−1,25)t
+−10 = −1,25t
+t = 8 s
+Step 4 : Calculate the distance BC
+For the distance we can use equation 3.2 or equation 3.3. We will use equation 3.2:
+(vi + vf )
+∆x = t
+2
+10 + 0
+∆x = (8)
+s
+∆x = 40 m
+Step 5 : Write the final answer
+The total distance that the truck covers is dAB + dBC = 5 + 40 = 45 meters. The
+child is 50 meters ahead. The truck will not hit the child.
+60
+child is here
+driver hits brakes
+driver sees child
+3.10 CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10
+
+v = 10 m·s−1
+
+0,5 s
+
+A B C
+
+b b b
+
+constant v negative acceleration
+
+50 m
+
+We need to know the following:
+
+• What distance the driver covers before hitting the brakes.
+
+• How long it takes the truck to stop after hitting the brakes.
+
+• What total distance the truck covers to stop.
+
+Step 2 : Calculate the distance AB
+
+Before the driver hits the brakes, the truck is travelling at constant velocity. There
+
+is no acceleration and therefore the equations of motion are not used. To find the
+
+distance traveled, we use:
+
+d
+
+v =
+
+t
+
+d
+
+10 =
+
+0,5
+
+d = 5 m
+
+The truck covers 5 m before the driver hits the brakes.
+
+Step 3 : Calculate the time BC
+
+We have the following for the motion between B and C:
+
+vi = 10m · s−1
+
+vf = 0m · s−1
+
+a = −1,25m · s−2
+
+t = ?
+
+We can use equation 3.1
+
+vf = vi + at
+
+0 = 10 + (−1,25)t
+
+−10 = −1,25t
+
+t = 8 s
+
+Step 4 : Calculate the distance BC
+
+For the distance we can use equation 3.2 or equation 3.3. We will use equation 3.2:
+
+(vi + vf )
+
+∆x = t
+
+2
+
+10 + 0
+
+∆x = (8)
+
+s
+
+∆x = 40 m
+
+Step 5 : Write the final answer
+
+The total distance that the truck covers is dAB + dBC = 5 + 40 = 45 meters. The
+
+child is 50 meters ahead. The truck will not hit the child.
+
+60
+
+child is here
+
+driver hits brakes
+
+driver sees child
+
+CHAPTER 3. MOTION IN ONE DIMENSION - GRADE 10 3.11
+

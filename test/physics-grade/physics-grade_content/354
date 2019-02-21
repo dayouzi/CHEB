@@ -1,0 +1,384 @@
+21.4.2 Inelastic Collisions
+
+Definition: Inelastic Collisions
+
+An inelastic collision is a collision in which total momentum is conserved but total kinetic
+
+energy is not conserved. The kinetic energy is transformed into other kinds of energy.
+
+So the total momentum before an inelastic collisions is the same as after the collision. But the
+
+total kinetic energy before and after the inelastic collision is different. Of course this does not
+
+485
+
+21.4 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+
+mean that total energy has not been conserved, rather the energy has been transformed into
+
+another type of energy.
+
+As a rule of thumb, inelastic collisions happen when the colliding objects are distorted in some
+
+way. Usually they change their shape. The modification of the shape of an object requires
+
+energy and this is where the "missing" kinetic energy goes. A classic example of an inelastic
+
+collision is a motor car accident. The cars change shape and there is a noticeable change in the
+
+kinetic energy of the cars before and after the collision. This energy was used to bend the
+
+metal and deform the cars. Another example of an inelastic collision is shown in Figure 21.7.
+
+pim, KEim pia, KEia pf , KEf
+
+Before collision After collision
+
+Figure 21.7: Asteroid moving towards the Moon.
+
+An asteroid is moving through space towards the Moon. Before the asteroid crashes into the
+
+Moon, the total momentum of the system is:
+
+pi = pim + pia
+
+The total kinetic energy of the system is:
+
+KEi = KEim +KEia
+
+When the asteroid collides inelastically with the Moon, its kinetic energy is transformed
+
+mostly into heat energy. If this heat energy is large enough, it can cause the asteroid and the
+
+area of the Moon's surface that it hits, to melt into liquid rock! From the force of impact of
+
+the asteroid, the molten rock flows outwards to form a crater on the Moon.
+
+After the collision, the total momentum of the system will be the same as before. But since
+
+this collision is inelastic, (and you can see that a change in the shape of objects has taken
+
+place!), total kinetic energy is not the same as before the collision.
+
+Momentum is conserved:
+
+pi = pf
+
+But the total kinetic energy of the system is not conserved:
+
+KEi 6= KEf
+
+Worked Example 142: An Inelastic Collision
+
+Question: Consider the collision of two cars. Car 1 is at rest and Car 2 is moving
+
+at a speed of 2 m·s−1 in the negative x-direction. Both cars each have a mass of
+
+500 kg. The cars collide inelastically and stick together. What is the resulting
+
+velocity of the resulting mass of metal?
+
+Answer
+
+Step 1 : Draw a rough sketch of the situation
+
+pf
+
+Car 1 Car 2 Car 1 Car 2
+
+pi1 = 0 pi2
+
+Before collision After collision
+
+Step 2 : Determine how to approach the problem
+
+We are given:
+
+486
+21.4 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+mean that total energy has not been conserved, rather the energy has been transformed into
+another type of energy.
+As a rule of thumb, inelastic collisions happen when the colliding objects are distorted in some
+way. Usually they change their shape. The modification of the shape of an object requires
+energy and this is where the "missing" kinetic energy goes. A classic example of an inelastic
+collision is a motor car accident. The cars change shape and there is a noticeable change in the
+kinetic energy of the cars before and after the collision. This energy was used to bend the
+metal and deform the cars. Another example of an inelastic collision is shown in Figure 21.7.
+pim, KEim pia, KEia pf , KEf
+Before collision After collision
+Figure 21.7: Asteroid moving towards the Moon.
+An asteroid is moving through space towards the Moon. Before the asteroid crashes into the
+Moon, the total momentum of the system is:
+pi = pim + pia
+The total kinetic energy of the system is:
+KEi = KEim +KEia
+When the asteroid collides inelastically with the Moon, its kinetic energy is transformed
+mostly into heat energy. If this heat energy is large enough, it can cause the asteroid and the
+area of the Moon's surface that it hits, to melt into liquid rock! From the force of impact of
+the asteroid, the molten rock flows outwards to form a crater on the Moon.
+After the collision, the total momentum of the system will be the same as before. But since
+this collision is inelastic, (and you can see that a change in the shape of objects has taken
+place!), total kinetic energy is not the same as before the collision.
+Momentum is conserved:
+pi = pf
+But the total kinetic energy of the system is not conserved:
+KEi 6= KEf
+Worked Example 142: An Inelastic Collision
+Question: Consider the collision of two cars. Car 1 is at rest and Car 2 is moving
+at a speed of 2 m·s−1 in the negative x-direction. Both cars each have a mass of
+500 kg. The cars collide inelastically and stick together. What is the resulting
+velocity of the resulting mass of metal?
+Answer
+Step 1 : Draw a rough sketch of the situation
+pf
+Car 1 Car 2 Car 1 Car 2
+pi1 = 0 pi2
+Before collision After collision
+Step 2 : Determine how to approach the problem
+We are given:
+486
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.4
+• mass of car 1, m1 = 500 kg
+• mass of car 2, m2 = 500 kg
+• initial velocity of car 1, vi1 = 0 m·s−1
+• initial velocity of car 2, vi2 = 2 m·s−1to the left
+• the collision is inelastic
+All quantities are in SI units. We are required to determine the final velocity of the
+resulting mass, vf .
+Since the collision is inelastic, we know that
+• momentum is conserved, m1vi1 +m2vi2 = m1vf1 + m2vf2
+• kinetic energy is not conserved
+Step 3 : Choose a frame of reference
+Choose to the left as positive.
+Step 4 : Solve problem
+So we must use conservation of momentum to solve this problem.
+pi = pf
+pi1 + pi2 = pf
+m1vi1 + m2vi2 = (m1 +m2)vf
+(500)(0) + (500)(2) = (500 + 500)vf
+1000 = 1000vf
+vf = 1 m · s−1
+Therefore, the final velocity of the resulting mass of cars is 1 m·s−1to the left.
+Worked Example 143: Colliding balls of clay
+Question: Two balls of clay, 200g each, are thrown towards each other according
+to the following diagram. When they collide, they stick together and move off
+together. All motion is taking place in the horizontal plane. Determine the velocity
+of the clay after the collision.
+200g 2
+N
+4m · s−1
+1+2
+1
+3m · s−1 ?
+200g
+487
+21.4 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+Answer
+Step 1 : Analyse the problem
+This is an inelastic collision where momentum is conserved.
+The momentum before = the momentum after.
+The momentum after can be calculated by drawing a vector diagram.
+Step 2 : Calculate the momentum before the collision
+p1(before) = m1vi1 = (0,2)(3) = 0,6 kg ·m·s−1east
+p2(before) = m2vi2 = (0,2)(4) = 0,8 kg ·m·s−1south
+Step 3 : Calculate the momentum after the collision.
+Here we need to draw a diagram:
+0,6
+θ
+p1+2(after)
+0,8
+√
+p1+2(after) = (0,8)2 + (0,6)2
+= 1
+Step 4 : Calculate the final velocity
+First we have to find the direction of the final momentum:
+0,8
+tan θ =
+0,6
+θ = 53,13◦
+Now we have to find the magnitude of the final velocity:
+p1+2 = m1+2vf
+1 = (0,2 + 0,2)vf
+vf = 2,5m · s−1E53,13◦S
+Exercise: Collisions
+1. A truck of mass 4500 kg travelling at 20 m·s−1hits a car from behind. The
+car (mass 1000 kg) was travelling at 15 m·s−1. The two vehicles, now
+connected carry on moving in the same direction.
+a Calculate the final velocity of the truck-car combination after the
+collision.
+b Determine the kinetic energy of the system before and after the collision.
+c Explain the difference in your answers for b).
+d Was this an example of an elastic or inelastic collision? Give reasons for
+your answer.
+2. Two cars of mass 900 kg each collide and stick together at an angle of 90◦.
+Determine the final velocity of the cars if
+car 1 was travelling at 15m·s−1and
+car 2 was travelling at 20m·s−1.
+488
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.4
+2
+20m · s−1
+1 1+2
+15m · s−1
+?
+Extension: Tiny, Violent Collisions
+Author: Thomas D. Gutierrez
+Tom Gutierrez received his Bachelor of Science and Master degrees in Physics
+from San Jose State University in his home town of San Jose, California. As a
+Master's student he helped work on a laser spectrometer at NASA Ames Research
+Centre. The instrument measured the ratio of different isotopes of carbon in CO2
+gas and could be used for such diverse applications as medical diagnostics and
+space exploration. Later, he received his PhD in physics from the University of
+California, Davis where he performed calculations for various reactions in high
+energy physics collisions. He currently lives in Berkeley, California where he studies
+proton-proton collisions seen at the STAR experiment at Brookhaven National
+Laboratory on Long Island, New York.
+High Energy Collisions
+Take an orange and expand it to the size of the earth. The atoms of the
+earth-sized orange would themselves be about the size of regular oranges and would
+fill the entire "earth-orange". Now, take an atom and expand it to the size of a
+football field. The nucleus of that atom would be about the size of a tiny seed in
+the middle of the field. From this analogy, you can see that atomic nuclei are very
+small objects by human standards. They are roughly 10−15 meters in diameter -
+one-hundred thousand times smaller than a typical atom. These nuclei cannot be
+seen or studied via any conventional means such as the naked eye or microscopes.
+So how do scientists study the structure of very small objects like atomic nuclei?
+The simplest nucleus, that of hydrogen, is called the proton. Faced with the
+inability to isolate a single proton, open it up, and directly examine what is inside,
+scientists must resort to a brute-force and somewhat indirect means of exploration:
+high energy collisions. By colliding protons with other particles (such as other
+protons or electrons) at very high energies, one hopes to learn about what they are
+made of and how they work. The American physicist Richard Feynman once
+compared this process to slamming delicate watches together and figuring out how
+they work by only examining the broken debris. While this analogy may seem
+pessimistic, with sufficient mathematical models and experimental precision,
+considerable information can be extracted from the debris of such high energy
+489
+CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12 21.4
+
+2
+
+20m · s−1
+
+1 1+2
+
+15m · s−1
+
+?
+
+Extension: Tiny, Violent Collisions
+
+Author: Thomas D. Gutierrez
+
+Tom Gutierrez received his Bachelor of Science and Master degrees in Physics
+
+from San Jose State University in his home town of San Jose, California. As a
+
+Master's student he helped work on a laser spectrometer at NASA Ames Research
+
+Centre. The instrument measured the ratio of different isotopes of carbon in CO2
+
+gas and could be used for such diverse applications as medical diagnostics and
+
+space exploration. Later, he received his PhD in physics from the University of
+
+California, Davis where he performed calculations for various reactions in high
+
+energy physics collisions. He currently lives in Berkeley, California where he studies
+
+proton-proton collisions seen at the STAR experiment at Brookhaven National
+
+Laboratory on Long Island, New York.
+
+High Energy Collisions
+
+Take an orange and expand it to the size of the earth. The atoms of the
+
+earth-sized orange would themselves be about the size of regular oranges and would
+
+fill the entire "earth-orange". Now, take an atom and expand it to the size of a
+
+football field. The nucleus of that atom would be about the size of a tiny seed in
+
+the middle of the field. From this analogy, you can see that atomic nuclei are very
+
+small objects by human standards. They are roughly 10−15 meters in diameter -
+
+one-hundred thousand times smaller than a typical atom. These nuclei cannot be
+
+seen or studied via any conventional means such as the naked eye or microscopes.
+
+So how do scientists study the structure of very small objects like atomic nuclei?
+
+The simplest nucleus, that of hydrogen, is called the proton. Faced with the
+
+inability to isolate a single proton, open it up, and directly examine what is inside,
+
+scientists must resort to a brute-force and somewhat indirect means of exploration:
+
+high energy collisions. By colliding protons with other particles (such as other
+
+protons or electrons) at very high energies, one hopes to learn about what they are
+
+made of and how they work. The American physicist Richard Feynman once
+
+compared this process to slamming delicate watches together and figuring out how
+
+they work by only examining the broken debris. While this analogy may seem
+
+pessimistic, with sufficient mathematical models and experimental precision,
+
+considerable information can be extracted from the debris of such high energy
+
+489
+
+21.5 CHAPTER 21. MOTION IN TWO DIMENSIONS - GRADE 12
+
+subatomic collisions. One can learn about both the nature of the forces at work
+
+and also about the sub-structure of such systems.
+
+The experiments are in the category of "high energy physics" (also known as
+
+"subatomic" physics). The primary tool of scientific exploration in these
+
+experiments is an extremely violent collision between two very, very small
+
+subatomic objects such as nuclei. As a general rule, the higher the energy of the
+
+collisions, the more detail of the original system you are able to resolve. These
+
+experiments are operated at laboratories such as CERN, SLAC, BNL, and Fermilab,
+
+just to name a few. The giant machines that perform the collisions are roughly the
+
+size of towns. For example, the RHIC collider at BNL is a ring about 1 km in
+
+diameter and can be seen from space. The newest machine currently being built,
+
+the LHC at CERN, is a ring 9 km in diameter!
+
+Activity :: Casestudy : Atoms and its Constituents
+
+Questions:
+
+1. What are isotopes? (2)
+
+2. What are atoms made up of? (3)
+
+3. Why do you think protons are used in the experiments and not atoms like
+
+carbon? (2)
+
+4. Why do you think it is necessary to find out what atoms are made up of and
+
+how they behave during collisions? (2)
+
+5. Two protons (mass 1,67× 10−27 kg) collide and somehow stick together after
+
+the collision. If each proton travelled with an initial velocity of
+
+5,00× 107 m · s−1 and they collided at an angle of 90◦, what is the velocity of
+
+the combination after the collision. (9)
+

@@ -1,0 +1,111 @@
+10.9 SYSTEMS OF INEQUALITIES
+Graphing an Inequality ! Systems of Inequalities ! Systems of Linear 
+Inequalities ! Application: Feasible Regions
+y In this section we study systems of inequalities in two variables from a graphical point 
+of view. 
+y=≈ ! Graphing an Inequality
+1 We begin by considering the graph of a single inequality. We already know that the graph
+0 1 x of y ! x
+2
+ , for example, is the parabola in Figure 1. If we replace the equal sign by the
+symbol (, we obtain the inequality
+F I G U R E  1 y ( x 2 
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+704 C H A P T E R  1 0 | Systems of Equations and Inequalities
+Its graph consists of not just the parabola in Figure 1, but also every point whose 
+y-coordinate is larger than x2. We indicate the solution in Figure 2(a) by shading the
+points above the parabola.
+Similarly, the graph of y ) x 2 in Figure 2(b) consists of all points on and below the
+parabola. However, the graphs of y * x 2 and y + x 2 do not include the points on the
+parabola itself, as indicated by the dashed curves in Figures 2(c) and 2(d).
+y y y y
+1 1 1 1
+0 1 x 0 1 x 0 1 x 0 1 x
+(a) y≥≈ (b) y≤≈ (c) y>≈ (d) y<≈
+F I G U R E  2
+The graph of an inequality, in general, consists of a region in the plane whose bound-
+ary is the graph of the equation obtained by replacing the inequality sign 1(, ), *, or +2
+with an equal sign. To determine which side of the graph gives the solution set of the in-
+equality, we need only check test points.
+GRAPHING INEQUALITIES
+To graph an inequality, we carry out the following steps.
+1. Graph Equation. Graph the equation corresponding to the inequality. Use a
+dashed curve for * or + and a solid curve for ) or (.
+2. Test Points. Test one point in each region formed by the graph in Step 1. If the
+point satisfies the inequality, then all the points in that region satisfy the inequal-
+ity. (In that case, shade the region to indicate that it is part of the graph.) If the
+test point does not satisfy the inequality, then the region isn't part of the graph.
+E X A M P L E  1 | Graphs of Inequalities
+Graph each inequality.
+(a) x2 $ y2 + 25 (b) x $ 2y ( 5
+S O L U T I O N
+(a) The graph of x2 $ y2 ! 25 is a circle of radius 5 centered at the origin. The points 
+on the circle itself do not satisfy the inequality because it is of the form +, so we 
+y graph the circle with a dashed curve, as shown in Figure 3.
+To determine whether the inside or the outside of the circle satisfies the inequal-
+≈+¥<25 ity, we use the test points 10, 02 on the inside and 16, 02 on the outside. To do this, we
+substitute the coordinates of each point into the inequality and check whether the
+result satisfies the inequality. (Note that any point inside or outside the circle can
+1 (6, 0) serve as a test point. We have chosen these points for simplicity.)
+0 1 x
+Tes1t point x2 $ y2 + 25 Conclusion10, 02 02 $ 02 ! 0 + 25 Part of graph6, 02 62 $ 02 ! 36 , 25 Not part of graph
+F I G U R E  3 Thus the graph of x2 $ y2 + 25 is the set of all points inside the circle (see Figure 3).
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+704 C H A P T E R  1 0 | Systems of Equations and Inequalities
+Its graph consists of not just the parabola in Figure 1, but also every point whose 
+y-coordinate is larger than x2. We indicate the solution in Figure 2(a) by shading the
+points above the parabola.
+Similarly, the graph of y ) x 2 in Figure 2(b) consists of all points on and below the
+parabola. However, the graphs of y * x 2 and y + x 2 do not include the points on the
+parabola itself, as indicated by the dashed curves in Figures 2(c) and 2(d).
+y y y y
+1 1 1 1
+0 1 x 0 1 x 0 1 x 0 1 x
+(a) y≥≈ (b) y≤≈ (c) y>≈ (d) y<≈
+F I G U R E  2
+The graph of an inequality, in general, consists of a region in the plane whose bound-
+ary is the graph of the equation obtained by replacing the inequality sign 1(, ), *, or +2
+with an equal sign. To determine which side of the graph gives the solution set of the in-
+equality, we need only check test points.
+GRAPHING INEQUALITIES
+To graph an inequality, we carry out the following steps.
+1. Graph Equation. Graph the equation corresponding to the inequality. Use a
+dashed curve for * or + and a solid curve for ) or (.
+2. Test Points. Test one point in each region formed by the graph in Step 1. If the
+point satisfies the inequality, then all the points in that region satisfy the inequal-
+ity. (In that case, shade the region to indicate that it is part of the graph.) If the
+test point does not satisfy the inequality, then the region isn't part of the graph.
+E X A M P L E  1 | Graphs of Inequalities
+Graph each inequality.
+(a) x2 $ y2 + 25 (b) x $ 2y ( 5
+S O L U T I O N
+(a) The graph of x2 $ y2 ! 25 is a circle of radius 5 centered at the origin. The points 
+on the circle itself do not satisfy the inequality because it is of the form +, so we 
+y graph the circle with a dashed curve, as shown in Figure 3.
+To determine whether the inside or the outside of the circle satisfies the inequal-
+≈+¥<25 ity, we use the test points 10, 02 on the inside and 16, 02 on the outside. To do this, we
+substitute the coordinates of each point into the inequality and check whether the
+result satisfies the inequality. (Note that any point inside or outside the circle can
+1 (6, 0) serve as a test point. We have chosen these points for simplicity.)
+0 1 x
+Tes1t point x2 $ y2 + 25 Conclusion10, 02 02 $ 02 ! 0 + 25 Part of graph6, 02 62 $ 02 ! 36 , 25 Not part of graph
+F I G U R E  3 Thus the graph of x2 $ y2 + 25 is the set of all points inside the circle (see Figure 3).
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+SECTION 10.9 | Systems of Inequalities 705
+y (b) The graph of x $ 2y ! 5 is the line shown in Figure 4. We use the test points 10, 02
+and 15, 52 on opposite sides of the line.
+(5, 5)
+Test point x $ 2y ( 5 Conclusion
+1 x+2y≥5 110, 02 0 $ 210 ! - Not part of graph5, 52 5 $ 215 22 0 5! 15 ( 5 Part of graph
+0 1 x
+Our check shows that the points above the line satisfy the inequality.
+Alternatively, we could put the inequality into slope-intercept form and graph it
+F I G U R E  4 directly:
+x $ 2y ( 5
+ 2y ( #x $ 5
+ y ( #12 x $
+5
+2
+From this form we see that the graph includes all points whose y-coordinates are
+greater than those on the line y ! #1 52 x $ 2; that is, the graph consists of the points
+on or above this line, as shown in Figure 4.

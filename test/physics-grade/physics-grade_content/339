@@ -1,0 +1,48 @@
+20.4.2 The p-n Junction
+
+When p-type and n-type semiconductors are placed in contact with each other, a p-n junction
+
+is formed. Near the junction, electrons and holes combine to create a depletion region.
+
+p-type n-type
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+bc bc bc bc bc bc bc bc bc bc b b b b b b b b b b
+
+Figure 20.4: The p-n junction forms between p- and n-type semiconductors. The free electrons
+
+from the n-type material combine with the holes in the p-type material near the junction. There
+
+is a small potential difference across the junction. The area near the junction is called the
+
+depletion region because there are few holes and few free electrons in this region.
+
+Electric current flows more easily across a p-n junction in one direction than in the other. If the
+
+positive pole of a battery is connected to the p-side of the junction, and the negative pole to
+
+the n-side, charge flows across the junction. If the battery is connected in the opposite
+
+direction, very little charge can flow.
+
+This might not sound very useful at first but the p-n junction forms the basis for computer
+
+chips, solar cells, and other electronic devices.
+

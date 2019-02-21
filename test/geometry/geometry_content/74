@@ -1,0 +1,153 @@
+7.11 Dilation
+
+Here you'll learn what a dilation is, how to dilate a figure, and how to find the scale factor by which the figure is
+
+dilated.
+
+What if you enlarged or reduced a triangle without changing its shape? How could you find the scale factor by which
+
+the triangle was stretched or shrunk? After completing this Concept, you'll be able to use the corresponding sides
+
+of dilated figures to solve problems like this one.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136699
+
+CK-12 Foundation: Dilation
+
+Guidance
+
+Two figures are similar if they are the same shape but not necessarily the same size. One way to create similar
+
+figures is by dilating. A dilation makes a figure larger or smaller but the new resulting figure has the same shape as
+
+the original.
+
+Dilation: An enlargement or reduction of a figure that preserves shape but not size. All dilations are similar to the
+
+original figure.
+
+Dilations have a center and a scale factor. The center is the point of reference for the dilation and the scale factor
+
+tells us how much the figure stretches or shrinks. A scale factor is labeled k. Only positive scale factors, k, will be
+
+considered in this text.
+
+If the dilated image is smaller than the original, then 0 < k < 1.
+
+If the dilated image is larger than the original, then k > 1.
+
+A dilation, or image, is always followed by a ′.
+
+TABLE 7.2:
+
+Label It Say It
+
+′ "prime" (copy of the original)
+
+A′ "a prime" (copy of point A)
+
+A′′ "a double prime" (second copy)
+
+393
+
+7.11. Dilation www.ck12.org
+
+Example A
+
+The center of dilation is P and the scale factor is 3.
+
+Find Q′.
+
+If the scale factor is 3 and Q is 6 units away from P, then Q′ is going to be 6×3 = 18 units away from P. The dilated
+
+image will be on the same line as the original image and center.
+
+Example B
+
+Using the picture above, change the scale factor to 13 .
+
+Find Q′′ using this new scale factor.
+
+The scale factor is 13 , so Q
+
+′′ is going to be 6× 13 = 2 units away from P. Q′′ will also be collinear with Q and center.
+
+Example C
+
+KLMN is a rectangle. If the center of dilation is K and k = 2, draw K′L′M′N′.
+
+394
+7.11. Dilation www.ck12.org
+Example A
+The center of dilation is P and the scale factor is 3.
+Find Q′.
+If the scale factor is 3 and Q is 6 units away from P, then Q′ is going to be 6×3 = 18 units away from P. The dilated
+image will be on the same line as the original image and center.
+Example B
+Using the picture above, change the scale factor to 13 .
+Find Q′′ using this new scale factor.
+The scale factor is 13 , so Q
+′′ is going to be 6× 13 = 2 units away from P. Q′′ will also be collinear with Q and center.
+Example C
+KLMN is a rectangle. If the center of dilation is K and k = 2, draw K′L′M′N′.
+394
+www.ck12.org Chapter 7. Similarity
+If K is the center of dilation, then K and K′ will be the same point. From there, L′ will be 8 units above L and N′ will
+be 12 units to the right of N.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136700
+CK-12 Foundation: Dilation
+->
+Guided Practice
+1. Find the perimeters of KLMN and K′L′M′N′. Compare this ratio to the scale factor.
+395
+7.11. Dilation www.ck12.org
+2. 4ABC is a dilation of4DEF . If P is the center of dilation, what is the scale factor?
+3. Find the scale factor, given the corresponding sides. In the diagram, the black figure is the original and P is the
+center of dilation.
+Answers:
+1. The perimeter of KLMN = 12+8+12+8 = 40. The perimeter of K′L′M′N′ = 24+16+24+16 = 80. The ratio
+is 80:40, which reduces to 2:1, which is the same as the scale factor.
+2. Because 4ABC is a dilation of 4DEF , then 4ABC ∼4DEF . The scale factor is the ratio of the sides. Since
+4ABC is smaller than the original,4DEF , the scale factor is going to be less than one, 1220 = 35 .
+If4DEF was the dilated image, the scale factor would have been 53 .
+3. Since the dilation is smaller than the original, the scale factor is going to be less than one. 820 =
+2
+5
+Explore More
+For the given shapes, draw the dilation, given the scale factor and center.
+1. k = 3.5, center is A
+396
+www.ck12.org Chapter 7. Similarity
+2. k = 2, center is D
+3. k = 34 , center is A
+4. k = 25 , center is A
+In the four questions below, you are told the scale factor. Determine the dimensions of the dilation. In each diagram,
+the black figure is the original and P is the center of dilation.
+5. k = 4
+6. k = 13
+397
+7.11. Dilation www.ck12.org
+7. k = 2.5
+8. k = 14
+In the three questions below, find the scale factor, given the corresponding sides. In each diagram, the black figure
+is the original and P is the center of dilation.
+9.
+10.
+398
+www.ck12.org Chapter 7. Similarity
+11.
+399
+www.ck12.org Chapter 7. Similarity
+
+11.
+
+399
+

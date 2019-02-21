@@ -1,0 +1,52 @@
+7.4 BASIC TRIGONOMETRIC EQUATIONS
+Basic Trigonometric Equations ! Solving Trigonometric Equations 
+by Factoring 
+An equation that contains trigonometric functions is called a trigonometric equation.
+For example, the following are trigonometric equations:
+sin2 u ! cos2 u " 1 2 sin u # 1 " 0 tan 2u # 1 " 0
+The first equation is an identity-that is, it is true for every value of the variable u. The
+other two equations are true only for certain values of u. To solve a trigonometric equa-
+tion, we find all the values of the variable that make the equation true. 
+! Basic Trigonometric Equations
+Solving any trigonometric equation always reduces to solving a basic trigonometric
+equation-an equation of the form T1u 2 " c, where T is a trigonometric function and c
+is a constant. In the next three examples we solve such basic equations. 
+E X A M P L E  1 Solving a Basic Trigonometric Equation 
+1
+Solve the equation  sin u " .
+2
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+518 C H A P T E R  7 | Analytic Trigonometry
+y 1 S O L U T I O N  
+¨=5pi 1 2 Find the solutions in one period. Because sine has period 2p, we first find the solutions6 in any interval of length 2p. To find these solutions, we look at the unit circle in Figure 1. We
+see that sin u " 12 in Quadrants I and II, so the solutions in the interval 30, 2p 2 are
+¨=pi p 5p6 u " u "
+_1 0 1 x 6 6
+Find all solutions. Because the sine function repeats its values every 2p units, we get all
+solutions of the equation by adding integer multiples of 2p to these solutions:
+_1 p 5pu " ! 2kp u " ! 2kp
+6 6
+F I G U R E  1 where k is any integer. Figure 2 gives a graphical representation of the solutions.
+y
+y=ß ¨
+1 y=12
+_ 7pi pi 5pipi 13pi 17pi 25pi ¨6 6 6 6 6 6
+_1
+F I G U R E  2
+518 C H A P T E R  7 | Analytic Trigonometry
+y 1 S O L U T I O N  
+¨=5pi 1 2 Find the solutions in one period. Because sine has period 2p, we first find the solutions6 in any interval of length 2p. To find these solutions, we look at the unit circle in Figure 1. We
+see that sin u " 12 in Quadrants I and II, so the solutions in the interval 30, 2p 2 are
+¨=pi p 5p6 u " u "
+_1 0 1 x 6 6
+Find all solutions. Because the sine function repeats its values every 2p units, we get all
+solutions of the equation by adding integer multiples of 2p to these solutions:
+_1 p 5pu " ! 2kp u " ! 2kp
+6 6
+F I G U R E  1 where k is any integer. Figure 2 gives a graphical representation of the solutions.
+y
+y=ß ¨
+1 y=12
+_ 7pi pi 5pipi 13pi 17pi 25pi ¨6 6 6 6 6 6
+_1
+F I G U R E  2

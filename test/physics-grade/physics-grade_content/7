@@ -1,0 +1,42 @@
+2.4 CHAPTER 2. UNITS
+
+2.4 Combinations of SI Base Units
+
+To make working with units easier, some combinations of the base units are given special names,
+
+but it is always correct to reduce everything to the base units. Table 2.2 lists some examples
+
+of combinations of SI base units that are assigned special names. Do not be concerned if the
+
+formulae look unfamiliar at this stage - we will deal with each in detail in the chapters ahead (as
+
+well as many others)!
+
+It is very important that you are able to recognise the units correctly. For instance, the new-
+
+ton (N) is another name for the kilogram metre per second squared (kg·m·s−2), while the
+
+kilogram metre squared per second squared (kg·m2 ·s−2) is called the joule (J).
+
+Unit Expressed in Name of
+
+Quantity Formula
+
+Base Units Combination
+
+Force ma kg·m·s−2 N (newton)
+
+Frequency 1 s−1 Hz (hertz)
+
+T
+
+Work F.s kg·m2 ·s−2 J (joule)
+
+Table 2.2: Some examples of combinations of SI base units assigned special names
+
+Important: When writing combinations of base SI units, place a dot (·) between the units
+
+to indicate that different base units are used. For example, the symbol for metres per second
+
+is correctly written as m·s−1, and not as ms−1 or m/s.
+

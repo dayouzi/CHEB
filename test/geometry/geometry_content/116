@@ -1,0 +1,188 @@
+11.3 Prisms
+
+Here you'll learn what a prism is and how to find its volume and surface area.
+
+What if you were given a solid three-dimensional figure with two congruent bases in which the other faces were
+
+rectangles? How could you determine how much two-dimensional and three-dimensional space that figure occupies?
+
+After completing this Concept, you'll be able to find the surface area and volume of a prism.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136765
+
+Prisms CK-12
+
+Guidance
+
+A prism is a 3-dimensional figure with 2 congruent bases, in parallel planes, in which the other faces are rectangles.
+
+The non-base faces are lateral faces. The edges between the lateral faces are lateral edges.
+
+This particular example is a pentagonal prism because its base is a pentagon. Prisms are named by the shape of
+
+their base. Prisms are classified as either right prisms (prisms where all the lateral faces are perpendicular to the
+
+bases) or oblique prisms (prisms that lean to one side, whose base is a parallelogram rather than a rectangle, and
+
+whose height is perpendicular to the base's plane), as shown below.
+
+617
+
+11.3. Prisms www.ck12.org
+
+Surface Area
+
+To find the surface area of a prism, find the sum of the areas of its faces. The lateral area is the sum of the areas of
+
+the lateral faces. The basic unit of area is the square unit.
+
+Sur f ace Area = B1 +B2 +L1 +L2 +L3
+
+Lateral Area = L1 +L2 +L3
+
+Volume
+
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+
+cubic unit.
+
+For prisms in particular, to find the volume you must find the area of the base and multiply it by the height.
+
+Volume of a Prism: V = B ·h, where B =area of base.
+
+If an oblique prism and a right prism have the same base area and height, then they will have the same volume. This
+
+is due to Cavalieri's Principle, which states that if two solids have the same height and the same cross-sectional
+
+area at every level, then they will have the same volume.
+
+Example A
+
+Find the surface area of the prism below.
+
+618
+11.3. Prisms www.ck12.org
+Surface Area
+To find the surface area of a prism, find the sum of the areas of its faces. The lateral area is the sum of the areas of
+the lateral faces. The basic unit of area is the square unit.
+Sur f ace Area = B1 +B2 +L1 +L2 +L3
+Lateral Area = L1 +L2 +L3
+Volume
+To find the volume of any solid you must figure out how much space it occupies. The basic unit of volume is the
+cubic unit.
+For prisms in particular, to find the volume you must find the area of the base and multiply it by the height.
+Volume of a Prism: V = B ·h, where B =area of base.
+If an oblique prism and a right prism have the same base area and height, then they will have the same volume. This
+is due to Cavalieri's Principle, which states that if two solids have the same height and the same cross-sectional
+area at every level, then they will have the same volume.
+Example A
+Find the surface area of the prism below.
+618
+www.ck12.org Chapter 11. Surface Area and Volume
+To solve, draw the net of the prism so that we can make sure we find the area of ALL faces.
+Using the net, we have:
+SAprism = 2(4)(10)+2(10)(17)+2(17)(4)
+= 80+340+136
+= 556 cm2
+Example B
+Find the surface area of the prism below.
+This is a right triangular prism. To find the surface area, we need to find the length of the hypotenuse of the base
+because it is the width of one of the lateral faces. We can use the Pythagorean Theorem to find this length.
+619
+11.3. Prisms www.ck12.org
+72 +242 = c2
+49+576 = c2
+625 = c2 c = 25
+Looking at the net, the surface area is:
+( )
+1
+SA = 28(7)+28(24)+28(25)+2 ·7 ·24
+2
+SA = 196+672+700+168 = 1736 units2
+Example C
+You have a small, triangular prism-shaped tent. How much volume does it have once it is set up?
+First, we need to find the area of the base.
+1
+B = (3)(4) = 6 f t2.
+2
+V = Bh = 6(7) = 42 f t3
+Even though the height in this problem does not look like a "height," it is because it is the perpendicular segment
+connecting the two bases.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136766
+Prisms CK-12
+->
+620
+www.ck12.org Chapter 11. Surface Area and Volume
+Guided Practice
+1. The total surface area of the triangular prism is 540 units2. What is x?
+2. Find the volume of the right rectangular prism below.
+3. A typical shoe box is 8 in by 14 in by 6 in. What is the volume of the box?
+Answers:
+1. The total surface area is equal to:
+A√2 triangles +A3 rectangles = 540
+The hypotenuse of the triangle bases is 13, 52 +122. Let's fill in what we know.
+( )
+1
+A2 triangles = 2 ·5 ·12 = 602
+A3 rectangles = 5x+12x+13x = 30x
+60+30x = 540
+30x = 480
+x = 16 units The height is 16 units.
+621
+11.3. Prisms www.ck12.org
+2. The area of the base is (5)(4) = 20 and the height is 3. So the total volume is (20)(3) = 60 units3
+3. We can assume that a shoe box is a rectangular prism.
+V = (8)(14)(6) = 672 in3
+Interactive Practice
+Explore More
+1. What type of prism is this?
+2. Draw the net of this prism.
+3. Find the area of the bases.
+4. Find the area of lateral faces, or the lateral surface area.
+5. Find the total surface area of the prism.
+6. How many one-inch cubes can fit into a box that is 8 inches wide, 10 inches long, and 12 inches tall? Is this
+the same as the volume of the box?
+7. A cereal box in 2 inches wide, 10 inches long and 14 inches tall. How much cereal does the box hold?
+8. A can of soda is 4 inches tall and has a diameter of 2 inches. How much soda does the can hold? Round your
+answer to the nearest hundredth.
+9. A cube holds 216 in3. What is the length of each edge?
+10. A cube has sides that are 8 inches. What is the volume?
+Use the right triangular prism to answer questions 11-15.
+11. Find the volume of the prism.
+12. What shape are the bases of this prism? What are their areas?
+13. What are the dimensions of each of the lateral faces? What are their areas?
+14. Find the lateral surface area of the prism.
+15. Find the total surface area of the prism.
+16. Describe the difference between lateral surface area and total surface area.
+17. Fuzzy dice are cubes with 4 inch sides.
+622
+www.ck12.org Chapter 11. Surface Area and Volume
+a. What is the volume and surface area of one die?
+b. What is the volume and surface area of both dice?
+Find the volume of the following solids. Round your answers to the nearest hundredth.
+18. bases are isosceles trapezoids
+19.
+20.
+21.
+Find the value of x, given the surface area.
+22. V = 504 units3
+623
+11.3. Prisms www.ck12.org
+23. V = 2688 units3
+624
+11.3. Prisms www.ck12.org
+
+23. V = 2688 units3
+
+624
+
+www.ck12.org Chapter 11. Surface Area and Volume
+

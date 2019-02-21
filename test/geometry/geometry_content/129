@@ -1,0 +1,201 @@
+12.6. Composition of Transformations www.ck12.org
+
+12.6 Composition of Transformations
+
+Here you'll learn how to perform a composition of transformations. You'll also learn several theorems related to
+
+composing transformations.
+
+What if you were given the coordinates of a quadrilateral and you were asked to reflect the quadrilateral and then
+
+translate it? What would its new coordinates be? After completing this Concept, you'll be able to perform a series
+
+of transformations on a figure like this one in the coordinate plane.
+
+Watch This
+
+MEDIA
+
+Click image to the left or use the URL below.
+
+URL: http://www.ck12.org/flx/render/embeddedobject/136603
+
+Composing Transformations CK-12
+
+Guidance
+
+Transformations Summary
+
+A transformation is an operation that moves, flips, or otherwise changes a figure to create a new figure. A rigid
+
+transformation (also known as an isometry or congruence transformation) is a transformation that does not
+
+change the size or shape of a figure. The new figure created by a transformation is called the image. The original
+
+figure is called the preimage.
+
+There are three rigid transformations: translations, rotations and reflections. A translation is a transformation that
+
+moves every point in a figure the same distance in the same direction. A rotation is a transformation where a figure
+
+is turned around a fixed point to create an image. A reflection is a transformation that turns a figure into its mirror
+
+image by flipping it over a line.
+
+Composition of Transformations
+
+A composition (of transformations) is when more than one transformation is performed on a figure. Compositions
+
+can always be written as one rule. You can compose any transformations, but here are some of the most common
+
+compositions:
+
+1) A glide reflection is a composition of a reflection and a translation. The translation is in a direction parallel to the
+
+line of reflection.
+
+704
+
+www.ck12.org Chapter 12. Rigid Transformations
+
+2) The composition of two reflections over parallel lines that are h units apart is the same as a translation of 2h units
+
+( Reflections over Parallel Lines Theorem).
+
+3) If you compose two reflections over each axis, then the final image is a rotation of 180◦ around the origin of the
+
+original ( Reflection over the Axes Theorem).
+
+4) A composition of two reflections over lines that intersect at x◦ is the same as a rotation of 2x◦. The center of
+
+rotation is the point of intersection of the two lines of reflection ( Reflection over Intersecting Lines Theorem).
+
+Example A
+
+Reflect4ABC over the y−axis and then translate the image 8 units down.
+
+705
+www.ck12.org Chapter 12. Rigid Transformations
+2) The composition of two reflections over parallel lines that are h units apart is the same as a translation of 2h units
+( Reflections over Parallel Lines Theorem).
+3) If you compose two reflections over each axis, then the final image is a rotation of 180◦ around the origin of the
+original ( Reflection over the Axes Theorem).
+4) A composition of two reflections over lines that intersect at x◦ is the same as a rotation of 2x◦. The center of
+rotation is the point of intersection of the two lines of reflection ( Reflection over Intersecting Lines Theorem).
+Example A
+Reflect4ABC over the y−axis and then translate the image 8 units down.
+705
+12.6. Composition of Transformations www.ck12.org
+The green image to the right is the final answer.
+A(8,8)→ A′′(−8,0)
+B(2,4)→ B′′(−2,−4)
+C(10,2)→C′′(−10,−6)
+Example B
+Write a single rule for4ABC to4A′′B′′C′′ from Example A.
+Looking at the coordinates of A to A′′, the x−value is the opposite sign and the y−value is y−8. Therefore the rule
+would be (x,y)→ (−x,y−8).
+Example C
+Reflect4ABC over y = 3 and then reflect the image over y =−5.
+706
+www.ck12.org Chapter 12. Rigid Transformations
+Order matters, so you would reflect over y = 3 first, (red triangle) then reflect it over y =−5 (green triangle).
+Example D
+A square is reflected over two lines that intersect at a 79◦ angle. What one transformation will this be the same as?
+From the Reflection over Intersecting Lines Theorem, this is the same as a rotation of 2 ·79◦ = 178◦.
+MEDIA
+Click image to the left or use the URL below.
+URL: http://www.ck12.org/flx/render/embeddedobject/136604
+Composing Transformations CK-12
+->
+707
+12.6. Composition of Transformations www.ck12.org
+Guided Practice
+1. Write a single rule for4ABC to4A′′B′′C′′ from Example C.
+2. 4DEF has vertices D(3,−1),E(8,−3), and F(6,4). Reflect 4DEF over x = −5 and then x = 1. Determine
+which one translation this double reflection would be the same as.
+3. Reflect4DEF from Question 2 over the x−axis, followed by the y−axis. Find the coordinates of4D′′E ′′F ′′ and
+the one transformation this double reflection is the same as.
+4. Copy the figure below and reflect the triangle over l, followed by m.
+Answers:
+1. In the graph, the two lines are 8 units apart (3− (−5) = 8). The figures are 16 units apart. The double reflection
+is the same as a translation that is double the distance between the parallel lines. (x,y)→ (x,y−16).
+2. From the Reflections over Parallel Lines Theorem, we know that this double reflection is going to be the same as
+a single translation of 2(1− (−5)) or 12 units.
+708
+www.ck12.org Chapter 12. Rigid Transformations
+3. 4D′′E ′′F ′′ is the green triangle in the graph to the left. If we compare the coordinates of it to4DEF , we have:
+D(3,−1)→ D′′(−3,1)
+E(8,−3)→ E ′′(−8,3)
+F(6,4)→ F ′′(−6,−4)
+4. The easiest way to reflect the triangle is to fold your paper on each line of reflection and draw the image. The
+final result should look like this (the green triangle is the final answer):
+709
+12.6. Composition of Transformations www.ck12.org
+Explore More
+1. Explain why the composition of two or more isometries must also be an isometry.
+2. What one transformation is the same as a reflection over two parallel lines?
+3. What one transformation is the same as a reflection over two intersecting lines?
+Use the graph of the square to the left to answer questions 4-6.
+4. Perform a glide reflection over the x−axis and to the right 6 units. Write the new coordinates.
+5. What is the rule for this glide reflection?
+6. What glide reflection would move the image back to the preimage?
+Use the graph of the square to the left to answer questions 7-9.
+7. Perform a glide reflection to the right 6 units, then over the x−axis. Write the new coordinates.
+8. What is the rule for this glide reflection?
+9. Is the rule in #8 different than the rule in #5? Why or why not?
+Use the graph of the triangle to the left to answer questions 10-12.
+710
+www.ck12.org Chapter 12. Rigid Transformations
+10. Perform a glide reflection over the y−axis and down 5 units. Write the new coordinates.
+11. What is the rule for this glide reflection?
+12. What glide reflection would move the image back to the preimage?
+Use the graph of the triangle to the left to answer questions 13-15.
+13. Reflect the preimage over y =−1 followed by y =−7. Draw the new triangle.
+14. What one transformation is this double reflection the same as?
+15. Write the rule.
+Use the graph of the triangle to the left to answer questions 16-18.
+711
+12.6. Composition of Transformations www.ck12.org
+16. Reflect the preimage over y =−7 followed by y =−1. Draw the new triangle.
+17. What one transformation is this double reflection the same as?
+18. Write the rule.
+19. How do the final triangles in #13 and #16 differ?
+Use the trapezoid in the graph to the left to answer questions 20-22.
+20. Reflect the preimage over the x−axis then the y−axis. Draw the new trapezoid.
+21. Now, start over. Reflect the trapezoid over the y−axis then the x−axis. Draw this trapezoid.
+22. Are the final trapezoids from #20 and #21 different? Why do you think that is?
+Answer the questions below. Be as specific as you can.
+23. Two parallel lines are 7 units apart. If you reflect a figure over both how far apart with the preimage and final
+image be?
+24. After a double reflection over parallel lines, a preimage and its image are 28 units apart. How far apart are the
+parallel lines?
+25. Two lines intersect at a 165◦ angle. If a figure is reflected over both lines, how far apart will the preimage and
+image be?
+26. What is the center of rotation for #25?
+27. Two lines intersect at an 83◦ angle. If a figure is reflected over both lines, how far apart will the preimage and
+image be?
+712
+www.ck12.org Chapter 12. Rigid Transformations
+28. A preimage and its image are 244◦ apart. If the preimage was reflected over two intersecting lines, at what
+angle did they intersect?
+29. A preimage and its image are 98◦ apart. If the preimage was reflected over two intersecting lines, at what
+angle did they intersect?
+30. After a double reflection over parallel lines, a preimage and its image are 62 units apart. How far apart are the
+parallel lines?
+713
+www.ck12.org Chapter 12. Rigid Transformations
+
+28. A preimage and its image are 244◦ apart. If the preimage was reflected over two intersecting lines, at what
+
+angle did they intersect?
+
+29. A preimage and its image are 98◦ apart. If the preimage was reflected over two intersecting lines, at what
+
+angle did they intersect?
+
+30. After a double reflection over parallel lines, a preimage and its image are 62 units apart. How far apart are the
+
+parallel lines?
+
+713
+

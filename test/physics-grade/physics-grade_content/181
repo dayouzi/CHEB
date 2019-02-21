@@ -1,0 +1,363 @@
+11.7.2 Algebraic Addition and Subtraction of Vectors
+
+Vectors in a Straight Line
+
+Whenever you are faced with adding vectors acting in a straight line (i.e. some directed left and
+
+some right, or some acting up and others down) you can use a very simple algebraic technique:
+
+Method: Addition/Subtraction of Vectors in a Straight Line
+
+1. Choose a positive direction. As an example, for situations involving displacements in the
+
+directions west and east, you might choose west as your positive direction. In that case,
+
+displacements east are negative.
+
+2. Next simply add (or subtract) the vectors using the appropriate signs.
+
+3. As a final step the direction of the resultant should be included in words (positive answers
+
+are in the positive direction, while negative resultants are in the negative direction).
+
+223
+
+11.7 CHAPTER 11. VECTORS
+
+Let us consider a few examples.
+
+Worked Example 53: Adding vectors algebraically I
+
+Question: A tennis ball is rolled towards a wall which is 10 m away from the wall.
+
+If after striking the wall the ball rolls a further 2,5 m along the ground away from
+
+the wall, calculate algebraically the ball's resultant displacement.
+
+Answer
+
+Step 1 : Draw a rough sketch of the situation
+
+10 m
+
+2,5 m
+
+Wall
+
+Start
+
+Step 2 : Decide which method to use to calculate the resultant
+
+We know that the resultant displacement of the ball (~xR) is equal to the sum of the
+
+ball's separate displacements (~x1 and ~x2):
+
+~xR = ~x1 + ~x2
+
+Since the motion of the ball is in a straight line (i.e. the ball moves towards and
+
+away from the wall), we can use the method of algebraic addition just explained.
+
+Step 3 : Choose a positive direction
+
+Let's make towards the wall the positive direction. This means that away from the
+
+wall becomes the negative direction.
+
+Step 4 : Now define our vectors algebraically
+
+With right positive:
+
+~x1 = +10,0m
+
+~x2 = −2,5m
+
+Step 5 : Add the vectors
+
+Next we simply add the two displacements to give the resultant:
+
+~xR = (+10m) + (−2,5m)
+
+= (+7,5)m
+
+Step 6 : Quote the resultant
+
+Finally, in this case towards the wall means positive so: ~xR = 7,5 m towards the
+
+wall.
+
+Worked Example 54: Subtracting vectors algebraically I
+
+Question: Suppose that a tennis ball is thrown horizontally towards a wall at an
+
+initial velocity of 3 m·s−1to the right. After striking the wall, the ball returns to the
+
+thrower at 2 m·s−1. Determine the change in velocity of the ball.
+
+Answer
+
+Step 1 : Draw a sketch
+
+A quick sketch will help us understand the problem.
+
+224
+11.7 CHAPTER 11. VECTORS
+Let us consider a few examples.
+Worked Example 53: Adding vectors algebraically I
+Question: A tennis ball is rolled towards a wall which is 10 m away from the wall.
+If after striking the wall the ball rolls a further 2,5 m along the ground away from
+the wall, calculate algebraically the ball's resultant displacement.
+Answer
+Step 1 : Draw a rough sketch of the situation
+10 m
+2,5 m
+Wall
+Start
+Step 2 : Decide which method to use to calculate the resultant
+We know that the resultant displacement of the ball (~xR) is equal to the sum of the
+ball's separate displacements (~x1 and ~x2):
+~xR = ~x1 + ~x2
+Since the motion of the ball is in a straight line (i.e. the ball moves towards and
+away from the wall), we can use the method of algebraic addition just explained.
+Step 3 : Choose a positive direction
+Let's make towards the wall the positive direction. This means that away from the
+wall becomes the negative direction.
+Step 4 : Now define our vectors algebraically
+With right positive:
+~x1 = +10,0m
+~x2 = −2,5m
+Step 5 : Add the vectors
+Next we simply add the two displacements to give the resultant:
+~xR = (+10m) + (−2,5m)
+= (+7,5)m
+Step 6 : Quote the resultant
+Finally, in this case towards the wall means positive so: ~xR = 7,5 m towards the
+wall.
+Worked Example 54: Subtracting vectors algebraically I
+Question: Suppose that a tennis ball is thrown horizontally towards a wall at an
+initial velocity of 3 m·s−1to the right. After striking the wall, the ball returns to the
+thrower at 2 m·s−1. Determine the change in velocity of the ball.
+Answer
+Step 1 : Draw a sketch
+A quick sketch will help us understand the problem.
+224
+CHAPTER 11. VECTORS 11.7
+3 m·s−1
+2 m·s−1
+Wall
+Start
+Step 2 : Decide which method to use to calculate the resultant
+Remember that velocity is a vector. The change in the velocity of the ball is equal
+to the difference between the ball's initial and final velocities:
+∆~v = ~vf − ~vi
+Since the ball moves along a straight line (i.e. left and right), we can use the
+algebraic technique of vector subtraction just discussed.
+Step 3 : Choose a positive direction
+Choose towards the wall as the positive direction. This means that away from the
+wall becomes the negative direction.
+Step 4 : Now define our vectors algebraically
+~vi = +3m · s−1
+~vf = −2m · s−1
+Step 5 : Subtract the vectors
+Thus, the change in velocity of the ball is:
+∆~v = (−2m · s−1)− (+3m · s−1)
+= (−5)m · s−1
+Step 6 : Quote the resultant
+Remember that in this case towards the wall means positive so: ∆~v = 5m · s−1 to
+the away from the wall.
+Exercise: Resultant Vectors
+1. Harold walks to school by walking 600 m Northeast and then 500 m N 40◦ W.
+Determine his resultant displacement by using accurate scale drawings.
+2. A dove flies from her nest, looking for food for her chick. She flies at a velocity
+of 2 m·s−1on a bearing of 135◦ and then at a velocity of 1,2 m·s−1on a bearing
+of 230◦. Calculate her resultant velocity by using accurate scale drawings.
+3. A squash ball is dropped to the floor with an initial velocity of 2,5 m·s−1. I
+rebounds (comes back up) with a velocity of 0,5 m·s−1.
+3.1 What is the change in velocity of the squash ball?
+3.2 What is the resultant velocity of the squash ball?
+Remember that the technique of addition and subtraction just discussed can only be applied to
+vectors acting along a straight line. When vectors are not in a straight line, i.e. at an angle to
+each other, the following method can be used:
+225
+11.7 CHAPTER 11. VECTORS
+A More General Algebraic technique
+Simple geometric and trigonometric techniques can be used to find resultant vectors.
+Worked Example 55: An Algebraic Solution I
+Question: A man walks 40 m East, then 30 m North. Calculate the man's resultant
+displacement.
+Answer
+Step 1 : Draw a rough sketch
+As before, the rough sketch looks as follows:
+res
+ult
+an
+t
+30 m
+N
+W E
+α
+S
+40 m
+Step 2 : Determine the length of the resultant
+Note that the triangle formed by his separate displacement vectors and his resultant
+displacement vector is a right-angle triangle. We can thus use the Theorem of
+Pythagoras to determine the length of the resultant. Let x represent the length of
+the resultant vector. Then:
+x2R = (40m)
+2 + (30m)2
+x2R = 2 500m
+2
+xR = 50m
+Step 3 : Determine the direction of the resultant
+Now we have the length of the resultant displacement vector but not yet its di-
+rection. To determine its direction we calculate the angle α between the resultant
+displacement vector and East, by using simple trigonometry:
+oppositeside
+tanα =
+adjacentside
+30
+tanα =
+40
+α = tan−1(0,75)
+α = 36,9◦
+Step 4 : Quote the resultant
+The resultant displacement is then 50 m at 36,9◦ North of East.
+This is exactly the same answer we arrived at after drawing a scale diagram!
+In the previous example we were able to use simple trigonometry to calculate the resultant
+displacement. This was possible since the directions of motion were perpendicular (north and
+east). Algebraic techniques, however, are not limited to cases where the vectors to be combined
+are along the same straight line or at right angles to one another. The following example
+illustrates this.
+226
+CHAPTER 11. VECTORS 11.7
+Worked Example 56: An Algebraic Solution II
+Question: A man walks from point A to point B which is 12 km away on a bearing
+of 45◦. From point B the man walks a further 8 km east to point C. Calculate the
+resultant displacement.
+Answer
+Step 1 : Draw a rough sketch of the situation
+B 8 km C
+45o
+F
+km
+12
+θ
+o G45
+A
+BAˆF = 45◦ since the man walks initially on a bearing of 45◦. Then, ABˆG =
+BAˆF = 45◦ (parallel lines, alternate angles). Both of these angles are included in
+the rough sketch.
+Step 2 : Calculate the length of the resultant
+The resultant is the vector AC. Since we know both the lengths of AB and BC and
+the included angle ABˆC, we can use the cosine rule:
+AC2 = AB2 +BC2 − 2 ·AB · BC cos(ABˆC)
+= (12)2 + (8)2 − 2 · (12)(8) cos(135◦)
+= 343,8
+AC = 18,5 km
+Step 3 : Determine the direction of the resultant
+Next we use the sine rule to determine the angle θ:
+sin θ sin 135◦
+=
+8 18,5
+8× sin 135◦
+sin θ =
+18,5
+θ = sin−1(0,3058)
+θ = 17,8◦
+To find FAˆC, we add 45◦. Thus, FAˆC = 62,8◦.
+Step 4 : Quote the resultant
+The resultant displacement is therefore 18,5 km on a bearing of 062,8◦.
+Exercise: More Resultant Vectors
+1. Hector, a long distance athlete, runs at a velocity of 3 m·s−1in a northerly
+direction. He turns and runs at a velocity of 5 m·s−1in a westerly direction.
+Find his resultant velocity by using appropriate calculations. Include a rough
+sketch of the situation in your answer.
+227
+CHAPTER 11. VECTORS 11.7
+
+Worked Example 56: An Algebraic Solution II
+
+Question: A man walks from point A to point B which is 12 km away on a bearing
+
+of 45◦. From point B the man walks a further 8 km east to point C. Calculate the
+
+resultant displacement.
+
+Answer
+
+Step 1 : Draw a rough sketch of the situation
+
+B 8 km C
+
+45o
+
+F
+
+km
+
+12
+
+θ
+
+o G45
+
+A
+
+BAˆF = 45◦ since the man walks initially on a bearing of 45◦. Then, ABˆG =
+
+BAˆF = 45◦ (parallel lines, alternate angles). Both of these angles are included in
+
+the rough sketch.
+
+Step 2 : Calculate the length of the resultant
+
+The resultant is the vector AC. Since we know both the lengths of AB and BC and
+
+the included angle ABˆC, we can use the cosine rule:
+
+AC2 = AB2 +BC2 − 2 ·AB · BC cos(ABˆC)
+
+= (12)2 + (8)2 − 2 · (12)(8) cos(135◦)
+
+= 343,8
+
+AC = 18,5 km
+
+Step 3 : Determine the direction of the resultant
+
+Next we use the sine rule to determine the angle θ:
+
+sin θ sin 135◦
+
+=
+
+8 18,5
+
+8× sin 135◦
+
+sin θ =
+
+18,5
+
+θ = sin−1(0,3058)
+
+θ = 17,8◦
+
+To find FAˆC, we add 45◦. Thus, FAˆC = 62,8◦.
+
+Step 4 : Quote the resultant
+
+The resultant displacement is therefore 18,5 km on a bearing of 062,8◦.
+
+Exercise: More Resultant Vectors
+
+1. Hector, a long distance athlete, runs at a velocity of 3 m·s−1in a northerly
+
+direction. He turns and runs at a velocity of 5 m·s−1in a westerly direction.
+
+Find his resultant velocity by using appropriate calculations. Include a rough
+
+sketch of the situation in your answer.
+
+227
+

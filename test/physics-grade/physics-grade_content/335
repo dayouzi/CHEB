@@ -1,0 +1,88 @@
+20.3.1 Surplus
+
+A surplus of electrons is created by adding an element that has more valence electrons than Si
+
+to the Si crystal. This is known as n-type doping and elements used for n-type doping usually
+
+come from Group V in the periodic table. Elements from Group V have 5 valence electrons,
+
+one more than the Group IV elements.
+
+A common n-type dopant (substance used for doping) is arsenic (As). The combination of a
+
+semiconductor and an n-type dopant is known as an n-type semiconductor. A Si crystal doped
+
+with As is shown in Figure 20.2. When As is added to a Si crystal, the 4 of the 5 valence
+
+electrons in As bond with the 4 Si valence electrons. The fifth As valence electron is free to
+
+move around.
+
+It takes only a few As atoms to create enough free electrons to allow an electric current to flow
+
+through the silicon. Since n-type dopants ‘donate' their free atoms to the semiconductor, they
+
+are known as donor atoms.
+
+b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b
+
+b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b b b b b b
+
+b extra electron
+
+b b b b b
+
+Si b Si bASsi b Si b Si b
+
+b b b b b
+
+b b b b b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b
+
+b b b b b
+
+Si b Si b Si b Si b Si b
+
+b b b b b
+
+Figure 20.2: Si crystal doped with As. For each As atom present in the Si crystal, there is one
+
+extra electron. This combination of Si and As is known as an n-type semiconductor, because of
+
+its overall surplus of electrons.
+

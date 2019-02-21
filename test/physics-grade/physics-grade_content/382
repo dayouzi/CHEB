@@ -1,0 +1,430 @@
+23.3.2 Capacity to do Work
+
+Energy is the capacity to do work. When positive work is done on an object, the system doing
+
+the work loses energy. In fact, the energy lost by a system is exactly equal to the work
+
+done by the system. An object with larger potential energy has a greater capacity to do work.
+
+Worked Example 152: Work Done on a System
+
+Question: Show that a hammer of mass 2 kg does more work when dropped from
+
+a height of 10 m than when dropped from a height of 5 m. Confirm that the
+
+hammer has a greater potential energy at 10 m than at 5 m.
+
+Answer
+
+Step 5 : Determine what is given and what is required
+
+We are given:
+
+• the mass of the hammer, m =2 kg
+
+• height 1, h1=10 m
+
+• height 2, h2=5 m
+
+We are required to show that the hammer does more work when dropped from h1
+
+than from h2. We are also required to confirm that the hammer has a greater
+
+potential energy at 10 m than at 5 m.
+
+Step 6 : Determine how to approach the problem
+
+1. Calculate the work done by the hammer, W1, when dropped from h1 using:
+
+W1 = Fg · h1.
+
+2. Calculate the work done by the hammer, W2, when dropped from h2 using:
+
+W2 = Fg · h2.
+
+3. Compare W1 and W2
+
+4. Calculate potential energy at h1 and h2 and compare using:
+
+PE = m · g · h. (23.2)
+
+Step 7 : Calculate W1
+
+W1 = Fg · h1
+
+= m · g · h1
+
+= (2 kg)(9.8m · s−2)(10m)
+
+= 196 J
+
+Step 8 : Calculate W2
+
+W2 = Fg · h2
+
+= m · g · h2
+
+= (2 kg)(9.8m · s−2)(5m)
+
+= 98 J
+
+520
+
+CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12 23.3
+
+Step 9 : Compare W1 and W2
+
+We have W1=196 J and W2=98 J. W1 > W2 as required.
+
+Step 10 : Calculate potential energy
+
+From 23.2, we see that:
+
+PE = m · g · h
+
+= Fg · h
+
+= W
+
+This means that the potential energy is equal to the work done. Therefore,
+
+PE1 > PE2, because W1 > W2.
+
+This leads us to the work-energy theorem.
+
+Definition: Work-Energy Theorem
+
+The work-energy theorem states that the work done on an object is equal to the change in
+
+its kinetic energy:
+
+W = ∆KE = KEf −KEi
+
+The work-energy theorem is another example of the conservation of energy which you saw in
+
+Grade 10.
+
+Worked Example 153: Work-Energy Theorem
+
+Question: A ball of mass 1 kg is dropped from a height of 10 m. Calculate the
+
+work done on the ball at the point it hits the ground assuming that there is no air
+
+resistance?
+
+Answer
+
+Step 1 : Determine what is given and what is required
+
+We are given:
+
+• mass of the ball: m=1 kg
+
+• initial height of the ball: hi=10 m
+
+• final height of the ball: hf=0 m
+
+We are required to determine the work done on the ball as it hits the ground.
+
+Step 2 : Determine how to approach the problem
+
+The ball is falling freely, so energy is conserved. We know that the work done is
+
+equal to the difference in kinetic energy. The ball has no kinetic energy at the
+
+moment it is dropped, because it is stationary. When the ball hits the ground, all
+
+the ball's potential energy is converted to kinetic energy.
+
+Step 3 : Determine the ball's potential energy at hi
+
+PE = m · g · h
+
+= (1 kg)(9,8m · s−2)(10m)
+
+= 98 J
+
+Step 4 : Determine the work done on the ball
+
+The ball had 98 J of potential energy when it was released and 0 J of kinetic
+
+energy. When the ball hit the ground, it had 0 J of potential energy and 98 J of
+
+kinetic energy. Therefore KEi=0 J and KEf=98 J.
+
+521
+CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12 23.3
+Step 9 : Compare W1 and W2
+We have W1=196 J and W2=98 J. W1 > W2 as required.
+Step 10 : Calculate potential energy
+From 23.2, we see that:
+PE = m · g · h
+= Fg · h
+= W
+This means that the potential energy is equal to the work done. Therefore,
+PE1 > PE2, because W1 > W2.
+This leads us to the work-energy theorem.
+Definition: Work-Energy Theorem
+The work-energy theorem states that the work done on an object is equal to the change in
+its kinetic energy:
+W = ∆KE = KEf −KEi
+The work-energy theorem is another example of the conservation of energy which you saw in
+Grade 10.
+Worked Example 153: Work-Energy Theorem
+Question: A ball of mass 1 kg is dropped from a height of 10 m. Calculate the
+work done on the ball at the point it hits the ground assuming that there is no air
+resistance?
+Answer
+Step 1 : Determine what is given and what is required
+We are given:
+• mass of the ball: m=1 kg
+• initial height of the ball: hi=10 m
+• final height of the ball: hf=0 m
+We are required to determine the work done on the ball as it hits the ground.
+Step 2 : Determine how to approach the problem
+The ball is falling freely, so energy is conserved. We know that the work done is
+equal to the difference in kinetic energy. The ball has no kinetic energy at the
+moment it is dropped, because it is stationary. When the ball hits the ground, all
+the ball's potential energy is converted to kinetic energy.
+Step 3 : Determine the ball's potential energy at hi
+PE = m · g · h
+= (1 kg)(9,8m · s−2)(10m)
+= 98 J
+Step 4 : Determine the work done on the ball
+The ball had 98 J of potential energy when it was released and 0 J of kinetic
+energy. When the ball hit the ground, it had 0 J of potential energy and 98 J of
+kinetic energy. Therefore KEi=0 J and KEf=98 J.
+521
+23.3 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+From the work-energy theorem:
+W = ∆KE
+= KEf −KEi
+= 98 J− 0 J
+= 98 J
+Step 5 : Write the final answer
+98 J of work was done on the ball.
+Worked Example 154: Work-Energy Theorem 2
+Question: The driver of a 1 000 kg car traveling at a speed of 16,7 m·s−1 applies
+the car's brakes when he sees a red robot. The car's brakes provide a frictional
+force of 8000 N. Determine the stopping distance of the car.
+Answer
+Step 1 : Determine what is given and what is required
+We are given:
+• mass of the car: m=1 000 kg
+• speed of the car: v=16,7 m·s−1
+• frictional force of brakes: F=8 000 N
+We are required to determine the stopping distance of the car.
+Step 2 : Determine how to approach the problem
+We apply the work-energy theorem. We know that all the car's kinetic energy is
+lost to friction. Therefore, the change in the car's kinetic energy is equal to the
+work done by the frictional force of the car's brakes.
+Therefore, we first need to determine the car's kinetic energy at the moment of
+braking using:
+1
+KE = mv2
+2
+This energy is equal to the work done by the brakes. We have the force applied by
+the brakes, and we can use:
+W = F · d
+to determine the stopping distance.
+Step 3 : Determine the kinetic energy of the car
+1
+KE = mv2
+2
+1
+= (1 000 kg)(16,7m · s−1)2
+2
+= 139 445 J
+Step 4 : Determine the work done
+Assume the stopping distance is d0. Then the work done is:
+W = F · d
+= (−8 000N)(d0)
+The force has a negative sign because it acts in a direction opposite to the
+direction of motion.
+Step 5 : Apply the work-enemy theorem
+The change in kinetic energy is equal to the work done.
+522
+CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12 23.3
+∆KE = W
+KEf −KEi = (−8 000N)(d0)
+0 J− 139 445 J = (−8 000N)(d0)
+139 445 J
+∴ d0 =
+8 000N
+= 17,4m
+Step 6 : Write the final answer
+The car stops in 17,4 m.
+Important: A force only does work on an object for the time that it is in contact with the
+object. For example, a person pushing a trolley does work on the trolley, but the road does
+no work on the tyres of a car if they turn without slipping (the force is not applied over any
+distance because a different piece of tyre touches the road every instant.
+Energy is
+conserved!
+Important: Energy Conservation
+In the absence of friction, the work done on an object by a system is equal to the energy
+gained by the object.
+Work Done = Energy Transferred
+In the presence of friction, only some of the energy lost by the system is transferred to useful
+energy. The rest is lost to friction.
+Total Work Done = Useful Work Done + Work Done Against Friction
+In the example of a falling mass the potential energy is known as gravitational potential energy
+as it is the gravitational force exerted by the earth which causes the mass to accelerate towards
+the ground. The gravitational field of the earth is what does the work in this case.
+Another example is a rubber-band. In order to stretch a rubber-band we have to do work on it.
+This means we transfer energy to the rubber-band and it gains potential energy. This potential
+energy is called elastic potential energy. Once released, the rubber-band begins to move and
+elastic potential energy is transferred into kinetic energy.
+Extension: Other forms of Potential Energy
+1. elastic potential energy - potential energy is stored in a compressed or
+extended spring or rubber band. This potential energy is calculated by:
+1
+kx2
+2
+where k is a constant that is a measure of the stiffness of the spring or rubber
+band and x is the extension of the spring or rubber band.
+2. Chemical potential energy is related to the making and breaking of chemical
+bonds. For example, a battery converts chemical energy into electrical energy.
+3. The electrical potential energy of an electrically charged object is defined as
+the work that must be done to move it from an infinite distance away to its
+present location, in the absence of any non-electrical forces on the object.
+523
+23.3 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+This energy is non-zero if there is another electrically charged object nearby
+otherwise it is given by:
+q1q2
+k
+d
+where k is Coulomb's constant. For example, an electric motor lifting an
+elevator converts electrical energy into gravitational potential energy.
+4. Nuclear energy is the energy released when the nucleus of an atom is split or
+fused. A nuclear reactor converts nuclear energy into heat.
+Some of these forms of energy will be studied in later chapters.
+Activity :: Investigation : Energy Resources
+Energy can be taken from almost anywhere. Power plants use many different
+types of energy sources, including oil, coal, nuclear, biomass (organic gases), wind,
+solar, geothermal (the heat from the earth's rocks is very hot underground and is
+used to turn water to steam), tidal and hydroelectric (waterfalls). Most power
+stations work by using steam to turn turbines which then drive generators and
+create an electric current.
+Most of these sources are dependant upon the sun's energy, because without it
+we would not have weather for wind and tides. The sun is also responsible for
+growing plants which decompose into fossil fuels like oil and coal. All these sources
+can be put under 2 headings, renewable and non-renewable. Renewable sources are
+sources which will not run out, like solar energy and wind power. Non-renewable
+sources are ones which will run out eventually, like oil and coal.
+It is important that we learn to appreciate conservation in situations like this.
+The planet has a number of linked systems and if we don't appreciate the
+long-term consequences of our actions we run the risk of doing damage now that
+we will only suffer from in many years time.
+Investigate two types of renewable and two types of non-renewable energy
+resources, listing advantages and disadvantages of each type. Write up the results
+as a short report.
+Exercise: Energy
+1. Fill in the table with the missing information using the positions of the ball in
+the diagram below combined with the work-energy theorem.
+A
+B C
+D E
+G 524 F
+23.3 CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12
+
+This energy is non-zero if there is another electrically charged object nearby
+
+otherwise it is given by:
+
+q1q2
+
+k
+
+d
+
+where k is Coulomb's constant. For example, an electric motor lifting an
+
+elevator converts electrical energy into gravitational potential energy.
+
+4. Nuclear energy is the energy released when the nucleus of an atom is split or
+
+fused. A nuclear reactor converts nuclear energy into heat.
+
+Some of these forms of energy will be studied in later chapters.
+
+Activity :: Investigation : Energy Resources
+
+Energy can be taken from almost anywhere. Power plants use many different
+
+types of energy sources, including oil, coal, nuclear, biomass (organic gases), wind,
+
+solar, geothermal (the heat from the earth's rocks is very hot underground and is
+
+used to turn water to steam), tidal and hydroelectric (waterfalls). Most power
+
+stations work by using steam to turn turbines which then drive generators and
+
+create an electric current.
+
+Most of these sources are dependant upon the sun's energy, because without it
+
+we would not have weather for wind and tides. The sun is also responsible for
+
+growing plants which decompose into fossil fuels like oil and coal. All these sources
+
+can be put under 2 headings, renewable and non-renewable. Renewable sources are
+
+sources which will not run out, like solar energy and wind power. Non-renewable
+
+sources are ones which will run out eventually, like oil and coal.
+
+It is important that we learn to appreciate conservation in situations like this.
+
+The planet has a number of linked systems and if we don't appreciate the
+
+long-term consequences of our actions we run the risk of doing damage now that
+
+we will only suffer from in many years time.
+
+Investigate two types of renewable and two types of non-renewable energy
+
+resources, listing advantages and disadvantages of each type. Write up the results
+
+as a short report.
+
+Exercise: Energy
+
+1. Fill in the table with the missing information using the positions of the ball in
+
+the diagram below combined with the work-energy theorem.
+
+A
+
+B C
+
+D E
+
+G 524 F
+
+CHAPTER 23. WORK, ENERGY AND POWER - GRADE 12 23.4
+
+position KE PE v
+
+A 50 J
+
+B 30 J
+
+C
+
+D 10 J
+
+E
+
+F
+
+G
+
+2. A falling ball hits the ground at 10 m·s−1 in a vacuum. Would the speed of
+
+the ball be increased or decreased if air resistance were taken into account.
+
+Discuss using the work-energy theorem.
+
+3. (NOTE TO SELF: Exercises are needed.)
+

@@ -1,0 +1,56 @@
+10
+SYSTEMS OF EQUATIONS AND INEQUALITIES
+10.1 Systems of Linear Equations Throughout the preceding chapters we modeled real-world situations by 
+in Two Variables equations. But many real-world situations involve too many variables to be
+modeled by a single equation. For example, weather depends on the 
+10.2 Systems of Linear Equations 
+relationship among many variables, including temperature, wind speed, air
+in Several Variables pressure, and humidity. So to model (and forecast) the weather, scientists use
+10.3 Matrices and Systems many equations, each having many variables. Such collections of equations,
+of Linear Equations called systems of equations, work together to describe the weather. Systems 
+of equations with hundreds of variables are used by airlines to establish 
+10.4 The Algebra of Matrices
+consistent flight schedules and by telecommunications companies to find 
+10.5 Inverses of Matrices and efficient routings for telephone calls. In this chapter we learn how to solve 
+Matrix Equations systems of equations that consist of several equations in several variables. 
+10.6 Determinants and Cramer's
+Rule
+10.7 Partial Fractions
+10.8 Systems of Nonlinear
+Equations
+10.9 Systems of Inequalities
+FOCUS ON MODELING
+Linear Programming
+629
+      Copyright 2010 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. Due to electronic rights, some third party content may be suppressed from the eBook and/or eChapter(s). 
+AP Photo/Mark Duncan, File
+C H A P T E R
+630 C H A P T E R  1 0 | Systems of Equations and Inequalities
+10
+SYSTEMS OF EQUATIONS AND INEQUALITIES
+10.1 Systems of Linear Equations Throughout the preceding chapters we modeled real-world situations by 
+in Two Variables equations. But many real-world situations involve too many variables to be
+modeled by a single equation. For example, weather depends on the 
+10.2 Systems of Linear Equations 
+relationship among many variables, including temperature, wind speed, air
+in Several Variables pressure, and humidity. So to model (and forecast) the weather, scientists use
+10.3 Matrices and Systems many equations, each having many variables. Such collections of equations,
+of Linear Equations called systems of equations, work together to describe the weather. Systems 
+of equations with hundreds of variables are used by airlines to establish 
+10.4 The Algebra of Matrices
+consistent flight schedules and by telecommunications companies to find 
+10.5 Inverses of Matrices and efficient routings for telephone calls. In this chapter we learn how to solve 
+Matrix Equations systems of equations that consist of several equations in several variables. 
+10.6 Determinants and Cramer's
+Rule
+10.7 Partial Fractions
+10.8 Systems of Nonlinear
+Equations
+10.9 Systems of Inequalities
+FOCUS ON MODELING
+Linear Programming
+629
+Editorial review has deemed that any suppressed content does not materially affect the overall learning experience. Cengage Learning reserves the right to remove additional content at any time if subsequent rights restrictions require it.
+AP Photo/Mark Duncan, File
+C H A P T E R
+630 C H A P T E R  1 0 | Systems of Equations and Inequalities

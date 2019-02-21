@@ -1,0 +1,62 @@
+2.5.3 Scientific Notation
+
+In Science one often needs to work with very large or very small numbers. These can be written
+
+more easily in scientific notation, in the general form
+
+d× 10e
+
+where d is a decimal number between 0 and 10 that is rounded off to a few decimal places. e is
+
+known as the exponent and is an integer. If e > 0 it represents how many times the decimal
+
+place in d should be moved to the right. If e < 0, then it represents how many times the decimal
+
+place in d should be moved to the left. For example 3,24 × 103 represents 3240 (the decimal
+
+moved three places to the right) and 3,24× 10−3 represents 0,00324 (the decimal moved three
+
+places to the left).
+
+If a number must be converted into scientific notation, we need to work out how many times
+
+the number must be multiplied or divided by 10 to make it into a number between 1 and 10
+
+(i.e. the value of e) and what this number between 1 and 10 is (the value of d). We do this by
+
+counting the number of decimal places the decimal comma must move.
+
+For example, write the speed of light in scientific notation, to two decimal places. The speed of
+
+light is 299 792 458 m·s−1. First, find where the decimal comma must go for two decimal places
+
+(to find d) and then count how many places there are after the decimal comma to determine e.
+
+13
+
+2.5 CHAPTER 2. UNITS
+
+In this example, the decimal comma must go after the first 2, but since the number after the 9
+
+is 7, d = 3,00. e = 8 because there are 8 digits left after the decimal comma. So the speed of
+
+light in scientific notation, to two decimal places is 3,00 × 108 m·s−1.
+
+14
+2.5 CHAPTER 2. UNITS
+In this example, the decimal comma must go after the first 2, but since the number after the 9
+is 7, d = 3,00. e = 8 because there are 8 digits left after the decimal comma. So the speed of
+light in scientific notation, to two decimal places is 3,00 × 108 m·s−1.
+14
+2.5 CHAPTER 2. UNITS
+
+In this example, the decimal comma must go after the first 2, but since the number after the 9
+
+is 7, d = 3,00. e = 8 because there are 8 digits left after the decimal comma. So the speed of
+
+light in scientific notation, to two decimal places is 3,00 × 108 m·s−1.
+
+14
+
+CHAPTER 2. UNITS 2.6
+

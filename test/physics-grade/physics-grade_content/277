@@ -1,0 +1,270 @@
+16.4 Resonance
+
+Resonance is the tendency of a system to vibrate at a maximum amplitude at the natural
+
+frequency of the system.
+
+Resonance takes place when a system is made to vibrate at its natural frequency as a result of
+
+vibrations that are received from another source of the same frequency. In the following
+
+investigation you will measure the speed of sound using resonance.
+
+Activity :: Experiment : Using resonance to measure the speed of sound
+
+Aim:
+
+To measure the speed of sound using resonance
+
+Apparatus:
+
+• one measuring cylinder
+
+• a high frequency (512 Hz) tuning fork
+
+• some water
+
+• a ruler or tape measure
+
+Method:
+
+1. Make the tuning fork vibrate by hitting it on the sole of your shoe or
+
+something else that has a rubbery texture. A hard surface is not ideal as you
+
+can more easily damage the tuning fork.
+
+2. Hold the vibrating tuning fork about 1 cm above the cylinder mouth and start
+
+adding water to the cylinder at the same time. Keep doing this until the first
+
+resonance occurs. Pour out or add a little water until you find the level at
+
+which the loudest sound (i.e. the resonance) is made.
+
+3. When the water is at the resonance level, use a ruler or tape measure to
+
+measure the distance (LA) between the top of the cylinder and the water
+
+level.
+
+4. Repeat the steps ?? above, this time adding more water until you find the
+
+next resonance. Remember to hold the tuning fork at the same height of
+
+about 1 cm above the cylinder mouth and adjust the water level to get the
+
+loudest sound.
+
+5. Use a ruler or tape measure to find the new distance (LB) from the top of
+
+the cylinder to the new water level.
+
+Conclusions:
+
+The difference between the two resonance water levels (i.e. L = LA − LB) is half
+
+a wavelength, or the same as the distance between a compression and rarefaction.
+
+Therefore, since you know the wavelength, and you know the frequency of the
+
+tuning fork, it is easy to calculate the speed of sound!
+
+382
+
+CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11 16.4
+
+tuning
+
+f 1 cmork
+
+L2
+
+L1
+
+measuring
+
+cylinder
+
+Interesting fact: Soldiers march out of time on bridges to avoid stimulating the bridge to
+
+vibrate at its natural frequency.
+
+Worked Example 109: Resonance
+
+Question: A 512 Hz tuning fork can produce a resonance in a cavity where the air
+
+column is 18,2 cm long. It can also produce a second resonance when the length of
+
+the air column is 50,1 cm. What is the speed of sound in the cavity?
+
+Answer
+
+Step 1 : Identify what is given and what is asked:
+
+L1 = 18,2 cm
+
+L2 = 50,3 cm
+
+f = 512 Hz
+
+v = ?
+
+Remember that:
+
+v = f × λ
+
+We have values for f and so to calculate v, we need to first find λ. You know that
+
+the difference in the length of the air column between two resonances is half a
+
+wavelength.
+
+Step 2 : Calculate the difference in the length of the air column between
+
+the two resonances:
+
+L2 − L1 = 32,1 cm
+
+Therefore 32,1 cm = 12 × λ
+
+So,
+
+λ = 2× 32,1 cm
+
+= 64,2 cm
+
+= 0,642 m
+
+Step 3 : Now you can substitute into the equation for v to find the speed
+
+of sound:
+
+383
+CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11 16.4
+tuning
+f 1 cmork
+L2
+L1
+measuring
+cylinder
+Interesting fact: Soldiers march out of time on bridges to avoid stimulating the bridge to
+vibrate at its natural frequency.
+Worked Example 109: Resonance
+Question: A 512 Hz tuning fork can produce a resonance in a cavity where the air
+column is 18,2 cm long. It can also produce a second resonance when the length of
+the air column is 50,1 cm. What is the speed of sound in the cavity?
+Answer
+Step 1 : Identify what is given and what is asked:
+L1 = 18,2 cm
+L2 = 50,3 cm
+f = 512 Hz
+v = ?
+Remember that:
+v = f × λ
+We have values for f and so to calculate v, we need to first find λ. You know that
+the difference in the length of the air column between two resonances is half a
+wavelength.
+Step 2 : Calculate the difference in the length of the air column between
+the two resonances:
+L2 − L1 = 32,1 cm
+Therefore 32,1 cm = 12 × λ
+So,
+λ = 2× 32,1 cm
+= 64,2 cm
+= 0,642 m
+Step 3 : Now you can substitute into the equation for v to find the speed
+of sound:
+383
+CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11 16.4
+
+tuning
+
+f 1 cmork
+
+L2
+
+L1
+
+measuring
+
+cylinder
+
+Interesting fact: Soldiers march out of time on bridges to avoid stimulating the bridge to
+
+vibrate at its natural frequency.
+
+Worked Example 109: Resonance
+
+Question: A 512 Hz tuning fork can produce a resonance in a cavity where the air
+
+column is 18,2 cm long. It can also produce a second resonance when the length of
+
+the air column is 50,1 cm. What is the speed of sound in the cavity?
+
+Answer
+
+Step 1 : Identify what is given and what is asked:
+
+L1 = 18,2 cm
+
+L2 = 50,3 cm
+
+f = 512 Hz
+
+v = ?
+
+Remember that:
+
+v = f × λ
+
+We have values for f and so to calculate v, we need to first find λ. You know that
+
+the difference in the length of the air column between two resonances is half a
+
+wavelength.
+
+Step 2 : Calculate the difference in the length of the air column between
+
+the two resonances:
+
+L2 − L1 = 32,1 cm
+
+Therefore 32,1 cm = 12 × λ
+
+So,
+
+λ = 2× 32,1 cm
+
+= 64,2 cm
+
+= 0,642 m
+
+Step 3 : Now you can substitute into the equation for v to find the speed
+
+of sound:
+
+383
+
+16.5 CHAPTER 16. THE PHYSICS OF MUSIC - GRADE 11
+
+v = f × λ
+
+= 512× 0,642
+
+= 328,7 m.s−1
+
+From the investigation you will notice that the column of air will make a sound at a certain
+
+length. This is where resonance takes place.
+
+tuning
+
+fork
+
+node
+
+antinode
+
+node
+
